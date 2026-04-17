@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "The Asterisk War 2",
+	"mappings": {
+		"anilist_id": 21390,
+		"mal_id": 31737
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Divine Revelations",
+			"type": "manga-canon",
+			"aired_date": "2016-04-02"
+		},
+		{
+			"episode": 2,
+			"title": "Corrupt Ruler",
+			"type": "manga-canon",
+			"aired_date": "2016-04-09"
+		},
+		{
+			"episode": 3,
+			"title": "Breaking the Memory Barrier",
+			"type": "manga-canon",
+			"aired_date": "2016-04-16"
+		},
+		{
+			"episode": 4,
+			"title": "Never Back Down",
+			"type": "manga-canon",
+			"aired_date": "2016-04-23"
+		},
+		{
+			"episode": 5,
+			"title": "The Tyrant's Puppet Strings",
+			"type": "manga-canon",
+			"aired_date": "2016-04-30"
+		},
+		{
+			"episode": 6,
+			"title": "Scrambling",
+			"type": "manga-canon",
+			"aired_date": "2016-05-07"
+		},
+		{
+			"episode": 7,
+			"title": "Battle Song",
+			"type": "manga-canon",
+			"aired_date": "2016-05-14"
+		},
+		{
+			"episode": 8,
+			"title": "The Phoenix Showdown",
+			"type": "manga-canon",
+			"aired_date": "2016-05-21"
+		},
+		{
+			"episode": 9,
+			"title": "Clinching Victory",
+			"type": "manga-canon",
+			"aired_date": "2016-05-28"
+		},
+		{
+			"episode": 10,
+			"title": "Lieseltania",
+			"type": "manga-canon",
+			"aired_date": "2016-06-04"
+		},
+		{
+			"episode": 11,
+			"title": "The Lonely Strega",
+			"type": "manga-canon",
+			"aired_date": "2015-12-11"
+		},
+		{
+			"episode": 12,
+			"title": "Reunion",
+			"type": "manga-canon",
+			"aired_date": "2016-06-18"
+		}
+	]
+}

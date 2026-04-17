@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Another",
+	"mappings": {
+		"anilist_id": 11111,
+		"mal_id": 11111
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Rough sketch",
+			"type": "manga-canon",
+			"aired_date": "2012-01-10"
+		},
+		{
+			"episode": 2,
+			"title": "Blueprint",
+			"type": "manga-canon",
+			"aired_date": "2012-01-17"
+		},
+		{
+			"episode": 3,
+			"title": "Bone work",
+			"type": "manga-canon",
+			"aired_date": "2012-01-24"
+		},
+		{
+			"episode": 4,
+			"title": "Put flesh",
+			"type": "manga-canon",
+			"aired_date": "2012-01-31"
+		},
+		{
+			"episode": 5,
+			"title": "Build limbs",
+			"type": "manga-canon",
+			"aired_date": "2012-02-07"
+		},
+		{
+			"episode": 6,
+			"title": "Face to face",
+			"type": "manga-canon",
+			"aired_date": "2012-02-14"
+		},
+		{
+			"episode": 7,
+			"title": "Sphere joint",
+			"type": "manga-canon",
+			"aired_date": "2012-02-21"
+		},
+		{
+			"episode": 8,
+			"title": "Hair stand",
+			"type": "filler",
+			"aired_date": "2012-02-28"
+		},
+		{
+			"episode": 9,
+			"title": "Body paint",
+			"type": "manga-canon",
+			"aired_date": "2012-03-06"
+		},
+		{
+			"episode": 10,
+			"title": "Glass eye",
+			"type": "manga-canon",
+			"aired_date": "2012-03-13"
+		},
+		{
+			"episode": 11,
+			"title": "Makeup",
+			"type": "manga-canon",
+			"aired_date": "2012-03-20"
+		},
+		{
+			"episode": 12,
+			"title": "Stand by oneself",
+			"type": "manga-canon",
+			"aired_date": "2012-03-27"
+		}
+	]
+}

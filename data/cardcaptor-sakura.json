@@ -1,0 +1,430 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Cardcaptor Sakura",
+	"mappings": {
+		"anilist_id": 232,
+		"mal_id": 232
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Sakura and the Strange Magical Book",
+			"type": "manga-canon",
+			"aired_date": "1998-04-07"
+		},
+		{
+			"episode": 2,
+			"title": "Sakura's Wonderful Friend",
+			"type": "manga-canon",
+			"aired_date": "1998-04-14"
+		},
+		{
+			"episode": 3,
+			"title": "Sakura's Breathtaking First Date",
+			"type": "manga-canon",
+			"aired_date": "1998-04-21"
+		},
+		{
+			"episode": 4,
+			"title": "Sakura's Exhausting Sunday",
+			"type": "manga-canon",
+			"aired_date": "1998-04-28"
+		},
+		{
+			"episode": 5,
+			"title": "Sakura, a Panda, and a Darling Little Store",
+			"type": "manga-canon",
+			"aired_date": "1998-05-05"
+		},
+		{
+			"episode": 6,
+			"title": "Sakura and Memories of Her Mother",
+			"type": "manga-canon",
+			"aired_date": "1998-05-12"
+		},
+		{
+			"episode": 7,
+			"title": "Sakura's First Attempt as a Thief",
+			"type": "manga-canon",
+			"aired_date": "1998-05-19"
+		},
+		{
+			"episode": 8,
+			"title": "Sakura's Rival Appears",
+			"type": "manga-canon",
+			"aired_date": "1998-05-26"
+		},
+		{
+			"episode": 9,
+			"title": "Sakura and the Mysterious Brooch",
+			"type": "manga-canon",
+			"aired_date": "1998-06-02"
+		},
+		{
+			"episode": 10,
+			"title": "Sakura and the Sports Day of Flowers",
+			"type": "manga-canon",
+			"aired_date": "1998-06-16"
+		},
+		{
+			"episode": 11,
+			"title": "Sakura, Tomoyo, and a Mansion",
+			"type": "manga-canon",
+			"aired_date": "1998-06-23"
+		},
+		{
+			"episode": 12,
+			"title": "Sakura's Neverending Day",
+			"type": "filler",
+			"aired_date": "1998-06-30"
+		},
+		{
+			"episode": 13,
+			"title": "Sakura and the Elephant's Test of Strength",
+			"type": "filler",
+			"aired_date": "1998-07-07"
+		},
+		{
+			"episode": 14,
+			"title": "Sakura, Toya, and Cinderella",
+			"type": "filler",
+			"aired_date": "1998-07-14"
+		},
+		{
+			"episode": 15,
+			"title": "Sakura and Kero's Big Fight",
+			"type": "filler",
+			"aired_date": "1998-07-21"
+		},
+		{
+			"episode": 16,
+			"title": "Sakura and the Rainbow of Memories",
+			"type": "manga-canon",
+			"aired_date": "1998-08-04"
+		},
+		{
+			"episode": 17,
+			"title": "Sakura's Scary Test of Courage",
+			"type": "manga-canon",
+			"aired_date": "1998-08-11"
+		},
+		{
+			"episode": 18,
+			"title": "Sakura, Yukito, and the Summer Festival",
+			"type": "manga-canon",
+			"aired_date": "1998-08-18"
+		},
+		{
+			"episode": 19,
+			"title": "Sakura and the Summer Holiday Homework",
+			"type": "filler",
+			"aired_date": "1998-09-01"
+		},
+		{
+			"episode": 20,
+			"title": "Transfer Student vs. Sakura",
+			"type": "filler",
+			"aired_date": "1998-09-08"
+		},
+		{
+			"episode": 21,
+			"title": "Sakura's Long Marathon Race",
+			"type": "filler",
+			"aired_date": "1998-09-15"
+		},
+		{
+			"episode": 22,
+			"title": "Sakura and Her Kind Father",
+			"type": "filler",
+			"aired_date": "1998-09-22"
+		},
+		{
+			"episode": 23,
+			"title": "Sakura, Tomoyo, and the Wonderful Song",
+			"type": "filler",
+			"aired_date": "1998-09-29"
+		},
+		{
+			"episode": 24,
+			"title": "Sakura's Little Adventure",
+			"type": "filler",
+			"aired_date": "1998-10-06"
+		},
+		{
+			"episode": 25,
+			"title": "Sakura and One More Sakura",
+			"type": "manga-canon",
+			"aired_date": "1998-10-13"
+		},
+		{
+			"episode": 26,
+			"title": "Sakura and the Wonderful Teacher",
+			"type": "manga-canon",
+			"aired_date": "1998-10-20"
+		},
+		{
+			"episode": 27,
+			"title": "Sakura and the Shrine of Memories",
+			"type": "filler",
+			"aired_date": "1998-10-27"
+		},
+		{
+			"episode": 28,
+			"title": "Sakura and the Enchanted Cards",
+			"type": "filler",
+			"aired_date": "1998-11-03"
+		},
+		{
+			"episode": 29,
+			"title": "Sakura's Sweet Cooking",
+			"type": "filler",
+			"aired_date": "1998-11-10"
+		},
+		{
+			"episode": 30,
+			"title": "Sakura and the Injured Card",
+			"type": "filler",
+			"aired_date": "1998-11-17"
+		},
+		{
+			"episode": 31,
+			"title": "Sakura and the Nameless Book",
+			"type": "filler",
+			"aired_date": "1998-11-24"
+		},
+		{
+			"episode": 32,
+			"title": "Sakura, Kero, and Syaoran",
+			"type": "filler",
+			"aired_date": "1998-12-01"
+		},
+		{
+			"episode": 33,
+			"title": "Sakura's Freezing Ice Skating",
+			"type": "filler",
+			"aired_date": "1998-12-15"
+		},
+		{
+			"episode": 34,
+			"title": "Sakura, Yukito, and the Midday Moon",
+			"type": "filler",
+			"aired_date": "1998-12-22"
+		},
+		{
+			"episode": 35,
+			"title": "Sakura's Wonderful Christmas",
+			"type": "manga-canon",
+			"aired_date": "1998-12-29"
+		},
+		{
+			"episode": 36,
+			"title": "Sakura and the Snowy New School Term",
+			"type": "filler",
+			"aired_date": "1999-04-06"
+		},
+		{
+			"episode": 37,
+			"title": "Sakura and Tomoyo's Lost Voice",
+			"type": "filler",
+			"aired_date": "1999-04-13"
+		},
+		{
+			"episode": 38,
+			"title": "Sakura's Fun Strawberry-Picking Adventure",
+			"type": "filler",
+			"aired_date": "1999-04-20"
+		},
+		{
+			"episode": 39,
+			"title": "Sakura's Dizzy Fever Day",
+			"type": "manga-canon",
+			"aired_date": "1999-04-27"
+		},
+		{
+			"episode": 40,
+			"title": "Sakura and the Sakura from the Dream",
+			"type": "filler",
+			"aired_date": "1999-05-11"
+		},
+		{
+			"episode": 41,
+			"title": "Sakura, Syaoran, and the Sea of Sand",
+			"type": "manga-canon",
+			"aired_date": "1999-05-18"
+		},
+		{
+			"episode": 42,
+			"title": "Sakura and the Blacked Out School Festival",
+			"type": "manga-canon",
+			"aired_date": "1999-05-25"
+		},
+		{
+			"episode": 43,
+			"title": "Sakura and Farewell to Meilin",
+			"type": "filler",
+			"aired_date": "1999-06-01"
+		},
+		{
+			"episode": 44,
+			"title": "Sakura, Kero, and the Mysterious Teacher",
+			"type": "manga-canon",
+			"aired_date": "1999-06-08"
+		},
+		{
+			"episode": 45,
+			"title": "Sakura and the Final Clow Card",
+			"type": "manga-canon",
+			"aired_date": "1999-06-15"
+		},
+		{
+			"episode": 46,
+			"title": "Sakura and the Final Judgement",
+			"type": "manga-canon",
+			"aired_date": "1999-06-22"
+		},
+		{
+			"episode": 47,
+			"title": "Sakura and the Mysterious Transfer Student",
+			"type": "manga-canon",
+			"aired_date": "1999-09-07"
+		},
+		{
+			"episode": 48,
+			"title": "Sakura and the Awakened Star Key",
+			"type": "manga-canon",
+			"aired_date": "1999-09-14"
+		},
+		{
+			"episode": 49,
+			"title": "Sakura and the Dangerous Piano",
+			"type": "manga-canon",
+			"aired_date": "1999-09-21"
+		},
+		{
+			"episode": 50,
+			"title": "Sakura, Syaoran, and the Invisible Thread",
+			"type": "manga-canon",
+			"aired_date": "1999-09-28"
+		},
+		{
+			"episode": 51,
+			"title": "Sakura and the Big Teddy Bear",
+			"type": "manga-canon",
+			"aired_date": "1999-10-05"
+		},
+		{
+			"episode": 52,
+			"title": "Sakura's Sheep Warning",
+			"type": "manga-canon",
+			"aired_date": "1999-10-12"
+		},
+		{
+			"episode": 53,
+			"title": "Sakura and the Panicky Bike",
+			"type": "filler",
+			"aired_date": "1999-10-19"
+		},
+		{
+			"episode": 54,
+			"title": "Sakura and the Calendar of Memories",
+			"type": "manga-canon",
+			"aired_date": "1999-10-26"
+		},
+		{
+			"episode": 55,
+			"title": "Sakura and Sakura from Wonderland",
+			"type": "filler",
+			"aired_date": "1999-11-02"
+		},
+		{
+			"episode": 56,
+			"title": "Sakura, Kero, and the Sweet Meeting",
+			"type": "filler",
+			"aired_date": "1999-11-09"
+		},
+		{
+			"episode": 57,
+			"title": "Sakura, Syaoran, and the Elevator",
+			"type": "filler",
+			"aired_date": "1999-11-16"
+		},
+		{
+			"episode": 58,
+			"title": "Sakura and Double Trouble",
+			"type": "filler",
+			"aired_date": "1999-11-30"
+		},
+		{
+			"episode": 59,
+			"title": "Sakura, Tomoyo, and the Ball Trap",
+			"type": "manga-canon",
+			"aired_date": "1999-12-07"
+		},
+		{
+			"episode": 60,
+			"title": "Sakura and the Precious Friend",
+			"type": "filler",
+			"aired_date": "1999-12-14"
+		},
+		{
+			"episode": 61,
+			"title": "Sakura, the Cards, and the Presents",
+			"type": "filler",
+			"aired_date": "1999-12-21"
+		},
+		{
+			"episode": 62,
+			"title": "Sakura and the Mysterious Fortune",
+			"type": "filler",
+			"aired_date": "2000-01-04"
+		},
+		{
+			"episode": 63,
+			"title": "Sakura, the Pool, and the Huge Wave",
+			"type": "filler",
+			"aired_date": "2000-01-11"
+		},
+		{
+			"episode": 64,
+			"title": "Sakura and the Snowy Ski Class",
+			"type": "filler",
+			"aired_date": "2000-01-18"
+		},
+		{
+			"episode": 65,
+			"title": "Sakura, Yukito, and the Vanishing Power",
+			"type": "manga-canon",
+			"aired_date": "2000-02-15"
+		},
+		{
+			"episode": 66,
+			"title": "The Person Sakura Likes the Most",
+			"type": "manga-canon",
+			"aired_date": "2000-02-22"
+		},
+		{
+			"episode": 67,
+			"title": "Sakura, Syaoran, and the Tsukimine Shrine",
+			"type": "manga-canon",
+			"aired_date": "2000-02-29"
+		},
+		{
+			"episode": 68,
+			"title": "Sakura, the Past, and Clow Reed",
+			"type": "manga-canon",
+			"aired_date": "2000-03-07"
+		},
+		{
+			"episode": 69,
+			"title": "Sakura Meets Clow Reed",
+			"type": "manga-canon",
+			"aired_date": "2000-03-14"
+		},
+		{
+			"episode": 70,
+			"title": "Sakura and Her True Feelings",
+			"type": "manga-canon",
+			"aired_date": "2000-03-21"
+		}
+	]
+}

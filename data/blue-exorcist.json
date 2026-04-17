@@ -1,0 +1,160 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Blue Exorcist",
+	"mappings": {
+		"anilist_id": 9919,
+		"mal_id": 9919
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Devil Resides in Human Souls",
+			"type": "mixed-manga",
+			"aired_date": "2011-04-17"
+		},
+		{
+			"episode": 2,
+			"title": "Gehenna Gate",
+			"type": "mixed-manga",
+			"aired_date": "2011-04-24"
+		},
+		{
+			"episode": 3,
+			"title": "Brothers",
+			"type": "mixed-manga",
+			"aired_date": "2011-05-01"
+		},
+		{
+			"episode": 4,
+			"title": "The Garden of Amahara",
+			"type": "manga-canon",
+			"aired_date": "2011-05-08"
+		},
+		{
+			"episode": 5,
+			"title": "A Boy from the Cursed Temple",
+			"type": "manga-canon",
+			"aired_date": "2011-05-15"
+		},
+		{
+			"episode": 6,
+			"title": "The Phantom Chef",
+			"type": "filler",
+			"aired_date": "2011-05-22"
+		},
+		{
+			"episode": 7,
+			"title": "A Flock of Plovers",
+			"type": "manga-canon",
+			"aired_date": "2011-05-29"
+		},
+		{
+			"episode": 8,
+			"title": "Now a Certain Man Was Sick...",
+			"type": "manga-canon",
+			"aired_date": "2011-06-05"
+		},
+		{
+			"episode": 9,
+			"title": "Memories",
+			"type": "manga-canon",
+			"aired_date": "2011-06-12"
+		},
+		{
+			"episode": 10,
+			"title": "Black Cat",
+			"type": "manga-canon",
+			"aired_date": "2011-06-19"
+		},
+		{
+			"episode": 11,
+			"title": "Demon of the Deep Seas",
+			"type": "filler",
+			"aired_date": "2011-06-26"
+		},
+		{
+			"episode": 12,
+			"title": "A Game of Tag",
+			"type": "manga-canon",
+			"aired_date": "2011-07-03"
+		},
+		{
+			"episode": 13,
+			"title": "Proof",
+			"type": "manga-canon",
+			"aired_date": "2011-07-10"
+		},
+		{
+			"episode": 14,
+			"title": "A Fun Camping Trip",
+			"type": "manga-canon",
+			"aired_date": "2011-07-17"
+		},
+		{
+			"episode": 15,
+			"title": "Act of Kindness",
+			"type": "manga-canon",
+			"aired_date": "2011-07-24"
+		},
+		{
+			"episode": 16,
+			"title": "The Wager",
+			"type": "mixed-manga",
+			"aired_date": "2011-07-31"
+		},
+		{
+			"episode": 17,
+			"title": "Temptation",
+			"type": "mixed-manga",
+			"aired_date": "2011-08-07"
+		},
+		{
+			"episode": 18,
+			"title": "Gufu",
+			"type": "filler",
+			"aired_date": "2011-08-14"
+		},
+		{
+			"episode": 19,
+			"title": "An Ordinary Day",
+			"type": "filler",
+			"aired_date": "2011-08-21"
+		},
+		{
+			"episode": 20,
+			"title": "Mask",
+			"type": "filler",
+			"aired_date": "2011-08-28"
+		},
+		{
+			"episode": 21,
+			"title": "The Secret Garden",
+			"type": "filler",
+			"aired_date": "2011-09-04"
+		},
+		{
+			"episode": 22,
+			"title": "Demon-hunting",
+			"type": "filler",
+			"aired_date": "2011-09-11"
+		},
+		{
+			"episode": 23,
+			"title": "Truth",
+			"type": "filler",
+			"aired_date": "2011-09-18"
+		},
+		{
+			"episode": 24,
+			"title": "Satan's Spawn",
+			"type": "filler",
+			"aired_date": "2011-09-25"
+		},
+		{
+			"episode": 25,
+			"title": "Stop, Time",
+			"type": "filler",
+			"aired_date": "2011-10-02"
+		}
+	]
+}

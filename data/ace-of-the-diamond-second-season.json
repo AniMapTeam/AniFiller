@@ -1,0 +1,316 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Ace of the Diamond Second Season",
+	"mappings": {
+		"anilist_id": 21085,
+		"mal_id": 30230
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Howling in the Summer",
+			"type": "filler",
+			"aired_date": "2015-04-06"
+		},
+		{
+			"episode": 2,
+			"title": "The Summer Heat Haze",
+			"type": "filler",
+			"aired_date": "2015-04-13"
+		},
+		{
+			"episode": 3,
+			"title": "The Kings of Summer",
+			"type": "filler",
+			"aired_date": "2015-04-20"
+		},
+		{
+			"episode": 4,
+			"title": "The Fall Tournament Begins!",
+			"type": "manga-canon",
+			"aired_date": "2015-04-27"
+		},
+		{
+			"episode": 5,
+			"title": "The Cold Rain",
+			"type": "manga-canon",
+			"aired_date": "2015-05-04"
+		},
+		{
+			"episode": 6,
+			"title": "Out of Order",
+			"type": "manga-canon",
+			"aired_date": "2015-05-11"
+		},
+		{
+			"episode": 7,
+			"title": "Where I Am",
+			"type": "manga-canon",
+			"aired_date": "2015-05-18"
+		},
+		{
+			"episode": 8,
+			"title": "Scenario",
+			"type": "manga-canon",
+			"aired_date": "2015-05-25"
+		},
+		{
+			"episode": 9,
+			"title": "My Path",
+			"type": "manga-canon",
+			"aired_date": "2015-06-01"
+		},
+		{
+			"episode": 10,
+			"title": "Did You Just Pitch...",
+			"type": "manga-canon",
+			"aired_date": "2015-06-08"
+		},
+		{
+			"episode": 11,
+			"title": "The Underdog Story",
+			"type": "manga-canon",
+			"aired_date": "2015-06-15"
+		},
+		{
+			"episode": 12,
+			"title": "Self-Destruction",
+			"type": "manga-canon",
+			"aired_date": "2015-06-22"
+		},
+		{
+			"episode": 13,
+			"title": "Fissure",
+			"type": "manga-canon",
+			"aired_date": "2015-06-29"
+		},
+		{
+			"episode": 14,
+			"title": "On My Shoulders",
+			"type": "manga-canon",
+			"aired_date": "2015-07-06"
+		},
+		{
+			"episode": 15,
+			"title": "Persistent and Diligent",
+			"type": "manga-canon",
+			"aired_date": "2015-07-13"
+		},
+		{
+			"episode": 16,
+			"title": "Chain Reaction",
+			"type": "manga-canon",
+			"aired_date": "2015-07-20"
+		},
+		{
+			"episode": 17,
+			"title": "Shut Him Down!!",
+			"type": "manga-canon",
+			"aired_date": "2015-07-27"
+		},
+		{
+			"episode": 18,
+			"title": "This Guy’s Pretty Good",
+			"type": "manga-canon",
+			"aired_date": "2015-08-03"
+		},
+		{
+			"episode": 19,
+			"title": "An Uncompromising Challenge",
+			"type": "manga-canon",
+			"aired_date": "2015-08-10"
+		},
+		{
+			"episode": 20,
+			"title": "With Heads Held High",
+			"type": "manga-canon",
+			"aired_date": "2015-08-17"
+		},
+		{
+			"episode": 21,
+			"title": "Whispers of the Devil?",
+			"type": "manga-canon",
+			"aired_date": "2015-08-24"
+		},
+		{
+			"episode": 22,
+			"title": "Winging It",
+			"type": "manga-canon",
+			"aired_date": "2015-08-31"
+		},
+		{
+			"episode": 23,
+			"title": "School Academic Level",
+			"type": "manga-canon",
+			"aired_date": "2015-09-07"
+		},
+		{
+			"episode": 24,
+			"title": "Individual Minds",
+			"type": "manga-canon",
+			"aired_date": "2015-09-14"
+		},
+		{
+			"episode": 25,
+			"title": "Zeal",
+			"type": "manga-canon",
+			"aired_date": "2015-09-21"
+		},
+		{
+			"episode": 26,
+			"title": "The Conceited Underclassman",
+			"type": "manga-canon",
+			"aired_date": "2015-09-28"
+		},
+		{
+			"episode": 27,
+			"title": "Step By Step",
+			"type": "manga-canon",
+			"aired_date": "2015-10-05"
+		},
+		{
+			"episode": 28,
+			"title": "The Resilient Second-String",
+			"type": "manga-canon",
+			"aired_date": "2015-10-12"
+		},
+		{
+			"episode": 29,
+			"title": "Demon Child",
+			"type": "manga-canon",
+			"aired_date": "2015-10-19"
+		},
+		{
+			"episode": 30,
+			"title": "The Kings’ Roar",
+			"type": "manga-canon",
+			"aired_date": "2015-10-26"
+		},
+		{
+			"episode": 31,
+			"title": "The Courage He Gave Me",
+			"type": "manga-canon",
+			"aired_date": "2015-11-02"
+		},
+		{
+			"episode": 32,
+			"title": "The Resolve for Responsibility",
+			"type": "manga-canon",
+			"aired_date": "2015-11-09"
+		},
+		{
+			"episode": 33,
+			"title": "The Ace’s Instinct",
+			"type": "manga-canon",
+			"aired_date": "2015-11-16"
+		},
+		{
+			"episode": 34,
+			"title": "Innocent",
+			"type": "manga-canon",
+			"aired_date": "2015-11-23"
+		},
+		{
+			"episode": 35,
+			"title": "The World Beyond",
+			"type": "manga-canon",
+			"aired_date": "2015-11-30"
+		},
+		{
+			"episode": 36,
+			"title": "Rematch",
+			"type": "manga-canon",
+			"aired_date": "2015-12-07"
+		},
+		{
+			"episode": 37,
+			"title": "Priorities",
+			"type": "manga-canon",
+			"aired_date": "2015-12-14"
+		},
+		{
+			"episode": 38,
+			"title": "One Pitch",
+			"type": "manga-canon",
+			"aired_date": "2015-12-21"
+		},
+		{
+			"episode": 39,
+			"title": "Meeting Expectations",
+			"type": "manga-canon",
+			"aired_date": "2016-01-04"
+		},
+		{
+			"episode": 40,
+			"title": "Play Ball",
+			"type": "manga-canon",
+			"aired_date": "2016-01-11"
+		},
+		{
+			"episode": 41,
+			"title": "The Lead-off Man",
+			"type": "manga-canon",
+			"aired_date": "2016-01-18"
+		},
+		{
+			"episode": 42,
+			"title": "Fastball, Featuring Todoroki",
+			"type": "manga-canon",
+			"aired_date": "2016-01-25"
+		},
+		{
+			"episode": 43,
+			"title": "To This Side",
+			"type": "manga-canon",
+			"aired_date": "2016-02-01"
+		},
+		{
+			"episode": 44,
+			"title": "The Best Fastball",
+			"type": "manga-canon",
+			"aired_date": "2016-02-08"
+		},
+		{
+			"episode": 45,
+			"title": "The Field",
+			"type": "manga-canon",
+			"aired_date": "2016-02-15"
+		},
+		{
+			"episode": 46,
+			"title": "The Decision",
+			"type": "manga-canon",
+			"aired_date": "2016-02-22"
+		},
+		{
+			"episode": 47,
+			"title": "Partnership",
+			"type": "manga-canon",
+			"aired_date": "2016-02-29"
+		},
+		{
+			"episode": 48,
+			"title": "Party Boys",
+			"type": "manga-canon",
+			"aired_date": "2016-03-07"
+		},
+		{
+			"episode": 49,
+			"title": "Just You Wait!",
+			"type": "manga-canon",
+			"aired_date": "2016-03-14"
+		},
+		{
+			"episode": 50,
+			"title": "Last Inning",
+			"type": "manga-canon",
+			"aired_date": "2016-03-21"
+		},
+		{
+			"episode": 51,
+			"title": "Seek Diamonds!",
+			"type": "manga-canon",
+			"aired_date": "2016-03-28"
+		}
+	]
+}

@@ -1,0 +1,310 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Angel Heart",
+	"mappings": {
+		"anilist_id": 282,
+		"mal_id": 282
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Glass Heart",
+			"type": "manga-canon",
+			"aired_date": "2005-10-03"
+		},
+		{
+			"episode": 2,
+			"title": "Kaori has Returned",
+			"type": "manga-canon",
+			"aired_date": "2005-10-10"
+		},
+		{
+			"episode": 3,
+			"title": "City of XYZ",
+			"type": "manga-canon",
+			"aired_date": "2005-10-17"
+		},
+		{
+			"episode": 4,
+			"title": "Wandering Heart",
+			"type": "manga-canon",
+			"aired_date": "2005-10-24"
+		},
+		{
+			"episode": 5,
+			"title": "Farewell... Kaori",
+			"type": "manga-canon",
+			"aired_date": "2005-10-31"
+		},
+		{
+			"episode": 6,
+			"title": "Reunion",
+			"type": "manga-canon",
+			"aired_date": "2005-11-07"
+		},
+		{
+			"episode": 7,
+			"title": "My Beloved City",
+			"type": "manga-canon",
+			"aired_date": "2005-11-14"
+		},
+		{
+			"episode": 8,
+			"title": "True Friends",
+			"type": "manga-canon",
+			"aired_date": "2005-11-21"
+		},
+		{
+			"episode": 9,
+			"title": "Xiang Ying, Her Lost Name",
+			"type": "manga-canon",
+			"aired_date": "2005-11-28"
+		},
+		{
+			"episode": 10,
+			"title": "Angel Smile",
+			"type": "manga-canon",
+			"aired_date": "2005-12-05"
+		},
+		{
+			"episode": 11,
+			"title": "A Father and Daughter's Time",
+			"type": "manga-canon",
+			"aired_date": "2005-12-12"
+		},
+		{
+			"episode": 12,
+			"title": "A Meeting and Farewell On Board a Ship",
+			"type": "manga-canon",
+			"aired_date": "2005-12-19"
+		},
+		{
+			"episode": 13,
+			"title": "A Present from Master Li",
+			"type": "manga-canon",
+			"aired_date": "2006-01-09"
+		},
+		{
+			"episode": 14,
+			"title": "Revival, City Hunter !",
+			"type": "manga-canon",
+			"aired_date": "2006-01-16"
+		},
+		{
+			"episode": 15,
+			"title": "Find Papa !",
+			"type": "manga-canon",
+			"aired_date": "2006-01-23"
+		},
+		{
+			"episode": 16,
+			"title": "Qualifications as C.H. (City Hunter)",
+			"type": "manga-canon",
+			"aired_date": "2006-01-30"
+		},
+		{
+			"episode": 17,
+			"title": "Meeting in a Dream",
+			"type": "manga-canon",
+			"aired_date": "2006-02-06"
+		},
+		{
+			"episode": 18,
+			"title": "Familial Ties",
+			"type": "manga-canon",
+			"aired_date": "2006-02-13"
+		},
+		{
+			"episode": 19,
+			"title": "Old Man Chin's Place",
+			"type": "manga-canon",
+			"aired_date": "2006-02-20"
+		},
+		{
+			"episode": 20,
+			"title": "Prelude of Destiny",
+			"type": "manga-canon",
+			"aired_date": "2006-02-27"
+		},
+		{
+			"episode": 21,
+			"title": "Sorrowful Guardian",
+			"type": "manga-canon",
+			"aired_date": "2006-03-01"
+		},
+		{
+			"episode": 22,
+			"title": "Unfair Happiness",
+			"type": "manga-canon",
+			"aired_date": "2006-03-13"
+		},
+		{
+			"episode": 23,
+			"title": "Melody of a Journey's Beginning",
+			"type": "manga-canon",
+			"aired_date": "2006-03-20"
+		},
+		{
+			"episode": 24,
+			"title": "Together with The Beat...",
+			"type": "filler",
+			"aired_date": "2006-03-27"
+		},
+		{
+			"episode": 25,
+			"title": "A Client's Death Wish",
+			"type": "manga-canon",
+			"aired_date": "2006-04-03"
+		},
+		{
+			"episode": 26,
+			"title": "Once again, to that moment",
+			"type": "manga-canon",
+			"aired_date": "2006-04-10"
+		},
+		{
+			"episode": 27,
+			"title": "Me, in love !?",
+			"type": "manga-canon",
+			"aired_date": "2006-04-17"
+		},
+		{
+			"episode": 28,
+			"title": "A Promise",
+			"type": "manga-canon",
+			"aired_date": "2006-04-24"
+		},
+		{
+			"episode": 29,
+			"title": "My Sister...Kaori",
+			"type": "manga-canon",
+			"aired_date": "2006-05-01"
+		},
+		{
+			"episode": 30,
+			"title": "This City is Everything to Me",
+			"type": "manga-canon",
+			"aired_date": "2006-05-08"
+		},
+		{
+			"episode": 31,
+			"title": "A Miracle Seen on the Final Night",
+			"type": "manga-canon",
+			"aired_date": "2006-05-15"
+		},
+		{
+			"episode": 32,
+			"title": "The Woman from the Syndicate",
+			"type": "manga-canon",
+			"aired_date": "2006-05-22"
+		},
+		{
+			"episode": 33,
+			"title": "The Child who is a Gift from Heaven",
+			"type": "manga-canon",
+			"aired_date": "2006-05-29"
+		},
+		{
+			"episode": 34,
+			"title": "Two Determinations",
+			"type": "manga-canon",
+			"aired_date": "2006-06-05"
+		},
+		{
+			"episode": 35,
+			"title": "Towards the Future",
+			"type": "manga-canon",
+			"aired_date": "2006-06-12"
+		},
+		{
+			"episode": 36,
+			"title": "The Girl That Brings Happiness",
+			"type": "manga-canon",
+			"aired_date": "2006-06-19"
+		},
+		{
+			"episode": 37,
+			"title": "An Unblemished Heart",
+			"type": "manga-canon",
+			"aired_date": "2006-06-26"
+		},
+		{
+			"episode": 38,
+			"title": "Be My Eyes",
+			"type": "manga-canon",
+			"aired_date": "2006-07-03"
+		},
+		{
+			"episode": 39,
+			"title": "The Client is a Famous Actress",
+			"type": "manga-canon",
+			"aired_date": "2006-07-10"
+		},
+		{
+			"episode": 40,
+			"title": "Miki's Hidden Secret",
+			"type": "manga-canon",
+			"aired_date": "2006-07-17"
+		},
+		{
+			"episode": 41,
+			"title": "The Place where I Belong",
+			"type": "manga-canon",
+			"aired_date": "2006-07-24"
+		},
+		{
+			"episode": 42,
+			"title": "The Secret Sign Between the Two",
+			"type": "manga-canon",
+			"aired_date": "2006-07-31"
+		},
+		{
+			"episode": 43,
+			"title": "A Day in My Life",
+			"type": "manga-canon",
+			"aired_date": "2006-08-07"
+		},
+		{
+			"episode": 44,
+			"title": "For Our Children",
+			"type": "manga-canon",
+			"aired_date": "2006-08-14"
+		},
+		{
+			"episode": 45,
+			"title": "The Walking Nuclear Warhead, Yang",
+			"type": "manga-canon",
+			"aired_date": "2006-08-21"
+		},
+		{
+			"episode": 46,
+			"title": "Mother Heart",
+			"type": "manga-canon",
+			"aired_date": "2006-08-28"
+		},
+		{
+			"episode": 47,
+			"title": "A Bright Future ?!",
+			"type": "manga-canon",
+			"aired_date": "2006-09-04"
+		},
+		{
+			"episode": 48,
+			"title": "Drawn towards Fate",
+			"type": "manga-canon",
+			"aired_date": "2006-09-11"
+		},
+		{
+			"episode": 49,
+			"title": "Get My Life",
+			"type": "manga-canon",
+			"aired_date": "2006-09-18"
+		},
+		{
+			"episode": 50,
+			"title": "Last Present",
+			"type": "manga-canon",
+			"aired_date": "2006-09-25"
+		}
+	]
+}

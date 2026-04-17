@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Yona of the Dawn",
+	"mappings": {
+		"anilist_id": 20770,
+		"mal_id": 25013
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Princess Yona",
+			"type": "manga-canon",
+			"aired_date": "2014-10-07"
+		},
+		{
+			"episode": 2,
+			"title": "Broken Bond",
+			"type": "mixed-manga",
+			"aired_date": "2014-10-14"
+		},
+		{
+			"episode": 3,
+			"title": "Faraway Sky",
+			"type": "manga-canon",
+			"aired_date": "2014-10-21"
+		},
+		{
+			"episode": 4,
+			"title": "The Wind Clan",
+			"type": "manga-canon",
+			"aired_date": "2014-10-28"
+		},
+		{
+			"episode": 5,
+			"title": "Roar",
+			"type": "manga-canon",
+			"aired_date": "2014-11-04"
+		},
+		{
+			"episode": 6,
+			"title": "The Crimson Hair",
+			"type": "manga-canon",
+			"aired_date": "2014-11-11"
+		},
+		{
+			"episode": 7,
+			"title": "Fate",
+			"type": "manga-canon",
+			"aired_date": "2014-11-18"
+		},
+		{
+			"episode": 8,
+			"title": "The Chosen Door",
+			"type": "manga-canon",
+			"aired_date": "2014-11-25"
+		},
+		{
+			"episode": 9,
+			"title": "Wavering Determination",
+			"type": "manga-canon",
+			"aired_date": "2014-12-02"
+		},
+		{
+			"episode": 10,
+			"title": "Yearn",
+			"type": "manga-canon",
+			"aired_date": "2014-12-09"
+		},
+		{
+			"episode": 11,
+			"title": "The Dragon's Claws",
+			"type": "manga-canon",
+			"aired_date": "2014-12-16"
+		},
+		{
+			"episode": 12,
+			"title": "The Blindfolded Dragon",
+			"type": "manga-canon",
+			"aired_date": "2014-12-23"
+		},
+		{
+			"episode": 13,
+			"title": "The Rippling Fear",
+			"type": "manga-canon",
+			"aired_date": "2015-01-06"
+		},
+		{
+			"episode": 14,
+			"title": "Light",
+			"type": "manga-canon",
+			"aired_date": "2015-01-13"
+		},
+		{
+			"episode": 15,
+			"title": "To a New Land",
+			"type": "manga-canon",
+			"aired_date": "2015-01-20"
+		},
+		{
+			"episode": 16,
+			"title": "Pretend-War",
+			"type": "manga-canon",
+			"aired_date": "2015-01-27"
+		},
+		{
+			"episode": 17,
+			"title": "Pirate of Awa",
+			"type": "manga-canon",
+			"aired_date": "2015-02-03"
+		},
+		{
+			"episode": 18,
+			"title": "Bond",
+			"type": "manga-canon",
+			"aired_date": "2015-02-10"
+		},
+		{
+			"episode": 19,
+			"title": "Trial of the Cheonsu Plant",
+			"type": "manga-canon",
+			"aired_date": "2015-02-17"
+		},
+		{
+			"episode": 20,
+			"title": "Chain of Courage",
+			"type": "manga-canon",
+			"aired_date": "2015-02-24"
+		},
+		{
+			"episode": 21,
+			"title": "Spark",
+			"type": "manga-canon",
+			"aired_date": "2015-03-02"
+		},
+		{
+			"episode": 22,
+			"title": "History Is Made at Night",
+			"type": "manga-canon",
+			"aired_date": "2015-03-10"
+		},
+		{
+			"episode": 23,
+			"title": "Morning of Promise",
+			"type": "manga-canon",
+			"aired_date": "2015-03-17"
+		},
+		{
+			"episode": 24,
+			"title": "From Here On",
+			"type": "manga-canon",
+			"aired_date": "2015-03-24"
+		}
+	]
+}

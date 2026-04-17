@@ -1,0 +1,148 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Black Cat",
+	"mappings": {
+		"anilist_id": 68,
+		"mal_id": 68
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Solitary Cat",
+			"type": "manga-canon",
+			"aired_date": "2005-10-06"
+		},
+		{
+			"episode": 2,
+			"title": "The Hesitant Cat",
+			"type": "manga-canon",
+			"aired_date": "2005-10-13"
+		},
+		{
+			"episode": 3,
+			"title": "The Cat in the Dark",
+			"type": "manga-canon",
+			"aired_date": "2005-10-20"
+		},
+		{
+			"episode": 4,
+			"title": "The Grinning Cat",
+			"type": "manga-canon",
+			"aired_date": "2005-10-27"
+		},
+		{
+			"episode": 5,
+			"title": "The Departing Cat",
+			"type": "manga-canon",
+			"aired_date": "2005-11-03"
+		},
+		{
+			"episode": 6,
+			"title": "The Cat Under Fire",
+			"type": "manga-canon",
+			"aired_date": "2005-11-10"
+		},
+		{
+			"episode": 7,
+			"title": "The Wounded Cat",
+			"type": "manga-canon",
+			"aired_date": "2005-11-17"
+		},
+		{
+			"episode": 8,
+			"title": "The Sweeping Cat",
+			"type": "manga-canon",
+			"aired_date": "2005-11-24"
+		},
+		{
+			"episode": 9,
+			"title": "The Charming Cat",
+			"type": "manga-canon",
+			"aired_date": "2005-12-01"
+		},
+		{
+			"episode": 10,
+			"title": "The Cat Unleashed",
+			"type": "manga-canon",
+			"aired_date": "2005-12-08"
+		},
+		{
+			"episode": 11,
+			"title": "The False Cat",
+			"type": "manga-canon",
+			"aired_date": "2005-12-15"
+		},
+		{
+			"episode": 12,
+			"title": "The Fighting Cat",
+			"type": "manga-canon",
+			"aired_date": "2006-01-12"
+		},
+		{
+			"episode": 13,
+			"title": "The Love Cat",
+			"type": "manga-canon",
+			"aired_date": "2006-01-19"
+		},
+		{
+			"episode": 14,
+			"title": "The Kitty Cat",
+			"type": "manga-canon",
+			"aired_date": "2006-01-26"
+		},
+		{
+			"episode": 15,
+			"title": "The Cat and the Lizard",
+			"type": "manga-canon",
+			"aired_date": "2006-02-02"
+		},
+		{
+			"episode": 16,
+			"title": "The Napping Cat",
+			"type": "manga-canon",
+			"aired_date": "2006-02-09"
+		},
+		{
+			"episode": 17,
+			"title": "The Cat Deploys",
+			"type": "manga-canon",
+			"aired_date": "2006-02-16"
+		},
+		{
+			"episode": 18,
+			"title": "The Sprinting Cat",
+			"type": "manga-canon",
+			"aired_date": "2006-02-23"
+		},
+		{
+			"episode": 19,
+			"title": "The Cat's Showdown",
+			"type": "manga-canon",
+			"aired_date": "2006-03-02"
+		},
+		{
+			"episode": 20,
+			"title": "The Drowning Cat",
+			"type": "filler",
+			"aired_date": "2006-03-09"
+		},
+		{
+			"episode": 21,
+			"title": "The Cat Bares Claws",
+			"type": "filler",
+			"aired_date": "2006-03-16"
+		},
+		{
+			"episode": 22,
+			"title": "The Cat's Paradise",
+			"type": "filler",
+			"aired_date": "2006-03-23"
+		},
+		{
+			"episode": 23,
+			"title": "The Carefree Cat",
+			"type": "filler",
+			"aired_date": "2006-03-30"
+		}
+	]
+}

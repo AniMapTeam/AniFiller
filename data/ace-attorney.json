@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Ace Attorney",
+	"mappings": {
+		"anilist_id": 21360,
+		"mal_id": 31630
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The First Turnabout",
+			"type": "anime-canon",
+			"aired_date": "2016-04-02"
+		},
+		{
+			"episode": 2,
+			"title": "Turnabout Sisters – 1st Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-04-09"
+		},
+		{
+			"episode": 3,
+			"title": "Turnabout Sisters – 2nd Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-04-16"
+		},
+		{
+			"episode": 4,
+			"title": "Turnabout Sisters – Last Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-04-23"
+		},
+		{
+			"episode": 5,
+			"title": "Turnabout Samurai – 1st Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-04-30"
+		},
+		{
+			"episode": 6,
+			"title": "Turnabout Samurai – 2nd Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-05-07"
+		},
+		{
+			"episode": 7,
+			"title": "Turnabout Samurai – Last Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-05-14"
+		},
+		{
+			"episode": 8,
+			"title": "Turnabout Goodbyes – 1st Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-05-21"
+		},
+		{
+			"episode": 9,
+			"title": "Turnabout Goodbyes – 2nd Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-05-28"
+		},
+		{
+			"episode": 10,
+			"title": "Turnabout Goodbyes – 3rd Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-06-04"
+		},
+		{
+			"episode": 11,
+			"title": "Turnabout Goodbyes – 4th Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-06-11"
+		},
+		{
+			"episode": 12,
+			"title": "Turnabout Goodbyes – Last Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-06-18"
+		},
+		{
+			"episode": 13,
+			"title": "Turnabout Promise",
+			"type": "filler",
+			"aired_date": "2016-06-25"
+		},
+		{
+			"episode": 14,
+			"title": "Reunion and Turnabout – 1st Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-07-09"
+		},
+		{
+			"episode": 15,
+			"title": "Reunion and Turnabout – 2nd Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-07-16"
+		},
+		{
+			"episode": 16,
+			"title": "Reunion and Turnabout – 3rd Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-07-23"
+		},
+		{
+			"episode": 17,
+			"title": "Reunion and Turnabout – Last Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-07-30"
+		},
+		{
+			"episode": 18,
+			"title": "Turnabout Big Top – 1st Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-08-06"
+		},
+		{
+			"episode": 19,
+			"title": "Turnabout Big Top – 2nd Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-08-13"
+		},
+		{
+			"episode": 20,
+			"title": "Turnabout Big Top – Last Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-08-20"
+		},
+		{
+			"episode": 21,
+			"title": "Farewell, My Turnabout – 1st Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-09-03"
+		},
+		{
+			"episode": 22,
+			"title": "Farewell, My Turnabout – 2nd Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-09-10"
+		},
+		{
+			"episode": 23,
+			"title": "Farewell, My Turnabout – 3rd Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-09-17"
+		},
+		{
+			"episode": 24,
+			"title": "Farewell, My Turnabout – Last Trial",
+			"type": "anime-canon",
+			"aired_date": "2016-09-24"
+		}
+	]
+}

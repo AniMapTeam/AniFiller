@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "A Certain Scientific Railgun",
+	"mappings": {
+		"anilist_id": 6213,
+		"mal_id": 6213
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Electromaster",
+			"type": "manga-canon",
+			"aired_date": "2009-10-02"
+		},
+		{
+			"episode": 2,
+			"title": "When Working Under a Hot Sun, Rehydration is Essential",
+			"type": "mixed-manga",
+			"aired_date": "2009-10-09"
+		},
+		{
+			"episode": 3,
+			"title": "Tokiwadai is Targeted",
+			"type": "filler",
+			"aired_date": "2009-10-16"
+		},
+		{
+			"episode": 4,
+			"title": "Urban Legends",
+			"type": "manga-canon",
+			"aired_date": "2009-10-23"
+		},
+		{
+			"episode": 5,
+			"title": "A Certain Pair of New Trainees",
+			"type": "manga-canon",
+			"aired_date": "2009-10-30"
+		},
+		{
+			"episode": 6,
+			"title": "Everyone is Proactive When it Comes to This",
+			"type": "manga-canon",
+			"aired_date": "2009-11-06"
+		},
+		{
+			"episode": 7,
+			"title": "Abilities and Powers",
+			"type": "manga-canon",
+			"aired_date": "2009-11-13"
+		},
+		{
+			"episode": 8,
+			"title": "Level Upper",
+			"type": "manga-canon",
+			"aired_date": "2009-11-20"
+		},
+		{
+			"episode": 9,
+			"title": "Majority Report",
+			"type": "manga-canon",
+			"aired_date": "2009-11-27"
+		},
+		{
+			"episode": 10,
+			"title": "Silent Majority",
+			"type": "manga-canon",
+			"aired_date": "2009-12-04"
+		},
+		{
+			"episode": 11,
+			"title": "Dr. Kiyama",
+			"type": "manga-canon",
+			"aired_date": "2009-12-11"
+		},
+		{
+			"episode": 12,
+			"title": "AIM Burst",
+			"type": "manga-canon",
+			"aired_date": "2009-12-18"
+		},
+		{
+			"episode": 13,
+			"title": "A Bikini Divides the Eyeline Between Top and Bottom, But a One-piece Shows Off the Figure, so They Only Flatter the Slender",
+			"type": "filler",
+			"aired_date": "2009-12-25"
+		},
+		{
+			"episode": 14,
+			"title": "Special Workshop",
+			"type": "filler",
+			"aired_date": "2010-01-08"
+		},
+		{
+			"episode": 15,
+			"title": "Skill Out",
+			"type": "anime-canon",
+			"aired_date": "2010-01-15"
+		},
+		{
+			"episode": 16,
+			"title": "Academy City",
+			"type": "anime-canon",
+			"aired_date": "2010-01-22"
+		},
+		{
+			"episode": 17,
+			"title": "Tsuzuri's Summer Vacation",
+			"type": "filler",
+			"aired_date": "2010-01-29"
+		},
+		{
+			"episode": 18,
+			"title": "Asunaro Park",
+			"type": "filler",
+			"aired_date": "2010-02-05"
+		},
+		{
+			"episode": 19,
+			"title": "Midsummer Festival",
+			"type": "filler",
+			"aired_date": "2010-02-12"
+		},
+		{
+			"episode": 20,
+			"title": "Poltergeist",
+			"type": "anime-canon",
+			"aired_date": "2010-02-19"
+		},
+		{
+			"episode": 21,
+			"title": "Voices",
+			"type": "anime-canon",
+			"aired_date": "2010-02-26"
+		},
+		{
+			"episode": 22,
+			"title": "Level 6",
+			"type": "anime-canon",
+			"aired_date": "2010-03-05"
+		},
+		{
+			"episode": 23,
+			"title": "What Is It You See In Your Eyes Right Now?",
+			"type": "anime-canon",
+			"aired_date": "2010-03-12"
+		},
+		{
+			"episode": 24,
+			"title": "Dear My Friends",
+			"type": "anime-canon",
+			"aired_date": "2010-03-19"
+		}
+	]
+}

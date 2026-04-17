@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Akame ga Kill!",
+	"mappings": {
+		"anilist_id": 20613,
+		"mal_id": 22199
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Kill the Darkness",
+			"type": "manga-canon",
+			"aired_date": "2014-07-06"
+		},
+		{
+			"episode": 2,
+			"title": "Kill the Authority",
+			"type": "manga-canon",
+			"aired_date": "2014-07-13"
+		},
+		{
+			"episode": 3,
+			"title": "Kill Your Cares",
+			"type": "manga-canon",
+			"aired_date": "2014-07-20"
+		},
+		{
+			"episode": 4,
+			"title": "Kill the Imperial Arm Users",
+			"type": "manga-canon",
+			"aired_date": "2014-07-27"
+		},
+		{
+			"episode": 5,
+			"title": "Kill the Dream",
+			"type": "manga-canon",
+			"aired_date": "2014-08-03"
+		},
+		{
+			"episode": 6,
+			"title": "Kill the Absolute Justice",
+			"type": "manga-canon",
+			"aired_date": "2014-08-10"
+		},
+		{
+			"episode": 7,
+			"title": "Kill the Three -Part One-",
+			"type": "manga-canon",
+			"aired_date": "2014-08-17"
+		},
+		{
+			"episode": 8,
+			"title": "Kill the Three -Part Two-",
+			"type": "manga-canon",
+			"aired_date": "2014-08-24"
+		},
+		{
+			"episode": 9,
+			"title": "Kill the Lust for Combat",
+			"type": "manga-canon",
+			"aired_date": "2014-08-31"
+		},
+		{
+			"episode": 10,
+			"title": "Kill the Seduction",
+			"type": "manga-canon",
+			"aired_date": "2014-09-07"
+		},
+		{
+			"episode": 11,
+			"title": "Kill the Mad Scientist",
+			"type": "manga-canon",
+			"aired_date": "2014-09-14"
+		},
+		{
+			"episode": 12,
+			"title": "Kill the Newcomers",
+			"type": "manga-canon",
+			"aired_date": "2014-09-21"
+		},
+		{
+			"episode": 13,
+			"title": "Kill the Nuisances",
+			"type": "manga-canon",
+			"aired_date": "2014-09-28"
+		},
+		{
+			"episode": 14,
+			"title": "Kill the Giant Danger Beast",
+			"type": "manga-canon",
+			"aired_date": "2014-10-05"
+		},
+		{
+			"episode": 15,
+			"title": "Kill the Religious Organization",
+			"type": "manga-canon",
+			"aired_date": "2014-10-12"
+		},
+		{
+			"episode": 16,
+			"title": "Kill the Dolls",
+			"type": "manga-canon",
+			"aired_date": "2014-10-19"
+		},
+		{
+			"episode": 17,
+			"title": "Kill the Curse",
+			"type": "manga-canon",
+			"aired_date": "2014-10-26"
+		},
+		{
+			"episode": 18,
+			"title": "Kill the Demon",
+			"type": "manga-canon",
+			"aired_date": "2014-11-02"
+		},
+		{
+			"episode": 19,
+			"title": "Kill the Fate",
+			"type": "mixed-manga",
+			"aired_date": "2014-11-09"
+		},
+		{
+			"episode": 20,
+			"title": "Kill the Carnage",
+			"type": "anime-canon",
+			"aired_date": "2014-11-16"
+		},
+		{
+			"episode": 21,
+			"title": "Kill the Despair",
+			"type": "anime-canon",
+			"aired_date": "2014-11-23"
+		},
+		{
+			"episode": 22,
+			"title": "Kill the Little Sister",
+			"type": "anime-canon",
+			"aired_date": "2014-11-30"
+		},
+		{
+			"episode": 23,
+			"title": "Kill the Emperor",
+			"type": "anime-canon",
+			"aired_date": "2014-12-07"
+		},
+		{
+			"episode": 24,
+			"title": "Akame ga Kill!",
+			"type": "anime-canon",
+			"aired_date": "2014-12-14"
+		}
+	]
+}

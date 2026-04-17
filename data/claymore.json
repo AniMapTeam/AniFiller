@@ -1,0 +1,166 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Claymore",
+	"mappings": {
+		"anilist_id": 1818,
+		"mal_id": 1818
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Great Sword",
+			"type": "manga-canon",
+			"aired_date": "2007-04-03"
+		},
+		{
+			"episode": 2,
+			"title": "The Black Card",
+			"type": "manga-canon",
+			"aired_date": "2007-04-10"
+		},
+		{
+			"episode": 3,
+			"title": "The Darkness in Paradise",
+			"type": "manga-canon",
+			"aired_date": "2007-04-17"
+		},
+		{
+			"episode": 4,
+			"title": "Clare's Awakening",
+			"type": "manga-canon",
+			"aired_date": "2007-04-24"
+		},
+		{
+			"episode": 5,
+			"title": "Teresa of the Faint Smile",
+			"type": "manga-canon",
+			"aired_date": "2007-05-01"
+		},
+		{
+			"episode": 6,
+			"title": "Teresa and Clare",
+			"type": "manga-canon",
+			"aired_date": "2007-05-08"
+		},
+		{
+			"episode": 7,
+			"title": "Marked for Death",
+			"type": "manga-canon",
+			"aired_date": "2007-05-15"
+		},
+		{
+			"episode": 8,
+			"title": "Awakening",
+			"type": "manga-canon",
+			"aired_date": "2007-05-22"
+		},
+		{
+			"episode": 9,
+			"title": "Those Who Rend Asunder (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2007-05-29"
+		},
+		{
+			"episode": 10,
+			"title": "Those Who Rend Asunder (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2007-06-05"
+		},
+		{
+			"episode": 11,
+			"title": "Those Who Rend Asunder (Part 3)",
+			"type": "manga-canon",
+			"aired_date": "2007-06-12"
+		},
+		{
+			"episode": 12,
+			"title": "The Endless Gravestones (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2007-06-19"
+		},
+		{
+			"episode": 13,
+			"title": "The Endless Gravestones (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2007-06-26"
+		},
+		{
+			"episode": 14,
+			"title": "Qualified to Fight",
+			"type": "manga-canon",
+			"aired_date": "2007-07-03"
+		},
+		{
+			"episode": 15,
+			"title": "The Witch's Maw (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2007-07-10"
+		},
+		{
+			"episode": 16,
+			"title": "The Witch's Maw (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2007-07-17"
+		},
+		{
+			"episode": 17,
+			"title": "The Witch's Maw (Part 3)",
+			"type": "manga-canon",
+			"aired_date": "2007-07-24"
+		},
+		{
+			"episode": 18,
+			"title": "The Carnage in the North (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2007-07-31"
+		},
+		{
+			"episode": 19,
+			"title": "The Carnage in the North (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2007-08-07"
+		},
+		{
+			"episode": 20,
+			"title": "The Carnage in the North (Part 3)",
+			"type": "manga-canon",
+			"aired_date": "2007-08-14"
+		},
+		{
+			"episode": 21,
+			"title": "Invasion of Pieta (Part 1)",
+			"type": "mixed-manga",
+			"aired_date": "2007-08-21"
+		},
+		{
+			"episode": 22,
+			"title": "Invasion of Pieta (Part 2)",
+			"type": "mixed-manga",
+			"aired_date": "2007-08-28"
+		},
+		{
+			"episode": 23,
+			"title": "Critical Point (Part 1)",
+			"type": "mixed-manga",
+			"aired_date": "2007-09-04"
+		},
+		{
+			"episode": 24,
+			"title": "Critical Point (Part 2)",
+			"type": "filler",
+			"aired_date": "2007-09-11"
+		},
+		{
+			"episode": 25,
+			"title": "For Whose Sake",
+			"type": "filler",
+			"aired_date": "2007-09-18"
+		},
+		{
+			"episode": 26,
+			"title": "To the Successors",
+			"type": "filler",
+			"aired_date": "2007-09-25"
+		}
+	]
+}

@@ -1,0 +1,148 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Assassination Classroom",
+	"mappings": {
+		"anilist_id": 20755,
+		"mal_id": 24833
+	},
+	"episodes": [
+		{
+			"episode": 0,
+			"title": "Meeting Time",
+			"type": "anime-canon",
+			"aired_date": "2014-11-09"
+		},
+		{
+			"episode": 1,
+			"title": "Assassination Time",
+			"type": "manga-canon",
+			"aired_date": "2015-01-09"
+		},
+		{
+			"episode": 2,
+			"title": "Baseball Time",
+			"type": "manga-canon",
+			"aired_date": "2015-01-16"
+		},
+		{
+			"episode": 3,
+			"title": "Karma Time",
+			"type": "manga-canon",
+			"aired_date": "2015-01-30"
+		},
+		{
+			"episode": 4,
+			"title": "Grown-Up Time",
+			"type": "manga-canon",
+			"aired_date": "2015-02-06"
+		},
+		{
+			"episode": 5,
+			"title": "Assembly Time",
+			"type": "mixed-manga",
+			"aired_date": "2015-02-13"
+		},
+		{
+			"episode": 6,
+			"title": "Test Time",
+			"type": "manga-canon",
+			"aired_date": "2015-02-20"
+		},
+		{
+			"episode": 7,
+			"title": "School Trip Time/1st Period",
+			"type": "manga-canon",
+			"aired_date": "2015-02-27"
+		},
+		{
+			"episode": 8,
+			"title": "School Trip Time/2nd Period",
+			"type": "manga-canon",
+			"aired_date": "2015-03-06"
+		},
+		{
+			"episode": 9,
+			"title": "Transfer Student Time",
+			"type": "manga-canon",
+			"aired_date": "2015-03-13"
+		},
+		{
+			"episode": 10,
+			"title": "L and R Time",
+			"type": "manga-canon",
+			"aired_date": "2015-03-20"
+		},
+		{
+			"episode": 11,
+			"title": "Transfer Student Time/2nd Period",
+			"type": "manga-canon",
+			"aired_date": "2015-03-27"
+		},
+		{
+			"episode": 12,
+			"title": "Ball Game Tournament Time",
+			"type": "manga-canon",
+			"aired_date": "2015-04-10"
+		},
+		{
+			"episode": 13,
+			"title": "Talent Time",
+			"type": "manga-canon",
+			"aired_date": "2015-04-17"
+		},
+		{
+			"episode": 14,
+			"title": "Vision Time",
+			"type": "manga-canon",
+			"aired_date": "2015-04-24"
+		},
+		{
+			"episode": 15,
+			"title": "End-of-Term Time",
+			"type": "manga-canon",
+			"aired_date": "2015-05-01"
+		},
+		{
+			"episode": 16,
+			"title": "School's Out/1st Term",
+			"type": "manga-canon",
+			"aired_date": "2015-05-08"
+		},
+		{
+			"episode": 17,
+			"title": "Island Time",
+			"type": "manga-canon",
+			"aired_date": "2015-05-15"
+		},
+		{
+			"episode": 18,
+			"title": "Action Time",
+			"type": "manga-canon",
+			"aired_date": "2015-05-22"
+		},
+		{
+			"episode": 19,
+			"title": "Pandemonium Time",
+			"type": "manga-canon",
+			"aired_date": "2015-05-29"
+		},
+		{
+			"episode": 20,
+			"title": "Karma Time/2nd Period",
+			"type": "manga-canon",
+			"aired_date": "2015-06-05"
+		},
+		{
+			"episode": 21,
+			"title": "XX Time",
+			"type": "manga-canon",
+			"aired_date": "2015-06-12"
+		},
+		{
+			"episode": 22,
+			"title": "Nagisa Time",
+			"type": "manga-canon",
+			"aired_date": "2015-06-19"
+		}
+	]
+}

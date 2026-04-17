@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Berserk 2",
+	"mappings": {
+		"anilist_id": 97643,
+		"mal_id": 34055
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Rent World",
+			"type": "manga-canon",
+			"aired_date": "2017-04-07"
+		},
+		{
+			"episode": 2,
+			"title": "Winter Journey",
+			"type": "manga-canon",
+			"aired_date": "2017-04-07"
+		},
+		{
+			"episode": 3,
+			"title": "Banner of the Flying Sword",
+			"type": "manga-canon",
+			"aired_date": "2017-04-14"
+		},
+		{
+			"episode": 4,
+			"title": "Forest of Demonic Beasts",
+			"type": "manga-canon",
+			"aired_date": "2017-04-21"
+		},
+		{
+			"episode": 5,
+			"title": "Spirit Realm",
+			"type": "manga-canon",
+			"aired_date": "2017-04-28"
+		},
+		{
+			"episode": 6,
+			"title": "Fight for Survival Against the Demonic Legion",
+			"type": "manga-canon",
+			"aired_date": "2017-05-05"
+		},
+		{
+			"episode": 7,
+			"title": "The Arcana of Invocation",
+			"type": "manga-canon",
+			"aired_date": "2017-05-12"
+		},
+		{
+			"episode": 8,
+			"title": "The Corruption of Qliphoth",
+			"type": "manga-canon",
+			"aired_date": "2017-05-19"
+		},
+		{
+			"episode": 9,
+			"title": "The Berserker Armor",
+			"type": "manga-canon",
+			"aired_date": "2017-05-26"
+		},
+		{
+			"episode": 10,
+			"title": "A Journey Begins in Flames",
+			"type": "manga-canon",
+			"aired_date": "2017-06-09"
+		},
+		{
+			"episode": 11,
+			"title": "Proclaimed Omens",
+			"type": "manga-canon",
+			"aired_date": "2017-06-16"
+		},
+		{
+			"episode": 12,
+			"title": "City of Humans",
+			"type": "manga-canon",
+			"aired_date": "2017-06-23"
+		}
+	]
+}

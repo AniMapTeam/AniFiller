@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "The Asterisk War",
+	"mappings": {
+		"anilist_id": 21131,
+		"mal_id": 30544
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Glühen Rose",
+			"type": "manga-canon",
+			"aired_date": "2015-10-03"
+		},
+		{
+			"episode": 2,
+			"title": "Ser-Veresta",
+			"type": "manga-canon",
+			"aired_date": "2015-10-10"
+		},
+		{
+			"episode": 3,
+			"title": "A Holiday for Two",
+			"type": "manga-canon",
+			"aired_date": "2015-10-17"
+		},
+		{
+			"episode": 4,
+			"title": "The Unshackled One",
+			"type": "manga-canon",
+			"aired_date": "2015-10-24"
+		},
+		{
+			"episode": 5,
+			"title": "Shippuu Jinrai",
+			"type": "manga-canon",
+			"aired_date": "2015-10-31"
+		},
+		{
+			"episode": 6,
+			"title": "The True Face of the Girl",
+			"type": "manga-canon",
+			"aired_date": "2015-11-07"
+		},
+		{
+			"episode": 7,
+			"title": "Decisions and Duels",
+			"type": "manga-canon",
+			"aired_date": "2015-11-14"
+		},
+		{
+			"episode": 8,
+			"title": "A Holiday for Two, Part 2",
+			"type": "filler",
+			"aired_date": "2015-11-21"
+		},
+		{
+			"episode": 9,
+			"title": "The Phoenix Festa",
+			"type": "manga-canon",
+			"aired_date": "2015-11-28"
+		},
+		{
+			"episode": 10,
+			"title": "The Tyrant Vampire Princess",
+			"type": "manga-canon",
+			"aired_date": "2015-12-05"
+		},
+		{
+			"episode": 11,
+			"title": "Power and Its Price",
+			"type": "manga-canon",
+			"aired_date": "2015-12-12"
+		},
+		{
+			"episode": 12,
+			"title": "The Gravi-Sheath",
+			"type": "manga-canon",
+			"aired_date": "2015-12-19"
+		}
+	]
+}

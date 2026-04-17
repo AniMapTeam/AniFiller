@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "To the Abandoned Sacred Beasts",
+	"mappings": {
+		"anilist_id": 107672,
+		"mal_id": 39199
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "To the Abandoned Sacred Beasts",
+			"type": "mixed-manga",
+			"aired_date": "2019-07-01"
+		},
+		{
+			"episode": 2,
+			"title": "The Dragon's Daughter",
+			"type": "mixed-manga",
+			"aired_date": "2019-07-08"
+		},
+		{
+			"episode": 3,
+			"title": "The Minotaur's Fortress",
+			"type": "manga-canon",
+			"aired_date": "2019-07-15"
+		},
+		{
+			"episode": 4,
+			"title": "March of the Behemoth",
+			"type": "manga-canon",
+			"aired_date": "2019-07-22"
+		},
+		{
+			"episode": 5,
+			"title": "Gargoyle's Judgment",
+			"type": "manga-canon",
+			"aired_date": "2019-07-29"
+		},
+		{
+			"episode": 6,
+			"title": "The King of the Beasts",
+			"type": "manga-canon",
+			"aired_date": "2019-08-05"
+		},
+		{
+			"episode": 7,
+			"title": "The Trigger of Memories",
+			"type": "manga-canon",
+			"aired_date": "2019-08-12"
+		},
+		{
+			"episode": 8,
+			"title": "Songstress of Sleep",
+			"type": "manga-canon",
+			"aired_date": "2019-08-19"
+		},
+		{
+			"episode": 9,
+			"title": "The Hound of Hell's Gate",
+			"type": "manga-canon",
+			"aired_date": "2019-08-26"
+		},
+		{
+			"episode": 10,
+			"title": "Two Oaths",
+			"type": "manga-canon",
+			"aired_date": "2019-09-02"
+		},
+		{
+			"episode": 11,
+			"title": "The Start of Troubles Ahead",
+			"type": "manga-canon",
+			"aired_date": "2019-09-09"
+		},
+		{
+			"episode": 12,
+			"title": "Those Who Seek",
+			"type": "manga-canon",
+			"aired_date": "2019-09-16"
+		}
+	]
+}

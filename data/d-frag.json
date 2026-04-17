@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "D-Frag!",
+	"mappings": {
+		"anilist_id": 20031,
+		"mal_id": 20031
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Kazama's Party",
+			"type": "manga-canon",
+			"aired_date": "2014-01-07"
+		},
+		{
+			"episode": 2,
+			"title": "Curse You, Fake Game Creation Club",
+			"type": "manga-canon",
+			"aired_date": "2014-01-14"
+		},
+		{
+			"episode": 3,
+			"title": "Fujou Academy Freedom Festival, AKA FuF Festival",
+			"type": "manga-canon",
+			"aired_date": "2014-01-21"
+		},
+		{
+			"episode": 4,
+			"title": "They're the Band of 14 Devils!!",
+			"type": "mixed-manga",
+			"aired_date": "2014-01-28"
+		},
+		{
+			"episode": 5,
+			"title": "What?! Your Little Sister Makes Your Lunches?!",
+			"type": "manga-canon",
+			"aired_date": "2014-02-04"
+		},
+		{
+			"episode": 6,
+			"title": "So That Means We're in a Love Triangle!",
+			"type": "manga-canon",
+			"aired_date": "2014-02-11"
+		},
+		{
+			"episode": 7,
+			"title": "That's Dirty---!!",
+			"type": "manga-canon",
+			"aired_date": "2014-02-18"
+		},
+		{
+			"episode": 8,
+			"title": "I Liked the Pixels...",
+			"type": "manga-canon",
+			"aired_date": "2014-02-25"
+		},
+		{
+			"episode": 9,
+			"title": "That's Right. I'm His Little Sister",
+			"type": "mixed-manga",
+			"aired_date": "2014-03-04"
+		},
+		{
+			"episode": 10,
+			"title": "Tama-senpai, Long Time No See",
+			"type": "manga-canon",
+			"aired_date": "2014-03-11"
+		},
+		{
+			"episode": 11,
+			"title": "What's My Secret Move?",
+			"type": "manga-canon",
+			"aired_date": "2014-03-18"
+		},
+		{
+			"episode": 12,
+			"title": "At this Rate, You'll have Zero Friends for All Eternity!",
+			"type": "manga-canon",
+			"aired_date": "2014-03-25"
+		}
+	]
+}

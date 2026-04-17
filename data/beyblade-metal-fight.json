@@ -1,0 +1,316 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Beyblade Metal Fusion",
+	"mappings": {
+		"anilist_id": 5962,
+		"mal_id": 5962
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Pegasis Has Landed!",
+			"type": "manga-canon",
+			"aired_date": "2009-04-05"
+		},
+		{
+			"episode": 2,
+			"title": "Leone's Fangs!",
+			"type": "manga-canon",
+			"aired_date": "2009-04-12"
+		},
+		{
+			"episode": 3,
+			"title": "The Wolf's Ambition!",
+			"type": "mixed-manga",
+			"aired_date": "2009-04-19"
+		},
+		{
+			"episode": 4,
+			"title": "Charge! Bull Power!",
+			"type": "anime-canon",
+			"aired_date": "2009-04-26"
+		},
+		{
+			"episode": 5,
+			"title": "Vengeful Cancer",
+			"type": "anime-canon",
+			"aired_date": "2009-05-03"
+		},
+		{
+			"episode": 6,
+			"title": "Aquario's Challenge",
+			"type": "anime-canon",
+			"aired_date": "2009-05-10"
+		},
+		{
+			"episode": 7,
+			"title": "It's Our Special Move! Sagittario",
+			"type": "anime-canon",
+			"aired_date": "2009-05-17"
+		},
+		{
+			"episode": 8,
+			"title": "Merci's Dangerous Trap",
+			"type": "anime-canon",
+			"aired_date": "2009-05-24"
+		},
+		{
+			"episode": 9,
+			"title": "Leone's Counterattack",
+			"type": "anime-canon",
+			"aired_date": "2009-05-31"
+		},
+		{
+			"episode": 10,
+			"title": "Heated Battle! Ginga VS Kyoya",
+			"type": "anime-canon",
+			"aired_date": "2009-06-07"
+		},
+		{
+			"episode": 11,
+			"title": "Chase The Wolf!",
+			"type": "anime-canon",
+			"aired_date": "2009-06-14"
+		},
+		{
+			"episode": 12,
+			"title": "Infiltrate The Dark Nebula's Castle!",
+			"type": "mixed-manga",
+			"aired_date": "2009-06-21"
+		},
+		{
+			"episode": 13,
+			"title": "\"L-Drago Awakens!",
+			"type": "mixed-manga",
+			"aired_date": "2009-06-28"
+		},
+		{
+			"episode": 14,
+			"title": "Memories of Ryo",
+			"type": "mixed-manga",
+			"aired_date": "2009-07-05"
+		},
+		{
+			"episode": 15,
+			"title": "Mysterious Hyoma",
+			"type": "anime-canon",
+			"aired_date": "2009-07-12"
+		},
+		{
+			"episode": 16,
+			"title": "The Magnificent Aries",
+			"type": "anime-canon",
+			"aired_date": "2009-07-19"
+		},
+		{
+			"episode": 17,
+			"title": "The Silver Pegasus",
+			"type": "mixed-manga",
+			"aired_date": "2009-07-26"
+		},
+		{
+			"episode": 18,
+			"title": "The Green Hades",
+			"type": "anime-canon",
+			"aired_date": "2009-08-02"
+		},
+		{
+			"episode": 19,
+			"title": "Take the Tag Battle by Storm!",
+			"type": "filler",
+			"aired_date": "2009-08-09"
+		},
+		{
+			"episode": 20,
+			"title": "Begin! The Survival Battle!",
+			"type": "anime-canon",
+			"aired_date": "2009-08-16"
+		},
+		{
+			"episode": 21,
+			"title": "Warriors on the Deserted Island",
+			"type": "anime-canon",
+			"aired_date": "2009-08-23"
+		},
+		{
+			"episode": 22,
+			"title": "The Fearsome Libra",
+			"type": "anime-canon",
+			"aired_date": "2009-08-30"
+		},
+		{
+			"episode": 23,
+			"title": "The Road to Battle Bladers",
+			"type": "anime-canon",
+			"aired_date": "2009-09-06"
+		},
+		{
+			"episode": 24,
+			"title": "The Beautiful Eagle",
+			"type": "anime-canon",
+			"aired_date": "2009-09-13"
+		},
+		{
+			"episode": 25,
+			"title": "The Sniper Capricorn",
+			"type": "anime-canon",
+			"aired_date": "2009-09-20"
+		},
+		{
+			"episode": 26,
+			"title": "Tsubasa Flies Into The Dark",
+			"type": "anime-canon",
+			"aired_date": "2009-09-27"
+		},
+		{
+			"episode": 27,
+			"title": "Intruders in the Challenge Match",
+			"type": "anime-canon",
+			"aired_date": "2009-10-04"
+		},
+		{
+			"episode": 28,
+			"title": "Dark Gasher's Big, Crabby-Crabby Operation!",
+			"type": "mixed-manga",
+			"aired_date": "2009-10-11"
+		},
+		{
+			"episode": 29,
+			"title": "Kenta and Sora",
+			"type": "anime-canon",
+			"aired_date": "2009-10-18"
+		},
+		{
+			"episode": 30,
+			"title": "The Bewitching Pisces",
+			"type": "manga-canon",
+			"aired_date": "2009-10-25"
+		},
+		{
+			"episode": 31,
+			"title": "The Twin Geminis",
+			"type": "anime-canon",
+			"aired_date": "2009-11-01"
+		},
+		{
+			"episode": 32,
+			"title": "The Storm Battle Royal",
+			"type": "manga-canon",
+			"aired_date": "2009-11-08"
+		},
+		{
+			"episode": 33,
+			"title": "The Oath of Phoenix",
+			"type": "anime-canon",
+			"aired_date": "2009-11-15"
+		},
+		{
+			"episode": 34,
+			"title": "Shine, Virgo!",
+			"type": "anime-canon",
+			"aired_date": "2009-11-22"
+		},
+		{
+			"episode": 35,
+			"title": "L-Drago on the Move",
+			"type": "anime-canon",
+			"aired_date": "2009-11-29"
+		},
+		{
+			"episode": 36,
+			"title": "Broken Wings",
+			"type": "anime-canon",
+			"aired_date": "2009-12-06"
+		},
+		{
+			"episode": 37,
+			"title": "Rock Scorpio's Deadly Poison",
+			"type": "filler",
+			"aired_date": "2009-12-13"
+		},
+		{
+			"episode": 38,
+			"title": "Run, Gingka!",
+			"type": "anime-canon",
+			"aired_date": "2009-12-20"
+		},
+		{
+			"episode": 39,
+			"title": "Clash! The Fireblaze VS the Pegasus",
+			"type": "anime-canon",
+			"aired_date": "2009-12-27"
+		},
+		{
+			"episode": 40,
+			"title": "GO! Battle Bladers!",
+			"type": "anime-canon",
+			"aired_date": "2010-01-10"
+		},
+		{
+			"episode": 41,
+			"title": "The Serpent's Terror",
+			"type": "anime-canon",
+			"aired_date": "2010-01-17"
+		},
+		{
+			"episode": 42,
+			"title": "The Dragon's Punishment",
+			"type": "anime-canon",
+			"aired_date": "2010-01-24"
+		},
+		{
+			"episode": 43,
+			"title": "The Deck is Stacked",
+			"type": "mixed-manga",
+			"aired_date": "2010-01-31"
+		},
+		{
+			"episode": 44,
+			"title": "Entrusted Emotions",
+			"type": "anime-canon",
+			"aired_date": "2010-02-07"
+		},
+		{
+			"episode": 45,
+			"title": "Eagle Counterattacks",
+			"type": "anime-canon",
+			"aired_date": "2010-02-14"
+		},
+		{
+			"episode": 46,
+			"title": "Libra Disappears",
+			"type": "mixed-manga",
+			"aired_date": "2010-02-21"
+		},
+		{
+			"episode": 47,
+			"title": "Bonds of Steel",
+			"type": "mixed-manga",
+			"aired_date": "2010-02-28"
+		},
+		{
+			"episode": 48,
+			"title": "The Truth About Light and Darkness",
+			"type": "mixed-manga",
+			"aired_date": "2010-03-07"
+		},
+		{
+			"episode": 49,
+			"title": "Fierce Battle! Lion VS Dragon",
+			"type": "manga-canon",
+			"aired_date": "2010-03-14"
+		},
+		{
+			"episode": 50,
+			"title": "The Furious Final Battle!",
+			"type": "mixed-manga",
+			"aired_date": "2010-01-24"
+		},
+		{
+			"episode": 51,
+			"title": "Blader's Spirit",
+			"type": "manga-canon",
+			"aired_date": "2010-03-28"
+		}
+	]
+}

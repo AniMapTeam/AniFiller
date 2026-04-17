@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Attack on Titan Season 2",
+	"mappings": {
+		"anilist_id": 20958,
+		"mal_id": 25777
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Beast Titan",
+			"type": "manga-canon",
+			"aired_date": "2017-04-01"
+		},
+		{
+			"episode": 2,
+			"title": "I'm Home",
+			"type": "manga-canon",
+			"aired_date": "2017-04-08"
+		},
+		{
+			"episode": 3,
+			"title": "Southwestward",
+			"type": "manga-canon",
+			"aired_date": "2017-04-15"
+		},
+		{
+			"episode": 4,
+			"title": "Soldier",
+			"type": "manga-canon",
+			"aired_date": "2017-04-22"
+		},
+		{
+			"episode": 5,
+			"title": "Historia",
+			"type": "manga-canon",
+			"aired_date": "2017-04-29"
+		},
+		{
+			"episode": 6,
+			"title": "Warrior",
+			"type": "manga-canon",
+			"aired_date": "2017-05-06"
+		},
+		{
+			"episode": 7,
+			"title": "Close Combat",
+			"type": "manga-canon",
+			"aired_date": "2017-05-13"
+		},
+		{
+			"episode": 8,
+			"title": "The Hunters",
+			"type": "mixed-manga",
+			"aired_date": "2017-05-20"
+		},
+		{
+			"episode": 9,
+			"title": "Opening",
+			"type": "manga-canon",
+			"aired_date": "2017-05-27"
+		},
+		{
+			"episode": 10,
+			"title": "Children",
+			"type": "manga-canon",
+			"aired_date": "2017-06-03"
+		},
+		{
+			"episode": 11,
+			"title": "Charge",
+			"type": "manga-canon",
+			"aired_date": "2017-06-10"
+		},
+		{
+			"episode": 12,
+			"title": "Scream",
+			"type": "manga-canon",
+			"aired_date": "2017-06-17"
+		}
+	]
+}

@@ -1,0 +1,160 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Berserk",
+	"mappings": {
+		"anilist_id": 33,
+		"mal_id": 33
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Black Swordsman",
+			"type": "mixed-manga",
+			"aired_date": "1997-10-07"
+		},
+		{
+			"episode": 2,
+			"title": "Band of the Hawk",
+			"type": "manga-canon",
+			"aired_date": "1997-10-17"
+		},
+		{
+			"episode": 3,
+			"title": "First Battle",
+			"type": "manga-canon",
+			"aired_date": "1997-10-21"
+		},
+		{
+			"episode": 4,
+			"title": "The Hand of God",
+			"type": "manga-canon",
+			"aired_date": "1997-10-28"
+		},
+		{
+			"episode": 5,
+			"title": "A Wind of Swords",
+			"type": "manga-canon",
+			"aired_date": "1997-11-04"
+		},
+		{
+			"episode": 6,
+			"title": "Zodd the Immortal",
+			"type": "manga-canon",
+			"aired_date": "1997-11-11"
+		},
+		{
+			"episode": 7,
+			"title": "The Sword's Owner",
+			"type": "manga-canon",
+			"aired_date": "1997-11-18"
+		},
+		{
+			"episode": 8,
+			"title": "Conspiracy",
+			"type": "manga-canon",
+			"aired_date": "1997-11-25"
+		},
+		{
+			"episode": 9,
+			"title": "Assassination",
+			"type": "manga-canon",
+			"aired_date": "1997-12-02"
+		},
+		{
+			"episode": 10,
+			"title": "Noble Man",
+			"type": "manga-canon",
+			"aired_date": "1997-12-09"
+		},
+		{
+			"episode": 11,
+			"title": "The Battle",
+			"type": "manga-canon",
+			"aired_date": "1997-12-16"
+		},
+		{
+			"episode": 12,
+			"title": "Together",
+			"type": "manga-canon",
+			"aired_date": "1997-12-23"
+		},
+		{
+			"episode": 13,
+			"title": "Prepared For Death",
+			"type": "manga-canon",
+			"aired_date": "1998-01-06"
+		},
+		{
+			"episode": 14,
+			"title": "Bonfire of Dreams",
+			"type": "manga-canon",
+			"aired_date": "1998-01-13"
+		},
+		{
+			"episode": 15,
+			"title": "The Decisive Battle",
+			"type": "manga-canon",
+			"aired_date": "1998-01-20"
+		},
+		{
+			"episode": 16,
+			"title": "The Conquerer",
+			"type": "manga-canon",
+			"aired_date": "1998-01-27"
+		},
+		{
+			"episode": 17,
+			"title": "Moment of Glory",
+			"type": "manga-canon",
+			"aired_date": "1998-02-03"
+		},
+		{
+			"episode": 18,
+			"title": "Tombstone of Flames",
+			"type": "manga-canon",
+			"aired_date": "1998-02-10"
+		},
+		{
+			"episode": 19,
+			"title": "Separation",
+			"type": "manga-canon",
+			"aired_date": "1998-02-17"
+		},
+		{
+			"episode": 20,
+			"title": "Sparks",
+			"type": "manga-canon",
+			"aired_date": "1998-02-24"
+		},
+		{
+			"episode": 21,
+			"title": "Confession",
+			"type": "manga-canon",
+			"aired_date": "1998-03-03"
+		},
+		{
+			"episode": 22,
+			"title": "Inflitration",
+			"type": "manga-canon",
+			"aired_date": "1998-03-10"
+		},
+		{
+			"episode": 23,
+			"title": "Eve Of The Feast",
+			"type": "manga-canon",
+			"aired_date": "1998-03-17"
+		},
+		{
+			"episode": 24,
+			"title": "The Eclipse",
+			"type": "manga-canon",
+			"aired_date": "1998-03-24"
+		},
+		{
+			"episode": 25,
+			"title": "Time Of Eternity",
+			"type": "manga-canon",
+			"aired_date": "1998-03-31"
+		}
+	]
+}

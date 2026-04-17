@@ -1,0 +1,77 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"type": "object",
+	"properties": {
+		"episodes": {
+			"type": "array",
+			"description": "An array of episodes for the show.",
+			"minItems": 1,
+			"items": {
+				"type": "object",
+				"properties": {
+					"aired_date": {
+						"type": "string",
+						"description": "The air date of the episode, in YYYY-MM-DD format.",
+						"pattern": "^(\\d{4})-(\\d{2})-(\\d{2})$"
+					},
+					"episode": {
+						"type": "number",
+						"description": "The episode number."
+					},
+					"title": {
+						"type": "string",
+						"description": "The episode title."
+					},
+					"type": {
+						"anyOf": [
+							{
+								"const": "anime-canon",
+								"description": "The episode is not based on the manga, but is considered canon by the anime adaptation."
+							},
+							{
+								"const": "filler",
+								"description": "The episode is not based on the manga, and is considered filler."
+							},
+							{
+								"const": "manga-canon",
+								"description": "The episode is based on the manga, and is considered canon."
+							},
+							{
+								"const": "mixed-manga",
+								"description": "The episode is based on the manga, but also contains filler content."
+							}
+						]
+					}
+				},
+				"required": [
+					"aired_date",
+					"episode",
+					"title",
+					"type"
+				]
+			}
+		},
+		"mappings": {
+			"type": "object",
+			"description": "IDs for the show on various anime databases.",
+			"properties": {
+				"anilist_id": {
+					"type": "number",
+					"description": "The show's Anilist ID.",
+					"minimum": 1
+				},
+				"mal_id": {
+					"type": "number",
+					"description": "The show's MyAnimeList ID.",
+					"minimum": 1
+				}
+			},
+			"required": ["anilist_id", "mal_id"]
+		},
+		"title": {
+			"type": "string",
+			"description": "The show title."
+		}
+	},
+	"required": ["episodes", "mappings", "title"]
+}

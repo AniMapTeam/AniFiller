@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "declaration": false,
+        "forceConsistentCasingInFileNames": true,
+        "lib": ["ESNext"],
+        "module": "ESNext",
+        "moduleResolution": "Bundler",
+        "resolveJsonModule": true,
+        "target": "ESNext",
+        "downlevelIteration": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "types": ["bun"],
+        "paths": {
+            "$*": ["./src/*"]
+        }
+    },
+    "exclude": ["node_modules", "**/node_modules/*"]
+}

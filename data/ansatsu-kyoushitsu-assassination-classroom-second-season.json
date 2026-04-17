@@ -1,0 +1,160 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Assassination Classroom Second Season",
+	"mappings": {
+		"anilist_id": 21170,
+		"mal_id": 30654
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Summer Festival Time",
+			"type": "manga-canon",
+			"aired_date": "2016-01-07"
+		},
+		{
+			"episode": 2,
+			"title": "Kaede Time",
+			"type": "manga-canon",
+			"aired_date": "2016-01-14"
+		},
+		{
+			"episode": 3,
+			"title": "Itona Horibe Time",
+			"type": "manga-canon",
+			"aired_date": "2016-01-21"
+		},
+		{
+			"episode": 4,
+			"title": "Spinning Time",
+			"type": "manga-canon",
+			"aired_date": "2016-01-28"
+		},
+		{
+			"episode": 5,
+			"title": "Leader Time",
+			"type": "manga-canon",
+			"aired_date": "2016-02-04"
+		},
+		{
+			"episode": 6,
+			"title": "Before & After Time",
+			"type": "manga-canon",
+			"aired_date": "2016-02-11"
+		},
+		{
+			"episode": 7,
+			"title": "Reaper Time, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2016-02-18"
+		},
+		{
+			"episode": 8,
+			"title": "Reaper Time, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2016-02-25"
+		},
+		{
+			"episode": 9,
+			"title": "Round Two Time",
+			"type": "manga-canon",
+			"aired_date": "2016-03-03"
+		},
+		{
+			"episode": 10,
+			"title": "School Festival Time",
+			"type": "manga-canon",
+			"aired_date": "2016-03-10"
+		},
+		{
+			"episode": 11,
+			"title": "End-of-Term Time/2nd Period",
+			"type": "manga-canon",
+			"aired_date": "2016-03-17"
+		},
+		{
+			"episode": 12,
+			"title": "Think Outside the Box Time",
+			"type": "manga-canon",
+			"aired_date": "2016-03-24"
+		},
+		{
+			"episode": 13,
+			"title": "Let Live Time",
+			"type": "manga-canon",
+			"aired_date": "2016-03-31"
+		},
+		{
+			"episode": 14,
+			"title": "Secret Identity Time",
+			"type": "manga-canon",
+			"aired_date": "2016-04-07"
+		},
+		{
+			"episode": 15,
+			"title": "Confession Time",
+			"type": "manga-canon",
+			"aired_date": "2016-04-21"
+		},
+		{
+			"episode": 16,
+			"title": "Past Time",
+			"type": "manga-canon",
+			"aired_date": "2016-04-28"
+		},
+		{
+			"episode": 17,
+			"title": "Discord Time",
+			"type": "manga-canon",
+			"aired_date": "2016-05-05"
+		},
+		{
+			"episode": 18,
+			"title": "Outcome Time",
+			"type": "manga-canon",
+			"aired_date": "2016-05-12"
+		},
+		{
+			"episode": 19,
+			"title": "Outer Space Time",
+			"type": "manga-canon",
+			"aired_date": "2016-05-19"
+		},
+		{
+			"episode": 20,
+			"title": "Valentine's Day Time",
+			"type": "manga-canon",
+			"aired_date": "2016-05-26"
+		},
+		{
+			"episode": 21,
+			"title": "Trust Time",
+			"type": "manga-canon",
+			"aired_date": "2016-06-01"
+		},
+		{
+			"episode": 22,
+			"title": "Happy Birthday Time",
+			"type": "manga-canon",
+			"aired_date": "2016-06-08"
+		},
+		{
+			"episode": 23,
+			"title": "Final Boss Time",
+			"type": "manga-canon",
+			"aired_date": "2016-06-15"
+		},
+		{
+			"episode": 24,
+			"title": "Graduation Time",
+			"type": "manga-canon",
+			"aired_date": "2016-06-22"
+		},
+		{
+			"episode": 25,
+			"title": "Future Time",
+			"type": "manga-canon",
+			"aired_date": "2016-06-29"
+		}
+	]
+}

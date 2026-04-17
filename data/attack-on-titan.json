@@ -1,0 +1,160 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Attack on Titan",
+	"mappings": {
+		"anilist_id": 16498,
+		"mal_id": 16498
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "To You, in 2000 Years: The Fall of Shiganshina, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2013-04-07"
+		},
+		{
+			"episode": 2,
+			"title": "That Day: The Fall of Shiganshina, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2013-04-14"
+		},
+		{
+			"episode": 3,
+			"title": "A Dim Light Amid Despair: Humanity's Comeback, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2013-04-21"
+		},
+		{
+			"episode": 4,
+			"title": "The Night of the Closing Ceremony: Humanity's Comeback, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2013-04-28"
+		},
+		{
+			"episode": 5,
+			"title": "First Battle: The Struggle for Trost, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2013-05-05"
+		},
+		{
+			"episode": 6,
+			"title": "The World the Girl Saw: The Struggle for Trost, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2013-05-12"
+		},
+		{
+			"episode": 7,
+			"title": "Small Blade: The Struggle for Trost, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2013-05-19"
+		},
+		{
+			"episode": 8,
+			"title": "I Can Hear His Heartbeat: The Struggle for Trost, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2013-05-26"
+		},
+		{
+			"episode": 9,
+			"title": "Whereabouts of His Left Arm: The Struggle for Trost, Part 5",
+			"type": "manga-canon",
+			"aired_date": "2013-06-02"
+		},
+		{
+			"episode": 10,
+			"title": "Response: The Struggle for Trost, Part 6",
+			"type": "manga-canon",
+			"aired_date": "2013-06-09"
+		},
+		{
+			"episode": 11,
+			"title": "Idol: The Struggle for Trost, Part 7",
+			"type": "manga-canon",
+			"aired_date": "2013-06-16"
+		},
+		{
+			"episode": 12,
+			"title": "Wound: The Struggle for Trost, Part 8",
+			"type": "manga-canon",
+			"aired_date": "2013-06-23"
+		},
+		{
+			"episode": 13,
+			"title": "Primal Desire: The Struggle for Trost, Part 9",
+			"type": "manga-canon",
+			"aired_date": "2013-06-30"
+		},
+		{
+			"episode": 14,
+			"title": "Can't Look Into His Eyes Yet: Eve of the Counterattack, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2013-07-14"
+		},
+		{
+			"episode": 15,
+			"title": "Special Operations Squad: Eve of the Counterattack, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2013-07-21"
+		},
+		{
+			"episode": 16,
+			"title": "What Needs to Be Done Now: Eve of the Counterattack, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2013-07-28"
+		},
+		{
+			"episode": 17,
+			"title": "Female Titan: The 57th Exterior Scouting Mission, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2013-08-04"
+		},
+		{
+			"episode": 18,
+			"title": "Forest of Giant Trees: The 57th Exterior Scouting Mission, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2013-08-11"
+		},
+		{
+			"episode": 19,
+			"title": "Bite: The 57th Exterior Scouting Mission, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2013-08-18"
+		},
+		{
+			"episode": 20,
+			"title": "Erwin Smith: The 57th Exterior Scouting Mission, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2013-08-25"
+		},
+		{
+			"episode": 21,
+			"title": "Crushing Blow: The 57th Exterior Scouting Mission, Part 5",
+			"type": "manga-canon",
+			"aired_date": "2013-09-01"
+		},
+		{
+			"episode": 22,
+			"title": "The Defeated: The 57th Exterior Scouting Mission, Part 6",
+			"type": "mixed-manga",
+			"aired_date": "2013-09-08"
+		},
+		{
+			"episode": 23,
+			"title": "Smile: Assault on Stohess, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2013-09-15"
+		},
+		{
+			"episode": 24,
+			"title": "Mercy: Assault on Stohess, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2013-09-22"
+		},
+		{
+			"episode": 25,
+			"title": "Wall: Assault on Stohess, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2013-09-29"
+		}
+	]
+}

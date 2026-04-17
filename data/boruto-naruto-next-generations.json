@@ -1,0 +1,1768 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Boruto: Naruto Next Generations",
+	"mappings": {
+		"anilist_id": 97938,
+		"mal_id": 34566
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Boruto Uzumaki!!",
+			"type": "mixed-manga",
+			"aired_date": "2017-04-05"
+		},
+		{
+			"episode": 2,
+			"title": "The Hokage's Son…!!",
+			"type": "anime-canon",
+			"aired_date": "2017-04-12"
+		},
+		{
+			"episode": 3,
+			"title": "Metal Lee Goes Wild!",
+			"type": "anime-canon",
+			"aired_date": "2017-04-19"
+		},
+		{
+			"episode": 4,
+			"title": "A Ninjutsu Battle of the Sexes!",
+			"type": "anime-canon",
+			"aired_date": "2017-04-26"
+		},
+		{
+			"episode": 5,
+			"title": "The Mysterious Transfer Student!",
+			"type": "anime-canon",
+			"aired_date": "2017-05-03"
+		},
+		{
+			"episode": 6,
+			"title": "The Final Lesson!",
+			"type": "anime-canon",
+			"aired_date": "2017-05-10"
+		},
+		{
+			"episode": 7,
+			"title": "Love and Potato Chips!",
+			"type": "anime-canon",
+			"aired_date": "2017-05-17"
+		},
+		{
+			"episode": 8,
+			"title": "The Dream's Revelation",
+			"type": "anime-canon",
+			"aired_date": "2017-05-24"
+		},
+		{
+			"episode": 9,
+			"title": "Proof of Oneself",
+			"type": "anime-canon",
+			"aired_date": "2017-05-31"
+		},
+		{
+			"episode": 10,
+			"title": "The Ghost Incident: The Investigation Begins!",
+			"type": "anime-canon",
+			"aired_date": "2017-06-07"
+		},
+		{
+			"episode": 11,
+			"title": "The Shadow of the Mastermind",
+			"type": "anime-canon",
+			"aired_date": "2017-06-14"
+		},
+		{
+			"episode": 12,
+			"title": "Boruto and Mitsuki",
+			"type": "anime-canon",
+			"aired_date": "2017-06-21"
+		},
+		{
+			"episode": 13,
+			"title": "The Demon Beast Appears!",
+			"type": "anime-canon",
+			"aired_date": "2017-06-28"
+		},
+		{
+			"episode": 14,
+			"title": "The Path That Boruto Can See",
+			"type": "anime-canon",
+			"aired_date": "2017-07-05"
+		},
+		{
+			"episode": 15,
+			"title": "A New Path",
+			"type": "anime-canon",
+			"aired_date": "2017-07-12"
+		},
+		{
+			"episode": 16,
+			"title": "Crisis: The Threat of Failing!",
+			"type": "anime-canon",
+			"aired_date": "2017-07-19"
+		},
+		{
+			"episode": 17,
+			"title": "Run, Sarada!",
+			"type": "anime-canon",
+			"aired_date": "2017-07-26"
+		},
+		{
+			"episode": 18,
+			"title": "A Day in the Life of the Uzumaki Family",
+			"type": "manga-canon",
+			"aired_date": "2017-08-02"
+		},
+		{
+			"episode": 19,
+			"title": "Sarada Uchiha",
+			"type": "manga-canon",
+			"aired_date": "2017-08-09"
+		},
+		{
+			"episode": 20,
+			"title": "The Boy with the Sharingan",
+			"type": "manga-canon",
+			"aired_date": "2017-08-16"
+		},
+		{
+			"episode": 21,
+			"title": "Sasuke and Sarada",
+			"type": "manga-canon",
+			"aired_date": "2017-08-23"
+		},
+		{
+			"episode": 22,
+			"title": "Connected Feelings",
+			"type": "manga-canon",
+			"aired_date": "2017-08-30"
+		},
+		{
+			"episode": 23,
+			"title": "Bonds Come in All Shapes",
+			"type": "manga-canon",
+			"aired_date": "2017-09-06"
+		},
+		{
+			"episode": 24,
+			"title": "Boruto and Sarada",
+			"type": "manga-canon",
+			"aired_date": "2017-09-13"
+		},
+		{
+			"episode": 25,
+			"title": "The Turbulent Field Trip!!",
+			"type": "anime-canon",
+			"aired_date": "2017-09-20"
+		},
+		{
+			"episode": 26,
+			"title": "The Mizukage's Successor",
+			"type": "anime-canon",
+			"aired_date": "2017-09-27"
+		},
+		{
+			"episode": 27,
+			"title": "A Shinobi Bout of Friendship",
+			"type": "anime-canon",
+			"aired_date": "2017-10-04"
+		},
+		{
+			"episode": 28,
+			"title": "Declaration of War",
+			"type": "anime-canon",
+			"aired_date": "2017-10-11"
+		},
+		{
+			"episode": 29,
+			"title": "The New Seven Ninja Swordsmen!!",
+			"type": "anime-canon",
+			"aired_date": "2017-10-18"
+		},
+		{
+			"episode": 30,
+			"title": "The Sharingan vs. The Lightning Blade, Kiba the Fang!",
+			"type": "anime-canon",
+			"aired_date": "2017-10-25"
+		},
+		{
+			"episode": 31,
+			"title": "Boruto and Kagura",
+			"type": "anime-canon",
+			"aired_date": "2017-11-01"
+		},
+		{
+			"episode": 32,
+			"title": "The Quest for Souvenirs",
+			"type": "filler",
+			"aired_date": "2017-11-08"
+		},
+		{
+			"episode": 33,
+			"title": "The Super Beast Scroll Slump!",
+			"type": "filler",
+			"aired_date": "2017-11-15"
+		},
+		{
+			"episode": 34,
+			"title": "The Night of the Shooting Stars",
+			"type": "filler",
+			"aired_date": "2017-11-22"
+		},
+		{
+			"episode": 35,
+			"title": "The Parent Teacher Conference!",
+			"type": "filler",
+			"aired_date": "2017-11-29"
+		},
+		{
+			"episode": 36,
+			"title": "The Graduation Exam Begins!",
+			"type": "anime-canon",
+			"aired_date": "2017-12-06"
+		},
+		{
+			"episode": 37,
+			"title": "A Shinobi's Resolve",
+			"type": "anime-canon",
+			"aired_date": "2017-12-13"
+		},
+		{
+			"episode": 38,
+			"title": "Formation of the Three-Man Squad?",
+			"type": "anime-canon",
+			"aired_date": "2017-12-20"
+		},
+		{
+			"episode": 39,
+			"title": "The Path Lit by the Full Moon",
+			"type": "manga-canon",
+			"aired_date": "2017-12-27"
+		},
+		{
+			"episode": 40,
+			"title": "Team 7: The First Mission!",
+			"type": "anime-canon",
+			"aired_date": "2018-01-10"
+		},
+		{
+			"episode": 41,
+			"title": "Strength in Unity",
+			"type": "anime-canon",
+			"aired_date": "2018-01-17"
+		},
+		{
+			"episode": 42,
+			"title": "A Ninja's Job",
+			"type": "anime-canon",
+			"aired_date": "2018-01-24"
+		},
+		{
+			"episode": 43,
+			"title": "The Byakuya Gang Surfaces!",
+			"type": "anime-canon",
+			"aired_date": "2018-01-31"
+		},
+		{
+			"episode": 44,
+			"title": "Shikadai's Doubts",
+			"type": "anime-canon",
+			"aired_date": "2018-02-07"
+		},
+		{
+			"episode": 45,
+			"title": "Memories from the Day of Snow",
+			"type": "anime-canon",
+			"aired_date": "2018-02-14"
+		},
+		{
+			"episode": 46,
+			"title": "Go! The Crest of Night Strategy",
+			"type": "anime-canon",
+			"aired_date": "2018-02-21"
+		},
+		{
+			"episode": 47,
+			"title": "The Figure I Want to Be",
+			"type": "anime-canon",
+			"aired_date": "2018-02-28"
+		},
+		{
+			"episode": 48,
+			"title": "The Genin Documentary",
+			"type": "filler",
+			"aired_date": "2018-03-07"
+		},
+		{
+			"episode": 49,
+			"title": "Wasabi and Namida",
+			"type": "filler",
+			"aired_date": "2018-03-14"
+		},
+		{
+			"episode": 50,
+			"title": "The Chūnin Exams: The Recommendation Meeting",
+			"type": "filler",
+			"aired_date": "2018-03-21"
+		},
+		{
+			"episode": 51,
+			"title": "Boruto's Birthday",
+			"type": "anime-canon",
+			"aired_date": "2018-03-28"
+		},
+		{
+			"episode": 52,
+			"title": "Sasuke's Shadow",
+			"type": "anime-canon",
+			"aired_date": "2018-04-04"
+		},
+		{
+			"episode": 53,
+			"title": "Himawari's Birthday",
+			"type": "manga-canon",
+			"aired_date": "2018-04-11"
+		},
+		{
+			"episode": 54,
+			"title": "Sasuke and Boruto",
+			"type": "manga-canon",
+			"aired_date": "2018-04-18"
+		},
+		{
+			"episode": 55,
+			"title": "The Scientific Ninja Tool",
+			"type": "manga-canon",
+			"aired_date": "2018-04-25"
+		},
+		{
+			"episode": 56,
+			"title": "Rivals, Gather!",
+			"type": "manga-canon",
+			"aired_date": "2018-05-03"
+		},
+		{
+			"episode": 57,
+			"title": "The Reason I Can't Lose",
+			"type": "manga-canon",
+			"aired_date": "2018-05-10"
+		},
+		{
+			"episode": 58,
+			"title": "The Tournament Begins!",
+			"type": "manga-canon",
+			"aired_date": "2018-05-17"
+		},
+		{
+			"episode": 59,
+			"title": "Boruto vs. Shikadai",
+			"type": "manga-canon",
+			"aired_date": "2018-05-24"
+		},
+		{
+			"episode": 60,
+			"title": "The Hidden Leaf vs. The Hidden Sand",
+			"type": "anime-canon",
+			"aired_date": "2018-05-31"
+		},
+		{
+			"episode": 61,
+			"title": "The Iron Sand User: Shinki",
+			"type": "manga-canon",
+			"aired_date": "2018-06-07"
+		},
+		{
+			"episode": 62,
+			"title": "The Ōtsutsuki Invasion",
+			"type": "manga-canon",
+			"aired_date": "2018-06-14"
+		},
+		{
+			"episode": 63,
+			"title": "Sasuke's Secret Weapon",
+			"type": "manga-canon",
+			"aired_date": "2018-06-28"
+		},
+		{
+			"episode": 64,
+			"title": "Rescuing Naruto!",
+			"type": "manga-canon",
+			"aired_date": "2018-07-05"
+		},
+		{
+			"episode": 65,
+			"title": "Father and Child",
+			"type": "manga-canon",
+			"aired_date": "2018-07-19"
+		},
+		{
+			"episode": 66,
+			"title": "My Story!",
+			"type": "manga-canon",
+			"aired_date": "2018-07-26"
+		},
+		{
+			"episode": 67,
+			"title": "Super Chōchō Butterfly Mode!",
+			"type": "filler",
+			"aired_date": "2018-08-02"
+		},
+		{
+			"episode": 68,
+			"title": "Super Chōchō Kiss Mode!",
+			"type": "filler",
+			"aired_date": "2018-08-09"
+		},
+		{
+			"episode": 69,
+			"title": "Super Chōchō Love Upheaval!",
+			"type": "filler",
+			"aired_date": "2018-08-16"
+		},
+		{
+			"episode": 70,
+			"title": "The Other Side of Anxiety",
+			"type": "filler",
+			"aired_date": "2018-08-23"
+		},
+		{
+			"episode": 71,
+			"title": "The Hardest Rock in the World",
+			"type": "anime-canon",
+			"aired_date": "2018-08-30"
+		},
+		{
+			"episode": 72,
+			"title": "Mitsuki's Will",
+			"type": "anime-canon",
+			"aired_date": "2018-09-06"
+		},
+		{
+			"episode": 73,
+			"title": "The Other Side of the Moon",
+			"type": "anime-canon",
+			"aired_date": "2018-09-13"
+		},
+		{
+			"episode": 74,
+			"title": "The Enemy, Ino–Shika–Chō!",
+			"type": "anime-canon",
+			"aired_date": "2018-09-20"
+		},
+		{
+			"episode": 75,
+			"title": "The Trials of Ryūchi Cave",
+			"type": "anime-canon",
+			"aired_date": "2018-09-20"
+		},
+		{
+			"episode": 76,
+			"title": "Incurring Wrath",
+			"type": "anime-canon",
+			"aired_date": "2018-10-07"
+		},
+		{
+			"episode": 77,
+			"title": "A Fierce Enemy: Garaga's Ferocious Attack!",
+			"type": "anime-canon",
+			"aired_date": "2018-10-14"
+		},
+		{
+			"episode": 78,
+			"title": "Everyone's Motives",
+			"type": "anime-canon",
+			"aired_date": "2018-10-21"
+		},
+		{
+			"episode": 79,
+			"title": "Reunion with Mitsuki",
+			"type": "anime-canon",
+			"aired_date": "2018-10-28"
+		},
+		{
+			"episode": 80,
+			"title": "Mitsuki's Friend",
+			"type": "anime-canon",
+			"aired_date": "2018-11-04"
+		},
+		{
+			"episode": 81,
+			"title": "Boruto’s Wish",
+			"type": "anime-canon",
+			"aired_date": "2018-11-11"
+		},
+		{
+			"episode": 82,
+			"title": "Infiltrating the Hidden Stone Village",
+			"type": "anime-canon",
+			"aired_date": "2018-11-18"
+		},
+		{
+			"episode": 83,
+			"title": "Ōnoki's Justice",
+			"type": "anime-canon",
+			"aired_date": "2018-11-25"
+		},
+		{
+			"episode": 84,
+			"title": "Ōnoki's Thoughts, Kū's Thoughts",
+			"type": "anime-canon",
+			"aired_date": "2018-12-02"
+		},
+		{
+			"episode": 85,
+			"title": "The Heart Stone",
+			"type": "anime-canon",
+			"aired_date": "2018-12-09"
+		},
+		{
+			"episode": 86,
+			"title": "Kozuchi's Will",
+			"type": "anime-canon",
+			"aired_date": "2018-12-16"
+		},
+		{
+			"episode": 87,
+			"title": "The Sensation of Living",
+			"type": "anime-canon",
+			"aired_date": "2018-12-23"
+		},
+		{
+			"episode": 88,
+			"title": "Clash: Kokuyō!",
+			"type": "anime-canon",
+			"aired_date": "2019-01-06"
+		},
+		{
+			"episode": 89,
+			"title": "A Piercing Heart",
+			"type": "anime-canon",
+			"aired_date": "2019-01-13"
+		},
+		{
+			"episode": 90,
+			"title": "Mitsuki and Sekiei",
+			"type": "anime-canon",
+			"aired_date": "2019-01-20"
+		},
+		{
+			"episode": 91,
+			"title": "Ōnoki's Will",
+			"type": "anime-canon",
+			"aired_date": "2019-01-27"
+		},
+		{
+			"episode": 92,
+			"title": "A New Ordinary",
+			"type": "anime-canon",
+			"aired_date": "2019-02-03"
+		},
+		{
+			"episode": 93,
+			"title": "Parent and Child Day",
+			"type": "anime-canon",
+			"aired_date": "2019-02-10"
+		},
+		{
+			"episode": 94,
+			"title": "A Heaping Helping! The Eating Contest!",
+			"type": "anime-canon",
+			"aired_date": "2019-02-17"
+		},
+		{
+			"episode": 95,
+			"title": "Tactics for Getting Along With Your Daughter",
+			"type": "anime-canon",
+			"aired_date": "2019-02-24"
+		},
+		{
+			"episode": 96,
+			"title": "Blood, Sweat, and Namida",
+			"type": "filler",
+			"aired_date": "2019-03-03"
+		},
+		{
+			"episode": 97,
+			"title": "Shikadai's Decision",
+			"type": "filler",
+			"aired_date": "2019-03-10"
+		},
+		{
+			"episode": 98,
+			"title": "The Cursed Forest",
+			"type": "anime-canon",
+			"aired_date": "2019-03-17"
+		},
+		{
+			"episode": 99,
+			"title": "Jūgo and the Curse Mark",
+			"type": "anime-canon",
+			"aired_date": "2019-03-24"
+		},
+		{
+			"episode": 100,
+			"title": "The Predestined Path",
+			"type": "anime-canon",
+			"aired_date": "2019-03-31"
+		},
+		{
+			"episode": 101,
+			"title": "Jūgo's Reinforcements",
+			"type": "anime-canon",
+			"aired_date": "2019-04-07"
+		},
+		{
+			"episode": 102,
+			"title": "Melee!",
+			"type": "anime-canon",
+			"aired_date": "2019-04-14"
+		},
+		{
+			"episode": 103,
+			"title": "Migration Season",
+			"type": "anime-canon",
+			"aired_date": "2019-04-21"
+		},
+		{
+			"episode": 104,
+			"title": "The Little Roommate",
+			"type": "filler",
+			"aired_date": "2019-04-28"
+		},
+		{
+			"episode": 105,
+			"title": "A Wound on the Heart",
+			"type": "filler",
+			"aired_date": "2019-05-05"
+		},
+		{
+			"episode": 106,
+			"title": "The Steam Ninja Scrolls: The S-Rank Mission!",
+			"type": "manga-canon",
+			"aired_date": "2019-05-12"
+		},
+		{
+			"episode": 107,
+			"title": "The Steam Ninja Scrolls: The Dog and Cat War!",
+			"type": "manga-canon",
+			"aired_date": "2019-05-19"
+		},
+		{
+			"episode": 108,
+			"title": "The Steam Ninja Scrolls: The Haunted Inn!",
+			"type": "manga-canon",
+			"aired_date": "2019-05-26"
+		},
+		{
+			"episode": 109,
+			"title": "The Steam Ninja Scrolls: Potato Chips and the Giant Boulder!",
+			"type": "manga-canon",
+			"aired_date": "2019-06-02"
+		},
+		{
+			"episode": 110,
+			"title": "The Steam Ninja Scrolls: The Resurrection Hot Springs!",
+			"type": "manga-canon",
+			"aired_date": "2019-06-09"
+		},
+		{
+			"episode": 111,
+			"title": "The Steam Ninja Scrolls: Mirai's King!",
+			"type": "manga-canon",
+			"aired_date": "2019-06-16"
+		},
+		{
+			"episode": 112,
+			"title": "The Chūnin Selection Conference",
+			"type": "filler",
+			"aired_date": "2019-06-23"
+		},
+		{
+			"episode": 113,
+			"title": "The Qualities of a Captain",
+			"type": "filler",
+			"aired_date": "2019-06-30"
+		},
+		{
+			"episode": 114,
+			"title": "X Cards Proxy War!",
+			"type": "filler",
+			"aired_date": "2019-07-07"
+		},
+		{
+			"episode": 115,
+			"title": "Team 25",
+			"type": "anime-canon",
+			"aired_date": "2019-07-14"
+		},
+		{
+			"episode": 116,
+			"title": "Konohamaru and Remon",
+			"type": "filler",
+			"aired_date": "2019-07-21"
+		},
+		{
+			"episode": 117,
+			"title": "Remon's Secret",
+			"type": "filler",
+			"aired_date": "2019-07-28"
+		},
+		{
+			"episode": 118,
+			"title": "Something That Steals Memories",
+			"type": "filler",
+			"aired_date": "2019-08-04"
+		},
+		{
+			"episode": 119,
+			"title": "Konohamaru’s Ninja Way",
+			"type": "filler",
+			"aired_date": "2019-08-11"
+		},
+		{
+			"episode": 120,
+			"title": "With Sasuke as the Goal",
+			"type": "filler",
+			"aired_date": "2019-08-18"
+		},
+		{
+			"episode": 121,
+			"title": "The Entrusted Mission: Protect the One-Tails!",
+			"type": "filler",
+			"aired_date": "2019-08-25"
+		},
+		{
+			"episode": 122,
+			"title": "The Puppet Battle!",
+			"type": "filler",
+			"aired_date": "2019-09-01"
+		},
+		{
+			"episode": 123,
+			"title": "Urashiki Returns",
+			"type": "filler",
+			"aired_date": "2019-09-08"
+		},
+		{
+			"episode": 124,
+			"title": "Decision Time",
+			"type": "filler",
+			"aired_date": "2019-09-15"
+		},
+		{
+			"episode": 125,
+			"title": "Boruto and Shinki",
+			"type": "filler",
+			"aired_date": "2019-09-22"
+		},
+		{
+			"episode": 126,
+			"title": "Shukaku's Trick",
+			"type": "filler",
+			"aired_date": "2019-09-29"
+		},
+		{
+			"episode": 127,
+			"title": "Make-Out Tactics",
+			"type": "filler",
+			"aired_date": "2019-10-06"
+		},
+		{
+			"episode": 128,
+			"title": "Urashiki's Target",
+			"type": "filler",
+			"aired_date": "2019-10-13"
+		},
+		{
+			"episode": 129,
+			"title": "The Village Hidden in the Leaves",
+			"type": "filler",
+			"aired_date": "2019-10-20"
+		},
+		{
+			"episode": 130,
+			"title": "Genin, Assemble!",
+			"type": "filler",
+			"aired_date": "2019-10-27"
+		},
+		{
+			"episode": 131,
+			"title": "The Power of the Nine-Tails",
+			"type": "filler",
+			"aired_date": "2019-11-03"
+		},
+		{
+			"episode": 132,
+			"title": "Jiraiya’s Assignment",
+			"type": "filler",
+			"aired_date": "2019-11-10"
+		},
+		{
+			"episode": 133,
+			"title": "A Village Without Sasuke",
+			"type": "filler",
+			"aired_date": "2019-11-24"
+		},
+		{
+			"episode": 134,
+			"title": "The Power to See the Future",
+			"type": "filler",
+			"aired_date": "2019-12-01"
+		},
+		{
+			"episode": 135,
+			"title": "The Last Battle, Urashiki",
+			"type": "filler",
+			"aired_date": "2019-12-08"
+		},
+		{
+			"episode": 136,
+			"title": "Crossing Time!",
+			"type": "filler",
+			"aired_date": "2019-12-15"
+		},
+		{
+			"episode": 137,
+			"title": "The Samurai Exchange Student",
+			"type": "filler",
+			"aired_date": "2019-12-22"
+		},
+		{
+			"episode": 138,
+			"title": "Hiashi's Birthday",
+			"type": "filler",
+			"aired_date": "2019-12-29"
+		},
+		{
+			"episode": 139,
+			"title": "The Terror! Enko Onikuma",
+			"type": "filler",
+			"aired_date": "2020-01-12"
+		},
+		{
+			"episode": 140,
+			"title": "The Mind Transfer Jutsu that Lost to Potato Chips",
+			"type": "filler",
+			"aired_date": "2020-01-19"
+		},
+		{
+			"episode": 141,
+			"title": "The Shinobi Prison: Hozuki Castle",
+			"type": "anime-canon",
+			"aired_date": "2020-01-26"
+		},
+		{
+			"episode": 142,
+			"title": "A Test of Willpower",
+			"type": "anime-canon",
+			"aired_date": "2020-02-02"
+		},
+		{
+			"episode": 143,
+			"title": "The Criminal Targeting Kokuri",
+			"type": "anime-canon",
+			"aired_date": "2020-02-09"
+		},
+		{
+			"episode": 144,
+			"title": "Kokuri’s Secret",
+			"type": "anime-canon",
+			"aired_date": "2020-02-16"
+		},
+		{
+			"episode": 145,
+			"title": "Breaking Out of Hōzuki Castle",
+			"type": "anime-canon",
+			"aired_date": "2020-02-23"
+		},
+		{
+			"episode": 146,
+			"title": "Executing the Prison Break!",
+			"type": "anime-canon",
+			"aired_date": "2020-03-01"
+		},
+		{
+			"episode": 147,
+			"title": "The Fateful Moonlit Battle",
+			"type": "anime-canon",
+			"aired_date": "2020-03-08"
+		},
+		{
+			"episode": 148,
+			"title": "A New Mission!!",
+			"type": "manga-canon",
+			"aired_date": "2020-03-15"
+		},
+		{
+			"episode": 149,
+			"title": "Friends!!",
+			"type": "manga-canon",
+			"aired_date": "2020-03-22"
+		},
+		{
+			"episode": 150,
+			"title": "The Value of a Hidden Ace",
+			"type": "manga-canon",
+			"aired_date": "2020-03-29"
+		},
+		{
+			"episode": 151,
+			"title": "Boruto and Tentō",
+			"type": "manga-canon",
+			"aired_date": "2020-04-05"
+		},
+		{
+			"episode": 152,
+			"title": "Developing One's Medical Ninjutsu",
+			"type": "filler",
+			"aired_date": "2020-04-12"
+		},
+		{
+			"episode": 153,
+			"title": "Harmony in Gold",
+			"type": "filler",
+			"aired_date": "2020-04-19"
+		},
+		{
+			"episode": 154,
+			"title": "Himawari's Ninja Trial Session",
+			"type": "filler",
+			"aired_date": "2020-04-26"
+		},
+		{
+			"episode": 155,
+			"title": "Mitsuki's Rainy Day",
+			"type": "filler",
+			"aired_date": "2020-07-05"
+		},
+		{
+			"episode": 156,
+			"title": "I Can't Stay in My Slim Form",
+			"type": "filler",
+			"aired_date": "2020-07-12"
+		},
+		{
+			"episode": 157,
+			"title": "Kara's Footprints",
+			"type": "anime-canon",
+			"aired_date": "2020-07-19"
+		},
+		{
+			"episode": 158,
+			"title": "The Man Who Disappeared",
+			"type": "anime-canon",
+			"aired_date": "2020-07-26"
+		},
+		{
+			"episode": 159,
+			"title": "The Hashirama Cell",
+			"type": "anime-canon",
+			"aired_date": "2020-08-02"
+		},
+		{
+			"episode": 160,
+			"title": "To the Land of Silence",
+			"type": "anime-canon",
+			"aired_date": "2020-08-09"
+		},
+		{
+			"episode": 161,
+			"title": "The Castle of Nightmares",
+			"type": "anime-canon",
+			"aired_date": "2020-08-16"
+		},
+		{
+			"episode": 162,
+			"title": "Escaping the Tightening Net",
+			"type": "anime-canon",
+			"aired_date": "2020-08-23"
+		},
+		{
+			"episode": 163,
+			"title": "The Pursuers",
+			"type": "anime-canon",
+			"aired_date": "2020-08-30"
+		},
+		{
+			"episode": 164,
+			"title": "The Forbidden Jutsu of Death",
+			"type": "anime-canon",
+			"aired_date": "2020-09-06"
+		},
+		{
+			"episode": 165,
+			"title": "The Quadruplets' Duty",
+			"type": "anime-canon",
+			"aired_date": "2020-09-13"
+		},
+		{
+			"episode": 166,
+			"title": "Death Match",
+			"type": "anime-canon",
+			"aired_date": "2020-09-20"
+		},
+		{
+			"episode": 167,
+			"title": "Their Decision",
+			"type": "anime-canon",
+			"aired_date": "2020-09-27"
+		},
+		{
+			"episode": 168,
+			"title": "Training Begins!",
+			"type": "anime-canon",
+			"aired_date": "2020-10-04"
+		},
+		{
+			"episode": 169,
+			"title": "A Joint Mission with the Sand",
+			"type": "anime-canon",
+			"aired_date": "2020-10-11"
+		},
+		{
+			"episode": 170,
+			"title": "A New Rasengan",
+			"type": "anime-canon",
+			"aired_date": "2020-10-18"
+		},
+		{
+			"episode": 171,
+			"title": "The Results of Training",
+			"type": "anime-canon",
+			"aired_date": "2020-10-25"
+		},
+		{
+			"episode": 172,
+			"title": "A Signature of Fear",
+			"type": "filler",
+			"aired_date": "2020-11-01"
+		},
+		{
+			"episode": 173,
+			"title": "The Secret Behind the Underground Room",
+			"type": "anime-canon",
+			"aired_date": "2020-11-08"
+		},
+		{
+			"episode": 174,
+			"title": "The Revival of the God Tree",
+			"type": "anime-canon",
+			"aired_date": "2020-11-15"
+		},
+		{
+			"episode": 175,
+			"title": "Beyond the Limits!",
+			"type": "anime-canon",
+			"aired_date": "2020-11-22"
+		},
+		{
+			"episode": 176,
+			"title": "Blockade the A-Un Gate!",
+			"type": "mixed-manga",
+			"aired_date": "2020-11-29"
+		},
+		{
+			"episode": 177,
+			"title": "The Iron Wall's Sensing System",
+			"type": "anime-canon",
+			"aired_date": "2020-12-06"
+		},
+		{
+			"episode": 178,
+			"title": "Our Fathers' Example",
+			"type": "anime-canon",
+			"aired_date": "2020-12-13"
+		},
+		{
+			"episode": 179,
+			"title": "Victor's Scheme",
+			"type": "anime-canon",
+			"aired_date": "2020-12-20"
+		},
+		{
+			"episode": 180,
+			"title": "The Assassin, Mugino",
+			"type": "anime-canon",
+			"aired_date": "2020-12-27"
+		},
+		{
+			"episode": 181,
+			"title": "The Vessel",
+			"type": "manga-canon",
+			"aired_date": "2021-01-10"
+		},
+		{
+			"episode": 182,
+			"title": "Ao",
+			"type": "manga-canon",
+			"aired_date": "2021-01-17"
+		},
+		{
+			"episode": 182,
+			"title": "The Past",
+			"type": "manga-canon",
+			"aired_date": "2021-03-28"
+		},
+		{
+			"episode": 183,
+			"title": "The Hand",
+			"type": "manga-canon",
+			"aired_date": "2021-01-24"
+		},
+		{
+			"episode": 184,
+			"title": "Puppets",
+			"type": "manga-canon",
+			"aired_date": "2021-01-31"
+		},
+		{
+			"episode": 185,
+			"title": "Tools",
+			"type": "manga-canon",
+			"aired_date": "2021-02-07"
+		},
+		{
+			"episode": 186,
+			"title": "How You Use It",
+			"type": "manga-canon",
+			"aired_date": "2021-02-14"
+		},
+		{
+			"episode": 187,
+			"title": "Karma",
+			"type": "manga-canon",
+			"aired_date": "2021-02-21"
+		},
+		{
+			"episode": 188,
+			"title": "Awakening",
+			"type": "manga-canon",
+			"aired_date": "2021-02-28"
+		},
+		{
+			"episode": 189,
+			"title": "Resonance",
+			"type": "manga-canon",
+			"aired_date": "2021-03-07"
+		},
+		{
+			"episode": 190,
+			"title": "Escape",
+			"type": "anime-canon",
+			"aired_date": "2021-03-21"
+		},
+		{
+			"episode": 191,
+			"title": "Stray Dog",
+			"type": "anime-canon",
+			"aired_date": "2021-03-21"
+		},
+		{
+			"episode": 193,
+			"title": "Coexistence",
+			"type": "manga-canon",
+			"aired_date": "2021-04-04"
+		},
+		{
+			"episode": 194,
+			"title": "The Uzumaki Household",
+			"type": "manga-canon",
+			"aired_date": "2021-04-11"
+		},
+		{
+			"episode": 195,
+			"title": "A Vase",
+			"type": "manga-canon",
+			"aired_date": "2021-04-18"
+		},
+		{
+			"episode": 196,
+			"title": "A Binding Force",
+			"type": "manga-canon",
+			"aired_date": "2021-04-25"
+		},
+		{
+			"episode": 197,
+			"title": "Delta",
+			"type": "manga-canon",
+			"aired_date": "2021-05-02"
+		},
+		{
+			"episode": 198,
+			"title": "Monsters",
+			"type": "manga-canon",
+			"aired_date": "2021-05-09"
+		},
+		{
+			"episode": 199,
+			"title": "Overload",
+			"type": "manga-canon",
+			"aired_date": "2021-05-16"
+		},
+		{
+			"episode": 200,
+			"title": "Becoming a Student",
+			"type": "manga-canon",
+			"aired_date": "2021-05-23"
+		},
+		{
+			"episode": 201,
+			"title": "Empty Tears",
+			"type": "manga-canon",
+			"aired_date": "2021-05-30"
+		},
+		{
+			"episode": 202,
+			"title": "The Cult",
+			"type": "manga-canon",
+			"aired_date": "2021-06-06"
+		},
+		{
+			"episode": 203,
+			"title": "Surprise Attack!",
+			"type": "manga-canon",
+			"aired_date": "2021-06-13"
+		},
+		{
+			"episode": 204,
+			"title": "He's Bad News",
+			"type": "manga-canon",
+			"aired_date": "2021-06-20"
+		},
+		{
+			"episode": 205,
+			"title": "Proof",
+			"type": "manga-canon",
+			"aired_date": "2021-06-27"
+		},
+		{
+			"episode": 206,
+			"title": "The New Team Seven",
+			"type": "manga-canon",
+			"aired_date": "2021-07-04"
+		},
+		{
+			"episode": 207,
+			"title": "Regeneration",
+			"type": "manga-canon",
+			"aired_date": "2021-07-11"
+		},
+		{
+			"episode": 208,
+			"title": "Momoshiki's Manifestation",
+			"type": "manga-canon",
+			"aired_date": "2021-07-18"
+		},
+		{
+			"episode": 209,
+			"title": "The Outcast",
+			"type": "filler",
+			"aired_date": "2021-08-01"
+		},
+		{
+			"episode": 210,
+			"title": "Clues to Kara",
+			"type": "anime-canon",
+			"aired_date": "2021-08-08"
+		},
+		{
+			"episode": 211,
+			"title": "The Chase",
+			"type": "anime-canon",
+			"aired_date": "2021-08-15"
+		},
+		{
+			"episode": 212,
+			"title": "Amado's Defection",
+			"type": "manga-canon",
+			"aired_date": "2021-08-22"
+		},
+		{
+			"episode": 213,
+			"title": "True Identity",
+			"type": "manga-canon",
+			"aired_date": "2021-08-29"
+		},
+		{
+			"episode": 214,
+			"title": "Predestined Fate",
+			"type": "manga-canon",
+			"aired_date": "2021-09-05"
+		},
+		{
+			"episode": 215,
+			"title": "Prepared",
+			"type": "manga-canon",
+			"aired_date": "2021-09-12"
+		},
+		{
+			"episode": 216,
+			"title": "Sacrifice",
+			"type": "manga-canon",
+			"aired_date": "2021-09-19"
+		},
+		{
+			"episode": 217,
+			"title": "Decision",
+			"type": "manga-canon",
+			"aired_date": "2021-09-26"
+		},
+		{
+			"episode": 218,
+			"title": "Partner",
+			"type": "manga-canon",
+			"aired_date": "2021-10-03"
+		},
+		{
+			"episode": 219,
+			"title": "Return",
+			"type": "manga-canon",
+			"aired_date": "2021-10-10"
+		},
+		{
+			"episode": 220,
+			"title": "Remaining Time",
+			"type": "manga-canon",
+			"aired_date": "2021-10-17"
+		},
+		{
+			"episode": 221,
+			"title": "The Chunin Exams Resume",
+			"type": "anime-canon",
+			"aired_date": "2021-10-24"
+		},
+		{
+			"episode": 222,
+			"title": "The Night Before The Final Round",
+			"type": "anime-canon",
+			"aired_date": "2021-10-31"
+		},
+		{
+			"episode": 223,
+			"title": "Inojin vs. Houki",
+			"type": "anime-canon",
+			"aired_date": "2021-11-07"
+		},
+		{
+			"episode": 224,
+			"title": "The Legend of the Monster Cat",
+			"type": "filler",
+			"aired_date": "2021-11-14"
+		},
+		{
+			"episode": 225,
+			"title": "Showdown Between Best Friends",
+			"type": "anime-canon",
+			"aired_date": "2021-11-21"
+		},
+		{
+			"episode": 226,
+			"title": "Samurai vs. Science",
+			"type": "anime-canon",
+			"aired_date": "2021-11-28"
+		},
+		{
+			"episode": 227,
+			"title": "Team 7's Last Mission?!",
+			"type": "filler",
+			"aired_date": "2021-12-05"
+		},
+		{
+			"episode": 228,
+			"title": "Kawaki's Path to Becoming A Ninja",
+			"type": "anime-canon",
+			"aired_date": "2021-12-12"
+		},
+		{
+			"episode": 229,
+			"title": "Breach of Orders",
+			"type": "anime-canon",
+			"aired_date": "2021-12-19"
+		},
+		{
+			"episode": 230,
+			"title": "A Wish",
+			"type": "anime-canon",
+			"aired_date": "2021-12-26"
+		},
+		{
+			"episode": 231,
+			"title": "The Rusty Sword",
+			"type": "anime-canon",
+			"aired_date": "2022-01-09"
+		},
+		{
+			"episode": 232,
+			"title": "Captain Denki's First Mission",
+			"type": "filler",
+			"aired_date": "2022-01-16"
+		},
+		{
+			"episode": 233,
+			"title": "The New Team 7 Jumps Into Action",
+			"type": "filler",
+			"aired_date": "2022-01-23"
+		},
+		{
+			"episode": 234,
+			"title": "The Unleashed Villain",
+			"type": "filler",
+			"aired_date": "2022-01-30"
+		},
+		{
+			"episode": 235,
+			"title": "Infiltrating Dotou Island",
+			"type": "filler",
+			"aired_date": "2022-02-06"
+		},
+		{
+			"episode": 236,
+			"title": "Cut and Run",
+			"type": "filler",
+			"aired_date": "2022-02-13"
+		},
+		{
+			"episode": 237,
+			"title": "The Mobile Fortress",
+			"type": "filler",
+			"aired_date": "2022-02-20"
+		},
+		{
+			"episode": 238,
+			"title": "A Killer on the Ship",
+			"type": "filler",
+			"aired_date": "2022-02-27"
+		},
+		{
+			"episode": 239,
+			"title": "The Boy from the Isle of Shipbuilders",
+			"type": "filler",
+			"aired_date": "2022-03-06"
+		},
+		{
+			"episode": 240,
+			"title": "Ikada's Dream",
+			"type": "filler",
+			"aired_date": "2022-03-13"
+		},
+		{
+			"episode": 241,
+			"title": "Ikada's Secret",
+			"type": "filler",
+			"aired_date": "2022-03-20"
+		},
+		{
+			"episode": 242,
+			"title": "Seiren",
+			"type": "filler",
+			"aired_date": "2022-03-27"
+		},
+		{
+			"episode": 243,
+			"title": "Where I Belong",
+			"type": "filler",
+			"aired_date": "2022-04-03"
+		},
+		{
+			"episode": 244,
+			"title": "Rift",
+			"type": "filler",
+			"aired_date": "2022-04-10"
+		},
+		{
+			"episode": 245,
+			"title": "Funamushi's Tenacity",
+			"type": "filler",
+			"aired_date": "2022-04-17"
+		},
+		{
+			"episode": 246,
+			"title": "A Heavy Loss",
+			"type": "filler",
+			"aired_date": "2022-04-24"
+		},
+		{
+			"episode": 247,
+			"title": "For Kagura",
+			"type": "filler",
+			"aired_date": "2022-05-01"
+		},
+		{
+			"episode": 248,
+			"title": "Another Fierce Battle",
+			"type": "filler",
+			"aired_date": "2022-05-08"
+		},
+		{
+			"episode": 249,
+			"title": "Burgeoning Hatred",
+			"type": "filler",
+			"aired_date": "2022-05-15"
+		},
+		{
+			"episode": 250,
+			"title": "The Blood of the Funato",
+			"type": "filler",
+			"aired_date": "2022-05-22"
+		},
+		{
+			"episode": 251,
+			"title": "Their Resolve",
+			"type": "filler",
+			"aired_date": "2022-05-29"
+		},
+		{
+			"episode": 252,
+			"title": "The Desire to Believe",
+			"type": "filler",
+			"aired_date": "2022-06-05"
+		},
+		{
+			"episode": 253,
+			"title": "Conflicting Feelings",
+			"type": "filler",
+			"aired_date": "2022-06-12"
+		},
+		{
+			"episode": 254,
+			"title": "The Spiral of Revenge",
+			"type": "filler",
+			"aired_date": "2022-06-19"
+		},
+		{
+			"episode": 255,
+			"title": "A Tricky Assignment",
+			"type": "filler",
+			"aired_date": "2022-06-26"
+		},
+		{
+			"episode": 256,
+			"title": "The Ultimate Recipe",
+			"type": "filler",
+			"aired_date": "2022-07-03"
+		},
+		{
+			"episode": 257,
+			"title": "Konohamaru Becomes the Hokage?!",
+			"type": "filler",
+			"aired_date": "2022-07-10"
+		},
+		{
+			"episode": 258,
+			"title": "The Uzumaki Family's Hot Springs Vacation",
+			"type": "filler",
+			"aired_date": "2022-07-17"
+		},
+		{
+			"episode": 259,
+			"title": "A Wound That Never Heals",
+			"type": "filler",
+			"aired_date": "2022-07-24"
+		},
+		{
+			"episode": 260,
+			"title": "Fireworks of Love",
+			"type": "filler",
+			"aired_date": "2022-07-31"
+		},
+		{
+			"episode": 261,
+			"title": "Kawaki Enters the Ninja Academy!",
+			"type": "filler",
+			"aired_date": "2022-08-07"
+		},
+		{
+			"episode": 262,
+			"title": "The Princess’s Tea Party",
+			"type": "filler",
+			"aired_date": "2022-08-14"
+		},
+		{
+			"episode": 263,
+			"title": "Bloom, Hana! The Teacher's Gifts",
+			"type": "filler",
+			"aired_date": "2022-08-21"
+		},
+		{
+			"episode": 264,
+			"title": "The Seven Mysteries Investigative Team Forms!",
+			"type": "filler",
+			"aired_date": "2022-08-28"
+		},
+		{
+			"episode": 265,
+			"title": "Team Rivalry: Practical Skills Training!",
+			"type": "filler",
+			"aired_date": "2022-09-04"
+		},
+		{
+			"episode": 266,
+			"title": "Himawari Kidnapped!",
+			"type": "filler",
+			"aired_date": "2022-09-11"
+		},
+		{
+			"episode": 267,
+			"title": "Kawaki’s Cover Blown?!",
+			"type": "filler",
+			"aired_date": "2022-09-18"
+		},
+		{
+			"episode": 268,
+			"title": "Target: The School Festival",
+			"type": "filler",
+			"aired_date": "2022-09-25"
+		},
+		{
+			"episode": 269,
+			"title": "The Sneaking Shadow",
+			"type": "filler",
+			"aired_date": "2022-10-02"
+		},
+		{
+			"episode": 270,
+			"title": "Two Sides of the Same Coin",
+			"type": "filler",
+			"aired_date": "2022-10-09"
+		},
+		{
+			"episode": 271,
+			"title": "The Island of Treachery",
+			"type": "filler",
+			"aired_date": "2022-10-16"
+		},
+		{
+			"episode": 272,
+			"title": "Students Unite!",
+			"type": "filler",
+			"aired_date": "2022-10-23"
+		},
+		{
+			"episode": 273,
+			"title": "Farewell, Academy!",
+			"type": "filler",
+			"aired_date": "2022-10-30"
+		},
+		{
+			"episode": 274,
+			"title": "A Flightless Hawk",
+			"type": "filler",
+			"aired_date": "2022-11-06"
+		},
+		{
+			"episode": 275,
+			"title": "Into the Sky Again",
+			"type": "filler",
+			"aired_date": "2022-11-13"
+		},
+		{
+			"episode": 276,
+			"title": "Welcome to the Maze",
+			"type": "filler",
+			"aired_date": "2022-11-20"
+		},
+		{
+			"episode": 277,
+			"title": "Disappearing Lives",
+			"type": "filler",
+			"aired_date": "2022-11-27"
+		},
+		{
+			"episode": 278,
+			"title": "Musical Chairs",
+			"type": "filler",
+			"aired_date": "2022-12-04"
+		},
+		{
+			"episode": 279,
+			"title": "The Obstacle: Seven",
+			"type": "filler",
+			"aired_date": "2022-12-11"
+		},
+		{
+			"episode": 280,
+			"title": "Breakthrough",
+			"type": "filler",
+			"aired_date": "2022-12-18"
+		},
+		{
+			"episode": 281,
+			"title": "The Eighth Truth",
+			"type": "filler",
+			"aired_date": "2022-12-25"
+		},
+		{
+			"episode": 282,
+			"title": "Sasuke's Story: Infiltration",
+			"type": "manga-canon",
+			"aired_date": "2023-01-08"
+		},
+		{
+			"episode": 283,
+			"title": "Sasuke's Story: Constellations",
+			"type": "manga-canon",
+			"aired_date": "2023-01-15"
+		},
+		{
+			"episode": 284,
+			"title": "Sasuke's Story: Secret Basement",
+			"type": "manga-canon",
+			"aired_date": "2023-01-22"
+		},
+		{
+			"episode": 285,
+			"title": "Sasuke's Story: Sky Descending to Earth",
+			"type": "manga-canon",
+			"aired_date": "2023-01-29"
+		},
+		{
+			"episode": 286,
+			"title": "Sasuke's Story: The Ring",
+			"type": "manga-canon",
+			"aired_date": "2023-02-05"
+		},
+		{
+			"episode": 287,
+			"title": "Claw Marks",
+			"type": "manga-canon",
+			"aired_date": "2023-02-12"
+		},
+		{
+			"episode": 288,
+			"title": "Captives",
+			"type": "manga-canon",
+			"aired_date": "2023-02-19"
+		},
+		{
+			"episode": 289,
+			"title": "Qualification",
+			"type": "manga-canon",
+			"aired_date": "2023-02-26"
+		},
+		{
+			"episode": 290,
+			"title": "Signs",
+			"type": "manga-canon",
+			"aired_date": "2023-03-05"
+		},
+		{
+			"episode": 291,
+			"title": "Control",
+			"type": "manga-canon",
+			"aired_date": "2023-03-12"
+		},
+		{
+			"episode": 292,
+			"title": "Craving",
+			"type": "manga-canon",
+			"aired_date": "2023-03-19"
+		},
+		{
+			"episode": 293,
+			"title": "Farewell",
+			"type": "manga-canon",
+			"aired_date": "2023-03-26"
+		}
+	]
+}

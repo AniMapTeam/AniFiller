@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Attack on Titan Season 3",
+	"mappings": {
+		"anilist_id": 99147,
+		"mal_id": 35760
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Smoke Signal",
+			"type": "mixed-manga",
+			"aired_date": "2018-07-23"
+		},
+		{
+			"episode": 2,
+			"title": "Pain",
+			"type": "mixed-manga",
+			"aired_date": "2018-07-30"
+		},
+		{
+			"episode": 3,
+			"title": "Old Story",
+			"type": "mixed-manga",
+			"aired_date": "2018-08-06"
+		},
+		{
+			"episode": 4,
+			"title": "Trust",
+			"type": "mixed-manga",
+			"aired_date": "2018-08-13"
+		},
+		{
+			"episode": 5,
+			"title": "Reply",
+			"type": "manga-canon",
+			"aired_date": "2018-08-20"
+		},
+		{
+			"episode": 6,
+			"title": "Sin",
+			"type": "manga-canon",
+			"aired_date": "2018-08-27"
+		},
+		{
+			"episode": 7,
+			"title": "Wish",
+			"type": "manga-canon",
+			"aired_date": "2018-09-03"
+		},
+		{
+			"episode": 8,
+			"title": "Outside the Walls of Orvud District",
+			"type": "manga-canon",
+			"aired_date": "2018-09-10"
+		},
+		{
+			"episode": 9,
+			"title": "Ruler of the Walls",
+			"type": "manga-canon",
+			"aired_date": "2018-09-17"
+		},
+		{
+			"episode": 10,
+			"title": "Friends",
+			"type": "manga-canon",
+			"aired_date": "2018-09-24"
+		},
+		{
+			"episode": 11,
+			"title": "Bystander",
+			"type": "manga-canon",
+			"aired_date": "2018-10-08"
+		},
+		{
+			"episode": 12,
+			"title": "Night of the Battle to Retake the Wall",
+			"type": "manga-canon",
+			"aired_date": "2018-10-15"
+		}
+	]
+}

@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Black Butler",
+	"mappings": {
+		"anilist_id": 4898,
+		"mal_id": 4898
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "His Butler, Able",
+			"type": "mixed-manga",
+			"aired_date": "2008-10-03"
+		},
+		{
+			"episode": 2,
+			"title": "His Butler, Strongest",
+			"type": "manga-canon",
+			"aired_date": "2008-10-10"
+		},
+		{
+			"episode": 3,
+			"title": "His Butler, Omnipotent",
+			"type": "manga-canon",
+			"aired_date": "2008-10-17"
+		},
+		{
+			"episode": 4,
+			"title": "His Butler, Capricious",
+			"type": "manga-canon",
+			"aired_date": "2008-10-24"
+		},
+		{
+			"episode": 5,
+			"title": "His Butler, Chance Encounter",
+			"type": "manga-canon",
+			"aired_date": "2008-10-31"
+		},
+		{
+			"episode": 6,
+			"title": "His Butler, at the Funeral",
+			"type": "manga-canon",
+			"aired_date": "2008-11-07"
+		},
+		{
+			"episode": 7,
+			"title": "His Butler, Merrymaking",
+			"type": "filler",
+			"aired_date": "2008-11-14"
+		},
+		{
+			"episode": 8,
+			"title": "His Butler, Training",
+			"type": "filler",
+			"aired_date": "2008-11-21"
+		},
+		{
+			"episode": 9,
+			"title": "His Butler, Phantom Image",
+			"type": "filler",
+			"aired_date": "2008-11-28"
+		},
+		{
+			"episode": 10,
+			"title": "His Butler, on Ice",
+			"type": "filler",
+			"aired_date": "2008-12-05"
+		},
+		{
+			"episode": 11,
+			"title": "His Butler, However You Please",
+			"type": "filler",
+			"aired_date": "2008-12-12"
+		},
+		{
+			"episode": 12,
+			"title": "His Butler, Forlorn",
+			"type": "filler",
+			"aired_date": "2008-12-19"
+		},
+		{
+			"episode": 13,
+			"title": "His Butler, Freeloader",
+			"type": "manga-canon",
+			"aired_date": "2008-12-26"
+		},
+		{
+			"episode": 14,
+			"title": "His Butler, Supremely Talented",
+			"type": "manga-canon",
+			"aired_date": "2009-01-16"
+		},
+		{
+			"episode": 15,
+			"title": "His Butler, Competing",
+			"type": "manga-canon",
+			"aired_date": "2009-01-23"
+		},
+		{
+			"episode": 16,
+			"title": "His Butler, in an Isolated Castle",
+			"type": "filler",
+			"aired_date": "2009-01-30"
+		},
+		{
+			"episode": 17,
+			"title": "His Butler, Offering",
+			"type": "filler",
+			"aired_date": "2009-02-06"
+		},
+		{
+			"episode": 18,
+			"title": "His Butler, Transmitted",
+			"type": "filler",
+			"aired_date": "2009-02-13"
+		},
+		{
+			"episode": 19,
+			"title": "His Butler, Imprisoned",
+			"type": "filler",
+			"aired_date": "2009-02-20"
+		},
+		{
+			"episode": 20,
+			"title": "His Butler, Escaping",
+			"type": "filler",
+			"aired_date": "2009-02-27"
+		},
+		{
+			"episode": 21,
+			"title": "His Butler, Engaging Servants",
+			"type": "filler",
+			"aired_date": "2009-03-06"
+		},
+		{
+			"episode": 22,
+			"title": "His Butler, Dissolution",
+			"type": "filler",
+			"aired_date": "2009-03-13"
+		},
+		{
+			"episode": 23,
+			"title": "His Butler, Up in Flames",
+			"type": "filler",
+			"aired_date": "2009-03-20"
+		},
+		{
+			"episode": 24,
+			"title": "His Butler, Fluent",
+			"type": "filler",
+			"aired_date": "2009-03-27"
+		}
+	]
+}

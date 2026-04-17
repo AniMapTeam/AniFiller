@@ -1,0 +1,460 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Ace of the Diamond",
+	"mappings": {
+		"anilist_id": 18689,
+		"mal_id": 18689
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The One Pitch",
+			"type": "manga-canon",
+			"aired_date": "2013-10-06"
+		},
+		{
+			"episode": 2,
+			"title": "Partner",
+			"type": "manga-canon",
+			"aired_date": "2013-10-13"
+		},
+		{
+			"episode": 3,
+			"title": "Not Qualified to Be a Pitcher?",
+			"type": "manga-canon",
+			"aired_date": "2013-10-20"
+		},
+		{
+			"episode": 4,
+			"title": "Are You Like Me?",
+			"type": "manga-canon",
+			"aired_date": "2013-10-27"
+		},
+		{
+			"episode": 5,
+			"title": "A Clash",
+			"type": "manga-canon",
+			"aired_date": "2013-11-03"
+		},
+		{
+			"episode": 6,
+			"title": "Head to Head!",
+			"type": "manga-canon",
+			"aired_date": "2013-11-10"
+		},
+		{
+			"episode": 7,
+			"title": "The Two Batteries",
+			"type": "manga-canon",
+			"aired_date": "2013-11-17"
+		},
+		{
+			"episode": 8,
+			"title": "The Truth About Chris",
+			"type": "manga-canon",
+			"aired_date": "2013-11-24"
+		},
+		{
+			"episode": 9,
+			"title": "With Chagrin in His Heart",
+			"type": "manga-canon",
+			"aired_date": "2013-12-01"
+		},
+		{
+			"episode": 10,
+			"title": "Hone Your Moving Fastball",
+			"type": "manga-canon",
+			"aired_date": "2013-12-08"
+		},
+		{
+			"episode": 11,
+			"title": "Chris to the Field!",
+			"type": "manga-canon",
+			"aired_date": "2013-12-15"
+		},
+		{
+			"episode": 12,
+			"title": "Target",
+			"type": "manga-canon",
+			"aired_date": "2013-12-22"
+		},
+		{
+			"episode": 13,
+			"title": "You’re in the First-String",
+			"type": "manga-canon",
+			"aired_date": "2013-12-29"
+		},
+		{
+			"episode": 14,
+			"title": "Training Camp Begins!",
+			"type": "manga-canon",
+			"aired_date": "2014-01-12"
+		},
+		{
+			"episode": 15,
+			"title": "Lead With Your Plays!",
+			"type": "manga-canon",
+			"aired_date": "2014-01-19"
+		},
+		{
+			"episode": 16,
+			"title": "Challenge",
+			"type": "manga-canon",
+			"aired_date": "2014-01-26"
+		},
+		{
+			"episode": 17,
+			"title": "Games Are Fun",
+			"type": "manga-canon",
+			"aired_date": "2014-02-02"
+		},
+		{
+			"episode": 18,
+			"title": "I Hate It, But....",
+			"type": "manga-canon",
+			"aired_date": "2014-02-09"
+		},
+		{
+			"episode": 19,
+			"title": "Fate",
+			"type": "manga-canon",
+			"aired_date": "2014-02-16"
+		},
+		{
+			"episode": 20,
+			"title": "Emergency",
+			"type": "manga-canon",
+			"aired_date": "2014-02-23"
+		},
+		{
+			"episode": 21,
+			"title": "To the Dream Stage",
+			"type": "manga-canon",
+			"aired_date": "2014-03-02"
+		},
+		{
+			"episode": 22,
+			"title": "Calling for Attention",
+			"type": "manga-canon",
+			"aired_date": "2014-03-09"
+		},
+		{
+			"episode": 23,
+			"title": "Official Game Debut",
+			"type": "manga-canon",
+			"aired_date": "2014-03-16"
+		},
+		{
+			"episode": 24,
+			"title": "Clockwork",
+			"type": "manga-canon",
+			"aired_date": "2014-03-23"
+		},
+		{
+			"episode": 25,
+			"title": "Anti-Furuya Strategy",
+			"type": "manga-canon",
+			"aired_date": "2014-03-30"
+		},
+		{
+			"episode": 26,
+			"title": "Miracle Akikawa",
+			"type": "manga-canon",
+			"aired_date": "2014-04-06"
+		},
+		{
+			"episode": 27,
+			"title": "I’m Not Running",
+			"type": "manga-canon",
+			"aired_date": "2014-04-13"
+		},
+		{
+			"episode": 28,
+			"title": "Path, Eijun Sawamura to the Scorching Mound",
+			"type": "filler",
+			"aired_date": "2014-04-20"
+		},
+		{
+			"episode": 29,
+			"title": "Neck and Neck",
+			"type": "manga-canon",
+			"aired_date": "2014-04-27"
+		},
+		{
+			"episode": 30,
+			"title": "Winner and Loser",
+			"type": "manga-canon",
+			"aired_date": "2014-05-04"
+		},
+		{
+			"episode": 31,
+			"title": "Dark Horse",
+			"type": "manga-canon",
+			"aired_date": "2014-05-11"
+		},
+		{
+			"episode": 32,
+			"title": "Summers",
+			"type": "manga-canon",
+			"aired_date": "2014-05-18"
+		},
+		{
+			"episode": 33,
+			"title": "Money Tree",
+			"type": "manga-canon",
+			"aired_date": "2014-05-25"
+		},
+		{
+			"episode": 34,
+			"title": "Reliable Teammates",
+			"type": "manga-canon",
+			"aired_date": "2014-06-01"
+		},
+		{
+			"episode": 35,
+			"title": "Potential",
+			"type": "manga-canon",
+			"aired_date": "2014-06-08"
+		},
+		{
+			"episode": 36,
+			"title": "The Ace Walks On",
+			"type": "manga-canon",
+			"aired_date": "2014-06-15"
+		},
+		{
+			"episode": 37,
+			"title": "Burst!",
+			"type": "manga-canon",
+			"aired_date": "2014-06-29"
+		},
+		{
+			"episode": 38,
+			"title": "Roles",
+			"type": "manga-canon",
+			"aired_date": "2014-07-06"
+		},
+		{
+			"episode": 39,
+			"title": "Expectations of an Ace",
+			"type": "manga-canon",
+			"aired_date": "2014-07-13"
+		},
+		{
+			"episode": 40,
+			"title": "The Winning Shot",
+			"type": "manga-canon",
+			"aired_date": "2014-07-20"
+		},
+		{
+			"episode": 41,
+			"title": "It’s the Semifinal",
+			"type": "manga-canon",
+			"aired_date": "2014-07-27"
+		},
+		{
+			"episode": 42,
+			"title": "The Giant Looks Down",
+			"type": "manga-canon",
+			"aired_date": "2014-08-03"
+		},
+		{
+			"episode": 43,
+			"title": "Revenge",
+			"type": "manga-canon",
+			"aired_date": "2014-08-10"
+		},
+		{
+			"episode": 44,
+			"title": "Best Pitch",
+			"type": "manga-canon",
+			"aired_date": "2014-08-17"
+		},
+		{
+			"episode": 45,
+			"title": "Pitching of Despair",
+			"type": "manga-canon",
+			"aired_date": "2014-08-24"
+		},
+		{
+			"episode": 46,
+			"title": "Fantasy",
+			"type": "manga-canon",
+			"aired_date": "2014-08-31"
+		},
+		{
+			"episode": 47,
+			"title": "That Summer",
+			"type": "manga-canon",
+			"aired_date": "2014-09-07"
+		},
+		{
+			"episode": 48,
+			"title": "At the Dorm...",
+			"type": "manga-canon",
+			"aired_date": "2014-09-14"
+		},
+		{
+			"episode": 49,
+			"title": "A Nostalgic Face",
+			"type": "manga-canon",
+			"aired_date": "2014-09-21"
+		},
+		{
+			"episode": 50,
+			"title": "Footsteps to Tomorrow",
+			"type": "manga-canon",
+			"aired_date": "2014-09-28"
+		},
+		{
+			"episode": 51,
+			"title": "The Battle Begins!",
+			"type": "manga-canon",
+			"aired_date": "2014-10-05"
+		},
+		{
+			"episode": 52,
+			"title": "I Don’t Want to Lose",
+			"type": "manga-canon",
+			"aired_date": "2014-10-12"
+		},
+		{
+			"episode": 53,
+			"title": "Change Gears",
+			"type": "manga-canon",
+			"aired_date": "2014-10-19"
+		},
+		{
+			"episode": 54,
+			"title": "Entrusted Faith and the Courage to Perform",
+			"type": "manga-canon",
+			"aired_date": "2014-10-26"
+		},
+		{
+			"episode": 55,
+			"title": "Strong Men",
+			"type": "manga-canon",
+			"aired_date": "2014-11-02"
+		},
+		{
+			"episode": 56,
+			"title": "Decision",
+			"type": "manga-canon",
+			"aired_date": "2014-11-09"
+		},
+		{
+			"episode": 57,
+			"title": "Reliable Underclassmen",
+			"type": "manga-canon",
+			"aired_date": "2014-11-23"
+		},
+		{
+			"episode": 58,
+			"title": "The Three-Hole",
+			"type": "manga-canon",
+			"aired_date": "2014-11-30"
+		},
+		{
+			"episode": 59,
+			"title": "Fearless",
+			"type": "manga-canon",
+			"aired_date": "2014-12-07"
+		},
+		{
+			"episode": 60,
+			"title": "Lonely Sun",
+			"type": "manga-canon",
+			"aired_date": "2014-12-14"
+		},
+		{
+			"episode": 61,
+			"title": "Determined",
+			"type": "manga-canon",
+			"aired_date": "2014-12-21"
+		},
+		{
+			"episode": 62,
+			"title": "Victory or Defeat",
+			"type": "manga-canon",
+			"aired_date": "2014-12-28"
+		},
+		{
+			"episode": 63,
+			"title": "Lingering Feelings",
+			"type": "manga-canon",
+			"aired_date": "2014-12-28"
+		},
+		{
+			"episode": 64,
+			"title": "Restart",
+			"type": "manga-canon",
+			"aired_date": "2015-01-11"
+		},
+		{
+			"episode": 65,
+			"title": "In the Sun",
+			"type": "manga-canon",
+			"aired_date": "2015-01-18"
+		},
+		{
+			"episode": 66,
+			"title": "Outsider",
+			"type": "manga-canon",
+			"aired_date": "2015-01-25"
+		},
+		{
+			"episode": 67,
+			"title": "The Kick",
+			"type": "manga-canon",
+			"aired_date": "2015-02-01"
+		},
+		{
+			"episode": 68,
+			"title": "The Ace Title",
+			"type": "manga-canon",
+			"aired_date": "2015-02-08"
+		},
+		{
+			"episode": 69,
+			"title": "Can’t Lose!",
+			"type": "manga-canon",
+			"aired_date": "2015-02-15"
+		},
+		{
+			"episode": 70,
+			"title": "Next Stage",
+			"type": "manga-canon",
+			"aired_date": "2015-02-22"
+		},
+		{
+			"episode": 71,
+			"title": "September Sky",
+			"type": "manga-canon",
+			"aired_date": "2015-03-01"
+		},
+		{
+			"episode": 72,
+			"title": "The Final Lesson",
+			"type": "manga-canon",
+			"aired_date": "2015-03-08"
+		},
+		{
+			"episode": 73,
+			"title": "Inheritance",
+			"type": "manga-canon",
+			"aired_date": "2015-03-15"
+		},
+		{
+			"episode": 74,
+			"title": "The Guiding Light",
+			"type": "manga-canon",
+			"aired_date": "2015-03-22"
+		},
+		{
+			"episode": 75,
+			"title": "In Pursuit",
+			"type": "manga-canon",
+			"aired_date": "2015-03-29"
+		}
+	]
+}

@@ -1,0 +1,370 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Beelzebub",
+	"mappings": {
+		"anilist_id": 9513,
+		"mal_id": 9513
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "I Picked Up the Demon King",
+			"type": "manga-canon",
+			"aired_date": "2011-01-09"
+		},
+		{
+			"episode": 2,
+			"title": "I Became a Gang Leader with a Child",
+			"type": "manga-canon",
+			"aired_date": "2011-01-16"
+		},
+		{
+			"episode": 3,
+			"title": "Are There Any Strong, Ruthless Men Around?",
+			"type": "manga-canon",
+			"aired_date": "2011-01-23"
+		},
+		{
+			"episode": 4,
+			"title": "There Is One Second Before the Demon Lord's Floods Burst Forth",
+			"type": "manga-canon",
+			"aired_date": "2011-01-30"
+		},
+		{
+			"episode": 5,
+			"title": "Money can buy anything",
+			"type": "manga-canon",
+			"aired_date": "2011-02-06"
+		},
+		{
+			"episode": 6,
+			"title": "The Toys from the Demon World Have Arrived / We Played Doctor",
+			"type": "manga-canon",
+			"aired_date": "2011-02-13"
+		},
+		{
+			"episode": 7,
+			"title": "The Demon Lord makes his Park Debut",
+			"type": "manga-canon",
+			"aired_date": "2011-02-20"
+		},
+		{
+			"episode": 8,
+			"title": "We Met Again",
+			"type": "manga-canon",
+			"aired_date": "2011-02-27"
+		},
+		{
+			"episode": 9,
+			"title": "Love is a Hurricane",
+			"type": "manga-canon",
+			"aired_date": "2011-03-06"
+		},
+		{
+			"episode": 10,
+			"title": "A Disciple is Ready",
+			"type": "manga-canon",
+			"aired_date": "2011-03-27"
+		},
+		{
+			"episode": 11,
+			"title": "There was Something Money Could not Buy",
+			"type": "filler",
+			"aired_date": "2011-04-03"
+		},
+		{
+			"episode": 12,
+			"title": "I Won't Let You Sleep Tonight",
+			"type": "filler",
+			"aired_date": "2011-04-10"
+		},
+		{
+			"episode": 13,
+			"title": "Baby Beel: The Assessment Test / Hilda: Dear Great Demon Lord",
+			"type": "filler",
+			"aired_date": "2011-04-17"
+		},
+		{
+			"episode": 14,
+			"title": "Is there a Special Move?",
+			"type": "filler",
+			"aired_date": "2011-04-24"
+		},
+		{
+			"episode": 15,
+			"title": "The Delinquents Have Changed into Swimsuits",
+			"type": "mixed-manga",
+			"aired_date": "2011-05-01"
+		},
+		{
+			"episode": 16,
+			"title": "You're Not a Man at All, Eh",
+			"type": "manga-canon",
+			"aired_date": "2011-05-08"
+		},
+		{
+			"episode": 17,
+			"title": "What Do You Think of Demon World Homework?",
+			"type": "mixed-manga",
+			"aired_date": "2011-05-15"
+		},
+		{
+			"episode": 18,
+			"title": "I Stopped Being a Gang Leader with a Child",
+			"type": "manga-canon",
+			"aired_date": "2011-05-22"
+		},
+		{
+			"episode": 19,
+			"title": "The Doctor Game",
+			"type": "manga-canon",
+			"aired_date": "2011-05-29"
+		},
+		{
+			"episode": 20,
+			"title": "Everyone Gathering",
+			"type": "manga-canon",
+			"aired_date": "2011-06-05"
+		},
+		{
+			"episode": 21,
+			"title": "Who Do You Think is Ishiyama's Strongest?",
+			"type": "manga-canon",
+			"aired_date": "2011-06-12"
+		},
+		{
+			"episode": 22,
+			"title": "The Mountainous Seclusion",
+			"type": "manga-canon",
+			"aired_date": "2011-06-19"
+		},
+		{
+			"episode": 23,
+			"title": "Honmakai",
+			"type": "manga-canon",
+			"aired_date": "2011-06-26"
+		},
+		{
+			"episode": 24,
+			"title": "Tadaimakai",
+			"type": "manga-canon",
+			"aired_date": "2011-07-03"
+		},
+		{
+			"episode": 25,
+			"title": "The New School Term Has Started",
+			"type": "manga-canon",
+			"aired_date": "2011-07-10"
+		},
+		{
+			"episode": 26,
+			"title": "May I Call You Brother",
+			"type": "manga-canon",
+			"aired_date": "2011-07-17"
+		},
+		{
+			"episode": 27,
+			"title": "Called the Magical Girl",
+			"type": "filler",
+			"aired_date": "2011-07-24"
+		},
+		{
+			"episode": 28,
+			"title": "Let's Try Doing Body Measurements",
+			"type": "filler",
+			"aired_date": "2011-07-31"
+		},
+		{
+			"episode": 29,
+			"title": "What's the Rokkisei?",
+			"type": "manga-canon",
+			"aired_date": "2011-08-07"
+		},
+		{
+			"episode": 30,
+			"title": "Who Could the Rokkisei Be?",
+			"type": "manga-canon",
+			"aired_date": "2011-08-14"
+		},
+		{
+			"episode": 31,
+			"title": "The Dispute Was Not Settled",
+			"type": "manga-canon",
+			"aired_date": "2011-08-28"
+		},
+		{
+			"episode": 32,
+			"title": "What Happened Because of the Transfer Girl?",
+			"type": "manga-canon",
+			"aired_date": "2011-09-04"
+		},
+		{
+			"episode": 33,
+			"title": "There Were Scars from the Past",
+			"type": "manga-canon",
+			"aired_date": "2011-09-11"
+		},
+		{
+			"episode": 34,
+			"title": "Maids Completely Rustling",
+			"type": "manga-canon",
+			"aired_date": "2011-09-18"
+		},
+		{
+			"episode": 35,
+			"title": "The Time to Start the Match",
+			"type": "manga-canon",
+			"aired_date": "2011-09-25"
+		},
+		{
+			"episode": 36,
+			"title": "The Dispute is Finally Settled",
+			"type": "manga-canon",
+			"aired_date": "2011-10-02"
+		},
+		{
+			"episode": 37,
+			"title": "That Man Was a Sensei",
+			"type": "manga-canon",
+			"aired_date": "2011-10-09"
+		},
+		{
+			"episode": 38,
+			"title": "The Sibling Rivalry Has Begun",
+			"type": "manga-canon",
+			"aired_date": "2011-10-16"
+		},
+		{
+			"episode": 39,
+			"title": "The Older Brother Was a Crybaby",
+			"type": "manga-canon",
+			"aired_date": "2011-10-23"
+		},
+		{
+			"episode": 40,
+			"title": "The Assassins Aren't Guests",
+			"type": "manga-canon",
+			"aired_date": "2011-10-30"
+		},
+		{
+			"episode": 41,
+			"title": "What to Do in This Desperate Situation?",
+			"type": "manga-canon",
+			"aired_date": "2011-11-06"
+		},
+		{
+			"episode": 42,
+			"title": "It's Time to Train",
+			"type": "manga-canon",
+			"aired_date": "2011-11-13"
+		},
+		{
+			"episode": 43,
+			"title": "Where Did the Older Brother Disappear To?",
+			"type": "manga-canon",
+			"aired_date": "2011-11-20"
+		},
+		{
+			"episode": 44,
+			"title": "I Have to Get Stronger",
+			"type": "manga-canon",
+			"aired_date": "2011-11-27"
+		},
+		{
+			"episode": 45,
+			"title": "There's One Day and 1 Hour Left Until the Game",
+			"type": "manga-canon",
+			"aired_date": "2011-12-04"
+		},
+		{
+			"episode": 46,
+			"title": "Burn, Super Combination!",
+			"type": "manga-canon",
+			"aired_date": "2011-12-11"
+		},
+		{
+			"episode": 47,
+			"title": "Sorry to Have Kept You Waiting",
+			"type": "manga-canon",
+			"aired_date": "2011-12-08"
+		},
+		{
+			"episode": 48,
+			"title": "I'm His Parent",
+			"type": "manga-canon",
+			"aired_date": "2011-12-25"
+		},
+		{
+			"episode": 49,
+			"title": "Beelzebub's New Year's Special! Beelbeel Journey to the West!",
+			"type": "manga-canon",
+			"aired_date": "2012-01-08"
+		},
+		{
+			"episode": 50,
+			"title": "Today I'm Different On The Inside",
+			"type": "manga-canon",
+			"aired_date": "2012-01-15"
+		},
+		{
+			"episode": 51,
+			"title": "Komainu-sama is Watching",
+			"type": "manga-canon",
+			"aired_date": "2012-01-22"
+		},
+		{
+			"episode": 52,
+			"title": "And Then There Were No Delinquents",
+			"type": "filler",
+			"aired_date": "2012-01-29"
+		},
+		{
+			"episode": 53,
+			"title": "Baby Beel: First Conquest / Furuichi: Fallen in Love",
+			"type": "filler",
+			"aired_date": "2012-02-05"
+		},
+		{
+			"episode": 54,
+			"title": "Black Baby Beel Has Grown",
+			"type": "filler",
+			"aired_date": "2012-02-12"
+		},
+		{
+			"episode": 55,
+			"title": "I Lost My Pompadour / The Great Demon Lord Has Come",
+			"type": "filler",
+			"aired_date": "2012-02-19"
+		},
+		{
+			"episode": 56,
+			"title": "Betrayal? / The Men's Turn...?",
+			"type": "filler",
+			"aired_date": "2012-02-26"
+		},
+		{
+			"episode": 57,
+			"title": "You Don't Eat Manjū? / You Don't Do Mixed Bathing?",
+			"type": "filler",
+			"aired_date": "2012-03-04"
+		},
+		{
+			"episode": 58,
+			"title": "Akumano Academy Has Opened",
+			"type": "manga-canon",
+			"aired_date": "2012-03-11"
+		},
+		{
+			"episode": 59,
+			"title": "We're the Strongest",
+			"type": "manga-canon",
+			"aired_date": "2012-03-18"
+		},
+		{
+			"episode": 60,
+			"title": "I Won`t Say Goodbye",
+			"type": "filler",
+			"aired_date": "2012-03-25"
+		}
+	]
+}

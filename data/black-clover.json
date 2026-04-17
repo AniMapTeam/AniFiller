@@ -1,0 +1,1030 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Black Clover",
+	"mappings": {
+		"anilist_id": 97940,
+		"mal_id": 34572
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Asta and Yuno",
+			"type": "manga-canon",
+			"aired_date": "2017-10-03"
+		},
+		{
+			"episode": 2,
+			"title": "A Young Man's Vow",
+			"type": "mixed-manga",
+			"aired_date": "2017-10-10"
+		},
+		{
+			"episode": 3,
+			"title": "To the Royal Capital!",
+			"type": "anime-canon",
+			"aired_date": "2017-10-17"
+		},
+		{
+			"episode": 4,
+			"title": "The Magic Knights Entrance Exam",
+			"type": "manga-canon",
+			"aired_date": "2017-10-24"
+		},
+		{
+			"episode": 5,
+			"title": "The Road to the Wizard King",
+			"type": "manga-canon",
+			"aired_date": "2017-10-31"
+		},
+		{
+			"episode": 6,
+			"title": "The Black Bulls",
+			"type": "manga-canon",
+			"aired_date": "2017-11-07"
+		},
+		{
+			"episode": 7,
+			"title": "Another New Member",
+			"type": "manga-canon",
+			"aired_date": "2017-11-14"
+		},
+		{
+			"episode": 8,
+			"title": "Go! Go! My First Mission",
+			"type": "mixed-manga",
+			"aired_date": "2017-11-21"
+		},
+		{
+			"episode": 9,
+			"title": "Beasts",
+			"type": "mixed-manga",
+			"aired_date": "2017-11-28"
+		},
+		{
+			"episode": 10,
+			"title": "Guardians",
+			"type": "manga-canon",
+			"aired_date": "2017-12-05"
+		},
+		{
+			"episode": 11,
+			"title": "What Happened One Day in the Castle Town",
+			"type": "manga-canon",
+			"aired_date": "2017-12-12"
+		},
+		{
+			"episode": 12,
+			"title": "The Wizard King Saw",
+			"type": "mixed-manga",
+			"aired_date": "2017-12-19"
+		},
+		{
+			"episode": 13,
+			"title": "The Wizard King Saw, Continued",
+			"type": "anime-canon",
+			"aired_date": "2017-12-26"
+		},
+		{
+			"episode": 14,
+			"title": "Dungeon",
+			"type": "manga-canon",
+			"aired_date": "2018-01-09"
+		},
+		{
+			"episode": 15,
+			"title": "The Diamond Mage",
+			"type": "manga-canon",
+			"aired_date": "2018-01-16"
+		},
+		{
+			"episode": 16,
+			"title": "Friends",
+			"type": "manga-canon",
+			"aired_date": "2018-01-23"
+		},
+		{
+			"episode": 17,
+			"title": "Destroyer",
+			"type": "manga-canon",
+			"aired_date": "2018-01-30"
+		},
+		{
+			"episode": 18,
+			"title": "Memories of You",
+			"type": "manga-canon",
+			"aired_date": "2018-02-06"
+		},
+		{
+			"episode": 19,
+			"title": "Destruction and Salvation",
+			"type": "manga-canon",
+			"aired_date": "2018-02-13"
+		},
+		{
+			"episode": 20,
+			"title": "Assembly at the Royal Capital",
+			"type": "manga-canon",
+			"aired_date": "2018-02-20"
+		},
+		{
+			"episode": 21,
+			"title": "Capital Riot",
+			"type": "manga-canon",
+			"aired_date": "2018-02-27"
+		},
+		{
+			"episode": 22,
+			"title": "Wild Magic Dance",
+			"type": "manga-canon",
+			"aired_date": "2018-03-06"
+		},
+		{
+			"episode": 23,
+			"title": "The King of the Crimson Lions",
+			"type": "manga-canon",
+			"aired_date": "2018-03-13"
+		},
+		{
+			"episode": 24,
+			"title": "Blackout",
+			"type": "manga-canon",
+			"aired_date": "2018-03-20"
+		},
+		{
+			"episode": 25,
+			"title": "Adversity",
+			"type": "manga-canon",
+			"aired_date": "2018-03-27"
+		},
+		{
+			"episode": 26,
+			"title": "Wounded Beasts",
+			"type": "manga-canon",
+			"aired_date": "2018-04-03"
+		},
+		{
+			"episode": 27,
+			"title": "Light",
+			"type": "manga-canon",
+			"aired_date": "2018-04-10"
+		},
+		{
+			"episode": 28,
+			"title": "The One I've Set My Heart On",
+			"type": "manga-canon",
+			"aired_date": "2018-04-17"
+		},
+		{
+			"episode": 29,
+			"title": "Path",
+			"type": "filler",
+			"aired_date": "2018-04-24"
+		},
+		{
+			"episode": 30,
+			"title": "The Mirror Mage",
+			"type": "mixed-manga",
+			"aired_date": "2018-05-01"
+		},
+		{
+			"episode": 31,
+			"title": "Pursuit over the Snow",
+			"type": "manga-canon",
+			"aired_date": "2018-05-08"
+		},
+		{
+			"episode": 32,
+			"title": "Three-Leaf Sprouts",
+			"type": "manga-canon",
+			"aired_date": "2018-05-15"
+		},
+		{
+			"episode": 33,
+			"title": "To Help Somebody, Someday",
+			"type": "manga-canon",
+			"aired_date": "2018-05-22"
+		},
+		{
+			"episode": 34,
+			"title": "Light Magic vs. Dark Magic",
+			"type": "manga-canon",
+			"aired_date": "2018-05-29"
+		},
+		{
+			"episode": 35,
+			"title": "The Light of Judgement",
+			"type": "manga-canon",
+			"aired_date": "2018-06-05"
+		},
+		{
+			"episode": 36,
+			"title": "Three Eyes",
+			"type": "manga-canon",
+			"aired_date": "2018-06-12"
+		},
+		{
+			"episode": 37,
+			"title": "The One with No Magic",
+			"type": "manga-canon",
+			"aired_date": "2018-06-19"
+		},
+		{
+			"episode": 38,
+			"title": "The Magic Knight Captains Conference",
+			"type": "manga-canon",
+			"aired_date": "2018-06-26"
+		},
+		{
+			"episode": 39,
+			"title": "Three-Leaf Salute",
+			"type": "manga-canon",
+			"aired_date": "2018-07-03"
+		},
+		{
+			"episode": 40,
+			"title": "A Black Beach Story",
+			"type": "manga-canon",
+			"aired_date": "2018-07-10"
+		},
+		{
+			"episode": 41,
+			"title": "The Water Girl Grows Up",
+			"type": "manga-canon",
+			"aired_date": "2018-07-17"
+		},
+		{
+			"episode": 42,
+			"title": "The Underwater Temple",
+			"type": "manga-canon",
+			"aired_date": "2018-07-24"
+		},
+		{
+			"episode": 43,
+			"title": "Temple Battle Royale",
+			"type": "manga-canon",
+			"aired_date": "2018-07-31"
+		},
+		{
+			"episode": 44,
+			"title": "The Pointlessly Direct Fireball and the Wild Lightning",
+			"type": "manga-canon",
+			"aired_date": "2018-08-07"
+		},
+		{
+			"episode": 45,
+			"title": "The Guy Who Doesn't Know When to Quit",
+			"type": "manga-canon",
+			"aired_date": "2018-08-14"
+		},
+		{
+			"episode": 46,
+			"title": "Awakening",
+			"type": "manga-canon",
+			"aired_date": "2018-08-21"
+		},
+		{
+			"episode": 47,
+			"title": "The Only Weapon",
+			"type": "manga-canon",
+			"aired_date": "2018-08-28"
+		},
+		{
+			"episode": 48,
+			"title": "Despair vs. Hope",
+			"type": "manga-canon",
+			"aired_date": "2018-09-04"
+		},
+		{
+			"episode": 49,
+			"title": "Beyond Limits",
+			"type": "manga-canon",
+			"aired_date": "2018-09-11"
+		},
+		{
+			"episode": 50,
+			"title": "End of the Battle, End of Despair",
+			"type": "manga-canon",
+			"aired_date": "2018-09-18"
+		},
+		{
+			"episode": 51,
+			"title": "Proof of Rightness",
+			"type": "manga-canon",
+			"aired_date": "2018-09-25"
+		},
+		{
+			"episode": 52,
+			"title": "Whoever's Strongest Wins",
+			"type": "manga-canon",
+			"aired_date": "2018-10-02"
+		},
+		{
+			"episode": 53,
+			"title": "Behind the Mask",
+			"type": "manga-canon",
+			"aired_date": "2018-10-09"
+		},
+		{
+			"episode": 54,
+			"title": "Never Again",
+			"type": "manga-canon",
+			"aired_date": "2018-10-16"
+		},
+		{
+			"episode": 55,
+			"title": "The Man Named Fanzell",
+			"type": "anime-canon",
+			"aired_date": "2018-10-23"
+		},
+		{
+			"episode": 56,
+			"title": "The Man Named Fanzell Continued",
+			"type": "anime-canon",
+			"aired_date": "2018-10-30"
+		},
+		{
+			"episode": 57,
+			"title": "Infiltration",
+			"type": "manga-canon",
+			"aired_date": "2018-11-06"
+		},
+		{
+			"episode": 58,
+			"title": "The Battlefield Decision",
+			"type": "manga-canon",
+			"aired_date": "2018-11-13"
+		},
+		{
+			"episode": 59,
+			"title": "Flames of Hatred",
+			"type": "manga-canon",
+			"aired_date": "2018-11-20"
+		},
+		{
+			"episode": 60,
+			"title": "Defectors' Atonement",
+			"type": "manga-canon",
+			"aired_date": "2018-11-27"
+		},
+		{
+			"episode": 61,
+			"title": "The Promised World",
+			"type": "manga-canon",
+			"aired_date": "2018-12-04"
+		},
+		{
+			"episode": 62,
+			"title": "Bettering One Another",
+			"type": "manga-canon",
+			"aired_date": "2018-12-11"
+		},
+		{
+			"episode": 63,
+			"title": "Not in the Slightest",
+			"type": "manga-canon",
+			"aired_date": "2018-12-18"
+		},
+		{
+			"episode": 64,
+			"title": "The Red Thread of Fate",
+			"type": "manga-canon",
+			"aired_date": "2018-12-25"
+		},
+		{
+			"episode": 65,
+			"title": "I'm Home",
+			"type": "manga-canon",
+			"aired_date": "2019-01-08"
+		},
+		{
+			"episode": 66,
+			"title": "The Secret of the Eye of the Midnight Sun",
+			"type": "filler",
+			"aired_date": "2019-01-15"
+		},
+		{
+			"episode": 67,
+			"title": "A Fun Festival Double Date",
+			"type": "manga-canon",
+			"aired_date": "2019-01-22"
+		},
+		{
+			"episode": 68,
+			"title": "Battle to the Death?! Yami vs. Jack",
+			"type": "filler",
+			"aired_date": "2019-01-29"
+		},
+		{
+			"episode": 69,
+			"title": "The Briar Maiden's Melancholy",
+			"type": "mixed-manga",
+			"aired_date": "2019-02-05"
+		},
+		{
+			"episode": 70,
+			"title": "Two New Stars",
+			"type": "manga-canon",
+			"aired_date": "2019-02-12"
+		},
+		{
+			"episode": 71,
+			"title": "The Uncrowned, Undefeated Lioness",
+			"type": "manga-canon",
+			"aired_date": "2019-02-19"
+		},
+		{
+			"episode": 72,
+			"title": "Saint Elmo's Fire",
+			"type": "manga-canon",
+			"aired_date": "2019-02-26"
+		},
+		{
+			"episode": 73,
+			"title": "The Royal Knights Selection Test",
+			"type": "manga-canon",
+			"aired_date": "2019-03-05"
+		},
+		{
+			"episode": 74,
+			"title": "Flower of Resolution",
+			"type": "manga-canon",
+			"aired_date": "2019-03-12"
+		},
+		{
+			"episode": 75,
+			"title": "Fierce Battle",
+			"type": "manga-canon",
+			"aired_date": "2019-03-19"
+		},
+		{
+			"episode": 76,
+			"title": "Mage X",
+			"type": "manga-canon",
+			"aired_date": "2019-03-26"
+		},
+		{
+			"episode": 77,
+			"title": "Bad Blood",
+			"type": "manga-canon",
+			"aired_date": "2019-04-02"
+		},
+		{
+			"episode": 78,
+			"title": "Peasant Trap",
+			"type": "manga-canon",
+			"aired_date": "2019-04-09"
+		},
+		{
+			"episode": 79,
+			"title": "Mister Delinquent vs. Muscle Brains",
+			"type": "manga-canon",
+			"aired_date": "2019-04-16"
+		},
+		{
+			"episode": 80,
+			"title": "Special Little Brother vs. Failed Big Brother",
+			"type": "manga-canon",
+			"aired_date": "2019-04-23"
+		},
+		{
+			"episode": 81,
+			"title": "The Life of a Certain Man",
+			"type": "manga-canon",
+			"aired_date": "2019-04-30"
+		},
+		{
+			"episode": 82,
+			"title": "Clover Clips: The Nightmarish Charmy Special!",
+			"type": "filler",
+			"aired_date": "2019-05-07"
+		},
+		{
+			"episode": 83,
+			"title": "Burn It into You",
+			"type": "manga-canon",
+			"aired_date": "2019-05-14"
+		},
+		{
+			"episode": 84,
+			"title": "The Victors",
+			"type": "manga-canon",
+			"aired_date": "2019-05-21"
+		},
+		{
+			"episode": 85,
+			"title": "Together in the Bath",
+			"type": "manga-canon",
+			"aired_date": "2019-05-28"
+		},
+		{
+			"episode": 86,
+			"title": "Yami and Vangeance",
+			"type": "manga-canon",
+			"aired_date": "2019-06-04"
+		},
+		{
+			"episode": 87,
+			"title": "Formation of the Royal Knights",
+			"type": "manga-canon",
+			"aired_date": "2019-06-11"
+		},
+		{
+			"episode": 88,
+			"title": "Storming the Eye of the Midnight Sun's Hideout!!!",
+			"type": "manga-canon",
+			"aired_date": "2019-06-18"
+		},
+		{
+			"episode": 89,
+			"title": "The Black Bull Hideout",
+			"type": "manga-canon",
+			"aired_date": "2019-06-25"
+		},
+		{
+			"episode": 90,
+			"title": "Crazy Magic Battle",
+			"type": "manga-canon",
+			"aired_date": "2019-07-02"
+		},
+		{
+			"episode": 91,
+			"title": "Mereoleona vs. Rhya the Disloyal",
+			"type": "manga-canon",
+			"aired_date": "2019-07-09"
+		},
+		{
+			"episode": 92,
+			"title": "The Wizard King vs. the Leader of the Eye of the Midnight Sun",
+			"type": "manga-canon",
+			"aired_date": "2019-07-16"
+		},
+		{
+			"episode": 93,
+			"title": "Julius Novachrono",
+			"type": "manga-canon",
+			"aired_date": "2019-07-23"
+		},
+		{
+			"episode": 94,
+			"title": "New Future",
+			"type": "manga-canon",
+			"aired_date": "2019-07-30"
+		},
+		{
+			"episode": 95,
+			"title": "Reincarnation",
+			"type": "manga-canon",
+			"aired_date": "2019-08-06"
+		},
+		{
+			"episode": 96,
+			"title": "The Black Bulls Captain vs. the Crimson Wild Rose",
+			"type": "manga-canon",
+			"aired_date": "2019-08-13"
+		},
+		{
+			"episode": 97,
+			"title": "Overwhelming Disadvantage",
+			"type": "manga-canon",
+			"aired_date": "2019-08-20"
+		},
+		{
+			"episode": 98,
+			"title": "The Sleeping Lion",
+			"type": "manga-canon",
+			"aired_date": "2019-08-27"
+		},
+		{
+			"episode": 99,
+			"title": "The Desperate Path Toward Survival",
+			"type": "manga-canon",
+			"aired_date": "2019-09-03"
+		},
+		{
+			"episode": 100,
+			"title": "We Won't Lose to You",
+			"type": "manga-canon",
+			"aired_date": "2019-09-10"
+		},
+		{
+			"episode": 101,
+			"title": "The Lives of the Village in the Sticks",
+			"type": "manga-canon",
+			"aired_date": "2019-09-17"
+		},
+		{
+			"episode": 102,
+			"title": "Two Miracles",
+			"type": "mixed-manga",
+			"aired_date": "2019-09-24"
+		},
+		{
+			"episode": 103,
+			"title": "Release from Misfortune",
+			"type": "manga-canon",
+			"aired_date": "2019-10-01"
+		},
+		{
+			"episode": 104,
+			"title": "Lightning of Rage vs. Friends",
+			"type": "manga-canon",
+			"aired_date": "2019-10-08"
+		},
+		{
+			"episode": 105,
+			"title": "Smiles, Tears",
+			"type": "manga-canon",
+			"aired_date": "2019-10-15"
+		},
+		{
+			"episode": 106,
+			"title": "Path of Revenge, Path of Atonement",
+			"type": "manga-canon",
+			"aired_date": "2019-10-22"
+		},
+		{
+			"episode": 107,
+			"title": "The Battle for Clover Castle",
+			"type": "manga-canon",
+			"aired_date": "2019-10-29"
+		},
+		{
+			"episode": 108,
+			"title": "Battlefield Dancer",
+			"type": "manga-canon",
+			"aired_date": "2019-11-05"
+		},
+		{
+			"episode": 109,
+			"title": "Spatial Mage Brothers",
+			"type": "manga-canon",
+			"aired_date": "2019-11-12"
+		},
+		{
+			"episode": 110,
+			"title": "The Raging Bull Joins the Showdown!!",
+			"type": "manga-canon",
+			"aired_date": "2019-11-19"
+		},
+		{
+			"episode": 111,
+			"title": "The Eyes in the Mirror",
+			"type": "manga-canon",
+			"aired_date": "2019-11-26"
+		},
+		{
+			"episode": 112,
+			"title": "Humans Who Can Be Trusted",
+			"type": "manga-canon",
+			"aired_date": "2019-12-03"
+		},
+		{
+			"episode": 113,
+			"title": "Storming the Shadow Palace",
+			"type": "manga-canon",
+			"aired_date": "2019-12-10"
+		},
+		{
+			"episode": 114,
+			"title": "The Final Invaders",
+			"type": "manga-canon",
+			"aired_date": "2019-12-17"
+		},
+		{
+			"episode": 115,
+			"title": "Mastermind",
+			"type": "manga-canon",
+			"aired_date": "2019-12-24"
+		},
+		{
+			"episode": 116,
+			"title": "The Ultimate Natural Enemy",
+			"type": "manga-canon",
+			"aired_date": "2020-01-07"
+		},
+		{
+			"episode": 117,
+			"title": "Breaking the Seal",
+			"type": "manga-canon",
+			"aired_date": "2020-01-14"
+		},
+		{
+			"episode": 118,
+			"title": "A Reunion Across Time and Space",
+			"type": "manga-canon",
+			"aired_date": "2020-01-21"
+		},
+		{
+			"episode": 119,
+			"title": "The Final Attack",
+			"type": "manga-canon",
+			"aired_date": "2020-01-28"
+		},
+		{
+			"episode": 120,
+			"title": "Dawn",
+			"type": "manga-canon",
+			"aired_date": "2020-02-04"
+		},
+		{
+			"episode": 121,
+			"title": "Three Problems",
+			"type": "manga-canon",
+			"aired_date": "2020-02-11"
+		},
+		{
+			"episode": 122,
+			"title": "As Pitch Black as It Gets",
+			"type": "manga-canon",
+			"aired_date": "2020-02-18"
+		},
+		{
+			"episode": 123,
+			"title": "Nero Reminisces... Part One",
+			"type": "filler",
+			"aired_date": "2020-02-25"
+		},
+		{
+			"episode": 124,
+			"title": "Nero Reminisces... Part Two",
+			"type": "filler",
+			"aired_date": "2020-03-03"
+		},
+		{
+			"episode": 125,
+			"title": "Return",
+			"type": "filler",
+			"aired_date": "2020-03-10"
+		},
+		{
+			"episode": 126,
+			"title": "The Blue Rose's Confession",
+			"type": "manga-canon",
+			"aired_date": "2020-03-17"
+		},
+		{
+			"episode": 127,
+			"title": "Clues",
+			"type": "manga-canon",
+			"aired_date": "2020-03-24"
+		},
+		{
+			"episode": 128,
+			"title": "To the Heart Kingdom!",
+			"type": "manga-canon",
+			"aired_date": "2020-03-31"
+		},
+		{
+			"episode": 129,
+			"title": "The Devil Megicula",
+			"type": "manga-canon",
+			"aired_date": "2020-04-07"
+		},
+		{
+			"episode": 130,
+			"title": "The New Magic Knight Squad Captains' Meeting",
+			"type": "anime-canon",
+			"aired_date": "2020-04-14"
+		},
+		{
+			"episode": 131,
+			"title": "A New Resolve",
+			"type": "filler",
+			"aired_date": "2020-04-21"
+		},
+		{
+			"episode": 132,
+			"title": "The Lion Awakens",
+			"type": "anime-canon",
+			"aired_date": "2020-04-28"
+		},
+		{
+			"episode": 133,
+			"title": "The Lion Awakens, Continued",
+			"type": "anime-canon",
+			"aired_date": "2020-07-07"
+		},
+		{
+			"episode": 134,
+			"title": "Those Who Have Been Gathered",
+			"type": "filler",
+			"aired_date": "2020-07-14"
+		},
+		{
+			"episode": 135,
+			"title": "The One Who Has My Heart, My Mind, and Soul",
+			"type": "filler",
+			"aired_date": "2020-07-21"
+		},
+		{
+			"episode": 136,
+			"title": "A Black Deep-Sea Story",
+			"type": "anime-canon",
+			"aired_date": "2020-07-28"
+		},
+		{
+			"episode": 137,
+			"title": "Charmy's Century of Hunger, Gordon's Millennium of Loneliness",
+			"type": "anime-canon",
+			"aired_date": "2020-08-04"
+		},
+		{
+			"episode": 138,
+			"title": "In Zara's Footsteps",
+			"type": "anime-canon",
+			"aired_date": "2020-08-11"
+		},
+		{
+			"episode": 139,
+			"title": "A Witch's Homecoming",
+			"type": "anime-canon",
+			"aired_date": "2020-08-18"
+		},
+		{
+			"episode": 140,
+			"title": "A Favor for Julius",
+			"type": "anime-canon",
+			"aired_date": "2020-08-25"
+		},
+		{
+			"episode": 141,
+			"title": "The Golden Family",
+			"type": "anime-canon",
+			"aired_date": "2020-09-01"
+		},
+		{
+			"episode": 142,
+			"title": "Those Remaining",
+			"type": "filler",
+			"aired_date": "2020-09-08"
+		},
+		{
+			"episode": 143,
+			"title": "The Tilted Scale",
+			"type": "filler",
+			"aired_date": "2020-09-15"
+		},
+		{
+			"episode": 144,
+			"title": "Those Who Wish to Destroy Devils",
+			"type": "filler",
+			"aired_date": "2020-09-22"
+		},
+		{
+			"episode": 145,
+			"title": "Rescue",
+			"type": "filler",
+			"aired_date": "2020-09-29"
+		},
+		{
+			"episode": 146,
+			"title": "Those Who Worship Devils",
+			"type": "filler",
+			"aired_date": "2020-10-06"
+		},
+		{
+			"episode": 147,
+			"title": "Death",
+			"type": "filler",
+			"aired_date": "2020-10-13"
+		},
+		{
+			"episode": 148,
+			"title": "Become the Light That Illuminates the Darkness",
+			"type": "filler",
+			"aired_date": "2020-10-20"
+		},
+		{
+			"episode": 149,
+			"title": "Two Things to Look for",
+			"type": "filler",
+			"aired_date": "2020-10-27"
+		},
+		{
+			"episode": 150,
+			"title": "The Challenge of the Maidens",
+			"type": "anime-canon",
+			"aired_date": "2020-11-03"
+		},
+		{
+			"episode": 151,
+			"title": "Clash! Battle of the Magic Knight Captains!",
+			"type": "anime-canon",
+			"aired_date": "2020-11-10"
+		},
+		{
+			"episode": 152,
+			"title": "To Tomorrow!",
+			"type": "anime-canon",
+			"aired_date": "2020-11-17"
+		},
+		{
+			"episode": 153,
+			"title": "The Chosen Ones",
+			"type": "anime-canon",
+			"aired_date": "2020-11-24"
+		},
+		{
+			"episode": 154,
+			"title": "Vice-Captain Langris Vaude",
+			"type": "anime-canon",
+			"aired_date": "2020-12-01"
+		},
+		{
+			"episode": 155,
+			"title": "The 5 Spirit Guardians",
+			"type": "anime-canon",
+			"aired_date": "2020-12-08"
+		},
+		{
+			"episode": 156,
+			"title": "Awakening Power",
+			"type": "anime-canon",
+			"aired_date": "2020-12-15"
+		},
+		{
+			"episode": 157,
+			"title": "The Five-Leaf Clover",
+			"type": "anime-canon",
+			"aired_date": "2020-12-22"
+		},
+		{
+			"episode": 158,
+			"title": "The Beginning of Hope and Despair",
+			"type": "manga-canon",
+			"aired_date": "2021-01-05"
+		},
+		{
+			"episode": 159,
+			"title": "Quiet Lakes and Forest Shadows",
+			"type": "manga-canon",
+			"aired_date": "2021-01-12"
+		},
+		{
+			"episode": 160,
+			"title": "The Messenger from the Spade Kingdom",
+			"type": "manga-canon",
+			"aired_date": "2021-01-19"
+		},
+		{
+			"episode": 161,
+			"title": "Zeno's Power",
+			"type": "manga-canon",
+			"aired_date": "2021-01-26"
+		},
+		{
+			"episode": 162,
+			"title": "The Great War Breaks Out",
+			"type": "manga-canon",
+			"aired_date": "2021-02-02"
+		},
+		{
+			"episode": 163,
+			"title": "Dante vs. The Captain of the Black Bulls",
+			"type": "manga-canon",
+			"aired_date": "2021-02-09"
+		},
+		{
+			"episode": 164,
+			"title": "Battlefield: Heart Kingdom",
+			"type": "manga-canon",
+			"aired_date": "2021-02-16"
+		},
+		{
+			"episode": 165,
+			"title": "Water Crusade",
+			"type": "manga-canon",
+			"aired_date": "2021-02-23"
+		},
+		{
+			"episode": 166,
+			"title": "Captain Yami Sukehiro",
+			"type": "manga-canon",
+			"aired_date": "2021-03-02"
+		},
+		{
+			"episode": 167,
+			"title": "Black Oath",
+			"type": "manga-canon",
+			"aired_date": "2021-03-09"
+		},
+		{
+			"episode": 168,
+			"title": "Stirrings of the Strongest",
+			"type": "manga-canon",
+			"aired_date": "2021-03-16"
+		},
+		{
+			"episode": 169,
+			"title": "The Devil-Binding Ritual",
+			"type": "manga-canon",
+			"aired_date": "2021-03-23"
+		},
+		{
+			"episode": 170,
+			"title": "Faraway Future",
+			"type": "manga-canon",
+			"aired_date": "2021-03-30"
+		}
+	]
+}

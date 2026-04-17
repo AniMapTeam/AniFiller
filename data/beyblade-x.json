@@ -1,0 +1,250 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Beyblade X",
+	"mappings": {
+		"anilist_id": 165159,
+		"mal_id": 56566
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "X",
+			"type": "manga-canon",
+			"aired_date": "2023-10-06"
+		},
+		{
+			"episode": 2,
+			"title": "Multi-Colored Ambush",
+			"type": "manga-canon",
+			"aired_date": "2023-10-13"
+		},
+		{
+			"episode": 3,
+			"title": "Team Persona",
+			"type": "manga-canon",
+			"aired_date": "2023-10-20"
+		},
+		{
+			"episode": 4,
+			"title": "Bey Sponsor",
+			"type": "manga-canon",
+			"aired_date": "2023-10-27"
+		},
+		{
+			"episode": 5,
+			"title": "To the X",
+			"type": "mixed-manga",
+			"aired_date": "2023-11-03"
+		},
+		{
+			"episode": 6,
+			"title": "Lion's Jungle",
+			"type": "filler",
+			"aired_date": "2023-11-10"
+		},
+		{
+			"episode": 7,
+			"title": "Team Zooganic",
+			"type": "manga-canon",
+			"aired_date": "2023-11-17"
+		},
+		{
+			"episode": 8,
+			"title": "The Mask and the King",
+			"type": "manga-canon",
+			"aired_date": "2023-11-24"
+		},
+		{
+			"episode": 9,
+			"title": "Beycrafter",
+			"type": "mixed-manga",
+			"aired_date": "2023-12-01"
+		},
+		{
+			"episode": 10,
+			"title": "The Pro Realm",
+			"type": "manga-canon",
+			"aired_date": "2023-12-08"
+		},
+		{
+			"episode": 11,
+			"title": "Warden's Exam",
+			"type": "manga-canon",
+			"aired_date": "2023-12-15"
+		},
+		{
+			"episode": 12,
+			"title": "The Final Battle",
+			"type": "manga-canon",
+			"aired_date": "2023-12-22"
+		},
+		{
+			"episode": 13,
+			"title": "The First Fan",
+			"type": "filler",
+			"aired_date": "2024-01-05"
+		},
+		{
+			"episode": 14,
+			"title": "Jax-ercise",
+			"type": "filler",
+			"aired_date": "2024-01-12"
+		},
+		{
+			"episode": 15,
+			"title": "Riddles and Beys",
+			"type": "filler",
+			"aired_date": "2024-01-19"
+		},
+		{
+			"episode": 16,
+			"title": "Noblesse Oblige",
+			"type": "filler",
+			"aired_date": "2024-01-26"
+		},
+		{
+			"episode": 17,
+			"title": "Bey Timeshift",
+			"type": "mixed-manga",
+			"aired_date": "2024-02-02"
+		},
+		{
+			"episode": 18,
+			"title": "Pride",
+			"type": "filler",
+			"aired_date": "2024-02-09"
+		},
+		{
+			"episode": 19,
+			"title": "Zip and Zoom",
+			"type": "filler",
+			"aired_date": "2024-02-16"
+		},
+		{
+			"episode": 20,
+			"title": "Memories of Sushi",
+			"type": "filler",
+			"aired_date": "2024-02-23"
+		},
+		{
+			"episode": 21,
+			"title": "Pop Production",
+			"type": "anime-canon",
+			"aired_date": "2024-03-01"
+		},
+		{
+			"episode": 22,
+			"title": "Black & White",
+			"type": "mixed-manga",
+			"aired_date": "2024-03-08"
+		},
+		{
+			"episode": 23,
+			"title": "True Heart",
+			"type": "anime-canon",
+			"aired_date": "2024-03-15"
+		},
+		{
+			"episode": 24,
+			"title": "Arrival of the Fastest",
+			"type": "manga-canon",
+			"aired_date": "2024-03-22"
+		},
+		{
+			"episode": 25,
+			"title": "Proof of the Fastest",
+			"type": "manga-canon",
+			"aired_date": "2024-03-29"
+		},
+		{
+			"episode": 26,
+			"title": "Invitation",
+			"type": "filler",
+			"aired_date": "2024-04-05"
+		},
+		{
+			"episode": 27,
+			"title": "The End of Persistence",
+			"type": "filler",
+			"aired_date": "2024-04-12"
+		},
+		{
+			"episode": 28,
+			"title": "The King and The Phoenix",
+			"type": "filler",
+			"aired_date": "2024-04-19"
+		},
+		{
+			"episode": 29,
+			"title": "Mask and Meat Buns",
+			"type": "filler",
+			"aired_date": "2024-04-26"
+		},
+		{
+			"episode": 30,
+			"title": "Riddles and Pop",
+			"type": "filler",
+			"aired_date": "2024-05-03"
+		},
+		{
+			"episode": 31,
+			"title": "My Teammates",
+			"type": "mixed-manga",
+			"aired_date": "2024-05-10"
+		},
+		{
+			"episode": 32,
+			"title": "New Partner",
+			"type": "filler",
+			"aired_date": "2024-05-17"
+		},
+		{
+			"episode": 33,
+			"title": "Our Promise",
+			"type": "mixed-manga",
+			"aired_date": "2024-05-24"
+		},
+		{
+			"episode": 34,
+			"title": "A Rainbow Guest",
+			"type": "manga-canon",
+			"aired_date": "2024-05-31"
+		},
+		{
+			"episode": 35,
+			"title": "The Dream Contest",
+			"type": "manga-canon",
+			"aired_date": "2024-06-07"
+		},
+		{
+			"episode": 36,
+			"title": "Bladership",
+			"type": "mixed-manga",
+			"aired_date": "2024-06-14"
+		},
+		{
+			"episode": 37,
+			"title": "Unpredictable",
+			"type": "manga-canon",
+			"aired_date": "2024-06-21"
+		},
+		{
+			"episode": 38,
+			"title": "Return of the Queen",
+			"type": "manga-canon",
+			"aired_date": "2024-06-28"
+		},
+		{
+			"episode": 39,
+			"title": "The Greatest Blader",
+			"type": "manga-canon",
+			"aired_date": "2024-07-05"
+		},
+		{
+			"episode": 40,
+			"title": "The Other Mask",
+			"type": "anime-canon",
+			"aired_date": "2024-07-12"
+		}
+	]
+}

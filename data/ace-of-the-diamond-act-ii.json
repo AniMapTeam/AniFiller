@@ -1,0 +1,322 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Ace of the Diamond: Act II",
+	"mappings": {
+		"anilist_id": 105749,
+		"mal_id": 38731
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Beyond the Dream",
+			"type": "mixed-manga",
+			"aired_date": "2019-04-02"
+		},
+		{
+			"episode": 2,
+			"title": "Wanna Take the Mound",
+			"type": "manga-canon",
+			"aired_date": "2019-04-09"
+		},
+		{
+			"episode": 3,
+			"title": "Blessed by the Baseball Gods",
+			"type": "manga-canon",
+			"aired_date": "2019-04-16"
+		},
+		{
+			"episode": 4,
+			"title": "The Day It Began",
+			"type": "mixed-manga",
+			"aired_date": "2019-04-23"
+		},
+		{
+			"episode": 5,
+			"title": "Joining",
+			"type": "manga-canon",
+			"aired_date": "2019-04-30"
+		},
+		{
+			"episode": 6,
+			"title": "Go Straight",
+			"type": "manga-canon",
+			"aired_date": "2019-05-07"
+		},
+		{
+			"episode": 7,
+			"title": "KING",
+			"type": "manga-canon",
+			"aired_date": "2019-05-14"
+		},
+		{
+			"episode": 8,
+			"title": "Camphor",
+			"type": "manga-canon",
+			"aired_date": "2019-05-21"
+		},
+		{
+			"episode": 9,
+			"title": "Battle, Battle",
+			"type": "manga-canon",
+			"aired_date": "2019-05-28"
+		},
+		{
+			"episode": 10,
+			"title": "Debut",
+			"type": "manga-canon",
+			"aired_date": "2019-06-04"
+		},
+		{
+			"episode": 11,
+			"title": "Where You Look",
+			"type": "manga-canon",
+			"aired_date": "2019-06-11"
+		},
+		{
+			"episode": 12,
+			"title": "Selfish",
+			"type": "manga-canon",
+			"aired_date": "2019-06-18"
+		},
+		{
+			"episode": 13,
+			"title": "Batting First",
+			"type": "manga-canon",
+			"aired_date": "2019-06-25"
+		},
+		{
+			"episode": 14,
+			"title": "Presence",
+			"type": "manga-canon",
+			"aired_date": "2019-07-02"
+		},
+		{
+			"episode": 15,
+			"title": "My Role",
+			"type": "manga-canon",
+			"aired_date": "2019-07-09"
+		},
+		{
+			"episode": 16,
+			"title": "Only After You've Won",
+			"type": "manga-canon",
+			"aired_date": "2019-07-16"
+		},
+		{
+			"episode": 17,
+			"title": "Three Months",
+			"type": "manga-canon",
+			"aired_date": "2019-07-23"
+		},
+		{
+			"episode": 18,
+			"title": "Something to Find Out",
+			"type": "manga-canon",
+			"aired_date": "2019-07-30"
+		},
+		{
+			"episode": 19,
+			"title": "Competitive Streak",
+			"type": "manga-canon",
+			"aired_date": "2019-08-06"
+		},
+		{
+			"episode": 20,
+			"title": "Self-Assertive",
+			"type": "manga-canon",
+			"aired_date": "2019-08-13"
+		},
+		{
+			"episode": 21,
+			"title": "Out of Time",
+			"type": "manga-canon",
+			"aired_date": "2019-08-20"
+		},
+		{
+			"episode": 22,
+			"title": "Chosen",
+			"type": "manga-canon",
+			"aired_date": "2019-08-27"
+		},
+		{
+			"episode": 23,
+			"title": "One Pitch, One Second",
+			"type": "manga-canon",
+			"aired_date": "2019-09-03"
+		},
+		{
+			"episode": 24,
+			"title": "Incomplete",
+			"type": "manga-canon",
+			"aired_date": "2019-09-10"
+		},
+		{
+			"episode": 25,
+			"title": "Unleashed",
+			"type": "manga-canon",
+			"aired_date": "2019-09-17"
+		},
+		{
+			"episode": 26,
+			"title": "Beneath the Same Banner",
+			"type": "manga-canon",
+			"aired_date": "2019-09-24"
+		},
+		{
+			"episode": 27,
+			"title": "The Note",
+			"type": "manga-canon",
+			"aired_date": "2019-10-01"
+		},
+		{
+			"episode": 28,
+			"title": "I'm Not Stopping",
+			"type": "manga-canon",
+			"aired_date": "2019-10-08"
+		},
+		{
+			"episode": 29,
+			"title": "After Spring Comes",
+			"type": "filler",
+			"aired_date": "2019-10-15"
+		},
+		{
+			"episode": 30,
+			"title": "Bloom of Youth",
+			"type": "manga-canon",
+			"aired_date": "2019-10-22"
+		},
+		{
+			"episode": 31,
+			"title": "Kind of Like a Promise",
+			"type": "manga-canon",
+			"aired_date": "2019-10-29"
+		},
+		{
+			"episode": 32,
+			"title": "Hunger",
+			"type": "manga-canon",
+			"aired_date": "2019-11-05"
+		},
+		{
+			"episode": 33,
+			"title": "Heat Transfer",
+			"type": "manga-canon",
+			"aired_date": "2019-11-12"
+		},
+		{
+			"episode": 34,
+			"title": "Competition",
+			"type": "manga-canon",
+			"aired_date": "2019-11-19"
+		},
+		{
+			"episode": 35,
+			"title": "Because He's Awesome",
+			"type": "manga-canon",
+			"aired_date": "2019-11-26"
+		},
+		{
+			"episode": 36,
+			"title": "As a Catcher",
+			"type": "manga-canon",
+			"aired_date": "2019-12-03"
+		},
+		{
+			"episode": 37,
+			"title": "Invincible Mentality",
+			"type": "manga-canon",
+			"aired_date": "2019-12-10"
+		},
+		{
+			"episode": 38,
+			"title": "Fragile",
+			"type": "manga-canon",
+			"aired_date": "2019-12-17"
+		},
+		{
+			"episode": 39,
+			"title": "I'm Counting on You",
+			"type": "manga-canon",
+			"aired_date": "2019-12-24"
+		},
+		{
+			"episode": 40,
+			"title": "Expression",
+			"type": "manga-canon",
+			"aired_date": "2020-01-07"
+		},
+		{
+			"episode": 41,
+			"title": "Shared Fate",
+			"type": "manga-canon",
+			"aired_date": "2020-01-14"
+		},
+		{
+			"episode": 42,
+			"title": "20 People",
+			"type": "manga-canon",
+			"aired_date": "2020-01-21"
+		},
+		{
+			"episode": 43,
+			"title": "Summer Training Camp",
+			"type": "manga-canon",
+			"aired_date": "2020-01-28"
+		},
+		{
+			"episode": 44,
+			"title": "Setting Sail",
+			"type": "manga-canon",
+			"aired_date": "2020-02-04"
+		},
+		{
+			"episode": 45,
+			"title": "Go EXCEED!!",
+			"type": "manga-canon",
+			"aired_date": "2020-02-11"
+		},
+		{
+			"episode": 46,
+			"title": "Encouragement",
+			"type": "manga-canon",
+			"aired_date": "2020-02-18"
+		},
+		{
+			"episode": 47,
+			"title": "Under the Feet",
+			"type": "manga-canon",
+			"aired_date": "2020-02-25"
+		},
+		{
+			"episode": 48,
+			"title": "Get Back",
+			"type": "manga-canon",
+			"aired_date": "2020-03-03"
+		},
+		{
+			"episode": 49,
+			"title": "Seido Goes All Out",
+			"type": "manga-canon",
+			"aired_date": "2020-03-10"
+		},
+		{
+			"episode": 50,
+			"title": "FIRE AGE",
+			"type": "manga-canon",
+			"aired_date": "2020-03-17"
+		},
+		{
+			"episode": 51,
+			"title": "That's the Reason Why",
+			"type": "manga-canon",
+			"aired_date": "2020-03-24"
+		},
+		{
+			"episode": 52,
+			"title": "Ace of Diamond",
+			"type": "manga-canon",
+			"aired_date": "2020-03-31"
+		}
+	]
+}

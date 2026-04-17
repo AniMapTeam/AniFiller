@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "A Certain Scientific Railgun S",
+	"mappings": {
+		"anilist_id": 16049,
+		"mal_id": 16049
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Railgun",
+			"type": "anime-canon",
+			"aired_date": "2013-04-12"
+		},
+		{
+			"episode": 2,
+			"title": "Critical",
+			"type": "manga-canon",
+			"aired_date": "2013-04-19"
+		},
+		{
+			"episode": 3,
+			"title": "Project Radio Noise",
+			"type": "manga-canon",
+			"aired_date": "2013-04-26"
+		},
+		{
+			"episode": 4,
+			"title": "Sisters",
+			"type": "manga-canon",
+			"aired_date": "2013-05-03"
+		},
+		{
+			"episode": 5,
+			"title": "Project Level 6 Shift",
+			"type": "manga-canon",
+			"aired_date": "2013-05-10"
+		},
+		{
+			"episode": 6,
+			"title": "I... Can See All Of You",
+			"type": "manga-canon",
+			"aired_date": "2013-05-17"
+		},
+		{
+			"episode": 7,
+			"title": "I... I Want To Be Of Help To You, Sissy",
+			"type": "filler",
+			"aired_date": "2013-05-24"
+		},
+		{
+			"episode": 8,
+			"title": "ITEM",
+			"type": "manga-canon",
+			"aired_date": "2013-05-31"
+		},
+		{
+			"episode": 9,
+			"title": "AIM Stalker",
+			"type": "manga-canon",
+			"aired_date": "2013-06-07"
+		},
+		{
+			"episode": 10,
+			"title": "Meltdowner",
+			"type": "manga-canon",
+			"aired_date": "2013-06-14"
+		},
+		{
+			"episode": 11,
+			"title": "The Vending Machine",
+			"type": "manga-canon",
+			"aired_date": "2013-06-21"
+		},
+		{
+			"episode": 12,
+			"title": "Tree Diagram",
+			"type": "manga-canon",
+			"aired_date": "2013-06-28"
+		},
+		{
+			"episode": 13,
+			"title": "Accelerator",
+			"type": "manga-canon",
+			"aired_date": "2013-07-05"
+		},
+		{
+			"episode": 14,
+			"title": "The Promise",
+			"type": "manga-canon",
+			"aired_date": "2013-07-12"
+		},
+		{
+			"episode": 15,
+			"title": "Kamijou Touma",
+			"type": "manga-canon",
+			"aired_date": "2013-07-19"
+		},
+		{
+			"episode": 16,
+			"title": "Sisterhood",
+			"type": "manga-canon",
+			"aired_date": "2013-07-26"
+		},
+		{
+			"episode": 17,
+			"title": "Study Group",
+			"type": "filler",
+			"aired_date": "2013-08-02"
+		},
+		{
+			"episode": 18,
+			"title": "Moving",
+			"type": "filler",
+			"aired_date": "2013-08-16"
+		},
+		{
+			"episode": 19,
+			"title": "Academic Reach Assembly",
+			"type": "filler",
+			"aired_date": "2013-08-23"
+		},
+		{
+			"episode": 20,
+			"title": "Febri",
+			"type": "filler",
+			"aired_date": "2013-08-30"
+		},
+		{
+			"episode": 21,
+			"title": "Darkness",
+			"type": "filler",
+			"aired_date": "2013-09-06"
+		},
+		{
+			"episode": 22,
+			"title": "STUDY",
+			"type": "filler",
+			"aired_date": "2013-09-13"
+		},
+		{
+			"episode": 23,
+			"title": "Silent Party",
+			"type": "filler",
+			"aired_date": "2013-09-20"
+		},
+		{
+			"episode": 24,
+			"title": "Eternal Party",
+			"type": "filler",
+			"aired_date": "2013-09-27"
+		}
+	]
+}

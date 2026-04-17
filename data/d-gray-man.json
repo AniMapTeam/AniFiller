@@ -1,0 +1,628 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "D.Gray-man",
+	"mappings": {
+		"anilist_id": 1482,
+		"mal_id": 1482
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Boy Who Hunts Akuma",
+			"type": "manga-canon",
+			"aired_date": "2006-10-03"
+		},
+		{
+			"episode": 2,
+			"title": "The Black Order",
+			"type": "manga-canon",
+			"aired_date": "2006-10-10"
+		},
+		{
+			"episode": 3,
+			"title": "The Ghost of Mater",
+			"type": "manga-canon",
+			"aired_date": "2006-10-17"
+		},
+		{
+			"episode": 4,
+			"title": "Old Man of the Soil and a Lonely Night's Aria",
+			"type": "manga-canon",
+			"aired_date": "2006-10-24"
+		},
+		{
+			"episode": 5,
+			"title": "Let Me Hear the Lullaby",
+			"type": "manga-canon",
+			"aired_date": "2006-10-31"
+		},
+		{
+			"episode": 6,
+			"title": "That Which Calls Forth Disaster",
+			"type": "manga-canon",
+			"aired_date": "2006-11-07"
+		},
+		{
+			"episode": 7,
+			"title": "Tombstone of Memories",
+			"type": "manga-canon",
+			"aired_date": "2006-11-14"
+		},
+		{
+			"episode": 8,
+			"title": "The Black Order Annihilation Incident",
+			"type": "manga-canon",
+			"aired_date": "2006-11-21"
+		},
+		{
+			"episode": 9,
+			"title": "The Rewinding Town",
+			"type": "manga-canon",
+			"aired_date": "2006-11-28"
+		},
+		{
+			"episode": 10,
+			"title": "The Bad Luck Woman's Innocence",
+			"type": "manga-canon",
+			"aired_date": "2006-12-05"
+		},
+		{
+			"episode": 11,
+			"title": "Miranda Lotto's Feelings",
+			"type": "manga-canon",
+			"aired_date": "2006-12-12"
+		},
+		{
+			"episode": 12,
+			"title": "And Snow Falls Over the Town",
+			"type": "manga-canon",
+			"aired_date": "2006-12-19"
+		},
+		{
+			"episode": 13,
+			"title": "With the Coat",
+			"type": "manga-canon",
+			"aired_date": "2006-12-26"
+		},
+		{
+			"episode": 14,
+			"title": "The Leaf of Revival",
+			"type": "filler",
+			"aired_date": "2007-01-09"
+		},
+		{
+			"episode": 15,
+			"title": "Beyond the Snowstorm",
+			"type": "filler",
+			"aired_date": "2007-01-16"
+		},
+		{
+			"episode": 16,
+			"title": "Millennium Swordsman",
+			"type": "filler",
+			"aired_date": "2007-01-23"
+		},
+		{
+			"episode": 17,
+			"title": "Pride of the Swordsmen",
+			"type": "filler",
+			"aired_date": "2007-01-30"
+		},
+		{
+			"episode": 18,
+			"title": "Lenalee's Love",
+			"type": "filler",
+			"aired_date": "2007-02-06"
+		},
+		{
+			"episode": 19,
+			"title": "Vampire of the Solitary Castle",
+			"type": "manga-canon",
+			"aired_date": "2007-02-13"
+		},
+		{
+			"episode": 20,
+			"title": "Go For It, Exorcists!",
+			"type": "manga-canon",
+			"aired_date": "2007-02-20"
+		},
+		{
+			"episode": 21,
+			"title": "Krory Attacks",
+			"type": "manga-canon",
+			"aired_date": "2007-02-27"
+		},
+		{
+			"episode": 22,
+			"title": "The Truth About Eliade",
+			"type": "manga-canon",
+			"aired_date": "2007-03-06"
+		},
+		{
+			"episode": 23,
+			"title": "The Vampire Whom I Loved",
+			"type": "manga-canon",
+			"aired_date": "2007-03-13"
+		},
+		{
+			"episode": 24,
+			"title": "Krory's New Beginning",
+			"type": "manga-canon",
+			"aired_date": "2007-03-20"
+		},
+		{
+			"episode": 25,
+			"title": "The General's Chains",
+			"type": "filler",
+			"aired_date": "2007-03-27"
+		},
+		{
+			"episode": 26,
+			"title": "The Beginning of the End",
+			"type": "mixed-manga",
+			"aired_date": "2007-04-03"
+		},
+		{
+			"episode": 27,
+			"title": "My Mentor, General Cross",
+			"type": "filler",
+			"aired_date": "2007-04-10"
+		},
+		{
+			"episode": 28,
+			"title": "Exorcist Krory",
+			"type": "manga-canon",
+			"aired_date": "2007-04-17"
+		},
+		{
+			"episode": 29,
+			"title": "The One Who Sells Souls, Part 1",
+			"type": "filler",
+			"aired_date": "2007-04-24"
+		},
+		{
+			"episode": 30,
+			"title": "The One Who Sells Souls, Part 2",
+			"type": "filler",
+			"aired_date": "2007-05-01"
+		},
+		{
+			"episode": 31,
+			"title": "Lost Miranda",
+			"type": "filler",
+			"aired_date": "2007-05-08"
+		},
+		{
+			"episode": 32,
+			"title": "Mysterious Ghost Ship",
+			"type": "filler",
+			"aired_date": "2007-05-15"
+		},
+		{
+			"episode": 33,
+			"title": "The Village Where a Witch Lives, Part 1",
+			"type": "filler",
+			"aired_date": "2007-05-22"
+		},
+		{
+			"episode": 34,
+			"title": "The Village Where a Witch Lives, Part 2",
+			"type": "filler",
+			"aired_date": "2007-05-29"
+		},
+		{
+			"episode": 35,
+			"title": "Exorcist Clad in Wind",
+			"type": "filler",
+			"aired_date": "2007-06-05"
+		},
+		{
+			"episode": 36,
+			"title": "Shroud of Darkness",
+			"type": "filler",
+			"aired_date": "2007-06-12"
+		},
+		{
+			"episode": 37,
+			"title": "Charity Bell",
+			"type": "manga-canon",
+			"aired_date": "2007-06-19"
+		},
+		{
+			"episode": 38,
+			"title": "Froi Tiedoll",
+			"type": "manga-canon",
+			"aired_date": "2007-06-26"
+		},
+		{
+			"episode": 39,
+			"title": "Silent Coffins",
+			"type": "manga-canon",
+			"aired_date": "2007-07-03"
+		},
+		{
+			"episode": 40,
+			"title": "Requiem Rose",
+			"type": "manga-canon",
+			"aired_date": "2007-07-10"
+		},
+		{
+			"episode": 41,
+			"title": "A New Assassin",
+			"type": "filler",
+			"aired_date": "2007-07-17"
+		},
+		{
+			"episode": 42,
+			"title": "The Black Cat's Traps",
+			"type": "filler",
+			"aired_date": "2007-07-24"
+		},
+		{
+			"episode": 43,
+			"title": "The Wandering Stone Statue",
+			"type": "filler",
+			"aired_date": "2007-07-31"
+		},
+		{
+			"episode": 44,
+			"title": "Iron Fan Maid",
+			"type": "filler",
+			"aired_date": "2007-08-07"
+		},
+		{
+			"episode": 45,
+			"title": "Strange Mansion",
+			"type": "filler",
+			"aired_date": "2007-08-14"
+		},
+		{
+			"episode": 46,
+			"title": "Illusions in the Snow",
+			"type": "filler",
+			"aired_date": "2007-08-21"
+		},
+		{
+			"episode": 47,
+			"title": "The Crystal Girl",
+			"type": "filler",
+			"aired_date": "2007-08-28"
+		},
+		{
+			"episode": 48,
+			"title": "Wavering Accommodator",
+			"type": "filler",
+			"aired_date": "2007-09-04"
+		},
+		{
+			"episode": 49,
+			"title": "Lulu Bell's Bell",
+			"type": "filler",
+			"aired_date": "2007-09-11"
+		},
+		{
+			"episode": 50,
+			"title": "Feelings of Devotion",
+			"type": "filler",
+			"aired_date": "2007-09-18"
+		},
+		{
+			"episode": 51,
+			"title": "Set Sail, to the East",
+			"type": "manga-canon",
+			"aired_date": "2007-09-25"
+		},
+		{
+			"episode": 52,
+			"title": "Raid",
+			"type": "manga-canon",
+			"aired_date": "2007-10-02"
+		},
+		{
+			"episode": 53,
+			"title": "Fallen One",
+			"type": "manga-canon",
+			"aired_date": "2007-10-09"
+		},
+		{
+			"episode": 54,
+			"title": "The Beginning of the Night of the End",
+			"type": "manga-canon",
+			"aired_date": "2007-10-16"
+		},
+		{
+			"episode": 55,
+			"title": "A Scream",
+			"type": "manga-canon",
+			"aired_date": "2007-10-23"
+		},
+		{
+			"episode": 56,
+			"title": "Delete",
+			"type": "manga-canon",
+			"aired_date": "2007-10-30"
+		},
+		{
+			"episode": 57,
+			"title": "Loss and Reunion",
+			"type": "manga-canon",
+			"aired_date": "2007-11-06"
+		},
+		{
+			"episode": 58,
+			"title": "Asian Branch",
+			"type": "manga-canon",
+			"aired_date": "2007-11-13"
+		},
+		{
+			"episode": 59,
+			"title": "The Road of the Pledged",
+			"type": "manga-canon",
+			"aired_date": "2007-11-20"
+		},
+		{
+			"episode": 60,
+			"title": "Title",
+			"type": "manga-canon",
+			"aired_date": "2007-11-27"
+		},
+		{
+			"episode": 61,
+			"title": "Sinking Darkness",
+			"type": "manga-canon",
+			"aired_date": "2007-12-04"
+		},
+		{
+			"episode": 62,
+			"title": "Maiden Who Has Fallen into Darkness",
+			"type": "manga-canon",
+			"aired_date": "2007-12-11"
+		},
+		{
+			"episode": 63,
+			"title": "Ship Stalled, Girl Remains Absent",
+			"type": "mixed-manga",
+			"aired_date": "2007-12-18"
+		},
+		{
+			"episode": 64,
+			"title": "Message",
+			"type": "mixed-manga",
+			"aired_date": "2007-12-25"
+		},
+		{
+			"episode": 65,
+			"title": "Landing",
+			"type": "manga-canon",
+			"aired_date": "2008-01-08"
+		},
+		{
+			"episode": 66,
+			"title": "Confusion and Impatience",
+			"type": "manga-canon",
+			"aired_date": "2008-01-15"
+		},
+		{
+			"episode": 67,
+			"title": "Heading to Edo",
+			"type": "manga-canon",
+			"aired_date": "2008-01-22"
+		},
+		{
+			"episode": 68,
+			"title": "Silence",
+			"type": "manga-canon",
+			"aired_date": "2008-01-29"
+		},
+		{
+			"episode": 69,
+			"title": "Invasion",
+			"type": "manga-canon",
+			"aired_date": "2008-02-05"
+		},
+		{
+			"episode": 70,
+			"title": "God's Clown",
+			"type": "manga-canon",
+			"aired_date": "2008-02-12"
+		},
+		{
+			"episode": 71,
+			"title": "The Name Chronicled",
+			"type": "manga-canon",
+			"aired_date": "2008-02-19"
+		},
+		{
+			"episode": 72,
+			"title": "Showdown in the Capital",
+			"type": "manga-canon",
+			"aired_date": "2008-02-26"
+		},
+		{
+			"episode": 73,
+			"title": "Kanda Joins the Battle",
+			"type": "manga-canon",
+			"aired_date": "2008-03-04"
+		},
+		{
+			"episode": 74,
+			"title": "Edo Annihilated",
+			"type": "manga-canon",
+			"aired_date": "2008-03-11"
+		},
+		{
+			"episode": 75,
+			"title": "Clown and Auguste",
+			"type": "manga-canon",
+			"aired_date": "2008-03-18"
+		},
+		{
+			"episode": 76,
+			"title": "A Key and Noah's Doors",
+			"type": "manga-canon",
+			"aired_date": "2008-03-25"
+		},
+		{
+			"episode": 77,
+			"title": "The Skinn Bolic Room",
+			"type": "manga-canon",
+			"aired_date": "2008-04-01"
+		},
+		{
+			"episode": 78,
+			"title": "Forbidden Skill, Sangen Style",
+			"type": "manga-canon",
+			"aired_date": "2008-04-08"
+		},
+		{
+			"episode": 79,
+			"title": "Noah's Memory",
+			"type": "manga-canon",
+			"aired_date": "2008-04-15"
+		},
+		{
+			"episode": 80,
+			"title": "The Twins' Traps",
+			"type": "manga-canon",
+			"aired_date": "2008-04-22"
+		},
+		{
+			"episode": 81,
+			"title": "Debt Crisis",
+			"type": "manga-canon",
+			"aired_date": "2008-04-29"
+		},
+		{
+			"episode": 82,
+			"title": "Bad Game",
+			"type": "manga-canon",
+			"aired_date": "2008-05-06"
+		},
+		{
+			"episode": 83,
+			"title": "Jasdevi Enters the Scene",
+			"type": "manga-canon",
+			"aired_date": "2008-05-13"
+		},
+		{
+			"episode": 84,
+			"title": "Bloody Krory",
+			"type": "manga-canon",
+			"aired_date": "2008-05-20"
+		},
+		{
+			"episode": 85,
+			"title": "Dark-Colored Rhapsody",
+			"type": "manga-canon",
+			"aired_date": "2008-05-27"
+		},
+		{
+			"episode": 86,
+			"title": "Weak Humans",
+			"type": "manga-canon",
+			"aired_date": "2008-06-03"
+		},
+		{
+			"episode": 87,
+			"title": "Transcendent One",
+			"type": "manga-canon",
+			"aired_date": "2008-06-10"
+		},
+		{
+			"episode": 88,
+			"title": "Lavi",
+			"type": "manga-canon",
+			"aired_date": "2008-06-17"
+		},
+		{
+			"episode": 89,
+			"title": "Voice of Darkness",
+			"type": "manga-canon",
+			"aired_date": "2008-06-24"
+		},
+		{
+			"episode": 90,
+			"title": "Black Carnival",
+			"type": "manga-canon",
+			"aired_date": "2008-07-01"
+		},
+		{
+			"episode": 91,
+			"title": "Judgment",
+			"type": "manga-canon",
+			"aired_date": "2008-07-08"
+		},
+		{
+			"episode": 92,
+			"title": "Shadow of the Player",
+			"type": "manga-canon",
+			"aired_date": "2008-07-15"
+		},
+		{
+			"episode": 93,
+			"title": "Melody",
+			"type": "manga-canon",
+			"aired_date": "2008-07-22"
+		},
+		{
+			"episode": 94,
+			"title": "Homecoming",
+			"type": "manga-canon",
+			"aired_date": "2008-07-29"
+		},
+		{
+			"episode": 95,
+			"title": "Lamb and Dog",
+			"type": "manga-canon",
+			"aired_date": "2008-08-05"
+		},
+		{
+			"episode": 96,
+			"title": "Still the Clock Ticks",
+			"type": "manga-canon",
+			"aired_date": "2008-08-12"
+		},
+		{
+			"episode": 97,
+			"title": "Attack on Headquarters",
+			"type": "manga-canon",
+			"aired_date": "2008-08-19"
+		},
+		{
+			"episode": 98,
+			"title": "The Power of Generals",
+			"type": "manga-canon",
+			"aired_date": "2008-08-26"
+		},
+		{
+			"episode": 99,
+			"title": "The Noah of Lust",
+			"type": "manga-canon",
+			"aired_date": "2008-09-02"
+		},
+		{
+			"episode": 100,
+			"title": "Level 4",
+			"type": "manga-canon",
+			"aired_date": "2008-09-09"
+		},
+		{
+			"episode": 101,
+			"title": "To the God I Hate So Much",
+			"type": "manga-canon",
+			"aired_date": "2008-09-16"
+		},
+		{
+			"episode": 102,
+			"title": "The Promise",
+			"type": "manga-canon",
+			"aired_date": "2008-09-23"
+		},
+		{
+			"episode": 103,
+			"title": "Echoes in the Long Morning",
+			"type": "manga-canon",
+			"aired_date": "2008-09-30"
+		}
+	]
+}

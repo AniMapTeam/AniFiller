@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "AJIN: Demi-Human 2",
+	"mappings": {
+		"anilist_id": 21799,
+		"mal_id": 33253
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "I'm getting sick of this",
+			"type": "manga-canon",
+			"aired_date": "2016-10-08"
+		},
+		{
+			"episode": 2,
+			"title": "I'm surrounded by idiots",
+			"type": "manga-canon",
+			"aired_date": "2016-10-15"
+		},
+		{
+			"episode": 3,
+			"title": "But I'm always scared",
+			"type": "manga-canon",
+			"aired_date": "2016-10-22"
+		},
+		{
+			"episode": 4,
+			"title": "They make me sick",
+			"type": "manga-canon",
+			"aired_date": "2016-10-29"
+		},
+		{
+			"episode": 5,
+			"title": "Kuro, please…",
+			"type": "manga-canon",
+			"aired_date": "2016-11-05"
+		},
+		{
+			"episode": 6,
+			"title": "Must be tough being a lapdog",
+			"type": "manga-canon",
+			"aired_date": "2016-11-12"
+		},
+		{
+			"episode": 7,
+			"title": "Kuro, just once more, please!",
+			"type": "manga-canon",
+			"aired_date": "2016-11-19"
+		},
+		{
+			"episode": 8,
+			"title": "This Country Is Going to Get a Little Unsettled",
+			"type": "manga-canon",
+			"aired_date": "2016-11-26"
+		},
+		{
+			"episode": 9,
+			"title": "You're the one messing up my life!",
+			"type": "manga-canon",
+			"aired_date": "2016-12-03"
+		},
+		{
+			"episode": 10,
+			"title": "I won't do it",
+			"type": "manga-canon",
+			"aired_date": "2016-12-10"
+		},
+		{
+			"episode": 11,
+			"title": "At This Rate... It Really Will Be War!",
+			"type": "manga-canon",
+			"aired_date": "2016-12-17"
+		},
+		{
+			"episode": 12,
+			"title": "But that makes it interesting, so whatever",
+			"type": "manga-canon",
+			"aired_date": "2016-12-17"
+		},
+		{
+			"episode": 13,
+			"title": "I'll make you a promise too, Mr. Sato",
+			"type": "manga-canon",
+			"aired_date": "2016-12-24"
+		}
+	]
+}

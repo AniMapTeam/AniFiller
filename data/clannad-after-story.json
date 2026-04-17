@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Clannad: After Story",
+	"mappings": {
+		"anilist_id": 4181,
+		"mal_id": 4181
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Goodbye at the End of Summer",
+			"type": "manga-canon",
+			"aired_date": "2008-10-03"
+		},
+		{
+			"episode": 2,
+			"title": "Search for Fake Love",
+			"type": "manga-canon",
+			"aired_date": "2008-10-10"
+		},
+		{
+			"episode": 3,
+			"title": "Disagreeing Hearts",
+			"type": "manga-canon",
+			"aired_date": "2008-10-17"
+		},
+		{
+			"episode": 4,
+			"title": "With the Same Smile as That Day",
+			"type": "manga-canon",
+			"aired_date": "2008-10-24"
+		},
+		{
+			"episode": 5,
+			"title": "The Season You Were In",
+			"type": "manga-canon",
+			"aired_date": "2008-10-31"
+		},
+		{
+			"episode": 6,
+			"title": "Forever By Your Side",
+			"type": "manga-canon",
+			"aired_date": "2008-11-07"
+		},
+		{
+			"episode": 7,
+			"title": "Her Whereabouts",
+			"type": "manga-canon",
+			"aired_date": "2008-11-14"
+		},
+		{
+			"episode": 8,
+			"title": "Valiant Fight",
+			"type": "manga-canon",
+			"aired_date": "2008-11-21"
+		},
+		{
+			"episode": 9,
+			"title": "En Route on the Sloped Road",
+			"type": "manga-canon",
+			"aired_date": "2008-11-28"
+		},
+		{
+			"episode": 10,
+			"title": "Season of Beginnings",
+			"type": "manga-canon",
+			"aired_date": "2008-12-05"
+		},
+		{
+			"episode": 11,
+			"title": "The Promised Founder's Festival",
+			"type": "manga-canon",
+			"aired_date": "2008-12-12"
+		},
+		{
+			"episode": 12,
+			"title": "Sudden Events",
+			"type": "manga-canon",
+			"aired_date": "2008-12-19"
+		},
+		{
+			"episode": 13,
+			"title": "Graduation",
+			"type": "manga-canon",
+			"aired_date": "2009-01-08"
+		},
+		{
+			"episode": 14,
+			"title": "A New Family",
+			"type": "manga-canon",
+			"aired_date": "2009-01-15"
+		},
+		{
+			"episode": 15,
+			"title": "In the Remains of Summer",
+			"type": "manga-canon",
+			"aired_date": "2009-01-22"
+		},
+		{
+			"episode": 16,
+			"title": "White Darkness",
+			"type": "manga-canon",
+			"aired_date": "2009-01-29"
+		},
+		{
+			"episode": 17,
+			"title": "Summertime",
+			"type": "manga-canon",
+			"aired_date": "2009-02-05"
+		},
+		{
+			"episode": 18,
+			"title": "The Ends of the Earth",
+			"type": "manga-canon",
+			"aired_date": "2009-02-12"
+		},
+		{
+			"episode": 19,
+			"title": "The Road Home",
+			"type": "manga-canon",
+			"aired_date": "2009-02-19"
+		},
+		{
+			"episode": 20,
+			"title": "The Tidal Breeze's Mischief",
+			"type": "manga-canon",
+			"aired_date": "2009-02-26"
+		},
+		{
+			"episode": 21,
+			"title": "The End of the World",
+			"type": "manga-canon",
+			"aired_date": "2009-03-05"
+		},
+		{
+			"episode": 22,
+			"title": "Small Palms",
+			"type": "manga-canon",
+			"aired_date": "2009-03-12"
+		},
+		{
+			"episode": 23,
+			"title": "The Event from One Year Before",
+			"type": "anime-canon",
+			"aired_date": "2009-03-19"
+		},
+		{
+			"episode": 24,
+			"title": "Under the Green Tree",
+			"type": "filler",
+			"aired_date": "2009-03-26"
+		}
+	]
+}

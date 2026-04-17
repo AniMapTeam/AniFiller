@@ -1,0 +1,17 @@
+{
+	"name": "anifiller",
+	"private": true,
+	"scripts": {
+		"schema": "bun ./src/schema.ts",
+		"compile": "bun ./src/index.ts",
+		"compile:dev": "bun --watch ./src/index.ts",
+		"check": "bunx @biomejs/biome check"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.4.12",
+		"@types/bun": "1.3.12"
+	},
+	"dependencies": {
+		"arktype": "2.2.0"
+	}
+}

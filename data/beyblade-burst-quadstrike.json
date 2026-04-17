@@ -1,0 +1,166 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Beyblade Burst QuadStrike",
+	"mappings": {
+		"anilist_id": 166062,
+		"mal_id": 55231
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Erupting! Thunderous! Element Power!",
+			"type": "filler",
+			"aired_date": "2023-04-03"
+		},
+		{
+			"episode": 2,
+			"title": "Explosive Birth! Divine Belial!",
+			"type": "filler",
+			"aired_date": "2023-04-04"
+		},
+		{
+			"episode": 3,
+			"title": "GT is Here! Gatling Dragon!!",
+			"type": "filler",
+			"aired_date": "2023-04-05"
+		},
+		{
+			"episode": 4,
+			"title": "Let's Do It, Heck Tournament!!",
+			"type": "filler",
+			"aired_date": "2023-04-06"
+		},
+		{
+			"episode": 5,
+			"title": "Roaring! Dragon vs. Pandora!!",
+			"type": "filler",
+			"aired_date": "2023-04-07"
+		},
+		{
+			"episode": 6,
+			"title": "Kerbeus! The Guard Dog Returns!!",
+			"type": "filler",
+			"aired_date": "2023-04-08"
+		},
+		{
+			"episode": 7,
+			"title": "Demon King's Hell Mission Theater!!",
+			"type": "filler",
+			"aired_date": "2023-04-15"
+		},
+		{
+			"episode": 8,
+			"title": "Peerless! Xiphoid Xcalibur!!",
+			"type": "filler",
+			"aired_date": "2023-04-22"
+		},
+		{
+			"episode": 9,
+			"title": "Shakuenji Dojo! Ferocious Battle!!",
+			"type": "filler",
+			"aired_date": "2023-04-29"
+		},
+		{
+			"episode": 10,
+			"title": "Demon King vs. Unmatched!!",
+			"type": "filler",
+			"aired_date": "2023-05-06"
+		},
+		{
+			"episode": 11,
+			"title": "Sparking! Big Clash at the Battle Camp!",
+			"type": "filler",
+			"aired_date": "2023-05-13"
+		},
+		{
+			"episode": 12,
+			"title": "The Third Element! Blasting Wind, Twister Pandora!!",
+			"type": "filler",
+			"aired_date": "2023-05-20"
+		},
+		{
+			"episode": 13,
+			"title": "Great Revolution! Tag Battle!!",
+			"type": "filler",
+			"aired_date": "2023-05-27"
+		},
+		{
+			"episode": 14,
+			"title": "Super Z! Zest Achilles!",
+			"type": "filler",
+			"aired_date": "2023-07-01"
+		},
+		{
+			"episode": 15,
+			"title": "Knight of the Wind, Wind Knight!!",
+			"type": "filler",
+			"aired_date": "2023-07-08"
+		},
+		{
+			"episode": 16,
+			"title": "Explosive Dash! Battle Marathon!!",
+			"type": "filler",
+			"aired_date": "2023-07-15"
+		},
+		{
+			"episode": 17,
+			"title": "Crimson Battle, Aether Stadium!!",
+			"type": "filler",
+			"aired_date": "2023-07-22"
+		},
+		{
+			"episode": 18,
+			"title": "Explosive and Blasting!!",
+			"type": "filler",
+			"aired_date": "2023-07-29"
+		},
+		{
+			"episode": 19,
+			"title": "Champion's Challenge! Decisive Battle in the Sky!!",
+			"type": "filler",
+			"aired_date": "2023-08-05"
+		},
+		{
+			"episode": 20,
+			"title": "Super Z Strongest Aiga vs. Demon King Bell!!",
+			"type": "filler",
+			"aired_date": "2023-08-12"
+		},
+		{
+			"episode": 21,
+			"title": "Banmaden! Ruin Pandemonium!!",
+			"type": "filler",
+			"aired_date": "2023-08-19"
+		},
+		{
+			"episode": 22,
+			"title": "Shining Stars! Element Battle Tournament!!",
+			"type": "filler",
+			"aired_date": "2023-11-04"
+		},
+		{
+			"episode": 23,
+			"title": "Aim to be a Hero! Vroom-vroom Revolution!!",
+			"type": "filler",
+			"aired_date": "2023-11-11"
+		},
+		{
+			"episode": 24,
+			"title": "Cho-Z vs. Purgatory's Black Flame!!",
+			"type": "filler",
+			"aired_date": "2023-11-18"
+		},
+		{
+			"episode": 25,
+			"title": "Resonance vs. Elemental!",
+			"type": "filler",
+			"aired_date": "2023-11-25"
+		},
+		{
+			"episode": 26,
+			"title": "Bursting with Intense Heat! Element Battle!!",
+			"type": "filler",
+			"aired_date": "2023-12-02"
+		}
+	]
+}

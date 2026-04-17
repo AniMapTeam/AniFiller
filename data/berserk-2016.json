@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Berserk (2016)",
+	"mappings": {
+		"anilist_id": 21560,
+		"mal_id": 32379
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Dragonslayer",
+			"type": "mixed-manga",
+			"aired_date": "2016-07-01"
+		},
+		{
+			"episode": 2,
+			"title": "The Holy Iron Chain Knights",
+			"type": "manga-canon",
+			"aired_date": "2016-07-08"
+		},
+		{
+			"episode": 3,
+			"title": "Night of Miracles",
+			"type": "mixed-manga",
+			"aired_date": "2016-07-15"
+		},
+		{
+			"episode": 4,
+			"title": "Epiphany",
+			"type": "manga-canon",
+			"aired_date": "2016-07-22"
+		},
+		{
+			"episode": 5,
+			"title": "The Tower of Conviction",
+			"type": "manga-canon",
+			"aired_date": "2016-07-29"
+		},
+		{
+			"episode": 6,
+			"title": "A Nighttime Feast: Burning at the Stake",
+			"type": "manga-canon",
+			"aired_date": "2016-08-05"
+		},
+		{
+			"episode": 7,
+			"title": "The Black Witch",
+			"type": "manga-canon",
+			"aired_date": "2016-08-12"
+		},
+		{
+			"episode": 8,
+			"title": "Reunion in the Den of Evil",
+			"type": "manga-canon",
+			"aired_date": "2016-08-19"
+		},
+		{
+			"episode": 9,
+			"title": "Blood Flow of the Dead",
+			"type": "manga-canon",
+			"aired_date": "2016-08-26"
+		},
+		{
+			"episode": 10,
+			"title": "Hell's Angels",
+			"type": "manga-canon",
+			"aired_date": "2016-09-02"
+		},
+		{
+			"episode": 11,
+			"title": "Shadows of Ideas",
+			"type": "manga-canon",
+			"aired_date": "2016-09-09"
+		},
+		{
+			"episode": 12,
+			"title": "Those Who Cling, Those Who Struggle",
+			"type": "manga-canon",
+			"aired_date": "2016-09-16"
+		}
+	]
+}
