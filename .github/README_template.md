@@ -3,7 +3,7 @@
 Structured anime canon and filler data.
 
 ```
-Total Shows: {show_count}
+Total Shows count: {show_count}
 ```
 
 ## The Lists
