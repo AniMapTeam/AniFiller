@@ -3,7 +3,7 @@
 Structured anime canon and filler data.
 
 ```
-Total Shows: 182
+Total Shows count: 182
 ```
 
 ## The Lists
@@ -224,19 +224,19 @@ interface Show {
 
 ## Contributing
 
-Contribution is welcome! Either by [Opening an Issue](https://github.com/itss0n1c/AniFiller/issues) or by [Submitting a Pull Request](https://github.com:itss0n1c/AniFiller/pulls).
+Contribution is welcome! Either by [Opening an Issue](https://github.com/itss0n1c/AniFiller/issues) or by [Submitting a Pull Request](https://github.com/itss0n1c/AniFiller/pulls).
 
 Opening an issue is the best way to suggest a new show or report an error in the data. If you have a specific change in mind.
 
 However, if you have already made the change and want to submit it directly, you can:
 
 1. [Fork the repository](https://github.com/itss0n1c/AniFiller/fork)
-2. Creating a new branch (`git checkout -b new_branch`)
+2. Create a new branch (`git checkout -b new_branch`)
 3. Create or edit within the [`data`](./data) directory
 4. Commit your changes (`git commit -am 'commit message here'`)
 5. Push to the branch (`git push origin new_branch`)
 6. [Open a Pull Request](https://github.com/itss0n1c/AniFiller/compare)
 
-**Avoid modifying any other lists**, especially the `dist` directory, as these are generated files and will be overwritten when the data is updated.
+For most contributions, you should only need to edit files in the [`data`](./data) directory.
 
-Same goes for the `src` directory, which contains the scripts used to generate the data. If you want to contribute to the scripts, please open an issue or a pull request with your changes, I'll review it and merge it if it's good!
+Avoid modifying the [`src`](./src) directory unless your pull request is specifically intended to change the generation or validation scripts. If you want to contribute to those scripts, please open an issue or a pull request with your changes.
