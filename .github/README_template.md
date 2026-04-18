@@ -47,7 +47,7 @@ Opening an issue is the best way to suggest a new show or report an error in the
 
 However, if you have already made the change and want to submit it directly, you can:
 
-1. [Fork the r1. [Fork the repository](https://github.com/itss0n1c/AniFiller/fork)
+1. [Fork the repository](https://github.com/itss0n1c/AniFiller/fork)
 2. Creating a new branch (`git checkout -b new_branch`)
 3. Create or edit within the [`data`](./data) directory
 4. Commit your changes (`git commit -am 'commit message here'`)
