@@ -1,0 +1,160 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "My Hero Academia Season 5",
+	"mappings": {
+		"anilist_id": 117193,
+		"mal_id": 41587
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "All Hands on Deck! Class 1-A",
+			"type": "mixed-manga",
+			"aired_date": "2021-03-27"
+		},
+		{
+			"episode": 2,
+			"title": "Vestiges",
+			"type": "manga-canon",
+			"aired_date": "2021-04-03"
+		},
+		{
+			"episode": 3,
+			"title": "Clash! Class A vs. Class B!",
+			"type": "manga-canon",
+			"aired_date": "2021-04-10"
+		},
+		{
+			"episode": 4,
+			"title": "Make It Happen, Shinso!",
+			"type": "manga-canon",
+			"aired_date": "2021-04-17"
+		},
+		{
+			"episode": 5,
+			"title": "Operation New Improv Moves",
+			"type": "manga-canon",
+			"aired_date": "2021-04-24"
+		},
+		{
+			"episode": 6,
+			"title": "Foresight",
+			"type": "manga-canon",
+			"aired_date": "2021-05-01"
+		},
+		{
+			"episode": 7,
+			"title": "Match 3",
+			"type": "manga-canon",
+			"aired_date": "2021-05-08"
+		},
+		{
+			"episode": 8,
+			"title": "Match 3 Conclusion",
+			"type": "manga-canon",
+			"aired_date": "2021-05-15"
+		},
+		{
+			"episode": 9,
+			"title": "Early Bird!",
+			"type": "manga-canon",
+			"aired_date": "2021-05-22"
+		},
+		{
+			"episode": 10,
+			"title": "That Which Is Inherited",
+			"type": "manga-canon",
+			"aired_date": "2021-05-29"
+		},
+		{
+			"episode": 11,
+			"title": "Our Brawl",
+			"type": "manga-canon",
+			"aired_date": "2021-06-05"
+		},
+		{
+			"episode": 12,
+			"title": "The New Power and All For One",
+			"type": "manga-canon",
+			"aired_date": "2021-06-12"
+		},
+		{
+			"episode": 13,
+			"title": "Have a Merry Christmas!",
+			"type": "manga-canon",
+			"aired_date": "2021-06-19"
+		},
+		{
+			"episode": 14,
+			"title": "Off to Endeavor's Agency!",
+			"type": "manga-canon",
+			"aired_date": "2021-06-26"
+		},
+		{
+			"episode": 15,
+			"title": "One Thing at a Time",
+			"type": "manga-canon",
+			"aired_date": "2021-07-10"
+		},
+		{
+			"episode": 16,
+			"title": "Long Time No See, Selkie",
+			"type": "filler",
+			"aired_date": "2021-07-17"
+		},
+		{
+			"episode": 17,
+			"title": "The Hellish Todoroki Family",
+			"type": "mixed-manga",
+			"aired_date": "2021-07-24"
+		},
+		{
+			"episode": 18,
+			"title": "The Unforgiven",
+			"type": "manga-canon",
+			"aired_date": "2021-07-31"
+		},
+		{
+			"episode": 19,
+			"title": "More of a Hero Than Anyone",
+			"type": "manga-canon",
+			"aired_date": "2021-08-14"
+		},
+		{
+			"episode": 20,
+			"title": "My Villain Academia",
+			"type": "manga-canon",
+			"aired_date": "2021-08-21"
+		},
+		{
+			"episode": 21,
+			"title": "Revival Party",
+			"type": "manga-canon",
+			"aired_date": "2021-08-28"
+		},
+		{
+			"episode": 22,
+			"title": "Sad Man's Parade",
+			"type": "manga-canon",
+			"aired_date": "2021-09-04"
+		},
+		{
+			"episode": 23,
+			"title": "Tenko Shimura: Origin",
+			"type": "manga-canon",
+			"aired_date": "2021-09-11"
+		},
+		{
+			"episode": 24,
+			"title": "Tomura Shigaraki: Origin",
+			"type": "manga-canon",
+			"aired_date": "2021-09-18"
+		},
+		{
+			"episode": 25,
+			"title": "The High, Deep Blue Sky",
+			"type": "manga-canon",
+			"aired_date": "2021-09-25"
+		}
+	]
+}

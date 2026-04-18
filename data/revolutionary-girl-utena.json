@@ -1,0 +1,244 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Revolutionary Girl Utena",
+	"mappings": {
+		"anilist_id": 440,
+		"mal_id": 440
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Rose Bride",
+			"type": "anime-canon",
+			"aired_date": "1997-04-02"
+		},
+		{
+			"episode": 2,
+			"title": "For Whom the Rose Smiles",
+			"type": "anime-canon",
+			"aired_date": "1997-04-09"
+		},
+		{
+			"episode": 3,
+			"title": "On the Night of the Ball",
+			"type": "anime-canon",
+			"aired_date": "1997-04-16"
+		},
+		{
+			"episode": 4,
+			"title": "The Sunlit Garden - Prelude",
+			"type": "anime-canon",
+			"aired_date": "1997-04-23"
+		},
+		{
+			"episode": 5,
+			"title": "The Sunlit Garden - Finale",
+			"type": "anime-canon",
+			"aired_date": "1997-04-30"
+		},
+		{
+			"episode": 6,
+			"title": "Take Care, Miss Nanami!",
+			"type": "anime-canon",
+			"aired_date": "1997-05-07"
+		},
+		{
+			"episode": 7,
+			"title": "Unfulfilled Juri",
+			"type": "anime-canon",
+			"aired_date": "1997-05-14"
+		},
+		{
+			"episode": 8,
+			"title": "Curried High Trip",
+			"type": "mixed-manga",
+			"aired_date": "1997-05-21"
+		},
+		{
+			"episode": 9,
+			"title": "The Castle Said to Hold Eternity",
+			"type": "anime-canon",
+			"aired_date": "1997-05-28"
+		},
+		{
+			"episode": 10,
+			"title": "Nanami's Precious Thing",
+			"type": "anime-canon",
+			"aired_date": "1997-06-04"
+		},
+		{
+			"episode": 11,
+			"title": "Gracefully Cruel - The One Who Picks That Flower",
+			"type": "anime-canon",
+			"aired_date": "1997-06-11"
+		},
+		{
+			"episode": 12,
+			"title": "For Friendship, Perhaps",
+			"type": "anime-canon",
+			"aired_date": "1997-06-18"
+		},
+		{
+			"episode": 13,
+			"title": "Tracing a Path",
+			"type": "mixed-manga",
+			"aired_date": "1997-06-25"
+		},
+		{
+			"episode": 14,
+			"title": "The Boys of The Black Rose",
+			"type": "anime-canon",
+			"aired_date": "1997-07-02"
+		},
+		{
+			"episode": 15,
+			"title": "The Landscape Framed by Kozue",
+			"type": "anime-canon",
+			"aired_date": "1997-07-09"
+		},
+		{
+			"episode": 16,
+			"title": "The Cowbell of Happiness",
+			"type": "mixed-manga",
+			"aired_date": "1997-07-16"
+		},
+		{
+			"episode": 17,
+			"title": "The Thorns of Death",
+			"type": "anime-canon",
+			"aired_date": "1997-07-23"
+		},
+		{
+			"episode": 18,
+			"title": "Mitsuru's Impatience",
+			"type": "anime-canon",
+			"aired_date": "1997-07-30"
+		},
+		{
+			"episode": 19,
+			"title": "A Song for a Kingdom Now Lost",
+			"type": "anime-canon",
+			"aired_date": "1997-08-06"
+		},
+		{
+			"episode": 20,
+			"title": "Wakaba Flourishing",
+			"type": "anime-canon",
+			"aired_date": "1997-08-13"
+		},
+		{
+			"episode": 21,
+			"title": "Vermin",
+			"type": "anime-canon",
+			"aired_date": "1997-08-20"
+		},
+		{
+			"episode": 22,
+			"title": "Nemuro Memorial Hall",
+			"type": "anime-canon",
+			"aired_date": "1997-08-27"
+		},
+		{
+			"episode": 23,
+			"title": "The Terms of a Duelist",
+			"type": "anime-canon",
+			"aired_date": "1997-09-03"
+		},
+		{
+			"episode": 24,
+			"title": "The Secret Nanami Diary",
+			"type": "mixed-manga",
+			"aired_date": "1997-09-10"
+		},
+		{
+			"episode": 25,
+			"title": "Their Eternal Apocalypse",
+			"type": "anime-canon",
+			"aired_date": "1997-09-17"
+		},
+		{
+			"episode": 26,
+			"title": "Miki's Nest Box (The Sunlit Garden - Arranged)",
+			"type": "anime-canon",
+			"aired_date": "1997-09-24"
+		},
+		{
+			"episode": 27,
+			"title": "Nanami's Egg",
+			"type": "mixed-manga",
+			"aired_date": "1997-10-01"
+		},
+		{
+			"episode": 28,
+			"title": "Whispers in the Dark",
+			"type": "anime-canon",
+			"aired_date": "1997-10-08"
+		},
+		{
+			"episode": 29,
+			"title": "Azure Paler Than the Sky",
+			"type": "anime-canon",
+			"aired_date": "1997-10-15"
+		},
+		{
+			"episode": 30,
+			"title": "The Barefoot Girl",
+			"type": "anime-canon",
+			"aired_date": "1997-10-22"
+		},
+		{
+			"episode": 31,
+			"title": "Her Tragedy",
+			"type": "anime-canon",
+			"aired_date": "1997-10-29"
+		},
+		{
+			"episode": 32,
+			"title": "The Romance of the Dancing Girls",
+			"type": "anime-canon",
+			"aired_date": "1997-11-05"
+		},
+		{
+			"episode": 33,
+			"title": "The Prince Who Runs Through the Night",
+			"type": "anime-canon",
+			"aired_date": "1997-11-12"
+		},
+		{
+			"episode": 34,
+			"title": "The Rose Crest",
+			"type": "anime-canon",
+			"aired_date": "1997-11-19"
+		},
+		{
+			"episode": 35,
+			"title": "The Love That Blossomed in Wintertime",
+			"type": "anime-canon",
+			"aired_date": "1997-11-26"
+		},
+		{
+			"episode": 36,
+			"title": "And Thus Opens the Doorway of Night",
+			"type": "anime-canon",
+			"aired_date": "1997-12-03"
+		},
+		{
+			"episode": 37,
+			"title": "The One to Revolutionize the World",
+			"type": "anime-canon",
+			"aired_date": "1997-12-10"
+		},
+		{
+			"episode": 38,
+			"title": "End of the World",
+			"type": "anime-canon",
+			"aired_date": "1997-12-17"
+		},
+		{
+			"episode": 39,
+			"title": "And Someday, Together, We'll Shine",
+			"type": "anime-canon",
+			"aired_date": "1997-12-24"
+		}
+	]
+}

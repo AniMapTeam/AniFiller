@@ -1,0 +1,166 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Project ARMS: The 2nd Chapter",
+	"mappings": {
+		"anilist_id": 1493,
+		"mal_id": 1493
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Arrive",
+			"type": "mixed-manga",
+			"aired_date": "2001-10-07"
+		},
+		{
+			"episode": 2,
+			"title": "Hounds",
+			"type": "manga-canon",
+			"aired_date": "2001-10-14"
+		},
+		{
+			"episode": 3,
+			"title": "Hunter",
+			"type": "manga-canon",
+			"aired_date": "2001-10-21"
+		},
+		{
+			"episode": 4,
+			"title": "Link",
+			"type": "manga-canon",
+			"aired_date": "2001-10-28"
+		},
+		{
+			"episode": 5,
+			"title": "Hercules",
+			"type": "manga-canon",
+			"aired_date": "2001-11-03"
+		},
+		{
+			"episode": 6,
+			"title": "Incubation",
+			"type": "manga-canon",
+			"aired_date": "2001-11-10"
+		},
+		{
+			"episode": 7,
+			"title": "Mars",
+			"type": "manga-canon",
+			"aired_date": "2001-11-17"
+		},
+		{
+			"episode": 8,
+			"title": "Canary",
+			"type": "manga-canon",
+			"aired_date": "2001-11-24"
+		},
+		{
+			"episode": 9,
+			"title": "Silent",
+			"type": "manga-canon",
+			"aired_date": "2001-12-01"
+		},
+		{
+			"episode": 10,
+			"title": "Stream",
+			"type": "manga-canon",
+			"aired_date": "2001-12-08"
+		},
+		{
+			"episode": 11,
+			"title": "Forward",
+			"type": "manga-canon",
+			"aired_date": "2001-12-15"
+		},
+		{
+			"episode": 12,
+			"title": "Coma",
+			"type": "manga-canon",
+			"aired_date": "2001-12-22"
+		},
+		{
+			"episode": 13,
+			"title": "Element",
+			"type": "manga-canon",
+			"aired_date": "2001-12-29"
+		},
+		{
+			"episode": 14,
+			"title": "Reverse",
+			"type": "manga-canon",
+			"aired_date": "2002-01-05"
+		},
+		{
+			"episode": 15,
+			"title": "Drakken",
+			"type": "manga-canon",
+			"aired_date": "2002-01-12"
+		},
+		{
+			"episode": 16,
+			"title": "Alice",
+			"type": "manga-canon",
+			"aired_date": "2002-01-19"
+		},
+		{
+			"episode": 17,
+			"title": "Turn",
+			"type": "manga-canon",
+			"aired_date": "2002-01-26"
+		},
+		{
+			"episode": 18,
+			"title": "Arcadia",
+			"type": "manga-canon",
+			"aired_date": "2002-02-02"
+		},
+		{
+			"episode": 19,
+			"title": "Killing Field",
+			"type": "manga-canon",
+			"aired_date": "2002-02-09"
+		},
+		{
+			"episode": 20,
+			"title": "Fortress",
+			"type": "manga-canon",
+			"aired_date": "2002-02-16"
+		},
+		{
+			"episode": 21,
+			"title": "Junction",
+			"type": "manga-canon",
+			"aired_date": "2002-02-23"
+		},
+		{
+			"episode": 22,
+			"title": "Humans",
+			"type": "manga-canon",
+			"aired_date": "2002-03-02"
+		},
+		{
+			"episode": 23,
+			"title": "Revelation",
+			"type": "manga-canon",
+			"aired_date": "2002-03-09"
+		},
+		{
+			"episode": 24,
+			"title": "Existence",
+			"type": "manga-canon",
+			"aired_date": "2002-03-16"
+		},
+		{
+			"episode": 25,
+			"title": "Blue Wish",
+			"type": "manga-canon",
+			"aired_date": "2002-03-23"
+		},
+		{
+			"episode": 26,
+			"title": "Departure",
+			"type": "mixed-manga",
+			"aired_date": "2002-03-30"
+		}
+	]
+}

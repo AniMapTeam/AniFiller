@@ -1,0 +1,316 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Shugo Chara",
+	"mappings": {
+		"anilist_id": 2923,
+		"mal_id": 2923
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "A Guardian Character is Born!",
+			"type": "mixed-manga",
+			"aired_date": "2007-10-06"
+		},
+		{
+			"episode": 2,
+			"title": "The Heart's Egg!",
+			"type": "mixed-manga",
+			"aired_date": "2007-10-13"
+		},
+		{
+			"episode": 3,
+			"title": "Flaky and Fluffy, Leave it to Su!",
+			"type": "mixed-manga",
+			"aired_date": "2007-10-20"
+		},
+		{
+			"episode": 4,
+			"title": "I'm The Trump Card!?",
+			"type": "mixed-manga",
+			"aired_date": "2007-10-27"
+		},
+		{
+			"episode": 5,
+			"title": "Shoot! Get that X-Character!",
+			"type": "manga-canon",
+			"aired_date": "2007-11-03"
+		},
+		{
+			"episode": 6,
+			"title": "Character Transformation! Amulet Spade!",
+			"type": "mixed-manga",
+			"aired_date": "2007-11-10"
+		},
+		{
+			"episode": 7,
+			"title": "The Small Egg!",
+			"type": "manga-canon",
+			"aired_date": "2007-11-17"
+		},
+		{
+			"episode": 8,
+			"title": "I've Fallen in Love with Your Eyes!",
+			"type": "manga-canon",
+			"aired_date": "2007-11-24"
+		},
+		{
+			"episode": 9,
+			"title": "The Seven Mysteries of the Fujisaki Family!?",
+			"type": "manga-canon",
+			"aired_date": "2007-12-01"
+		},
+		{
+			"episode": 10,
+			"title": "Character Transformation! Amulet Clover!",
+			"type": "manga-canon",
+			"aired_date": "2007-12-08"
+		},
+		{
+			"episode": 11,
+			"title": "The Snow Mountain Holiday!",
+			"type": "mixed-manga",
+			"aired_date": "2007-12-15"
+		},
+		{
+			"episode": 12,
+			"title": "A Sad Christmas Eve!",
+			"type": "manga-canon",
+			"aired_date": "2007-12-22"
+		},
+		{
+			"episode": 13,
+			"title": "Big Disturbance! New Year Live!",
+			"type": "mixed-manga",
+			"aired_date": "2008-01-05"
+		},
+		{
+			"episode": 14,
+			"title": "A Guardian Character at the Ski Slope!? Snoppe's Appearance!",
+			"type": "filler",
+			"aired_date": "2008-01-12"
+		},
+		{
+			"episode": 15,
+			"title": "The Battle at the Snowfield! Save Snoppe!",
+			"type": "filler",
+			"aired_date": "2008-01-19"
+		},
+		{
+			"episode": 16,
+			"title": "One Two Three☆Heart's Magic!",
+			"type": "filler",
+			"aired_date": "2008-01-26"
+		},
+		{
+			"episode": 17,
+			"title": "The Breathtaking Speech Contest!",
+			"type": "manga-canon",
+			"aired_date": "2008-02-02"
+		},
+		{
+			"episode": 18,
+			"title": "Happy, Embarrassing First Date!",
+			"type": "manga-canon",
+			"aired_date": "2008-02-09"
+		},
+		{
+			"episode": 19,
+			"title": "Papa and Mama's Memories!",
+			"type": "filler",
+			"aired_date": "2008-02-16"
+		},
+		{
+			"episode": 20,
+			"title": "A Present for You!",
+			"type": "filler",
+			"aired_date": "2008-02-23"
+		},
+		{
+			"episode": 21,
+			"title": "Kidnapping of Guardian Characters!",
+			"type": "manga-canon",
+			"aired_date": "2008-03-01"
+		},
+		{
+			"episode": 22,
+			"title": "Guardian Characters Rescue Mission!",
+			"type": "manga-canon",
+			"aired_date": "2008-03-08"
+		},
+		{
+			"episode": 23,
+			"title": "Remake Honey! My Would Be Self!",
+			"type": "manga-canon",
+			"aired_date": "2008-03-15"
+		},
+		{
+			"episode": 24,
+			"title": "Sketch of Heart!",
+			"type": "filler",
+			"aired_date": "2008-03-22"
+		},
+		{
+			"episode": 25,
+			"title": "Nadeshiko! Goodbye Despite Spring!?",
+			"type": "manga-canon",
+			"aired_date": "2008-03-29"
+		},
+		{
+			"episode": 26,
+			"title": "The New Beginning!",
+			"type": "manga-canon",
+			"aired_date": "2008-04-06"
+		},
+		{
+			"episode": 27,
+			"title": "The Fourth Guardian Egg!",
+			"type": "mixed-manga",
+			"aired_date": "2008-04-12"
+		},
+		{
+			"episode": 28,
+			"title": "Joker Disqualification? New Guardians Appear!",
+			"type": "manga-canon",
+			"aired_date": "2008-04-19"
+		},
+		{
+			"episode": 29,
+			"title": "Character Transformation!? Amulet Angel!",
+			"type": "manga-canon",
+			"aired_date": "2008-04-26"
+		},
+		{
+			"episode": 30,
+			"title": "Star Class vs. Moon Class! Great Cheerleader Activity!",
+			"type": "manga-canon",
+			"aired_date": "2008-05-03"
+		},
+		{
+			"episode": 31,
+			"title": "Pretty Baby☆Great Tumult!",
+			"type": "manga-canon",
+			"aired_date": "2008-05-10"
+		},
+		{
+			"episode": 32,
+			"title": "The Lonely Queen!",
+			"type": "manga-canon",
+			"aired_date": "2008-05-17"
+		},
+		{
+			"episode": 33,
+			"title": "I Can't Help But Fall in Love!",
+			"type": "mixed-manga",
+			"aired_date": "2008-05-24"
+		},
+		{
+			"episode": 34,
+			"title": "Really!? Big Adventure to the Haunted Mansion!",
+			"type": "manga-canon",
+			"aired_date": "2008-05-31"
+		},
+		{
+			"episode": 35,
+			"title": "Wedding Cake of the First Love!",
+			"type": "filler",
+			"aired_date": "2008-06-01"
+		},
+		{
+			"episode": 36,
+			"title": "Golden Prince, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-06-14"
+		},
+		{
+			"episode": 37,
+			"title": "Golden Prince, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-06-24"
+		},
+		{
+			"episode": 38,
+			"title": "Key, Lock, He and I!",
+			"type": "manga-canon",
+			"aired_date": "2008-06-28"
+		},
+		{
+			"episode": 39,
+			"title": "Character Transformation! Platinum Royale!",
+			"type": "manga-canon",
+			"aired_date": "2008-07-05"
+		},
+		{
+			"episode": 40,
+			"title": "Rima! Unlock The Heart!",
+			"type": "manga-canon",
+			"aired_date": "2008-07-12"
+		},
+		{
+			"episode": 41,
+			"title": "True Self!",
+			"type": "manga-canon",
+			"aired_date": "2008-07-19"
+		},
+		{
+			"episode": 42,
+			"title": "Utau Hoshina! The Last Battle!",
+			"type": "manga-canon",
+			"aired_date": "2008-07-26"
+		},
+		{
+			"episode": 43,
+			"title": "Character Transformation! Amulet Diamond!",
+			"type": "manga-canon",
+			"aired_date": "2008-08-02"
+		},
+		{
+			"episode": 44,
+			"title": "Sparkle of the Heart!",
+			"type": "manga-canon",
+			"aired_date": "2008-08-09"
+		},
+		{
+			"episode": 45,
+			"title": "Go for it! Seiichiro!",
+			"type": "manga-canon",
+			"aired_date": "2008-08-16"
+		},
+		{
+			"episode": 46,
+			"title": "Rima's Advent!? The Goddess of Comedy!",
+			"type": "filler",
+			"aired_date": "2008-08-28"
+		},
+		{
+			"episode": 47,
+			"title": "I'm Utau's Manager!?",
+			"type": "filler",
+			"aired_date": "2008-08-30"
+		},
+		{
+			"episode": 48,
+			"title": "Asking a Favor of Yaya!",
+			"type": "filler",
+			"aired_date": "2008-09-06"
+		},
+		{
+			"episode": 49,
+			"title": "The Secret of the Violin! Notes Dancing in the Wind!",
+			"type": "manga-canon",
+			"aired_date": "2008-09-13"
+		},
+		{
+			"episode": 50,
+			"title": "Have We Really Found It?! The Embryo!",
+			"type": "manga-canon",
+			"aired_date": "2008-09-20"
+		},
+		{
+			"episode": 51,
+			"title": "I'll Get the Embryo!",
+			"type": "manga-canon",
+			"aired_date": "2008-09-27"
+		}
+	]
+}

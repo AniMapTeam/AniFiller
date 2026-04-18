@@ -1,0 +1,616 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Slam Dunk",
+	"mappings": {
+		"anilist_id": 170,
+		"mal_id": 170
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Genius Basketball Player Is Born?!",
+			"type": "manga-canon",
+			"aired_date": "1993-10-16"
+		},
+		{
+			"episode": 2,
+			"title": "Go to Hell, Basketball! Hanamichi vs. Rukawa",
+			"type": "manga-canon",
+			"aired_date": "1993-10-30"
+		},
+		{
+			"episode": 3,
+			"title": "Gorilla vs. Hanamichi! Big Showdown!!",
+			"type": "manga-canon",
+			"aired_date": "1993-11-06"
+		},
+		{
+			"episode": 4,
+			"title": "Basketball Player Hanamichi Joins the Team!",
+			"type": "manga-canon",
+			"aired_date": "1993-11-13"
+		},
+		{
+			"episode": 5,
+			"title": "A Spiritless Afternoon",
+			"type": "manga-canon",
+			"aired_date": "1993-11-20"
+		},
+		{
+			"episode": 6,
+			"title": "Rukawa vs. Akagi: The Real Showdown",
+			"type": "manga-canon",
+			"aired_date": "1993-12-04"
+		},
+		{
+			"episode": 7,
+			"title": "Hanamichi Debut! Dunk Explosion",
+			"type": "manga-canon",
+			"aired_date": "1993-12-11"
+		},
+		{
+			"episode": 8,
+			"title": "Hanamichi's Crisis! The Judo-man's Trap",
+			"type": "manga-canon",
+			"aired_date": "1993-12-18"
+		},
+		{
+			"episode": 9,
+			"title": "I'm Going to Play Basketball",
+			"type": "manga-canon",
+			"aired_date": "1993-12-25"
+		},
+		{
+			"episode": 10,
+			"title": "The Commoner's Shoot is Difficult",
+			"type": "manga-canon",
+			"aired_date": "1994-01-08"
+		},
+		{
+			"episode": 11,
+			"title": "Our Love's Special Secret Training",
+			"type": "manga-canon",
+			"aired_date": "1994-01-15"
+		},
+		{
+			"episode": 12,
+			"title": "Defeat Ryonan! The Fierce Training the Night Before the Match",
+			"type": "manga-canon",
+			"aired_date": "1994-01-22"
+		},
+		{
+			"episode": 13,
+			"title": "Shohoku vs Ryonan. Burning Captain!",
+			"type": "manga-canon",
+			"aired_date": "1994-01-29"
+		},
+		{
+			"episode": 14,
+			"title": "Super Basketball Match With Ryonan",
+			"type": "manga-canon",
+			"aired_date": "1994-02-05"
+		},
+		{
+			"episode": 15,
+			"title": "Hanamichi Nervously Steps Into the Spotlight",
+			"type": "manga-canon",
+			"aired_date": "1994-02-12"
+		},
+		{
+			"episode": 16,
+			"title": "Who is This Guy? Taoka's Miscalculation",
+			"type": "manga-canon",
+			"aired_date": "1994-02-19"
+		},
+		{
+			"episode": 17,
+			"title": "The Rebound King Sakuragi Hanamichi's Distress",
+			"type": "manga-canon",
+			"aired_date": "1994-02-26"
+		},
+		{
+			"episode": 18,
+			"title": "Last 2 Minutes! I'll Be the One to Defeat Sendoh",
+			"type": "manga-canon",
+			"aired_date": "1994-03-05"
+		},
+		{
+			"episode": 19,
+			"title": "Time's Up! The Decisive Battle with Ryonan",
+			"type": "manga-canon",
+			"aired_date": "1994-03-12"
+		},
+		{
+			"episode": 20,
+			"title": "Basketball Shoes",
+			"type": "manga-canon",
+			"aired_date": "1994-03-19"
+		},
+		{
+			"episode": 21,
+			"title": "Enormous Trouble Makers! Hanamichi vs Miyagi",
+			"type": "manga-canon",
+			"aired_date": "1994-03-26"
+		},
+		{
+			"episode": 22,
+			"title": "History's Biggest Idiot Combination is Born",
+			"type": "manga-canon",
+			"aired_date": "1994-04-16"
+		},
+		{
+			"episode": 23,
+			"title": "Shohoku Basketball Club's Last Day",
+			"type": "manga-canon",
+			"aired_date": "1994-04-23"
+		},
+		{
+			"episode": 24,
+			"title": "The Battle for Justice! Sakuragi's Goon Squad Joins!",
+			"type": "manga-canon",
+			"aired_date": "1994-04-30"
+		},
+		{
+			"episode": 25,
+			"title": "The Man Who Aimed at National Championship",
+			"type": "manga-canon",
+			"aired_date": "1994-05-07"
+		},
+		{
+			"episode": 26,
+			"title": "Mitsui, the Problems of the Past",
+			"type": "manga-canon",
+			"aired_date": "1994-05-14"
+		},
+		{
+			"episode": 27,
+			"title": "I Want To Play Basketball!",
+			"type": "manga-canon",
+			"aired_date": "1994-05-21"
+		},
+		{
+			"episode": 28,
+			"title": "The Beginning of Interhigh Preliminaries",
+			"type": "manga-canon",
+			"aired_date": "1994-05-28"
+		},
+		{
+			"episode": 29,
+			"title": "Hanamichi! Debut at an Official Game",
+			"type": "manga-canon",
+			"aired_date": "1994-06-18"
+		},
+		{
+			"episode": 30,
+			"title": "The Introspective Army's Big Counterattack",
+			"type": "manga-canon",
+			"aired_date": "1994-06-25"
+		},
+		{
+			"episode": 31,
+			"title": "Formidable Enemy Miuradai's Secret Weapon",
+			"type": "mixed-manga",
+			"aired_date": "1994-07-02"
+		},
+		{
+			"episode": 32,
+			"title": "Genius Hanamichi! Certain Death Dunk",
+			"type": "mixed-manga",
+			"aired_date": "1994-07-16"
+		},
+		{
+			"episode": 33,
+			"title": "Walkout King!? Hanamichi Sakuragi",
+			"type": "manga-canon",
+			"aired_date": "1994-08-06"
+		},
+		{
+			"episode": 34,
+			"title": "Gorilla's Secret, Kill with Your Eyes!",
+			"type": "filler",
+			"aired_date": "1994-08-20"
+		},
+		{
+			"episode": 35,
+			"title": "Hot Blooded Guys",
+			"type": "filler",
+			"aired_date": "1994-08-27"
+		},
+		{
+			"episode": 36,
+			"title": "A Well Seeded School, Enter Shoyo",
+			"type": "mixed-manga",
+			"aired_date": "1994-09-03"
+		},
+		{
+			"episode": 37,
+			"title": "Hanamichi: First-time As Starter!",
+			"type": "manga-canon",
+			"aired_date": "1994-09-10"
+		},
+		{
+			"episode": 38,
+			"title": "Rukawa's Counterattack!",
+			"type": "manga-canon",
+			"aired_date": "1994-09-17"
+		},
+		{
+			"episode": 39,
+			"title": "Lightning Flash Ryota!",
+			"type": "manga-canon",
+			"aired_date": "1994-09-24"
+		},
+		{
+			"episode": 40,
+			"title": "Rebound King Hanamichi Sakuragi!",
+			"type": "manga-canon",
+			"aired_date": "1994-10-01"
+		},
+		{
+			"episode": 41,
+			"title": "Shoyo's Ace Fujima Enters the Court",
+			"type": "manga-canon",
+			"aired_date": "1994-10-08"
+		},
+		{
+			"episode": 42,
+			"title": "Shoyo Ace Fujima's Real Ability",
+			"type": "manga-canon",
+			"aired_date": "1994-10-15"
+		},
+		{
+			"episode": 43,
+			"title": "Has Mitsui Reached His Limit!?",
+			"type": "manga-canon",
+			"aired_date": "1994-10-22"
+		},
+		{
+			"episode": 44,
+			"title": "Mitsui! Stormy 3 Points",
+			"type": "manga-canon",
+			"aired_date": "1994-11-05"
+		},
+		{
+			"episode": 45,
+			"title": "Imminent Walkout!? Hanamichi's Pinch",
+			"type": "manga-canon",
+			"aired_date": "1994-11-26"
+		},
+		{
+			"episode": 46,
+			"title": "Hanamichi, Hot Dunk",
+			"type": "manga-canon",
+			"aired_date": "1994-12-03"
+		},
+		{
+			"episode": 47,
+			"title": "Challenge From a Rival",
+			"type": "mixed-manga",
+			"aired_date": "1994-12-10"
+		},
+		{
+			"episode": 48,
+			"title": "The Guy Who Pledged to Defeat Kainan",
+			"type": "filler",
+			"aired_date": "1994-12-17"
+		},
+		{
+			"episode": 49,
+			"title": "\"Takezono, Last Fight",
+			"type": "filler",
+			"aired_date": "1994-12-24"
+		},
+		{
+			"episode": 50,
+			"title": "Challenge to the King",
+			"type": "manga-canon",
+			"aired_date": "1995-01-07"
+		},
+		{
+			"episode": 51,
+			"title": "Outside Calculation!? Hanamichi at His Best!",
+			"type": "manga-canon",
+			"aired_date": "1995-01-14"
+		},
+		{
+			"episode": 52,
+			"title": "Secret Weapon Against Sakuragi!",
+			"type": "manga-canon",
+			"aired_date": "1995-01-21"
+		},
+		{
+			"episode": 53,
+			"title": "The Gorilla's Injury! Desperate Situation!?",
+			"type": "manga-canon",
+			"aired_date": "1995-01-28"
+		},
+		{
+			"episode": 54,
+			"title": "King Kong's Younger Brother",
+			"type": "manga-canon",
+			"aired_date": "1995-02-04"
+		},
+		{
+			"episode": 55,
+			"title": "The Guy Who Dominates the Game",
+			"type": "manga-canon",
+			"aired_date": "1995-02-11"
+		},
+		{
+			"episode": 56,
+			"title": "Ace Maki, Full Throttle",
+			"type": "manga-canon",
+			"aired_date": "1995-02-18"
+		},
+		{
+			"episode": 57,
+			"title": "Anzai, Bet on Victory!",
+			"type": "manga-canon",
+			"aired_date": "1995-02-25"
+		},
+		{
+			"episode": 58,
+			"title": "Stubborn Guys!",
+			"type": "manga-canon",
+			"aired_date": "1995-03-04"
+		},
+		{
+			"episode": 59,
+			"title": "Last 10 Seconds! A Perfect Conclusion",
+			"type": "manga-canon",
+			"aired_date": "1995-03-11"
+		},
+		{
+			"episode": 60,
+			"title": "Shohoku on the Edge",
+			"type": "manga-canon",
+			"aired_date": "1995-03-18"
+		},
+		{
+			"episode": 61,
+			"title": "Baldy Strikes Back!",
+			"type": "manga-canon",
+			"aired_date": "1995-03-25"
+		},
+		{
+			"episode": 62,
+			"title": "Three-Day Super Training",
+			"type": "manga-canon",
+			"aired_date": "1995-04-01"
+		},
+		{
+			"episode": 63,
+			"title": "Battle of the Aces! Kainan vs Ryonan",
+			"type": "manga-canon",
+			"aired_date": "1995-04-08"
+		},
+		{
+			"episode": 64,
+			"title": "King Kainan Shows its Abilities!",
+			"type": "manga-canon",
+			"aired_date": "1995-04-15"
+		},
+		{
+			"episode": 65,
+			"title": "The Strongest Match! Sendoh vs Maki",
+			"type": "manga-canon",
+			"aired_date": "1995-04-29"
+		},
+		{
+			"episode": 66,
+			"title": "Sendoh's Bet",
+			"type": "manga-canon",
+			"aired_date": "1995-05-13"
+		},
+		{
+			"episode": 67,
+			"title": "The Final Battle! Shohoku vs Ryonan",
+			"type": "manga-canon",
+			"aired_date": "1995-05-20"
+		},
+		{
+			"episode": 68,
+			"title": "Savior!? Hanamichi Sakuragi",
+			"type": "manga-canon",
+			"aired_date": "1995-05-27"
+		},
+		{
+			"episode": 69,
+			"title": "Gorilla Goes Astray",
+			"type": "manga-canon",
+			"aired_date": "1995-06-03"
+		},
+		{
+			"episode": 70,
+			"title": "Gorilla Dunk II",
+			"type": "manga-canon",
+			"aired_date": "1995-06-10"
+		},
+		{
+			"episode": 71,
+			"title": "Gorilla, Shout of Revival!",
+			"type": "manga-canon",
+			"aired_date": "1995-06-17"
+		},
+		{
+			"episode": 72,
+			"title": "The Greatest Shame of One's Life",
+			"type": "manga-canon",
+			"aired_date": "1995-07-01"
+		},
+		{
+			"episode": 73,
+			"title": "Rukawa Kaede, Gambling on the 2nd Half",
+			"type": "manga-canon",
+			"aired_date": "1995-07-08"
+		},
+		{
+			"episode": 74,
+			"title": "The Most Dangerous Challenger!",
+			"type": "manga-canon",
+			"aired_date": "1995-07-15"
+		},
+		{
+			"episode": 75,
+			"title": "Fine Play",
+			"type": "manga-canon",
+			"aired_date": "1995-07-22"
+		},
+		{
+			"episode": 76,
+			"title": "The Feeling of Victory",
+			"type": "manga-canon",
+			"aired_date": "1995-08-05"
+		},
+		{
+			"episode": 77,
+			"title": "You Guys Are Strong!",
+			"type": "manga-canon",
+			"aired_date": "1995-08-19"
+		},
+		{
+			"episode": 78,
+			"title": "Uozumi Jun Revives",
+			"type": "manga-canon",
+			"aired_date": "1995-08-19"
+		},
+		{
+			"episode": 79,
+			"title": "Blue Waves - Ryonan Fights Back!",
+			"type": "manga-canon",
+			"aired_date": "1995-08-26"
+		},
+		{
+			"episode": 80,
+			"title": "Shohoku's Problems",
+			"type": "manga-canon",
+			"aired_date": "1995-09-02"
+		},
+		{
+			"episode": 81,
+			"title": "Sendoh On Fire! Shohoku Loses",
+			"type": "manga-canon",
+			"aired_date": "1995-09-09"
+		},
+		{
+			"episode": 82,
+			"title": "Amateur Sakuragi Hanamichi the Man",
+			"type": "manga-canon",
+			"aired_date": "1995-10-21"
+		},
+		{
+			"episode": 83,
+			"title": "Vice-Captain Kogure's Determination",
+			"type": "manga-canon",
+			"aired_date": "1995-10-28"
+		},
+		{
+			"episode": 84,
+			"title": "Win or Lose",
+			"type": "manga-canon",
+			"aired_date": "1995-11-04"
+		},
+		{
+			"episode": 85,
+			"title": "New Challenge: The National Championship!",
+			"type": "filler",
+			"aired_date": "1995-11-11"
+		},
+		{
+			"episode": 86,
+			"title": "Rukawa's Ambition",
+			"type": "filler",
+			"aired_date": "1995-11-18"
+		},
+		{
+			"episode": 87,
+			"title": "Japan's Number One High School Player",
+			"type": "manga-canon",
+			"aired_date": "1995-11-25"
+		},
+		{
+			"episode": 88,
+			"title": "The Basketball Kingdom - America",
+			"type": "manga-canon",
+			"aired_date": "1995-12-02"
+		},
+		{
+			"episode": 89,
+			"title": "Unstoppable Intensity! Rukawa",
+			"type": "manga-canon",
+			"aired_date": "1995-12-09"
+		},
+		{
+			"episode": 90,
+			"title": "Shohoku's True Star!",
+			"type": "mixed-manga",
+			"aired_date": "1995-12-16"
+		},
+		{
+			"episode": 91,
+			"title": "The Nationals at Risk",
+			"type": "manga-canon",
+			"aired_date": "1995-12-23"
+		},
+		{
+			"episode": 92,
+			"title": "Male Friendship!? Sakuragi's Gang",
+			"type": "filler",
+			"aired_date": "1996-01-13"
+		},
+		{
+			"episode": 93,
+			"title": "Going Toward 20000 Shoots",
+			"type": "manga-canon",
+			"aired_date": "1996-01-20"
+		},
+		{
+			"episode": 94,
+			"title": "Shizuoka's Fierce Fight! Shohoku vs. Jousei",
+			"type": "manga-canon",
+			"aired_date": "1996-01-27"
+		},
+		{
+			"episode": 95,
+			"title": "Hanamichi's Hottest Day",
+			"type": "filler",
+			"aired_date": "1996-02-03"
+		},
+		{
+			"episode": 96,
+			"title": "Basketball Shoes Part II",
+			"type": "manga-canon",
+			"aired_date": "1996-02-10"
+		},
+		{
+			"episode": 97,
+			"title": "Mixed Feelings, Uozumi Returns",
+			"type": "filler",
+			"aired_date": "1996-02-17"
+		},
+		{
+			"episode": 98,
+			"title": "Fierce Battle Begins! Shohoku vs. Shoyo/Ryonan",
+			"type": "filler",
+			"aired_date": "1996-02-24"
+		},
+		{
+			"episode": 99,
+			"title": "Facing the Strongest Team, Shohoku in Danger!",
+			"type": "filler",
+			"aired_date": "1996-03-02"
+		},
+		{
+			"episode": 100,
+			"title": "The Man of Miracles, Hanamichi Sakuragi!",
+			"type": "filler",
+			"aired_date": "1996-03-09"
+		},
+		{
+			"episode": 101,
+			"title": "The Glorious Slam Dunk!",
+			"type": "filler",
+			"aired_date": "1996-03-23"
+		}
+	]
+}

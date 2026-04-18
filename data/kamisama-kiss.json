@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Kamisama Kiss",
+	"mappings": {
+		"anilist_id": 14713,
+		"mal_id": 14713
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Nanami Becomes a God",
+			"type": "manga-canon",
+			"aired_date": "2012-10-01"
+		},
+		{
+			"episode": 2,
+			"title": "The God Becomes a Target",
+			"type": "manga-canon",
+			"aired_date": "2012-10-08"
+		},
+		{
+			"episode": 3,
+			"title": "The God Makes a Match",
+			"type": "manga-canon",
+			"aired_date": "2012-10-15"
+		},
+		{
+			"episode": 4,
+			"title": "The God Is Kidnapped",
+			"type": "manga-canon",
+			"aired_date": "2012-10-22"
+		},
+		{
+			"episode": 5,
+			"title": "The God Loses Her Home",
+			"type": "manga-canon",
+			"aired_date": "2012-10-29"
+		},
+		{
+			"episode": 6,
+			"title": "The God Catches a Cold",
+			"type": "manga-canon",
+			"aired_date": "2012-11-05"
+		},
+		{
+			"episode": 7,
+			"title": "The God Asks a Boy Out On a Date",
+			"type": "manga-canon",
+			"aired_date": "2012-11-12"
+		},
+		{
+			"episode": 8,
+			"title": "The God Goes to the Beach",
+			"type": "manga-canon",
+			"aired_date": "2012-11-19"
+		},
+		{
+			"episode": 9,
+			"title": "The God Goes to the Dragon King's Palace",
+			"type": "manga-canon",
+			"aired_date": "2012-11-26"
+		},
+		{
+			"episode": 10,
+			"title": "Tomoe Becomes a Familiar / The God Goes to the Mixer",
+			"type": "manga-canon",
+			"aired_date": "2012-12-03"
+		},
+		{
+			"episode": 11,
+			"title": "The Familiar Goes Into Town",
+			"type": "manga-canon",
+			"aired_date": "2012-12-10"
+		},
+		{
+			"episode": 12,
+			"title": "Nanami Quits Being a God",
+			"type": "manga-canon",
+			"aired_date": "2012-12-17"
+		},
+		{
+			"episode": 13,
+			"title": "I've Started the 'Being a God' Thing (Kamisama Kiss)",
+			"type": "mixed-manga",
+			"aired_date": "2012-12-24"
+		}
+	]
+}

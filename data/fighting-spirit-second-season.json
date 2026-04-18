@@ -1,0 +1,166 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Hajime no Ippo: The Fighting! New Challenger",
+	"mappings": {
+		"anilist_id": 5258,
+		"mal_id": 5258
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "A New Step",
+			"type": "manga-canon",
+			"aired_date": "2009-01-06"
+		},
+		{
+			"episode": 2,
+			"title": "Bloody Cross",
+			"type": "manga-canon",
+			"aired_date": "2009-01-13"
+		},
+		{
+			"episode": 3,
+			"title": "To the Promised Place",
+			"type": "manga-canon",
+			"aired_date": "2009-01-20"
+		},
+		{
+			"episode": 4,
+			"title": "Moving Towards the World",
+			"type": "manga-canon",
+			"aired_date": "2009-01-27"
+		},
+		{
+			"episode": 5,
+			"title": "The World's Power",
+			"type": "manga-canon",
+			"aired_date": "2009-02-03"
+		},
+		{
+			"episode": 6,
+			"title": "A Back to Chase After",
+			"type": "manga-canon",
+			"aired_date": "2009-02-10"
+		},
+		{
+			"episode": 7,
+			"title": "The Devil's Advent",
+			"type": "manga-canon",
+			"aired_date": "2009-02-17"
+		},
+		{
+			"episode": 8,
+			"title": "A Blow from the Soul",
+			"type": "manga-canon",
+			"aired_date": "2009-02-24"
+		},
+		{
+			"episode": 9,
+			"title": "Qualifications for Succession",
+			"type": "manga-canon",
+			"aired_date": "2009-03-03"
+		},
+		{
+			"episode": 10,
+			"title": "Underdog",
+			"type": "manga-canon",
+			"aired_date": "2009-03-10"
+		},
+		{
+			"episode": 11,
+			"title": "Ippo VS. Hammer Nao",
+			"type": "manga-canon",
+			"aired_date": "2009-03-17"
+		},
+		{
+			"episode": 12,
+			"title": "The Conditions for Being a Pro",
+			"type": "manga-canon",
+			"aired_date": "2009-03-24"
+		},
+		{
+			"episode": 13,
+			"title": "Ippo on the Beach 2",
+			"type": "manga-canon",
+			"aired_date": "2009-03-31"
+		},
+		{
+			"episode": 14,
+			"title": "Two Sparring",
+			"type": "manga-canon",
+			"aired_date": "2009-04-07"
+		},
+		{
+			"episode": 15,
+			"title": "Itagaki, Debut Match",
+			"type": "manga-canon",
+			"aired_date": "2009-04-14"
+		},
+		{
+			"episode": 16,
+			"title": "The Two Hawks",
+			"type": "manga-canon",
+			"aired_date": "2009-04-21"
+		},
+		{
+			"episode": 17,
+			"title": "Wild Child",
+			"type": "manga-canon",
+			"aired_date": "2009-04-28"
+		},
+		{
+			"episode": 18,
+			"title": "Extreme Weight Loss",
+			"type": "manga-canon",
+			"aired_date": "2009-05-05"
+		},
+		{
+			"episode": 19,
+			"title": "Critical Situation",
+			"type": "manga-canon",
+			"aired_date": "2009-05-12"
+		},
+		{
+			"episode": 20,
+			"title": "World J. Middleweight Title Match",
+			"type": "manga-canon",
+			"aired_date": "2009-05-19"
+		},
+		{
+			"episode": 21,
+			"title": "BATTLE OF HAWK!",
+			"type": "manga-canon",
+			"aired_date": "2009-05-26"
+		},
+		{
+			"episode": 22,
+			"title": "Brawling Battle",
+			"type": "manga-canon",
+			"aired_date": "2009-06-02"
+		},
+		{
+			"episode": 23,
+			"title": "Supporting Hand",
+			"type": "manga-canon",
+			"aired_date": "2009-06-09"
+		},
+		{
+			"episode": 24,
+			"title": "King",
+			"type": "manga-canon",
+			"aired_date": "2009-06-16"
+		},
+		{
+			"episode": 25,
+			"title": "Please Accept This Bronze Statue",
+			"type": "manga-canon",
+			"aired_date": "2009-06-23"
+		},
+		{
+			"episode": 26,
+			"title": "NEW CHALLENGER",
+			"type": "manga-canon",
+			"aired_date": "2009-06-30"
+		}
+	]
+}

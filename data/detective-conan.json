@@ -1,0 +1,7198 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Case Closed",
+	"mappings": {
+		"anilist_id": 235,
+		"mal_id": 235
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Roller Coaster Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-01-08"
+		},
+		{
+			"episode": 2,
+			"title": "Company President's Daughter Kidnapping Case",
+			"type": "manga-canon",
+			"aired_date": "1996-01-15"
+		},
+		{
+			"episode": 3,
+			"title": "An Idol's Locked Room Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-01-22"
+		},
+		{
+			"episode": 4,
+			"title": "The Coded Map of the City Case",
+			"type": "manga-canon",
+			"aired_date": "1996-01-29"
+		},
+		{
+			"episode": 5,
+			"title": "The Shinkansen's Bomb Case",
+			"type": "manga-canon",
+			"aired_date": "1996-02-05"
+		},
+		{
+			"episode": 6,
+			"title": "Valentine Murder Case",
+			"type": "filler",
+			"aired_date": "1996-02-12"
+		},
+		{
+			"episode": 7,
+			"title": "Once-A-Month Present Threat Case",
+			"type": "manga-canon",
+			"aired_date": "1996-02-19"
+		},
+		{
+			"episode": 8,
+			"title": "Art Museum Owner Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-02-26"
+		},
+		{
+			"episode": 9,
+			"title": "Tenkaichi Night Festival Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-03-04"
+		},
+		{
+			"episode": 10,
+			"title": "Pro Soccer Player Blackmail Case",
+			"type": "manga-canon",
+			"aired_date": "1996-03-11"
+		},
+		{
+			"episode": 11,
+			"title": "Moonlight Sonata Murder Case (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "1996-04-08"
+		},
+		{
+			"episode": 12,
+			"title": "Ayumi-chan Kidnapping Case",
+			"type": "manga-canon",
+			"aired_date": "1996-04-15"
+		},
+		{
+			"episode": 13,
+			"title": "The Strange Person Hunt Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-04-22"
+		},
+		{
+			"episode": 14,
+			"title": "The Mysterious Shooting Message Case",
+			"type": "filler",
+			"aired_date": "1996-04-29"
+		},
+		{
+			"episode": 15,
+			"title": "Missing Corpse Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-05-13"
+		},
+		{
+			"episode": 16,
+			"title": "The Antique Collector Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-05-20"
+		},
+		{
+			"episode": 17,
+			"title": "The Case of the Hi-Jacked Department Store",
+			"type": "filler",
+			"aired_date": "1996-05-27"
+		},
+		{
+			"episode": 18,
+			"title": "A June Bride Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-06-03"
+		},
+		{
+			"episode": 19,
+			"title": "An Elevator Murder Case",
+			"type": "filler",
+			"aired_date": "1996-06-10"
+		},
+		{
+			"episode": 20,
+			"title": "A Haunted Mansion Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-06-17"
+		},
+		{
+			"episode": 21,
+			"title": "On Location, TV Drama Murder Case",
+			"type": "filler",
+			"aired_date": "1996-06-24"
+		},
+		{
+			"episode": 22,
+			"title": "Luxury Liner Serial Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1996-07-01"
+		},
+		{
+			"episode": 23,
+			"title": "Luxury Liner Serial Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1996-07-08"
+		},
+		{
+			"episode": 24,
+			"title": "The Mysterious Woman With Amnesia Case",
+			"type": "filler",
+			"aired_date": "1996-07-15"
+		},
+		{
+			"episode": 25,
+			"title": "The False Kidnapping and Hostage Case",
+			"type": "filler",
+			"aired_date": "1996-07-22"
+		},
+		{
+			"episode": 26,
+			"title": "Pet Dog John Murder Case",
+			"type": "filler",
+			"aired_date": "1996-07-29"
+		},
+		{
+			"episode": 27,
+			"title": "Kogoro's Class Reunion Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1996-08-05"
+		},
+		{
+			"episode": 28,
+			"title": "Kogoro's Class Reunion Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1996-08-12"
+		},
+		{
+			"episode": 29,
+			"title": "Computer Murder Case",
+			"type": "filler",
+			"aired_date": "1996-08-19"
+		},
+		{
+			"episode": 30,
+			"title": "Alibi Testimony Murder Case",
+			"type": "filler",
+			"aired_date": "1996-08-26"
+		},
+		{
+			"episode": 31,
+			"title": "TV Station Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-09-02"
+		},
+		{
+			"episode": 32,
+			"title": "Coffee Shop Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-09-09"
+		},
+		{
+			"episode": 33,
+			"title": "Detective Boys Survival Case",
+			"type": "filler",
+			"aired_date": "1996-10-14"
+		},
+		{
+			"episode": 34,
+			"title": "Mountain Villa Bandaged Man Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1996-10-21"
+		},
+		{
+			"episode": 35,
+			"title": "Mountain Villa Bandaged Man Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1996-10-28"
+		},
+		{
+			"episode": 36,
+			"title": "Monday Night 7:30 P.M. Murder Case",
+			"type": "filler",
+			"aired_date": "1996-11-04"
+		},
+		{
+			"episode": 37,
+			"title": "Cactus's Flower Murder Case",
+			"type": "filler",
+			"aired_date": "1996-11-11"
+		},
+		{
+			"episode": 38,
+			"title": "Akaoni Village Fire Festival Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-11-18"
+		},
+		{
+			"episode": 39,
+			"title": "Wealthy Daughter Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1996-11-25"
+		},
+		{
+			"episode": 40,
+			"title": "Wealthy Daughter Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1996-12-02"
+		},
+		{
+			"episode": 41,
+			"title": "Victory Flag Tearing Case",
+			"type": "filler",
+			"aired_date": "1996-12-09"
+		},
+		{
+			"episode": 42,
+			"title": "Karaoke Box Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1996-12-16"
+		},
+		{
+			"episode": 43,
+			"title": "Conan Edogawa Kidnapping Case",
+			"type": "manga-canon",
+			"aired_date": "1997-01-13"
+		},
+		{
+			"episode": 44,
+			"title": "Three Hotta Siblings Murder Case",
+			"type": "filler",
+			"aired_date": "1997-01-20"
+		},
+		{
+			"episode": 45,
+			"title": "Facial Mask Murder Case",
+			"type": "filler",
+			"aired_date": "1997-01-27"
+		},
+		{
+			"episode": 46,
+			"title": "Alpine Hut in the Snowy Mountain Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1997-02-03"
+		},
+		{
+			"episode": 47,
+			"title": "Sports Club Murder Case",
+			"type": "filler",
+			"aired_date": "1997-02-10"
+		},
+		{
+			"episode": 48,
+			"title": "Diplomat Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1997-02-17"
+		},
+		{
+			"episode": 49,
+			"title": "Diplomat Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1997-02-24"
+		},
+		{
+			"episode": 50,
+			"title": "Library Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1997-03-03"
+		},
+		{
+			"episode": 51,
+			"title": "The Golf Driving Range Murder Case",
+			"type": "filler",
+			"aired_date": "1997-03-10"
+		},
+		{
+			"episode": 52,
+			"title": "The Mist Goblin Legend Murder Case (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "1997-03-17"
+		},
+		{
+			"episode": 53,
+			"title": "The Mystery Weapon Murder Case",
+			"type": "filler",
+			"aired_date": "1997-04-07"
+		},
+		{
+			"episode": 54,
+			"title": "Game Company Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1997-04-14"
+		},
+		{
+			"episode": 55,
+			"title": "The Train Trick Murder Case",
+			"type": "filler",
+			"aired_date": "1997-04-21"
+		},
+		{
+			"episode": 56,
+			"title": "The Ojamanbou Murder Case",
+			"type": "filler",
+			"aired_date": "1997-04-28"
+		},
+		{
+			"episode": 57,
+			"title": "Holmes Freak Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1997-05-05"
+		},
+		{
+			"episode": 58,
+			"title": "Holmes Freak Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1997-05-12"
+		},
+		{
+			"episode": 59,
+			"title": "The First Errand Murder Case",
+			"type": "filler",
+			"aired_date": "1997-05-19"
+		},
+		{
+			"episode": 60,
+			"title": "An Illustrator Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1997-05-26"
+		},
+		{
+			"episode": 61,
+			"title": "A Ghost Ship Murder Case (Part 1)",
+			"type": "filler",
+			"aired_date": "1997-06-02"
+		},
+		{
+			"episode": 62,
+			"title": "A Ghost Ship Murder Case (Part 2)",
+			"type": "filler",
+			"aired_date": "1997-06-09"
+		},
+		{
+			"episode": 63,
+			"title": "Big Monster Gomera Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1997-06-16"
+		},
+		{
+			"episode": 64,
+			"title": "The Third Fingerprint Murder Case",
+			"type": "filler",
+			"aired_date": "1997-06-23"
+		},
+		{
+			"episode": 65,
+			"title": "A Crab and Whale Kidnapping Case",
+			"type": "filler",
+			"aired_date": "1997-06-30"
+		},
+		{
+			"episode": 66,
+			"title": "Night Road Murder Case",
+			"type": "filler",
+			"aired_date": "1997-07-07"
+		},
+		{
+			"episode": 67,
+			"title": "Stage Actress Murder Case",
+			"type": "filler",
+			"aired_date": "1997-07-14"
+		},
+		{
+			"episode": 68,
+			"title": "Night Baron Murder Case (Case Part)",
+			"type": "manga-canon",
+			"aired_date": "1997-07-21"
+		},
+		{
+			"episode": 69,
+			"title": "Night Baron Murder Case (Suspicion Part)",
+			"type": "manga-canon",
+			"aired_date": "1997-07-28"
+		},
+		{
+			"episode": 70,
+			"title": "Night Baron Murder Case (Resolution Part)",
+			"type": "manga-canon",
+			"aired_date": "1997-08-04"
+		},
+		{
+			"episode": 71,
+			"title": "A Stalker's Murder Case",
+			"type": "filler",
+			"aired_date": "1997-08-11"
+		},
+		{
+			"episode": 72,
+			"title": "The Triplet's Country Home Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1997-08-18"
+		},
+		{
+			"episode": 73,
+			"title": "The Detective Boys' Disaster Case",
+			"type": "filler",
+			"aired_date": "1997-08-25"
+		},
+		{
+			"episode": 74,
+			"title": "The Death God Jinnai Murder Case",
+			"type": "filler",
+			"aired_date": "1997-09-01"
+		},
+		{
+			"episode": 75,
+			"title": "Loan Company President's Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1997-09-08"
+		},
+		{
+			"episode": 76,
+			"title": "Conan vs. Kaito Kid (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "1997-09-22"
+		},
+		{
+			"episode": 77,
+			"title": "Distinguished Family's Consecutive Accidental Death Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1997-10-20"
+		},
+		{
+			"episode": 78,
+			"title": "Distinguished Family's Consecutive Accidental Death Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1997-10-27"
+		},
+		{
+			"episode": 79,
+			"title": "The Bank Heist Murder Case",
+			"type": "filler",
+			"aired_date": "1997-11-03"
+		},
+		{
+			"episode": 80,
+			"title": "The Wandering Artist Murder Case",
+			"type": "filler",
+			"aired_date": "1997-11-10"
+		},
+		{
+			"episode": 81,
+			"title": "The Kidnapping of a Popular Artist Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1997-11-17"
+		},
+		{
+			"episode": 82,
+			"title": "The Kidnapping of a Popular Artist Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1997-11-24"
+		},
+		{
+			"episode": 83,
+			"title": "General Hospital Murder Case",
+			"type": "filler",
+			"aired_date": "1997-12-01"
+		},
+		{
+			"episode": 84,
+			"title": "Ski Lodge Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1997-12-08"
+		},
+		{
+			"episode": 85,
+			"title": "Ski Lodge Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1997-12-15"
+		},
+		{
+			"episode": 86,
+			"title": "The Kidnapping Location Case",
+			"type": "manga-canon",
+			"aired_date": "1998-01-12"
+		},
+		{
+			"episode": 87,
+			"title": "The Crane's Reciprocation Murder Case",
+			"type": "filler",
+			"aired_date": "1998-01-19"
+		},
+		{
+			"episode": 88,
+			"title": "Dracula's Villa Murder Case (Part 1)",
+			"type": "filler",
+			"aired_date": "1998-01-26"
+		},
+		{
+			"episode": 89,
+			"title": "Dracula's Villa Murder Case (Part 2)",
+			"type": "filler",
+			"aired_date": "1998-02-02"
+		},
+		{
+			"episode": 90,
+			"title": "The Flower Scent Murder Case",
+			"type": "filler",
+			"aired_date": "1998-02-09"
+		},
+		{
+			"episode": 91,
+			"title": "The Bank Robber's Hospitalization Case",
+			"type": "manga-canon",
+			"aired_date": "1998-02-16"
+		},
+		{
+			"episode": 92,
+			"title": "The Fearful Traversing Murder Case (Part 1)",
+			"type": "filler",
+			"aired_date": "1998-02-23"
+		},
+		{
+			"episode": 93,
+			"title": "The Fearful Traversing Murder Case (Part 2)",
+			"type": "filler",
+			"aired_date": "1998-03-02"
+		},
+		{
+			"episode": 94,
+			"title": "Snow Woman Legend Murder Case",
+			"type": "filler",
+			"aired_date": "1998-03-09"
+		},
+		{
+			"episode": 95,
+			"title": "Kogoro's Date Murder Case",
+			"type": "filler",
+			"aired_date": "1998-03-16"
+		},
+		{
+			"episode": 96,
+			"title": "Caught Up with the Great Detective! 2 Murder Cases! (2 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "1998-03-23"
+		},
+		{
+			"episode": 97,
+			"title": "The Farewell Wine Murder Case",
+			"type": "filler",
+			"aired_date": "1998-04-13"
+		},
+		{
+			"episode": 98,
+			"title": "The Famous Potter Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1998-04-20"
+		},
+		{
+			"episode": 99,
+			"title": "The Famous Potter Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1998-04-27"
+		},
+		{
+			"episode": 100,
+			"title": "The Memories of First Love Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1998-05-11"
+		},
+		{
+			"episode": 101,
+			"title": "The Memories of First Love Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1998-05-18"
+		},
+		{
+			"episode": 102,
+			"title": "Historical Actor Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1998-05-24"
+		},
+		{
+			"episode": 103,
+			"title": "Historical Actor Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1998-06-01"
+		},
+		{
+			"episode": 104,
+			"title": "The Mysterious Robbers and Mansion Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1998-06-08"
+		},
+		{
+			"episode": 105,
+			"title": "The Mysterious Robbers and Mansion Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1998-06-15"
+		},
+		{
+			"episode": 106,
+			"title": "Scoop Picture Murder Case",
+			"type": "filler",
+			"aired_date": "1998-06-22"
+		},
+		{
+			"episode": 107,
+			"title": "The Mysterious Mole Alien Case (Part 1)",
+			"type": "filler",
+			"aired_date": "1998-06-29"
+		},
+		{
+			"episode": 108,
+			"title": "The Mysterious Mole Alien Case (Part 2)",
+			"type": "filler",
+			"aired_date": "1998-07-06"
+		},
+		{
+			"episode": 109,
+			"title": "Detective Club Pursuit Case",
+			"type": "filler",
+			"aired_date": "1998-07-13"
+		},
+		{
+			"episode": 110,
+			"title": "Cooking Classroom Murder Case (Part 1)",
+			"type": "filler",
+			"aired_date": "1998-07-27"
+		},
+		{
+			"episode": 111,
+			"title": "Cooking Classroom Murder Case (Part 2)",
+			"type": "filler",
+			"aired_date": "1998-08-03"
+		},
+		{
+			"episode": 112,
+			"title": "The Seven Mysteries of Teitan Elementary School Case",
+			"type": "manga-canon",
+			"aired_date": "1998-08-10"
+		},
+		{
+			"episode": 113,
+			"title": "The White Sandy Beach Murder Case",
+			"type": "manga-canon",
+			"aired_date": "1998-08-17"
+		},
+		{
+			"episode": 114,
+			"title": "Scuba Diving Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1998-08-24"
+		},
+		{
+			"episode": 115,
+			"title": "Scuba Diving Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1998-08-31"
+		},
+		{
+			"episode": 116,
+			"title": "The Mystery Writer Disappearance Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1998-09-07"
+		},
+		{
+			"episode": 117,
+			"title": "The Mystery Writer Disappearance Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1998-09-14"
+		},
+		{
+			"episode": 118,
+			"title": "The Naniwa Serial Murder Case (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "1998-09-21"
+		},
+		{
+			"episode": 119,
+			"title": "Masked Yaiba Murder Case",
+			"type": "filler",
+			"aired_date": "1998-10-12"
+		},
+		{
+			"episode": 120,
+			"title": "A Honey Cocktail Murder Case",
+			"type": "filler",
+			"aired_date": "1998-10-19"
+		},
+		{
+			"episode": 121,
+			"title": "The Locked Bathroom Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1998-10-26"
+		},
+		{
+			"episode": 122,
+			"title": "The Locked Bathroom Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1998-11-02"
+		},
+		{
+			"episode": 123,
+			"title": "The Weather Girl Kidnapping Case",
+			"type": "filler",
+			"aired_date": "1998-11-09"
+		},
+		{
+			"episode": 124,
+			"title": "A Mysterious Sniper Murder Case (Part 1)",
+			"type": "filler",
+			"aired_date": "1998-11-16"
+		},
+		{
+			"episode": 125,
+			"title": "A Mysterious Sniper Murder Case (Part 2)",
+			"type": "filler",
+			"aired_date": "1998-11-23"
+		},
+		{
+			"episode": 126,
+			"title": "The Traveling Drama Troupe Murder Case (Part 1)",
+			"type": "filler",
+			"aired_date": "1998-11-30"
+		},
+		{
+			"episode": 127,
+			"title": "The Traveling Drama Troupe Murder Case (Part 2)",
+			"type": "filler",
+			"aired_date": "1998-12-07"
+		},
+		{
+			"episode": 128,
+			"title": "The Black Organization: 1 Billion Yen Robbery Case",
+			"type": "manga-canon",
+			"aired_date": "1998-12-14"
+		},
+		{
+			"episode": 129,
+			"title": "The Girl from the Black Organization and the University Professor Murder Case (2 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "1999-01-04"
+		},
+		{
+			"episode": 130,
+			"title": "The Indiscriminate Threatening Stadium Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1999-01-11"
+		},
+		{
+			"episode": 131,
+			"title": "The Indiscriminate Threatening Stadium Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1999-01-18"
+		},
+		{
+			"episode": 132,
+			"title": "Magic Lover's Murder Case (The Murder)",
+			"type": "manga-canon",
+			"aired_date": "1999-01-25"
+		},
+		{
+			"episode": 133,
+			"title": "Magic Lover's Murder Case (The Suspicion)",
+			"type": "manga-canon",
+			"aired_date": "1999-02-01"
+		},
+		{
+			"episode": 134,
+			"title": "Magic Lover's Murder Case (The Resolution)",
+			"type": "manga-canon",
+			"aired_date": "1999-02-08"
+		},
+		{
+			"episode": 135,
+			"title": "The Disappearing Weapon Case",
+			"type": "filler",
+			"aired_date": "1999-02-15"
+		},
+		{
+			"episode": 136,
+			"title": "The Old Blue Castle Investigation Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1999-02-22"
+		},
+		{
+			"episode": 137,
+			"title": "The Old Blue Castle Investigation Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1999-03-01"
+		},
+		{
+			"episode": 138,
+			"title": "The Final Screening Murder Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1999-03-08"
+		},
+		{
+			"episode": 139,
+			"title": "The Final Screening Murder Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1999-03-15"
+		},
+		{
+			"episode": 140,
+			"title": "SOS! Message from Ayumi!",
+			"type": "filler",
+			"aired_date": "1999-04-12"
+		},
+		{
+			"episode": 141,
+			"title": "The Night Before the Wedding Locked Room Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1999-04-19"
+		},
+		{
+			"episode": 142,
+			"title": "The Night Before the Wedding Locked Room Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1999-04-26"
+		},
+		{
+			"episode": 143,
+			"title": "The Suspicious Astronomical Observation",
+			"type": "filler",
+			"aired_date": "1999-05-03"
+		},
+		{
+			"episode": 144,
+			"title": "The North Star No. 3 Express Leaving Ueno (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1999-05-10"
+		},
+		{
+			"episode": 145,
+			"title": "The North Star No. 3 Express Leaving Ueno (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1999-05-17"
+		},
+		{
+			"episode": 146,
+			"title": "Metropolitan Police Detective Love Story (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1999-05-24"
+		},
+		{
+			"episode": 147,
+			"title": "Metropolitan Police Detective Love Story (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1999-05-30"
+		},
+		{
+			"episode": 148,
+			"title": "The Sudden Street Car Stopping Case",
+			"type": "filler",
+			"aired_date": "1999-06-07"
+		},
+		{
+			"episode": 149,
+			"title": "The Amusement Park Bungee Jumping Case",
+			"type": "filler",
+			"aired_date": "1999-06-21"
+		},
+		{
+			"episode": 150,
+			"title": "The Truth of the Exploding Car Case (Part 1)",
+			"type": "filler",
+			"aired_date": "1999-06-28"
+		},
+		{
+			"episode": 151,
+			"title": "The Truth of the Exploding Car Case (Part 2)",
+			"type": "filler",
+			"aired_date": "1999-07-05"
+		},
+		{
+			"episode": 152,
+			"title": "The Mysterious Old Man Disappearance Case",
+			"type": "filler",
+			"aired_date": "1999-07-12"
+		},
+		{
+			"episode": 153,
+			"title": "Sonoko's Dangerous Summer Story (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1999-07-19"
+		},
+		{
+			"episode": 154,
+			"title": "Sonoko's Dangerous Summer Story (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1999-07-26"
+		},
+		{
+			"episode": 155,
+			"title": "The Key in the Water Locked Room Case",
+			"type": "filler",
+			"aired_date": "1999-08-02"
+		},
+		{
+			"episode": 156,
+			"title": "Metropolitan Police Detective Love Story 2 (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1999-08-09"
+		},
+		{
+			"episode": 157,
+			"title": "Metropolitan Police Detective Love Story 2 (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1999-08-16"
+		},
+		{
+			"episode": 158,
+			"title": "The Silent Ring Line",
+			"type": "filler",
+			"aired_date": "1999-08-23"
+		},
+		{
+			"episode": 159,
+			"title": "Bizarre! The Legend of the Five Storied Pagoda (Part 1)",
+			"type": "filler",
+			"aired_date": "1999-09-06"
+		},
+		{
+			"episode": 160,
+			"title": "Bizarre! The Legend of the Five Storied Pagoda (Part 2)",
+			"type": "filler",
+			"aired_date": "1999-09-13"
+		},
+		{
+			"episode": 161,
+			"title": "The Murder Floating in Ryusuitei",
+			"type": "filler",
+			"aired_date": "1999-09-20"
+		},
+		{
+			"episode": 162,
+			"title": "The Sealed Chamber in the Sky! Shinichi Kudo's First Case (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "1999-09-27"
+		},
+		{
+			"episode": 163,
+			"title": "The Secret of the Moon, the Star, and the Sun (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1999-10-11"
+		},
+		{
+			"episode": 164,
+			"title": "The Secret of the Moon, the Star, and the Sun (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1999-10-18"
+		},
+		{
+			"episode": 165,
+			"title": "The Disappearing Detective Boys Case",
+			"type": "filler",
+			"aired_date": "1999-10-25"
+		},
+		{
+			"episode": 166,
+			"title": "Tottori Spider Mansion Demon (The Murder)",
+			"type": "manga-canon",
+			"aired_date": "1999-11-01"
+		},
+		{
+			"episode": 167,
+			"title": "Tottori Spider Mansion Demon (The Suspicion)",
+			"type": "manga-canon",
+			"aired_date": "1999-11-08"
+		},
+		{
+			"episode": 168,
+			"title": "Tottori Spider Mansion Demon (The Resolution)",
+			"type": "manga-canon",
+			"aired_date": "1999-11-15"
+		},
+		{
+			"episode": 169,
+			"title": "Venus' Kiss",
+			"type": "filler",
+			"aired_date": "1999-11-22"
+		},
+		{
+			"episode": 170,
+			"title": "The Blind Spot in the Darkness (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1999-11-29"
+		},
+		{
+			"episode": 171,
+			"title": "The Blind Spot in the Darkness (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1999-12-06"
+		},
+		{
+			"episode": 172,
+			"title": "The Revival of the Dying Message (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "1999-12-13"
+		},
+		{
+			"episode": 173,
+			"title": "The Revival of the Dying Message (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "1999-12-20"
+		},
+		{
+			"episode": 174,
+			"title": "The 20 Year Old Murder Case: The Symphony Serial Murders (2 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2000-01-03"
+		},
+		{
+			"episode": 175,
+			"title": "The Man Who Was Killed Four Times",
+			"type": "filler",
+			"aired_date": "2000-01-10"
+		},
+		{
+			"episode": 176,
+			"title": "Reunion with the Black Organization (Haibara)",
+			"type": "manga-canon",
+			"aired_date": "2000-01-17"
+		},
+		{
+			"episode": 177,
+			"title": "Reunion with the Black Organization (Conan)",
+			"type": "manga-canon",
+			"aired_date": "2000-01-24"
+		},
+		{
+			"episode": 178,
+			"title": "Reunion with the Black Organization (The Resolution)",
+			"type": "manga-canon",
+			"aired_date": "2000-01-31"
+		},
+		{
+			"episode": 179,
+			"title": "The Coffee Shop Truck's Wild Entrance Case",
+			"type": "filler",
+			"aired_date": "2000-02-07"
+		},
+		{
+			"episode": 180,
+			"title": "The Nocturne of Red Murderous Intent (Part 1)",
+			"type": "filler",
+			"aired_date": "2000-02-14"
+		},
+		{
+			"episode": 181,
+			"title": "The Nocturne of Red Murderous Intent (Part 2)",
+			"type": "filler",
+			"aired_date": "2000-02-21"
+		},
+		{
+			"episode": 182,
+			"title": "The Big Investigation of the Nine Doors",
+			"type": "filler",
+			"aired_date": "2000-02-28"
+		},
+		{
+			"episode": 183,
+			"title": "A Dangerous Recipe",
+			"type": "filler",
+			"aired_date": "2000-03-06"
+		},
+		{
+			"episode": 184,
+			"title": "A Cursed Mask Coldly Laughs (1 Hour Special)",
+			"type": "filler",
+			"aired_date": "2000-03-13"
+		},
+		{
+			"episode": 185,
+			"title": "The Murdered Famous Detective (Part 1)",
+			"type": "filler",
+			"aired_date": "2000-04-10"
+		},
+		{
+			"episode": 186,
+			"title": "The Murdered Famous Detective (Part 2)",
+			"type": "filler",
+			"aired_date": "2000-04-17"
+		},
+		{
+			"episode": 187,
+			"title": "The Mysterious Gun Rings in the Dark",
+			"type": "filler",
+			"aired_date": "2000-04-24"
+		},
+		{
+			"episode": 188,
+			"title": "The Desperate Revival - The Cavern of the Detective Boys",
+			"type": "manga-canon",
+			"aired_date": "2000-05-01"
+		},
+		{
+			"episode": 189,
+			"title": "The Desperate Revival - The Wounded Great Detective",
+			"type": "manga-canon",
+			"aired_date": "2000-05-08"
+		},
+		{
+			"episode": 190,
+			"title": "The Desperate Revival - The Third Choice",
+			"type": "manga-canon",
+			"aired_date": "2000-05-15"
+		},
+		{
+			"episode": 191,
+			"title": "The Desperate Revival - The Black Knight",
+			"type": "manga-canon",
+			"aired_date": "2000-05-22"
+		},
+		{
+			"episode": 192,
+			"title": "The Desperate Revival - Shinichi's Return",
+			"type": "manga-canon",
+			"aired_date": "2000-05-29"
+		},
+		{
+			"episode": 193,
+			"title": "The Desperate Revival - The Promised Place",
+			"type": "manga-canon",
+			"aired_date": "2000-06-05"
+		},
+		{
+			"episode": 194,
+			"title": "The Significant Music Box (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2000-06-12"
+		},
+		{
+			"episode": 195,
+			"title": "The Significant Music Box (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2000-06-19"
+		},
+		{
+			"episode": 196,
+			"title": "The Invisible Weapon, Ran's First Investigation",
+			"type": "filler",
+			"aired_date": "2000-06-26"
+		},
+		{
+			"episode": 197,
+			"title": "The Super Car's Trap (Part 1)",
+			"type": "filler",
+			"aired_date": "2000-07-03"
+		},
+		{
+			"episode": 198,
+			"title": "The Super Car's Trap (Part 2)",
+			"type": "filler",
+			"aired_date": "2000-07-10"
+		},
+		{
+			"episode": 199,
+			"title": "Kogoro Mori, Suspect (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2000-07-17"
+		},
+		{
+			"episode": 200,
+			"title": "Kogoro Mori, Suspect (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2000-07-24"
+		},
+		{
+			"episode": 201,
+			"title": "The Tenth Passenger (Part 1)",
+			"type": "filler",
+			"aired_date": "2000-07-31"
+		},
+		{
+			"episode": 202,
+			"title": "The Tenth Passenger (Part 2)",
+			"type": "filler",
+			"aired_date": "2000-08-07"
+		},
+		{
+			"episode": 203,
+			"title": "The Black Wing of Icarus (Part 1)",
+			"type": "filler",
+			"aired_date": "2000-08-14"
+		},
+		{
+			"episode": 204,
+			"title": "The Black Wing of Icarus (Part 2)",
+			"type": "filler",
+			"aired_date": "2000-08-21"
+		},
+		{
+			"episode": 205,
+			"title": "Metropolitan Police Detective Love Story 3 (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2000-08-28"
+		},
+		{
+			"episode": 206,
+			"title": "Metropolitan Police Detective Love Story 3 (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2000-09-04"
+		},
+		{
+			"episode": 207,
+			"title": "The Deduction That Was Too Good",
+			"type": "filler",
+			"aired_date": "2000-09-11"
+		},
+		{
+			"episode": 208,
+			"title": "The Entrance to the Maze: The Anger of Colossussup class=",
+			"type": "filler",
+			"aired_date": "2000-10-09"
+		},
+		{
+			"episode": 209,
+			"title": "The Falling from Mt. Ryushin Case",
+			"type": "filler",
+			"aired_date": "2000-10-16"
+		},
+		{
+			"episode": 210,
+			"title": "The Water Palace of 5 Colors (Part 1)",
+			"type": "filler",
+			"aired_date": "2000-10-23"
+		},
+		{
+			"episode": 211,
+			"title": "The Water Palace of 5 Colors (Part 2)",
+			"type": "filler",
+			"aired_date": "2000-10-30"
+		},
+		{
+			"episode": 212,
+			"title": "Mushrooms, Bears, and the Detective Boys (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2000-11-06"
+		},
+		{
+			"episode": 213,
+			"title": "Mushrooms, Bears, and the Detective Boys (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2000-11-13"
+		},
+		{
+			"episode": 214,
+			"title": "The Mysterious Retro Room Case",
+			"type": "filler",
+			"aired_date": "2000-11-20"
+		},
+		{
+			"episode": 215,
+			"title": "The Bay of Revenge (Part 1)",
+			"type": "filler",
+			"aired_date": "2000-11-27"
+		},
+		{
+			"episode": 216,
+			"title": "The Bay of Revenge (Part 2)",
+			"type": "filler",
+			"aired_date": "2000-12-04"
+		},
+		{
+			"episode": 217,
+			"title": "Megure's Sealed Secret (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2000-12-11"
+		},
+		{
+			"episode": 218,
+			"title": "Megure's Sealed Secret (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2000-12-18"
+		},
+		{
+			"episode": 219,
+			"title": "The Gathering of the Detectives! Shinichi Kudo vs. Kaitou Kid (2 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2001-01-08"
+		},
+		{
+			"episode": 220,
+			"title": "The Client Full of Lies (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-01-15"
+		},
+		{
+			"episode": 221,
+			"title": "The Client Full of Lies (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-01-22"
+		},
+		{
+			"episode": 222,
+			"title": "And There Were No Mermaids (The Case)",
+			"type": "manga-canon",
+			"aired_date": "2001-01-29"
+		},
+		{
+			"episode": 223,
+			"title": "And There Were No Mermaids (The Deduction)",
+			"type": "manga-canon",
+			"aired_date": "2001-02-05"
+		},
+		{
+			"episode": 224,
+			"title": "And There Were No Mermaids (The Resolution)",
+			"type": "manga-canon",
+			"aired_date": "2001-02-12"
+		},
+		{
+			"episode": 225,
+			"title": "The Secret of the High Sales",
+			"type": "filler",
+			"aired_date": "2001-02-19"
+		},
+		{
+			"episode": 226,
+			"title": "The Battle Game Trap (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-02-26"
+		},
+		{
+			"episode": 227,
+			"title": "The Battle Game Trap (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-03-05"
+		},
+		{
+			"episode": 228,
+			"title": "The Murderous Pottery Class (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-03-12"
+		},
+		{
+			"episode": 229,
+			"title": "The Murderous Pottery Class (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-03-19"
+		},
+		{
+			"episode": 230,
+			"title": "The Mysterious Passenger (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-04-16"
+		},
+		{
+			"episode": 231,
+			"title": "The Mysterious Passenger (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-04-23"
+		},
+		{
+			"episode": 232,
+			"title": "The Apartment Degradation Case",
+			"type": "filler",
+			"aired_date": "2001-05-07"
+		},
+		{
+			"episode": 233,
+			"title": "The Evidence That Didn't Disappear (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-05-14"
+		},
+		{
+			"episode": 234,
+			"title": "The Evidence That Didn't Disappear (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-05-21"
+		},
+		{
+			"episode": 235,
+			"title": "The Locked Wine Cellar",
+			"type": "filler",
+			"aired_date": "2001-05-28"
+		},
+		{
+			"episode": 236,
+			"title": "The Nanki Beach Mystery Tour (Part 1)",
+			"type": "filler",
+			"aired_date": "2001-06-04"
+		},
+		{
+			"episode": 237,
+			"title": "The Nanki Beach Mystery Tour (Part 2)",
+			"type": "filler",
+			"aired_date": "2001-06-11"
+		},
+		{
+			"episode": 238,
+			"title": "The 3 \"K\"s of Osaka Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-06-18"
+		},
+		{
+			"episode": 239,
+			"title": "The 3 \"K\"s of Osaka Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-06-25"
+		},
+		{
+			"episode": 240,
+			"title": "The Shinkansen Transport Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-07-02"
+		},
+		{
+			"episode": 241,
+			"title": "The Shinkansen Transport Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-07-09"
+		},
+		{
+			"episode": 242,
+			"title": "Boy Genta's Misfortune",
+			"type": "manga-canon",
+			"aired_date": "2001-07-16"
+		},
+		{
+			"episode": 243,
+			"title": "Kogoro Mori's Imposter (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-07-23"
+		},
+		{
+			"episode": 244,
+			"title": "Kogoro Mori's Imposter (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-07-30"
+		},
+		{
+			"episode": 245,
+			"title": "The Gun Shot in the Sunflower Building",
+			"type": "filler",
+			"aired_date": "2001-08-06"
+		},
+		{
+			"episode": 246,
+			"title": "The Mystery in the Net (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-08-13"
+		},
+		{
+			"episode": 247,
+			"title": "The Mystery in the Net (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-08-20"
+		},
+		{
+			"episode": 248,
+			"title": "The Alibi of the Soothing Forest",
+			"type": "filler",
+			"aired_date": "2001-08-27"
+		},
+		{
+			"episode": 249,
+			"title": "The Celebrities' Secret (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-09-03"
+		},
+		{
+			"episode": 250,
+			"title": "The Celebrities' Secret (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-09-10"
+		},
+		{
+			"episode": 251,
+			"title": "The Tragedy at the OK Corral",
+			"type": "filler",
+			"aired_date": "2001-09-17"
+		},
+		{
+			"episode": 252,
+			"title": "The Kidnapper in the Picture",
+			"type": "filler",
+			"aired_date": "2001-10-08"
+		},
+		{
+			"episode": 253,
+			"title": "Metropolitan Police Detective Love Story 4 (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-10-15"
+		},
+		{
+			"episode": 254,
+			"title": "Metropolitan Police Detective Love Story 4 (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-10-22"
+		},
+		{
+			"episode": 255,
+			"title": "The 14th Round of the Matsue Tamatsukuri Linked Verse Contest (Part 1)",
+			"type": "filler",
+			"aired_date": "2001-10-29"
+		},
+		{
+			"episode": 256,
+			"title": "The 14th Round of the Matsue Tamatsukuri Linked Verse Contest (Part 2)",
+			"type": "filler",
+			"aired_date": "2001-11-05"
+		},
+		{
+			"episode": 257,
+			"title": "The Extremely Strange Punishment from Heaven",
+			"type": "filler",
+			"aired_date": "2001-11-12"
+		},
+		{
+			"episode": 258,
+			"title": "The Man from Chicago (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2001-11-19"
+		},
+		{
+			"episode": 259,
+			"title": "The Man from Chicago (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2001-11-26"
+		},
+		{
+			"episode": 260,
+			"title": "The Shaking Restaurant",
+			"type": "filler",
+			"aired_date": "2001-12-03"
+		},
+		{
+			"episode": 261,
+			"title": "The Fearful Legend of the Snowy Night (Part 1)",
+			"type": "filler",
+			"aired_date": "2001-12-10"
+		},
+		{
+			"episode": 262,
+			"title": "The Fearful Legend of the Snowy Night (Part 2)",
+			"type": "filler",
+			"aired_date": "2001-12-17"
+		},
+		{
+			"episode": 263,
+			"title": "The Osaka Double Mystery - Naniwa Swordsman and Toyotomi's Castle (2 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2002-01-07"
+		},
+		{
+			"episode": 264,
+			"title": "Courtroom Battle: Kisaki vs. Kogoro (Part 1)",
+			"type": "filler",
+			"aired_date": "2002-01-14"
+		},
+		{
+			"episode": 265,
+			"title": "Courtroom Battle: Kisaki vs. Kogoro (Part 2)",
+			"type": "filler",
+			"aired_date": "2002-01-21"
+		},
+		{
+			"episode": 266,
+			"title": "The Truth Behind Valentine's (The Case)",
+			"type": "manga-canon",
+			"aired_date": "2002-01-28"
+		},
+		{
+			"episode": 267,
+			"title": "The Truth Behind Valentine's (The Deduction)",
+			"type": "manga-canon",
+			"aired_date": "2002-02-04"
+		},
+		{
+			"episode": 268,
+			"title": "The Truth Behind Valentine's (The Resolution)",
+			"type": "manga-canon",
+			"aired_date": "2002-02-11"
+		},
+		{
+			"episode": 269,
+			"title": "The Forgotten Memento from the Crime (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2002-02-18"
+		},
+		{
+			"episode": 270,
+			"title": "The Forgotten Memento from the Crime (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2002-03-04"
+		},
+		{
+			"episode": 271,
+			"title": "The Secret Rushed Omission (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2002-03-11"
+		},
+		{
+			"episode": 272,
+			"title": "The Secret Rushed Omission (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2002-03-18"
+		},
+		{
+			"episode": 273,
+			"title": "Old Lady's Quiz Disappearance Case",
+			"type": "filler",
+			"aired_date": "2002-04-08"
+		},
+		{
+			"episode": 274,
+			"title": "Truth About the Haunted House (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2002-04-15"
+		},
+		{
+			"episode": 275,
+			"title": "Truth About the Haunted House (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2002-04-22"
+		},
+		{
+			"episode": 276,
+			"title": "Case of the Missing Policeman's Badge",
+			"type": "filler",
+			"aired_date": "2002-05-06"
+		},
+		{
+			"episode": 277,
+			"title": "English Teacher vs. Great Western Detective (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2002-05-13"
+		},
+		{
+			"episode": 278,
+			"title": "English Teacher vs. Great Western Detective (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2002-05-20"
+		},
+		{
+			"episode": 279,
+			"title": "Hooligan's Labyrinth (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2002-05-27"
+		},
+		{
+			"episode": 280,
+			"title": "Hooligan's Labyrinth (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2002-06-03"
+		},
+		{
+			"episode": 281,
+			"title": "The Small Eye-Witnesses",
+			"type": "filler",
+			"aired_date": "2002-06-10"
+		},
+		{
+			"episode": 282,
+			"title": "Mystery of the Water Flowing Stone Garden (Part 1)",
+			"type": "filler",
+			"aired_date": "2002-06-17"
+		},
+		{
+			"episode": 283,
+			"title": "Mystery of the Water Flowing Stone Garden (Part 2)",
+			"type": "filler",
+			"aired_date": "2002-06-24"
+		},
+		{
+			"episode": 284,
+			"title": "Chinatown Deja Vu in the Rain (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2002-07-01"
+		},
+		{
+			"episode": 285,
+			"title": "Chinatown Deja Vu in the Rain (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2002-07-08"
+		},
+		{
+			"episode": 286,
+			"title": "Shinichi Kudo's New York Case (The Case)",
+			"type": "manga-canon",
+			"aired_date": "2002-07-15"
+		},
+		{
+			"episode": 287,
+			"title": "Shinichi Kudo's New York Case (The Deduction)",
+			"type": "manga-canon",
+			"aired_date": "2002-07-22"
+		},
+		{
+			"episode": 288,
+			"title": "Shinichi Kudo's New York Case (The Resolution)",
+			"type": "manga-canon",
+			"aired_date": "2002-07-29"
+		},
+		{
+			"episode": 289,
+			"title": "Mitsuhiko's Mystifying Forest (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2002-08-05"
+		},
+		{
+			"episode": 290,
+			"title": "Mitsuhiko's Mystifying Forest (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2002-08-12"
+		},
+		{
+			"episode": 291,
+			"title": "Solitary Island of the Princess and the Dragon King's Palace (The Case)",
+			"type": "manga-canon",
+			"aired_date": "2002-08-19"
+		},
+		{
+			"episode": 292,
+			"title": "Solitary Island of the Princess and the Dragon King's Palace (The Pursuit)",
+			"type": "manga-canon",
+			"aired_date": "2002-08-26"
+		},
+		{
+			"episode": 293,
+			"title": "Solitary Island of the Princess and the Dragon King's Palace (The Resolution)",
+			"type": "manga-canon",
+			"aired_date": "2002-09-02"
+		},
+		{
+			"episode": 294,
+			"title": "Smash of Love and Determination (Part 1)",
+			"type": "filler",
+			"aired_date": "2002-09-09"
+		},
+		{
+			"episode": 295,
+			"title": "Smash of Love and Determination (Part 2)",
+			"type": "filler",
+			"aired_date": "2002-09-16"
+		},
+		{
+			"episode": 296,
+			"title": "Houseboat Fishing Shock",
+			"type": "filler",
+			"aired_date": "2002-10-14"
+		},
+		{
+			"episode": 297,
+			"title": "Courtroom Confrontation II: Kisaki vs. Kujo (Part 1)",
+			"type": "filler",
+			"aired_date": "2002-10-21"
+		},
+		{
+			"episode": 298,
+			"title": "Courtroom Confrontation II: Kisaki vs. Kujo (Part 2)",
+			"type": "filler",
+			"aired_date": "2002-10-28"
+		},
+		{
+			"episode": 299,
+			"title": "Kanmon Strait of Friendship and Murderous Intent (Part 1)",
+			"type": "filler",
+			"aired_date": "2002-11-04"
+		},
+		{
+			"episode": 300,
+			"title": "Kanmon Strait of Friendship and Murderous Intent (Part 2)",
+			"type": "filler",
+			"aired_date": "2002-11-18"
+		},
+		{
+			"episode": 301,
+			"title": "Parade of Malice and Saint (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2002-11-25"
+		},
+		{
+			"episode": 302,
+			"title": "Parade of Malice and Saint (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2002-12-02"
+		},
+		{
+			"episode": 303,
+			"title": "The Victim Who Came Back",
+			"type": "filler",
+			"aired_date": "2002-12-09"
+		},
+		{
+			"episode": 304,
+			"title": "Trembling Metropolitan Police Headquarters: 12 Million Hostages (2 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2003-01-06"
+		},
+		{
+			"episode": 305,
+			"title": "Unseen Suspect (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-01-13"
+		},
+		{
+			"episode": 306,
+			"title": "Unseen Suspect (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-01-20"
+		},
+		{
+			"episode": 307,
+			"title": "The Dark Footprint (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-01-27"
+		},
+		{
+			"episode": 308,
+			"title": "The Dark Footprint (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-02-03"
+		},
+		{
+			"episode": 309,
+			"title": "Contact with the Black Organization: The Negotiation",
+			"type": "manga-canon",
+			"aired_date": "2003-02-10"
+		},
+		{
+			"episode": 310,
+			"title": "Contact with the Black Organization: The Pursuit",
+			"type": "manga-canon",
+			"aired_date": "2003-02-17"
+		},
+		{
+			"episode": 311,
+			"title": "Contact with the Black Organization: Desperation",
+			"type": "manga-canon",
+			"aired_date": "2003-02-24"
+		},
+		{
+			"episode": 312,
+			"title": "Festival Dolls Dyed in the Setting Sun (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-03-03"
+		},
+		{
+			"episode": 313,
+			"title": "Festival Dolls Dyed in the Setting Sun (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-03-10"
+		},
+		{
+			"episode": 314,
+			"title": "Broken Fence of the Observatory",
+			"type": "filler",
+			"aired_date": "2003-03-17"
+		},
+		{
+			"episode": 315,
+			"title": "Place Exposed to the Sun",
+			"type": "filler",
+			"aired_date": "2003-04-14"
+		},
+		{
+			"episode": 316,
+			"title": "The Sullied Masked Hero (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-04-21"
+		},
+		{
+			"episode": 317,
+			"title": "The Sullied Masked Hero (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-04-28"
+		},
+		{
+			"episode": 318,
+			"title": "Cigar Case of Good Fortune (Part 1)",
+			"type": "filler",
+			"aired_date": "2003-05-05"
+		},
+		{
+			"episode": 319,
+			"title": "Cigar Case of Good Fortune (Part 2)",
+			"type": "filler",
+			"aired_date": "2003-05-12"
+		},
+		{
+			"episode": 320,
+			"title": "Ninja Art: The Art of Alibi Construction",
+			"type": "filler",
+			"aired_date": "2003-05-19"
+		},
+		{
+			"episode": 321,
+			"title": "The Vanished Kidnapper's Getaway Car (Part 1)",
+			"type": "filler",
+			"aired_date": "2003-05-26"
+		},
+		{
+			"episode": 322,
+			"title": "The Vanished Kidnapper's Getaway Car (Part 2)",
+			"type": "filler",
+			"aired_date": "2003-06-02"
+		},
+		{
+			"episode": 323,
+			"title": "Heiji Hattori's Desperate Situation! (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-06-09"
+		},
+		{
+			"episode": 324,
+			"title": "Heiji Hattori's Desperate Situation! (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-06-16"
+		},
+		{
+			"episode": 325,
+			"title": "The Red Horse within the Flames: The Case",
+			"type": "manga-canon",
+			"aired_date": "2003-06-23"
+		},
+		{
+			"episode": 326,
+			"title": "The Red Horse within the Flames: The Investigation",
+			"type": "manga-canon",
+			"aired_date": "2003-06-30"
+		},
+		{
+			"episode": 327,
+			"title": "The Red Horse within the Flames: The Resolution",
+			"type": "manga-canon",
+			"aired_date": "2003-07-07"
+		},
+		{
+			"episode": 328,
+			"title": "Mystery of the Birthday Wine",
+			"type": "filler",
+			"aired_date": "2003-07-14"
+		},
+		{
+			"episode": 329,
+			"title": "A Friendship That Can't Be Bought (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-07-28"
+		},
+		{
+			"episode": 330,
+			"title": "A Friendship That Can't Be Bought (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-08-04"
+		},
+		{
+			"episode": 331,
+			"title": "The Suspicious Spicy Curry (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-08-11"
+		},
+		{
+			"episode": 332,
+			"title": "The Suspicious Spicy Curry (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-08-18"
+		},
+		{
+			"episode": 333,
+			"title": "The Similar Princesses (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-08-25"
+		},
+		{
+			"episode": 334,
+			"title": "The Similar Princesses (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-09-01"
+		},
+		{
+			"episode": 335,
+			"title": "Secret of the Touto Film Making Centre (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-09-08"
+		},
+		{
+			"episode": 336,
+			"title": "Secret of the Touto Film Making Centre (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-09-15"
+		},
+		{
+			"episode": 337,
+			"title": "Hidden Facts of the Accidental Fall",
+			"type": "filler",
+			"aired_date": "2003-10-13"
+		},
+		{
+			"episode": 338,
+			"title": "The Four Porsches (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-10-20"
+		},
+		{
+			"episode": 339,
+			"title": "The Four Porsches (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-10-27"
+		},
+		{
+			"episode": 340,
+			"title": "Hidden Bathroom Secret (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-11-03"
+		},
+		{
+			"episode": 341,
+			"title": "Hidden Bathroom Secret (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-11-10"
+		},
+		{
+			"episode": 342,
+			"title": "Bride of Huis Ten Boschsup",
+			"type": "filler",
+			"aired_date": "2003-11-17"
+		},
+		{
+			"episode": 343,
+			"title": "The Convenience Store Trap (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2003-12-01"
+		},
+		{
+			"episode": 344,
+			"title": "The Convenience Store Trap (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2003-12-08"
+		},
+		{
+			"episode": 345,
+			"title": "Head-to-Head Match With the Black Organization; Two Mysteries of the Night of the Full Moon (2.5 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2004-01-05"
+		},
+		{
+			"episode": 346,
+			"title": "Find the Buttocks' Mark! (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2004-01-12"
+		},
+		{
+			"episode": 347,
+			"title": "Find the Buttocks' Mark! (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2004-01-19"
+		},
+		{
+			"episode": 348,
+			"title": "Love, a Ghost, and a World's Inheritance (Part 1)",
+			"type": "filler",
+			"aired_date": "2004-01-26"
+		},
+		{
+			"episode": 349,
+			"title": "Love, a Ghost, and a World's Inheritance (Part 2)",
+			"type": "filler",
+			"aired_date": "2004-02-02"
+		},
+		{
+			"episode": 350,
+			"title": "The Forgotten Cell Phone (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2004-02-09"
+		},
+		{
+			"episode": 351,
+			"title": "The Forgotten Cell Phone (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2004-02-16"
+		},
+		{
+			"episode": 352,
+			"title": "The Tragedy of The Fishing Tournament (Part 1)",
+			"type": "filler",
+			"aired_date": "2004-02-23"
+		},
+		{
+			"episode": 353,
+			"title": "The Tragedy of The Fishing Tournament (Part 2)",
+			"type": "filler",
+			"aired_date": "2004-02-23"
+		},
+		{
+			"episode": 354,
+			"title": "A Small Client (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2004-03-08"
+		},
+		{
+			"episode": 355,
+			"title": "A Small Client (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2004-03-15"
+		},
+		{
+			"episode": 356,
+			"title": "Phantom Thief Kid's Miracle Midair Walk (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2004-04-12"
+		},
+		{
+			"episode": 357,
+			"title": "Sweetheart Is an Illusion of Spring",
+			"type": "filler",
+			"aired_date": "2004-04-26"
+		},
+		{
+			"episode": 358,
+			"title": "Metropolitan Police Detective Love Story 5 (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2004-05-03"
+		},
+		{
+			"episode": 359,
+			"title": "Metropolitan Police Detective Love Story 5 (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2004-05-10"
+		},
+		{
+			"episode": 360,
+			"title": "A Mysterious Spring Beetle",
+			"type": "filler",
+			"aired_date": "2004-05-17"
+		},
+		{
+			"episode": 361,
+			"title": "Teitan High School's Ghost Story (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2004-05-24"
+		},
+		{
+			"episode": 362,
+			"title": "Teitan High School's Ghost Story (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2004-05-31"
+		},
+		{
+			"episode": 363,
+			"title": "The City's Crows",
+			"type": "filler",
+			"aired_date": "2004-06-07"
+		},
+		{
+			"episode": 364,
+			"title": "Synchronicity Case (Part 1)",
+			"type": "filler",
+			"aired_date": "2004-06-14"
+		},
+		{
+			"episode": 365,
+			"title": "Synchronicity Case (Part 2)",
+			"type": "filler",
+			"aired_date": "2004-06-21"
+		},
+		{
+			"episode": 366,
+			"title": "The Tragedy of the Pier in Plain Sight (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2004-07-05"
+		},
+		{
+			"episode": 367,
+			"title": "The Tragedy of the Pier in Plain Sight (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2004-07-12"
+		},
+		{
+			"episode": 368,
+			"title": "The Candy House the Witch Lives In",
+			"type": "filler",
+			"aired_date": "2004-07-26"
+		},
+		{
+			"episode": 369,
+			"title": "Lucky Man's Suspense",
+			"type": "filler",
+			"aired_date": "2004-08-02"
+		},
+		{
+			"episode": 370,
+			"title": "Running Away in a Game",
+			"type": "filler",
+			"aired_date": "2004-08-09"
+		},
+		{
+			"episode": 371,
+			"title": "A Course Without Protest (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2004-08-23"
+		},
+		{
+			"episode": 372,
+			"title": "A Course Without Protest (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2004-08-30"
+		},
+		{
+			"episode": 373,
+			"title": "Poisonous Spider Trap",
+			"type": "filler",
+			"aired_date": "2004-09-06"
+		},
+		{
+			"episode": 374,
+			"title": "A Code of Stars and Tobacco (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2004-10-18"
+		},
+		{
+			"episode": 375,
+			"title": "A Code of Stars and Tobacco (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2004-10-25"
+		},
+		{
+			"episode": 376,
+			"title": "Time Limit at 3 o'clock",
+			"type": "filler",
+			"aired_date": "2004-11-01"
+		},
+		{
+			"episode": 377,
+			"title": "Momotaro Mystery Solving Tour (Part 1)",
+			"type": "filler",
+			"aired_date": "2004-11-08"
+		},
+		{
+			"episode": 378,
+			"title": "Momotaro Mystery Solving Tour (Part 2)",
+			"type": "filler",
+			"aired_date": "2004-11-15"
+		},
+		{
+			"episode": 379,
+			"title": "Case of the Long Sleeved Kimono at the Hidden Hot Spring on a Snowy Night (Part 1)",
+			"type": "filler",
+			"aired_date": "2004-11-22"
+		},
+		{
+			"episode": 380,
+			"title": "Case of the Long Sleeved Kimono at the Hidden Hot Spring on a Snowy Night (Part 2)",
+			"type": "filler",
+			"aired_date": "2004-11-29"
+		},
+		{
+			"episode": 381,
+			"title": "Which One's Deduction Show (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2004-12-06"
+		},
+		{
+			"episode": 382,
+			"title": "Which One's Deduction Show (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2004-12-13"
+		},
+		{
+			"episode": 383,
+			"title": "Miracle at Koshien Ball Park! The Defiants Face the Dark Demon (2 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2004-12-20"
+		},
+		{
+			"episode": 384,
+			"title": "The Target Is Kogoro Mori!",
+			"type": "filler",
+			"aired_date": "2005-01-17"
+		},
+		{
+			"episode": 385,
+			"title": "Dissonance of the Stradivarius (Prelude)",
+			"type": "manga-canon",
+			"aired_date": "2005-01-24"
+		},
+		{
+			"episode": 386,
+			"title": "Dissonance of the Stradivarius (Interlude)",
+			"type": "manga-canon",
+			"aired_date": "2005-01-31"
+		},
+		{
+			"episode": 387,
+			"title": "Dissonance of the Stradivarius (Postlude)",
+			"type": "manga-canon",
+			"aired_date": "2005-02-07"
+		},
+		{
+			"episode": 388,
+			"title": "Kogoro Gets Drunk in Satsuma (Part 1)",
+			"type": "filler",
+			"aired_date": "2005-02-14"
+		},
+		{
+			"episode": 389,
+			"title": "Kogoro Gets Drunk in Satsuma (Part 2)",
+			"type": "filler",
+			"aired_date": "2005-02-21"
+		},
+		{
+			"episode": 390,
+			"title": "Metropolitan Police Detective Love Story 6 (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2005-02-28"
+		},
+		{
+			"episode": 391,
+			"title": "Metropolitan Police Detective Love Story 6 (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2005-03-07"
+		},
+		{
+			"episode": 392,
+			"title": "The Mysterious Height Difference of 20cm",
+			"type": "filler",
+			"aired_date": "2005-03-14"
+		},
+		{
+			"episode": 393,
+			"title": "A Kidnapping Case... So It Seems",
+			"type": "filler",
+			"aired_date": "2005-03-21"
+		},
+		{
+			"episode": 394,
+			"title": "Big Adventure in the Eccentric Mansion: The Seal",
+			"type": "manga-canon",
+			"aired_date": "2005-04-18"
+		},
+		{
+			"episode": 395,
+			"title": "Big Adventure in the Eccentric Mansion: The Mechanism",
+			"type": "manga-canon",
+			"aired_date": "2005-04-25"
+		},
+		{
+			"episode": 396,
+			"title": "Big Adventure in the Eccentric Mansion: The Resolution",
+			"type": "manga-canon",
+			"aired_date": "2005-05-02"
+		},
+		{
+			"episode": 397,
+			"title": "Spicy, Bitter, Sweet Soup",
+			"type": "filler",
+			"aired_date": "2005-05-09"
+		},
+		{
+			"episode": 398,
+			"title": "The Strange Family's Request (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2005-05-16"
+		},
+		{
+			"episode": 399,
+			"title": "The Strange Family's Request (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2005-05-23"
+		},
+		{
+			"episode": 400,
+			"title": "Ran's Suspicions",
+			"type": "manga-canon",
+			"aired_date": "2005-05-30"
+		},
+		{
+			"episode": 401,
+			"title": "A Jewel Thief Caught Red-Handed (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2005-06-06"
+		},
+		{
+			"episode": 402,
+			"title": "A Jewel Thief Caught Red-Handed (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2005-06-13"
+		},
+		{
+			"episode": 403,
+			"title": "The Mysterious Angel's Mansion (Part 1)",
+			"type": "filler",
+			"aired_date": "2005-06-20"
+		},
+		{
+			"episode": 404,
+			"title": "The Mysterious Angel's Mansion (Part 2)",
+			"type": "filler",
+			"aired_date": "2005-06-27"
+		},
+		{
+			"episode": 405,
+			"title": "Man Who Went to Call For An Ambulance",
+			"type": "filler",
+			"aired_date": "2005-07-04"
+		},
+		{
+			"episode": 406,
+			"title": "Conan and Heiji's Reasoning Magic: The Trick",
+			"type": "manga-canon",
+			"aired_date": "2005-07-11"
+		},
+		{
+			"episode": 407,
+			"title": "Conan and Heiji's Reasoning Magic: The Mansion",
+			"type": "manga-canon",
+			"aired_date": "2005-07-18"
+		},
+		{
+			"episode": 408,
+			"title": "Conan and Heiji's Reasoning Magic: The Resolution",
+			"type": "manga-canon",
+			"aired_date": "2005-08-01"
+		},
+		{
+			"episode": 409,
+			"title": "The Simultaneous Stage Advance and Kidnapping (Part 1)",
+			"type": "filler",
+			"aired_date": "2005-08-08"
+		},
+		{
+			"episode": 410,
+			"title": "The Simultaneous Stage Advance and Kidnapping (Part 2)",
+			"type": "filler",
+			"aired_date": "2005-08-15"
+		},
+		{
+			"episode": 411,
+			"title": "The Shinto Shrine Torii's Surprising Code (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2005-08-22"
+		},
+		{
+			"episode": 412,
+			"title": "The Shinto Shrine Torii's Surprising Code (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2005-08-29"
+		},
+		{
+			"episode": 413,
+			"title": "The Mystery of the Half-Completed Crime",
+			"type": "filler",
+			"aired_date": "2005-09-05"
+		},
+		{
+			"episode": 414,
+			"title": "The Detective Boys Blue Bird Chase",
+			"type": "filler",
+			"aired_date": "2005-09-12"
+		},
+		{
+			"episode": 415,
+			"title": "The Evil Spirit Appears on An Unlucky Day: The Case",
+			"type": "manga-canon",
+			"aired_date": "2005-10-10"
+		},
+		{
+			"episode": 416,
+			"title": "The Evil Spirit Appears on An Unlucky Day: The Suspicion",
+			"type": "manga-canon",
+			"aired_date": "2005-10-17"
+		},
+		{
+			"episode": 417,
+			"title": "The Evil Spirit Appears on An Unlucky Day: The Solution",
+			"type": "manga-canon",
+			"aired_date": "2005-10-24"
+		},
+		{
+			"episode": 418,
+			"title": "Home of Beika's Grenier",
+			"type": "filler",
+			"aired_date": "2005-10-31"
+		},
+		{
+			"episode": 419,
+			"title": "Sword of the Eight-Headed Serpent (Part 1)",
+			"type": "filler",
+			"aired_date": "2005-11-07"
+		},
+		{
+			"episode": 420,
+			"title": "Sword of the Eight-Headed Serpent (Part 2)",
+			"type": "filler",
+			"aired_date": "2005-11-14"
+		},
+		{
+			"episode": 421,
+			"title": "Gingko-Colored First Love (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2005-11-21"
+		},
+		{
+			"episode": 422,
+			"title": "Gingko-Colored First Love (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2005-11-28"
+		},
+		{
+			"episode": 423,
+			"title": "Detective Boys and the Four Aomushi Brothers",
+			"type": "filler",
+			"aired_date": "2005-12-05"
+		},
+		{
+			"episode": 424,
+			"title": "The Photograph Mail From a Clown",
+			"type": "filler",
+			"aired_date": "2005-12-19"
+		},
+		{
+			"episode": 425,
+			"title": "Black Impact! The Moment the Black Organization Reaches Out! (2.5 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2006-01-09"
+		},
+		{
+			"episode": 426,
+			"title": "Love Letter to Ran",
+			"type": "filler",
+			"aired_date": "2006-01-16"
+		},
+		{
+			"episode": 427,
+			"title": "The Super Secret Road to School (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2006-01-23"
+		},
+		{
+			"episode": 428,
+			"title": "The Super Secret Road to School (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2006-01-30"
+		},
+		{
+			"episode": 429,
+			"title": "Two People Who Can't Return (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2006-02-06"
+		},
+		{
+			"episode": 430,
+			"title": "Two People Who Can't Return (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2006-02-13"
+		},
+		{
+			"episode": 431,
+			"title": "Metropolitan Police Detective Love Story 7 (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2006-02-20"
+		},
+		{
+			"episode": 432,
+			"title": "Metropolitan Police Detective Love Story 7 (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2006-02-27"
+		},
+		{
+			"episode": 433,
+			"title": "Conan-A Strange Child",
+			"type": "filler",
+			"aired_date": "2006-03-06"
+		},
+		{
+			"episode": 434,
+			"title": "The Great Dog Coeur's Triumph",
+			"type": "filler",
+			"aired_date": "2006-04-10"
+		},
+		{
+			"episode": 435,
+			"title": "Information Gathered About the Detective Boys (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2006-04-17"
+		},
+		{
+			"episode": 436,
+			"title": "Information Gathered About the Detective Boys (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2006-04-24"
+		},
+		{
+			"episode": 437,
+			"title": "Ueto Aya and Shinichi - The Promise from 4 Years Ago",
+			"type": "filler",
+			"aired_date": "2006-05-08"
+		},
+		{
+			"episode": 438,
+			"title": "The Pursuit of the Fish E-mail",
+			"type": "manga-canon",
+			"aired_date": "2006-05-15"
+		},
+		{
+			"episode": 439,
+			"title": "And It'd Be Nice If Everybody Disappeared",
+			"type": "filler",
+			"aired_date": "2006-05-22"
+		},
+		{
+			"episode": 440,
+			"title": "The Stunt Car's Utmost Limit",
+			"type": "filler",
+			"aired_date": "2006-05-29"
+		},
+		{
+			"episode": 441,
+			"title": "The Final \"Ahh\"",
+			"type": "filler",
+			"aired_date": "2006-06-05"
+		},
+		{
+			"episode": 442,
+			"title": "The Man Obstructing the Steel Frame",
+			"type": "filler",
+			"aired_date": "2006-06-12"
+		},
+		{
+			"episode": 443,
+			"title": "Clam Digging With a Sigh (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2006-06-26"
+		},
+		{
+			"episode": 444,
+			"title": "Clam Digging With a Sigh (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2006-07-03"
+		},
+		{
+			"episode": 445,
+			"title": "Secret of the Russian Blue",
+			"type": "manga-canon",
+			"aired_date": "2006-07-10"
+		},
+		{
+			"episode": 446,
+			"title": "The Sealed Western-Style Window (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2006-07-24"
+		},
+		{
+			"episode": 447,
+			"title": "The Sealed Western-Style Window (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2006-07-31"
+		},
+		{
+			"episode": 448,
+			"title": "Meguro's Pike Case",
+			"type": "filler",
+			"aired_date": "2006-08-14"
+		},
+		{
+			"episode": 449,
+			"title": "Metropolitan Police Love Story - Fake Weddings (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2006-08-21"
+		},
+		{
+			"episode": 450,
+			"title": "Trick vs. Magic (Part 1)",
+			"type": "filler",
+			"aired_date": "2006-08-28"
+		},
+		{
+			"episode": 451,
+			"title": "Trick vs. Magic (Part 2)",
+			"type": "filler",
+			"aired_date": "2006-09-04"
+		},
+		{
+			"episode": 452,
+			"title": "The Mysterious Person From the Konpira Troupesup",
+			"type": "filler",
+			"aired_date": "2006-09-11"
+		},
+		{
+			"episode": 453,
+			"title": "Preview Screening of Fate and Friendship",
+			"type": "manga-canon",
+			"aired_date": "2006-10-23"
+		},
+		{
+			"episode": 454,
+			"title": "The Overturned Conclusion (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2006-10-30"
+		},
+		{
+			"episode": 455,
+			"title": "The Overturned Conclusion (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2006-11-06"
+		},
+		{
+			"episode": 456,
+			"title": "The Mystery I Loved",
+			"type": "filler",
+			"aired_date": "2006-11-13"
+		},
+		{
+			"episode": 457,
+			"title": "Sonoko's Red Handkerchief (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2006-11-20"
+		},
+		{
+			"episode": 458,
+			"title": "Sonoko's Red Handkerchief (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2006-11-27"
+		},
+		{
+			"episode": 459,
+			"title": "A Mysterious Man - Overly Strict with Regulations",
+			"type": "filler",
+			"aired_date": "2006-12-04"
+		},
+		{
+			"episode": 460,
+			"title": "Class 1-B's Great Operation!",
+			"type": "manga-canon",
+			"aired_date": "2007-01-15"
+		},
+		{
+			"episode": 461,
+			"title": "The Missing Page",
+			"type": "filler",
+			"aired_date": "2007-01-22"
+		},
+		{
+			"episode": 462,
+			"title": "The Shadow of the Black Organization (The Young Witness)",
+			"type": "manga-canon",
+			"aired_date": "2007-01-29"
+		},
+		{
+			"episode": 463,
+			"title": "The Shadow of the Black Organization (The Strange Illumination)",
+			"type": "manga-canon",
+			"aired_date": "2007-02-05"
+		},
+		{
+			"episode": 464,
+			"title": "The Shadow of the Black Organization (The Mystery of the Big Reward)",
+			"type": "manga-canon",
+			"aired_date": "2007-02-12"
+		},
+		{
+			"episode": 465,
+			"title": "The Shadow of the Black Organization (Shining Star of Pearl)",
+			"type": "manga-canon",
+			"aired_date": "2007-02-19"
+		},
+		{
+			"episode": 466,
+			"title": "The Unsmashable Snowman (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2007-02-26"
+		},
+		{
+			"episode": 467,
+			"title": "The Unsmashable Snowman (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2007-03-05"
+		},
+		{
+			"episode": 468,
+			"title": "The Mysterious Case Near the Pond",
+			"type": "filler",
+			"aired_date": "2007-03-12"
+		},
+		{
+			"episode": 469,
+			"title": "Kaitou Kid and the Four Masterpieces (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2007-04-16"
+		},
+		{
+			"episode": 470,
+			"title": "Kaitou Kid and the Four Masterpieces (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2007-04-23"
+		},
+		{
+			"episode": 471,
+			"title": "The Out of Control Rental Car",
+			"type": "filler",
+			"aired_date": "2007-05-07"
+		},
+		{
+			"episode": 472,
+			"title": "Shinichi Kudō's Childhood Adventure (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2007-05-14"
+		},
+		{
+			"episode": 473,
+			"title": "Shinichi Kudō's Childhood Adventure (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2007-05-21"
+		},
+		{
+			"episode": 474,
+			"title": "Love of Lawyer Eri Kisaki",
+			"type": "manga-canon",
+			"aired_date": "2007-06-04"
+		},
+		{
+			"episode": 475,
+			"title": "Bad Luck Grand Prix",
+			"type": "filler",
+			"aired_date": "2007-06-18"
+		},
+		{
+			"episode": 476,
+			"title": "Genta's Certain Kill Shot (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2007-06-25"
+		},
+		{
+			"episode": 477,
+			"title": "Genta's Certain Kill Shot (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2007-07-02"
+		},
+		{
+			"episode": 478,
+			"title": "Real 30 Minutes",
+			"type": "filler",
+			"aired_date": "2007-07-09"
+		},
+		{
+			"episode": 479,
+			"title": "Three Days With Heiji Hattori (2 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2007-07-16"
+		},
+		{
+			"episode": 480,
+			"title": "Yellow Alibi",
+			"type": "filler",
+			"aired_date": "2007-07-23"
+		},
+		{
+			"episode": 481,
+			"title": "Mountain Witch's Cutlery (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2007-07-30"
+		},
+		{
+			"episode": 482,
+			"title": "Mountain Witch's Cutlery (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2007-08-06"
+		},
+		{
+			"episode": 483,
+			"title": "The Missing Policeman",
+			"type": "filler",
+			"aired_date": "2007-08-13"
+		},
+		{
+			"episode": 484,
+			"title": "Whereabouts of the Dark Photograph (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2007-08-20"
+		},
+		{
+			"episode": 485,
+			"title": "Whereabouts of the Dark Photograph (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2007-08-27"
+		},
+		{
+			"episode": 486,
+			"title": "Maneki Neko from the Right to the Left",
+			"type": "filler",
+			"aired_date": "2007-09-03"
+		},
+		{
+			"episode": 487,
+			"title": "Metropolitan Police Detective Love Story 8: Left Hand's Ring Finger (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2007-10-15"
+		},
+		{
+			"episode": 488,
+			"title": "Devil of the TV Station (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2007-10-22"
+		},
+		{
+			"episode": 489,
+			"title": "Courtroom Confrontation III Prosecutor as Eyewitnesssup",
+			"type": "filler",
+			"aired_date": "2007-11-26"
+		},
+		{
+			"episode": 490,
+			"title": "Heiji Hattori vs. Shinichi Kudo! The Grand Deduction Battle! (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2007-12-03"
+		},
+		{
+			"episode": 491,
+			"title": "Clash of Red and Black! (The Beginning)",
+			"type": "manga-canon",
+			"aired_date": "2008-01-14"
+		},
+		{
+			"episode": 492,
+			"title": "Clash of Red and Black! (Blood Relative)",
+			"type": "manga-canon",
+			"aired_date": "2008-01-21"
+		},
+		{
+			"episode": 493,
+			"title": "Clash of Red and Black! (Exclamation)",
+			"type": "manga-canon",
+			"aired_date": "2008-01-28"
+		},
+		{
+			"episode": 494,
+			"title": "Clash of Red and Black! (Hades)",
+			"type": "manga-canon",
+			"aired_date": "2008-02-04"
+		},
+		{
+			"episode": 495,
+			"title": "Clash of Red and Black! (Coma)",
+			"type": "manga-canon",
+			"aired_date": "2008-02-11"
+		},
+		{
+			"episode": 496,
+			"title": "Clash of Red and Black! (Invasion)",
+			"type": "manga-canon",
+			"aired_date": "2008-02-18"
+		},
+		{
+			"episode": 497,
+			"title": "Clash of Red and Black! (Awakening)",
+			"type": "manga-canon",
+			"aired_date": "2008-02-25"
+		},
+		{
+			"episode": 498,
+			"title": "Clash of Red and Black! (Disturbance)",
+			"type": "manga-canon",
+			"aired_date": "2008-03-03"
+		},
+		{
+			"episode": 499,
+			"title": "Clash of Red and Black! (Camouflage)",
+			"type": "manga-canon",
+			"aired_date": "2008-03-10"
+		},
+		{
+			"episode": 500,
+			"title": "Clash of Red and Black! (Testament)",
+			"type": "manga-canon",
+			"aired_date": "2008-03-17"
+		},
+		{
+			"episode": 501,
+			"title": "Clash of Red and Black! (Suspicion)",
+			"type": "manga-canon",
+			"aired_date": "2008-04-14"
+		},
+		{
+			"episode": 502,
+			"title": "Clash of Red and Black! (Innocence)",
+			"type": "manga-canon",
+			"aired_date": "2008-04-28"
+		},
+		{
+			"episode": 503,
+			"title": "Clash of Red and Black! (Ready for Death)",
+			"type": "manga-canon",
+			"aired_date": "2008-05-12"
+		},
+		{
+			"episode": 504,
+			"title": "Clash of Red and Black! (Death on Duty)",
+			"type": "manga-canon",
+			"aired_date": "2008-05-19"
+		},
+		{
+			"episode": 505,
+			"title": "Lawyer Eri Kisaki's Testimony (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2008-06-16"
+		},
+		{
+			"episode": 506,
+			"title": "Lawyer Eri Kisaki's Testimony (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2008-06-23"
+		},
+		{
+			"episode": 507,
+			"title": "The Blind Spot in the Karaoke Box (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2008-06-30"
+		},
+		{
+			"episode": 508,
+			"title": "The Blind Spot in the Karaoke Box (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2008-07-07"
+		},
+		{
+			"episode": 509,
+			"title": "Red, White, Yellow, and the Detective Boys",
+			"type": "manga-canon",
+			"aired_date": "2008-07-14"
+		},
+		{
+			"episode": 510,
+			"title": "Conan vs. Double Code Mystery",
+			"type": "manga-canon",
+			"aired_date": "2008-07-28"
+		},
+		{
+			"episode": 511,
+			"title": "Deduction Showdown! Shinichi vs. Subaru Okiya",
+			"type": "manga-canon",
+			"aired_date": "2008-08-04"
+		},
+		{
+			"episode": 512,
+			"title": "The Broken Horoscope",
+			"type": "filler",
+			"aired_date": "2008-08-11"
+		},
+		{
+			"episode": 513,
+			"title": "Coffee Aroma with Murderous Intention (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2008-09-01"
+		},
+		{
+			"episode": 514,
+			"title": "Coffee Aroma with Murderous Intention (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2008-09-08"
+		},
+		{
+			"episode": 515,
+			"title": "Phantom Thief Kid's Teleportation Magic (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2008-10-20"
+		},
+		{
+			"episode": 516,
+			"title": "Fūrinkazan - The Mysterious Armoured Warrior (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2008-11-03"
+		},
+		{
+			"episode": 517,
+			"title": "Fūrinkazan - Shadow and Lightning's Conclusion",
+			"type": "manga-canon",
+			"aired_date": "2008-11-10"
+		},
+		{
+			"episode": 518,
+			"title": "Meiji Restoration Mystery Tour: Investigation Chapter",
+			"type": "filler",
+			"aired_date": "2008-12-01"
+		},
+		{
+			"episode": 519,
+			"title": "Meiji Restoration Mystery Tour: Decipher Chapter",
+			"type": "filler",
+			"aired_date": "2008-12-08"
+		},
+		{
+			"episode": 520,
+			"title": "Indictment by Red Wine",
+			"type": "filler",
+			"aired_date": "2008-12-15"
+		},
+		{
+			"episode": 521,
+			"title": "Murderer, Shinichi Kudo (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2009-01-19"
+		},
+		{
+			"episode": 522,
+			"title": "Shinichi's True Face and Ran's Tears (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2009-01-26"
+		},
+		{
+			"episode": 523,
+			"title": "What She Really Wants to Ask",
+			"type": "manga-canon",
+			"aired_date": "2009-02-02"
+		},
+		{
+			"episode": 524,
+			"title": "The Blue Spark of Hate (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2009-02-09"
+		},
+		{
+			"episode": 525,
+			"title": "The Blue Spark of Hate (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2009-02-16"
+		},
+		{
+			"episode": 526,
+			"title": "A Present from the True Culprit",
+			"type": "manga-canon",
+			"aired_date": "2009-02-23"
+		},
+		{
+			"episode": 527,
+			"title": "Evil Intent Hidden Behind a Mask",
+			"type": "filler",
+			"aired_date": "2009-03-02"
+		},
+		{
+			"episode": 528,
+			"title": "Might Over Mystery (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2009-03-09"
+		},
+		{
+			"episode": 529,
+			"title": "Might Over Mystery (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2009-03-16"
+		},
+		{
+			"episode": 530,
+			"title": "The Truth of the Urban Legend (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2009-04-18"
+		},
+		{
+			"episode": 531,
+			"title": "The Truth of the Urban Legend (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2009-04-25"
+		},
+		{
+			"episode": 532,
+			"title": "The Scar of First Love",
+			"type": "manga-canon",
+			"aired_date": "2009-05-02"
+		},
+		{
+			"episode": 533,
+			"title": "The Scar that Invokes the Past",
+			"type": "manga-canon",
+			"aired_date": "2009-05-09"
+		},
+		{
+			"episode": 534,
+			"title": "The New Scar and the Whistling Man",
+			"type": "manga-canon",
+			"aired_date": "2009-05-16"
+		},
+		{
+			"episode": 535,
+			"title": "The Old Scar and the Detective's Spirit",
+			"type": "manga-canon",
+			"aired_date": "2009-05-23"
+		},
+		{
+			"episode": 536,
+			"title": "The Secret of the Vanished Masterpiece",
+			"type": "filler",
+			"aired_date": "2009-05-30"
+		},
+		{
+			"episode": 537,
+			"title": "Kaitō Kid vs the Strongest Vault (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2009-06-13"
+		},
+		{
+			"episode": 538,
+			"title": "Kaitō Kid vs the Strongest Vault (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2009-06-20"
+		},
+		{
+			"episode": 539,
+			"title": "The Inheritance to a Foolish Person",
+			"type": "filler",
+			"aired_date": "2009-07-04"
+		},
+		{
+			"episode": 540,
+			"title": "The Day Kogoro Mori Discontinues His Detective Business (Part 1)",
+			"type": "filler",
+			"aired_date": "2009-07-11"
+		},
+		{
+			"episode": 541,
+			"title": "The Day Kogoro Mori Discontinues His Detective Business (Part 2)",
+			"type": "filler",
+			"aired_date": "2009-07-18"
+		},
+		{
+			"episode": 542,
+			"title": "The Disappearing Fish at Ikkaku Rock (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2009-07-25"
+		},
+		{
+			"episode": 543,
+			"title": "The Disappearing Fish at Ikkaku Rock (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2009-08-01"
+		},
+		{
+			"episode": 544,
+			"title": "The Hand That Plays in Dissonance",
+			"type": "filler",
+			"aired_date": "2009-08-08"
+		},
+		{
+			"episode": 545,
+			"title": "The Witch Enshrouded by Fog (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2009-09-05"
+		},
+		{
+			"episode": 546,
+			"title": "The Witch Enshrouded by Fog (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2009-09-12"
+		},
+		{
+			"episode": 547,
+			"title": "Two Days with the Culprit (First Day)",
+			"type": "filler",
+			"aired_date": "2009-09-19"
+		},
+		{
+			"episode": 548,
+			"title": "Two Days with the Culprit (Second Day)",
+			"type": "filler",
+			"aired_date": "2009-09-26"
+		},
+		{
+			"episode": 549,
+			"title": "The Revolving Sushi Mystery (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2009-10-03"
+		},
+		{
+			"episode": 550,
+			"title": "The Revolving Sushi Mystery (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2009-10-10"
+		},
+		{
+			"episode": 551,
+			"title": "The Culprit is Genta's Dad (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2009-10-17"
+		},
+		{
+			"episode": 552,
+			"title": "The Culprit is Genta's Dad (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2009-10-24"
+		},
+		{
+			"episode": 553,
+			"title": "The Interrogation Room",
+			"type": "filler",
+			"aired_date": "2009-10-31"
+		},
+		{
+			"episode": 554,
+			"title": "Stork Mystery Tour (Ran's Search Part)",
+			"type": "filler",
+			"aired_date": "2009-11-07"
+		},
+		{
+			"episode": 555,
+			"title": "Stork Mystery Tour (Haruna's Tracking Part)",
+			"type": "filler",
+			"aired_date": "2009-11-14"
+		},
+		{
+			"episode": 556,
+			"title": "The Fearful Intersection",
+			"type": "filler",
+			"aired_date": "2009-11-21"
+		},
+		{
+			"episode": 557,
+			"title": "A Dangerous Party of Two",
+			"type": "manga-canon",
+			"aired_date": "2009-11-28"
+		},
+		{
+			"episode": 558,
+			"title": "The Mansion of Death and the Red Wall (Grateful Invitation)",
+			"type": "manga-canon",
+			"aired_date": "2009-12-05"
+		},
+		{
+			"episode": 559,
+			"title": "The Mansion of Death and the Red Wall (Item in Hand)",
+			"type": "manga-canon",
+			"aired_date": "2009-12-12"
+		},
+		{
+			"episode": 560,
+			"title": "The Mansion of Death and the Red Wall (The Late Koumei)",
+			"type": "manga-canon",
+			"aired_date": "2009-12-19"
+		},
+		{
+			"episode": 561,
+			"title": "The Mansion of Death and the Red Wall (Empty Fort Strategy)",
+			"type": "manga-canon",
+			"aired_date": "2009-12-26"
+		},
+		{
+			"episode": 562,
+			"title": "The Kidnapping of Rainbow Colors",
+			"type": "filler",
+			"aired_date": "2010-01-16"
+		},
+		{
+			"episode": 563,
+			"title": "Detective Boys vs. Robber Group (Turmoil)",
+			"type": "manga-canon",
+			"aired_date": "2010-01-23"
+		},
+		{
+			"episode": 564,
+			"title": "Detective Boys vs. Robber Group (Silence)",
+			"type": "manga-canon",
+			"aired_date": "2010-01-30"
+		},
+		{
+			"episode": 565,
+			"title": "The Witness that Cannot be Seen",
+			"type": "filler",
+			"aired_date": "2010-02-06"
+		},
+		{
+			"episode": 566,
+			"title": "The Partner is Santa-san",
+			"type": "filler",
+			"aired_date": "2010-02-27"
+		},
+		{
+			"episode": 567,
+			"title": "The Intention to Murder Befalling in an Open-air Bath",
+			"type": "filler",
+			"aired_date": "2010-03-06"
+		},
+		{
+			"episode": 568,
+			"title": "Inspector Shiratori, Memories of the Sakura (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2010-03-13"
+		},
+		{
+			"episode": 569,
+			"title": "Inspector Shiratori, Memories of the Sakura (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2010-03-20"
+		},
+		{
+			"episode": 570,
+			"title": "The Crime that has Zero Possibility to Be Proven",
+			"type": "filler",
+			"aired_date": "2010-03-27"
+		},
+		{
+			"episode": 571,
+			"title": "Battle of the Haunted Warehouse's Treasure (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2010-05-01"
+		},
+		{
+			"episode": 572,
+			"title": "Battle of the Haunted Warehouse's Treasure (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2010-05-08"
+		},
+		{
+			"episode": 573,
+			"title": "The Whereabouts of the Embarrasing Charm (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2010-05-15"
+		},
+		{
+			"episode": 574,
+			"title": "The Whereabouts of the Embarrasing Charm (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2010-05-22"
+		},
+		{
+			"episode": 575,
+			"title": "The Alibi of the Black Dress (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2010-05-29"
+		},
+		{
+			"episode": 576,
+			"title": "The Alibi of the Black Dress (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2010-06-05"
+		},
+		{
+			"episode": 577,
+			"title": "The Fireflies that Light up the Truth",
+			"type": "filler",
+			"aired_date": "2010-06-19"
+		},
+		{
+			"episode": 578,
+			"title": "The Calling of the Red Omen Crisis",
+			"type": "manga-canon",
+			"aired_date": "2010-06-26"
+		},
+		{
+			"episode": 579,
+			"title": "The Thirteen Black Suggestions",
+			"type": "manga-canon",
+			"aired_date": "2010-07-03"
+		},
+		{
+			"episode": 580,
+			"title": "The Black Time Limit Drawing Near",
+			"type": "manga-canon",
+			"aired_date": "2010-07-10"
+		},
+		{
+			"episode": 581,
+			"title": "The Target of Shaking Red",
+			"type": "manga-canon",
+			"aired_date": "2010-07-17"
+		},
+		{
+			"episode": 582,
+			"title": "The Night the Zombie Died",
+			"type": "filler",
+			"aired_date": "2010-07-24"
+		},
+		{
+			"episode": 583,
+			"title": "Kobayashi-sensei's Love",
+			"type": "manga-canon",
+			"aired_date": "2010-08-14"
+		},
+		{
+			"episode": 584,
+			"title": "Inspector Shiratori's Lost Love",
+			"type": "manga-canon",
+			"aired_date": "2010-08-21"
+		},
+		{
+			"episode": 585,
+			"title": "Timeless Sakura's Love",
+			"type": "manga-canon",
+			"aired_date": "2010-08-28"
+		},
+		{
+			"episode": 586,
+			"title": "The Kirin's Horn That Vanished into the Dark",
+			"type": "manga-canon",
+			"aired_date": "2010-09-04"
+		},
+		{
+			"episode": 587,
+			"title": "Kid vs. the Four Divine Detective Boys",
+			"type": "manga-canon",
+			"aired_date": "2010-09-11"
+		},
+		{
+			"episode": 588,
+			"title": "The Trap of the Rooftop Farm",
+			"type": "filler",
+			"aired_date": "2010-09-18"
+		},
+		{
+			"episode": 589,
+			"title": "The Worst Birthday (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2010-09-25"
+		},
+		{
+			"episode": 590,
+			"title": "The Worst Birthday (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2010-10-02"
+		},
+		{
+			"episode": 591,
+			"title": "The House With an Aquarium",
+			"type": "filler",
+			"aired_date": "2010-10-16"
+		},
+		{
+			"episode": 592,
+			"title": "The Detective Memoir of Monkey and Rake (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2010-10-23"
+		},
+		{
+			"episode": 593,
+			"title": "The Detective Memoir of Monkey and Rake (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2010-10-30"
+		},
+		{
+			"episode": 594,
+			"title": "The Seven Wonders Tour in Hiroshima and Miyajima (Miyajima Part)",
+			"type": "filler",
+			"aired_date": "2010-11-06"
+		},
+		{
+			"episode": 595,
+			"title": "The Seven Wonders Tour in Hiroshima and Miyajima (Hiroshima Part)",
+			"type": "filler",
+			"aired_date": "2010-11-13"
+		},
+		{
+			"episode": 596,
+			"title": "The Alibi that Fell",
+			"type": "filler",
+			"aired_date": "2010-11-20"
+		},
+		{
+			"episode": 597,
+			"title": "The Scenario of the Steaming Locked Room (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2010-11-27"
+		},
+		{
+			"episode": 598,
+			"title": "The Scenario of the Steaming Locked Room (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2010-12-04"
+		},
+		{
+			"episode": 599,
+			"title": "Friend of Justice",
+			"type": "filler",
+			"aired_date": "2010-12-11"
+		},
+		{
+			"episode": 600,
+			"title": "The Dream the Kappa Saw (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2010-12-18"
+		},
+		{
+			"episode": 601,
+			"title": "The Dream the Kappa Saw (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2010-12-25"
+		},
+		{
+			"episode": 602,
+			"title": "The Devil Hiding at the Tennis Court",
+			"type": "filler",
+			"aired_date": "2011-01-08"
+		},
+		{
+			"episode": 603,
+			"title": "The Seance's Double Locked Room Mystery (First Locked Room)",
+			"type": "filler",
+			"aired_date": "2011-01-29"
+		},
+		{
+			"episode": 604,
+			"title": "The Seance's Double Locked Room Mystery (Second Locked Room)",
+			"type": "filler",
+			"aired_date": "2011-02-05"
+		},
+		{
+			"episode": 605,
+			"title": "The Seance's Double Locked Room Mystery (Opening of the Locked Room)",
+			"type": "filler",
+			"aired_date": "2011-02-12"
+		},
+		{
+			"episode": 606,
+			"title": "Courtroom Confrontation IV: Juror Sumiko Kobayashi (Part 1)",
+			"type": "filler",
+			"aired_date": "2011-02-19"
+		},
+		{
+			"episode": 607,
+			"title": "Courtroom Confrontation IV: Juror Sumiko Kobayashi (Part 2)",
+			"type": "filler",
+			"aired_date": "2011-02-26"
+		},
+		{
+			"episode": 608,
+			"title": "White Day of Betrayal (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2011-03-05"
+		},
+		{
+			"episode": 609,
+			"title": "White Day of Betrayal (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2011-03-19"
+		},
+		{
+			"episode": 610,
+			"title": "The Victim is Shinichi Kudo",
+			"type": "manga-canon",
+			"aired_date": "2011-04-09"
+		},
+		{
+			"episode": 611,
+			"title": "Inubushi Castle, The Flame of the Demon Dog (Chapter of Ghost Fire)",
+			"type": "manga-canon",
+			"aired_date": "2011-04-16"
+		},
+		{
+			"episode": 612,
+			"title": "Inubushi Castle, The Flame of the Demon Dog (Chapter of Footprints)",
+			"type": "manga-canon",
+			"aired_date": "2011-04-23"
+		},
+		{
+			"episode": 613,
+			"title": "Inubushi Castle, The Flame of the Demon Dog (Chapter of Princess)",
+			"type": "manga-canon",
+			"aired_date": "2011-04-30"
+		},
+		{
+			"episode": 614,
+			"title": "The Secret the Diary Plays (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2011-05-07"
+		},
+		{
+			"episode": 615,
+			"title": "The Secret the Diary Plays (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2011-05-14"
+		},
+		{
+			"episode": 616,
+			"title": "Holmes' Revelation (Holmes' Apprentice)",
+			"type": "manga-canon",
+			"aired_date": "2011-05-21"
+		},
+		{
+			"episode": 617,
+			"title": "Holmes' Revelation (Love is 0)",
+			"type": "manga-canon",
+			"aired_date": "2011-05-28"
+		},
+		{
+			"episode": 618,
+			"title": "Holmes' Revelation (Satan)",
+			"type": "manga-canon",
+			"aired_date": "2011-06-04"
+		},
+		{
+			"episode": 619,
+			"title": "Holmes' Revelation (Code Break)",
+			"type": "manga-canon",
+			"aired_date": "2011-06-11"
+		},
+		{
+			"episode": 620,
+			"title": "Holmes' Revelation (Grass Court Queen)",
+			"type": "manga-canon",
+			"aired_date": "2011-06-18"
+		},
+		{
+			"episode": 621,
+			"title": "Holmes' Revelation (0 is Start)",
+			"type": "manga-canon",
+			"aired_date": "2011-06-25"
+		},
+		{
+			"episode": 622,
+			"title": "Emergency Situation 252 (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2011-07-02"
+		},
+		{
+			"episode": 623,
+			"title": "Emergency Situation 252 (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2011-07-09"
+		},
+		{
+			"episode": 624,
+			"title": "The Video Letter of First Love",
+			"type": "manga-canon",
+			"aired_date": "2011-07-16"
+		},
+		{
+			"episode": 625,
+			"title": "The Screaming Operation Room (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2011-07-23"
+		},
+		{
+			"episode": 626,
+			"title": "The Screaming Operation Room (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2011-07-30"
+		},
+		{
+			"episode": 627,
+			"title": "The Ryoma Treasure Battle Between Conan and Kid (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2011-08-20"
+		},
+		{
+			"episode": 628,
+			"title": "The Ryoma Treasure Battle Between Conan and Kid (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2011-08-27"
+		},
+		{
+			"episode": 629,
+			"title": "The Shooting of the Promotional Video Case (Part 1)",
+			"type": "filler",
+			"aired_date": "2011-09-03"
+		},
+		{
+			"episode": 630,
+			"title": "The Shooting of the Promotional Video Case (Part 2)",
+			"type": "filler",
+			"aired_date": "2011-09-10"
+		},
+		{
+			"episode": 631,
+			"title": "What the Floral Clock Knew",
+			"type": "filler",
+			"aired_date": "2011-09-17"
+		},
+		{
+			"episode": 632,
+			"title": "The Guardian of Time's Sword (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2011-10-01"
+		},
+		{
+			"episode": 633,
+			"title": "The Guardian of Time's Sword (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2011-10-08"
+		},
+		{
+			"episode": 634,
+			"title": "The Crime Scene is a Very Narrow Shop",
+			"type": "filler",
+			"aired_date": "2011-10-15"
+		},
+		{
+			"episode": 635,
+			"title": "Beware of Dieting",
+			"type": "filler",
+			"aired_date": "2011-11-05"
+		},
+		{
+			"episode": 636,
+			"title": "The Most Useful School in the World Case (Part 1)",
+			"type": "filler",
+			"aired_date": "2011-11-12"
+		},
+		{
+			"episode": 637,
+			"title": "The Most Useful School in the World Case (Part 2)",
+			"type": "filler",
+			"aired_date": "2011-11-19"
+		},
+		{
+			"episode": 638,
+			"title": "Solving Mysteries at the Red Leaf Palace (Part 1)",
+			"type": "filler",
+			"aired_date": "2011-11-26"
+		},
+		{
+			"episode": 639,
+			"title": "Solving Mysteries at the Red Leaf Palace (Part 2)",
+			"type": "filler",
+			"aired_date": "2011-12-03"
+		},
+		{
+			"episode": 640,
+			"title": "The Memory Trip of the Eight Sketches (Okayama Part)",
+			"type": "filler",
+			"aired_date": "2011-12-10"
+		},
+		{
+			"episode": 641,
+			"title": "The Memory Trip of the Eight Sketches (Kurashiki Part)",
+			"type": "filler",
+			"aired_date": "2011-12-17"
+		},
+		{
+			"episode": 642,
+			"title": "Grabbing Karuta Cards in Dire Straits (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2012-01-07"
+		},
+		{
+			"episode": 643,
+			"title": "Grabbing Karuta Cards in Dire Straits (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2012-01-14"
+		},
+		{
+			"episode": 644,
+			"title": "Ramen So Good, It's to Die For (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2012-02-04"
+		},
+		{
+			"episode": 645,
+			"title": "Ramen So Good, It's to Die For (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2012-02-11"
+		},
+		{
+			"episode": 646,
+			"title": "The Deduction Showdown at the Haunted Hotel (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2012-02-18"
+		},
+		{
+			"episode": 647,
+			"title": "The Deduction Showdown at the Haunted Hotel (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2012-02-25"
+		},
+		{
+			"episode": 648,
+			"title": "The Case of the Besieged Detective Agency (Outbreak)",
+			"type": "manga-canon",
+			"aired_date": "2012-03-03"
+		},
+		{
+			"episode": 649,
+			"title": "The Case of the Besieged Detective Agency (Sniping)",
+			"type": "manga-canon",
+			"aired_date": "2012-03-10"
+		},
+		{
+			"episode": 650,
+			"title": "The Case of the Besieged Detective Agency (Release)",
+			"type": "manga-canon",
+			"aired_date": "2012-03-17"
+		},
+		{
+			"episode": 651,
+			"title": "Conan vs. Heiji, Deduction Battle Between the Detectives of the East and West (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2012-03-24"
+		},
+		{
+			"episode": 652,
+			"title": "The Design of Poison and Illusion (Eye)",
+			"type": "manga-canon",
+			"aired_date": "2012-04-21"
+		},
+		{
+			"episode": 653,
+			"title": "The Design of Poison and Illusion (S)",
+			"type": "manga-canon",
+			"aired_date": "2012-04-28"
+		},
+		{
+			"episode": 654,
+			"title": "The Design of Poison and Illusion (Poison)",
+			"type": "manga-canon",
+			"aired_date": "2012-05-05"
+		},
+		{
+			"episode": 655,
+			"title": "The Design of Poison and Illusion (Illusion)",
+			"type": "manga-canon",
+			"aired_date": "2012-05-12"
+		},
+		{
+			"episode": 656,
+			"title": "Professor's Video Site (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2012-05-19"
+		},
+		{
+			"episode": 657,
+			"title": "Professor's Video Site (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2012-05-26"
+		},
+		{
+			"episode": 658,
+			"title": "The Hot Chocolate Trap",
+			"type": "filler",
+			"aired_date": "2012-06-02"
+		},
+		{
+			"episode": 659,
+			"title": "Co-Investigating with a First Love (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2012-06-09"
+		},
+		{
+			"episode": 660,
+			"title": "Co-Investigating with a First Love (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2012-06-16"
+		},
+		{
+			"episode": 661,
+			"title": "Kogoro-san is a Good Man (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2012-06-23"
+		},
+		{
+			"episode": 662,
+			"title": "Kogoro-san is a Good Man (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2012-06-30"
+		},
+		{
+			"episode": 663,
+			"title": "The Mountain Beetle Chase",
+			"type": "filler",
+			"aired_date": "2012-07-07"
+		},
+		{
+			"episode": 664,
+			"title": "The Great Dog Coeur's Triumph 2",
+			"type": "filler",
+			"aired_date": "2012-07-14"
+		},
+		{
+			"episode": 665,
+			"title": "Suspicion of Initial K",
+			"type": "filler",
+			"aired_date": "2012-07-21"
+		},
+		{
+			"episode": 666,
+			"title": "The Intimidator In a Rainy Night",
+			"type": "filler",
+			"aired_date": "2012-07-28"
+		},
+		{
+			"episode": 667,
+			"title": "Wedding Eve (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2012-09-01"
+		},
+		{
+			"episode": 668,
+			"title": "Wedding Eve (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2012-09-08"
+		},
+		{
+			"episode": 669,
+			"title": "Treasure in the Tower of Darkness (Part 1)",
+			"type": "filler",
+			"aired_date": "2012-09-15"
+		},
+		{
+			"episode": 670,
+			"title": "Treasure in the Tower of Darkness (Part 2)",
+			"type": "filler",
+			"aired_date": "2012-09-22"
+		},
+		{
+			"episode": 671,
+			"title": "Detectives' Nocturne (The Case)",
+			"type": "manga-canon",
+			"aired_date": "2012-10-06"
+		},
+		{
+			"episode": 672,
+			"title": "Detectives' Nocturne (Kidnapping)",
+			"type": "manga-canon",
+			"aired_date": "2012-10-13"
+		},
+		{
+			"episode": 673,
+			"title": "Detectives' Nocturne (Deduction)",
+			"type": "manga-canon",
+			"aired_date": "2012-10-20"
+		},
+		{
+			"episode": 674,
+			"title": "Detectives' Nocturne (Bourbon)",
+			"type": "manga-canon",
+			"aired_date": "2012-10-27"
+		},
+		{
+			"episode": 675,
+			"title": "Won't Forgive Even One Millimetre (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2012-11-10"
+		},
+		{
+			"episode": 676,
+			"title": "Won't Forgive Even One Millimetre (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2012-11-17"
+		},
+		{
+			"episode": 677,
+			"title": "The Sandy Beach with No Footprints",
+			"type": "filler",
+			"aired_date": "2012-11-24"
+		},
+		{
+			"episode": 678,
+			"title": "Nagasaki Mystery Theater (Bakumatsu Part)",
+			"type": "filler",
+			"aired_date": "2012-12-01"
+		},
+		{
+			"episode": 679,
+			"title": "Nagasaki Mystery Theater (Present-Day Part)",
+			"type": "filler",
+			"aired_date": "2012-12-08"
+		},
+		{
+			"episode": 680,
+			"title": "Cactus Rhapsody",
+			"type": "filler",
+			"aired_date": "2012-12-15"
+		},
+		{
+			"episode": 681,
+			"title": "The Life-Threatening Broadcast of Love (Begin Broadcasting)",
+			"type": "manga-canon",
+			"aired_date": "2013-01-05"
+		},
+		{
+			"episode": 682,
+			"title": "The Life-Threatening Broadcast of Love (Crisis State)",
+			"type": "manga-canon",
+			"aired_date": "2013-01-12"
+		},
+		{
+			"episode": 683,
+			"title": "The Life-Threatening Broadcast of Love (The Inrush into the Scene)",
+			"type": "manga-canon",
+			"aired_date": "2013-01-19"
+		},
+		{
+			"episode": 684,
+			"title": "Froth, Steam, and Smoke (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2013-01-26"
+		},
+		{
+			"episode": 685,
+			"title": "Froth, Steam, and Smoke (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2013-02-02"
+		},
+		{
+			"episode": 686,
+			"title": "The Car Carrying A Time Bomb",
+			"type": "filler",
+			"aired_date": "2013-02-09"
+		},
+		{
+			"episode": 687,
+			"title": "The Unsolvable Ice Trap",
+			"type": "filler",
+			"aired_date": "2013-02-16"
+		},
+		{
+			"episode": 688,
+			"title": "Detective Takagi Picked Up 30 Million Yen",
+			"type": "filler",
+			"aired_date": "2013-02-23"
+		},
+		{
+			"episode": 689,
+			"title": "Messages From the Client",
+			"type": "filler",
+			"aired_date": "2013-03-02"
+		},
+		{
+			"episode": 690,
+			"title": "Yusaku Kudo's Unsolved Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2013-03-09"
+		},
+		{
+			"episode": 691,
+			"title": "Yusaku Kudo's Unsolved Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2013-03-16"
+		},
+		{
+			"episode": 692,
+			"title": "The Night Cherry Blossom Route on Sumida River (Part 1)",
+			"type": "filler",
+			"aired_date": "2013-03-23"
+		},
+		{
+			"episode": 693,
+			"title": "The Night Cherry Blossom Route on Sumida River (Part 2)",
+			"type": "filler",
+			"aired_date": "2013-03-30"
+		},
+		{
+			"episode": 694,
+			"title": "The Missing Japanese Sweet in the Old Shop",
+			"type": "filler",
+			"aired_date": "2013-04-20"
+		},
+		{
+			"episode": 695,
+			"title": "The Roses in the Vineyard",
+			"type": "filler",
+			"aired_date": "2013-04-27"
+		},
+		{
+			"episode": 696,
+			"title": "The Stormy Flowerbed Conspiracy",
+			"type": "filler",
+			"aired_date": "2013-05-04"
+		},
+		{
+			"episode": 697,
+			"title": "The Window of the Girls Academy",
+			"type": "filler",
+			"aired_date": "2013-05-11"
+		},
+		{
+			"episode": 698,
+			"title": "No Way! The UFO Crash Case",
+			"type": "filler",
+			"aired_date": "2013-05-18"
+		},
+		{
+			"episode": 699,
+			"title": "The Shadow Approaching Haibara's Secret (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2013-06-08"
+		},
+		{
+			"episode": 700,
+			"title": "The Shadow Approaching Haibara's Secret (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2013-06-15"
+		},
+		{
+			"episode": 701,
+			"title": "The Jet-Black Mystery Train (Departure)",
+			"type": "manga-canon",
+			"aired_date": "2013-07-13"
+		},
+		{
+			"episode": 702,
+			"title": "The Jet-Black Mystery Train (Tunnel)",
+			"type": "manga-canon",
+			"aired_date": "2013-07-20"
+		},
+		{
+			"episode": 703,
+			"title": "The Jet-Black Mystery Train (Junction)",
+			"type": "manga-canon",
+			"aired_date": "2013-07-27"
+		},
+		{
+			"episode": 704,
+			"title": "The Jet-Black Mystery Train (Final Destination)",
+			"type": "manga-canon",
+			"aired_date": "2013-08-03"
+		},
+		{
+			"episode": 705,
+			"title": "Conan in a Locked Room",
+			"type": "manga-canon",
+			"aired_date": "2013-08-10"
+		},
+		{
+			"episode": 706,
+			"title": "Bourbon Figures It Out",
+			"type": "manga-canon",
+			"aired_date": "2013-08-17"
+		},
+		{
+			"episode": 707,
+			"title": "The Framed Great Detective",
+			"type": "filler",
+			"aired_date": "2013-08-31"
+		},
+		{
+			"episode": 708,
+			"title": "The Man That Fell Slowly",
+			"type": "filler",
+			"aired_date": "2013-09-07"
+		},
+		{
+			"episode": 709,
+			"title": "The Case of the Unconfirmed Crash",
+			"type": "filler",
+			"aired_date": "2013-09-14"
+		},
+		{
+			"episode": 710,
+			"title": "Everyone Saw (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2013-09-21"
+		},
+		{
+			"episode": 711,
+			"title": "Everyone Saw (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2013-09-28"
+		},
+		{
+			"episode": 712,
+			"title": "Heiji Hattori and the Vampire Mansion (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2013-10-05"
+		},
+		{
+			"episode": 713,
+			"title": "Heiji Hattori and the Vampire Mansion (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2013-10-12"
+		},
+		{
+			"episode": 714,
+			"title": "Heiji Hattori and the Vampire Mansion (Part 3)",
+			"type": "manga-canon",
+			"aired_date": "2013-10-19"
+		},
+		{
+			"episode": 715,
+			"title": "Heiji Hattori and the Vampire Mansion (Part 4)",
+			"type": "manga-canon",
+			"aired_date": "2013-10-26"
+		},
+		{
+			"episode": 716,
+			"title": "Dancing Demon in the Noh Mask Mansion (Part 1)",
+			"type": "filler",
+			"aired_date": "2013-11-02"
+		},
+		{
+			"episode": 717,
+			"title": "Dancing Demon in the Noh Mask Mansion (Part 2)",
+			"type": "filler",
+			"aired_date": "2013-11-09"
+		},
+		{
+			"episode": 718,
+			"title": "The Devil's Circuit",
+			"type": "filler",
+			"aired_date": "2013-11-16"
+		},
+		{
+			"episode": 719,
+			"title": "The Platinum Ticket Commotion",
+			"type": "filler",
+			"aired_date": "2013-11-23"
+		},
+		{
+			"episode": 720,
+			"title": "Fire and Water Mystery Tour (Aso Part)",
+			"type": "filler",
+			"aired_date": "2013-11-30"
+		},
+		{
+			"episode": 721,
+			"title": "Fire and Water Mystery Tour (Kumamoto Part)",
+			"type": "filler",
+			"aired_date": "2013-12-07"
+		},
+		{
+			"episode": 722,
+			"title": "Sweet and Cold Delivery Service (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2013-12-14"
+		},
+		{
+			"episode": 723,
+			"title": "Sweet and Cold Delivery Service (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2013-12-21"
+		},
+		{
+			"episode": 724,
+			"title": "Kaitou Kid and the Blush Mermaid (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2014-01-04"
+		},
+		{
+			"episode": 725,
+			"title": "Kaitou Kid and the Blush Mermaid (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2014-01-11"
+		},
+		{
+			"episode": 726,
+			"title": "The Happy Message That Brings Misfortune",
+			"type": "filler",
+			"aired_date": "2014-01-18"
+		},
+		{
+			"episode": 727,
+			"title": "The Treasure Chest Filled With Fruits (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2014-01-25"
+		},
+		{
+			"episode": 728,
+			"title": "The Treasure Chest Filled With Fruits (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2014-02-01"
+		},
+		{
+			"episode": 729,
+			"title": "The Diamond, the Painting, and the Great Actress",
+			"type": "filler",
+			"aired_date": "2014-02-08"
+		},
+		{
+			"episode": 730,
+			"title": "The Figure That Was Too Good",
+			"type": "filler",
+			"aired_date": "2014-02-15"
+		},
+		{
+			"episode": 731,
+			"title": "The Ex-Boyfriend Living Next to a Crime Scene (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2014-03-01"
+		},
+		{
+			"episode": 732,
+			"title": "The Ex-Boyfriend Living Next to a Crime Scene (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2014-03-08"
+		},
+		{
+			"episode": 733,
+			"title": "The Banquet and the Two Gunshots",
+			"type": "filler",
+			"aired_date": "2014-03-22"
+		},
+		{
+			"episode": 734,
+			"title": "Jodie's Memories and the Cherry Blossom Viewing Trap (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2014-03-29"
+		},
+		{
+			"episode": 735,
+			"title": "The Coded Invitation",
+			"type": "filler",
+			"aired_date": "2014-04-19"
+		},
+		{
+			"episode": 736,
+			"title": "The Secret of the Statue of Kogoro Mori",
+			"type": "filler",
+			"aired_date": "2014-04-26"
+		},
+		{
+			"episode": 737,
+			"title": "The Suspicious Walking Path",
+			"type": "filler",
+			"aired_date": "2014-05-03"
+		},
+		{
+			"episode": 738,
+			"title": "Kogoro In The Bar (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2014-05-10"
+		},
+		{
+			"episode": 739,
+			"title": "Kogoro In The Bar (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2014-05-17"
+		},
+		{
+			"episode": 740,
+			"title": "Bathroom Where Ran Collapsed As Well (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2014-05-31"
+		},
+		{
+			"episode": 741,
+			"title": "Bathroom Where Ran Collapsed As Well (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2014-06-07"
+		},
+		{
+			"episode": 742,
+			"title": "The Promise with the J-League",
+			"type": "filler",
+			"aired_date": "2014-06-14"
+		},
+		{
+			"episode": 743,
+			"title": "Coincidentally Overlapped Twice",
+			"type": "filler",
+			"aired_date": "2014-06-21"
+		},
+		{
+			"episode": 744,
+			"title": "The Suspect is Makoto Kyogoku (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2014-06-28"
+		},
+		{
+			"episode": 745,
+			"title": "The Suspect is Makoto Kyogoku (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2014-07-05"
+		},
+		{
+			"episode": 746,
+			"title": "Kaito Kid VS Makoto Kyogoku (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2014-07-19"
+		},
+		{
+			"episode": 747,
+			"title": "Kaito Kid VS Makoto Kyogoku (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2014-07-26"
+		},
+		{
+			"episode": 748,
+			"title": "Metropolitan Police Detective Love Story (Confession)",
+			"type": "manga-canon",
+			"aired_date": "2014-08-02"
+		},
+		{
+			"episode": 749,
+			"title": "Metropolitan Police Detective Love Story (Truth)",
+			"type": "manga-canon",
+			"aired_date": "2014-08-09"
+		},
+		{
+			"episode": 750,
+			"title": "The Man Betrayed by the Sea",
+			"type": "filler",
+			"aired_date": "2014-09-06"
+		},
+		{
+			"episode": 751,
+			"title": "The Case of the Lucky Calico (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2014-09-20"
+		},
+		{
+			"episode": 752,
+			"title": "The Case of the Lucky Calico (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2014-09-27"
+		},
+		{
+			"episode": 753,
+			"title": "The Blind Spot in the Share House",
+			"type": "filler",
+			"aired_date": "2014-10-04"
+		},
+		{
+			"episode": 754,
+			"title": "The Tragedy of the Red Woman (Steam)",
+			"type": "manga-canon",
+			"aired_date": "2014-10-11"
+		},
+		{
+			"episode": 755,
+			"title": "The Tragedy of the Red Woman (Evil Spirit)",
+			"type": "manga-canon",
+			"aired_date": "2014-10-18"
+		},
+		{
+			"episode": 756,
+			"title": "The Tragedy of the Red Woman (Revenge)",
+			"type": "manga-canon",
+			"aired_date": "2014-10-25"
+		},
+		{
+			"episode": 757,
+			"title": "The Comedian Who Turned Himself In (Part 1)",
+			"type": "filler",
+			"aired_date": "2014-11-01"
+		},
+		{
+			"episode": 758,
+			"title": "The Comedian Who Turned Himself In (Part 2)",
+			"type": "filler",
+			"aired_date": "2014-11-08"
+		},
+		{
+			"episode": 759,
+			"title": "The Romance Novel with the Unexpected Conclusion (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2014-11-22"
+		},
+		{
+			"episode": 760,
+			"title": "The Romance Novel with the Unexpected Conclusion (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2014-11-29"
+		},
+		{
+			"episode": 761,
+			"title": "Kaga Hyakumangoku Mystery Tour (Kanazawa Arc)",
+			"type": "filler",
+			"aired_date": "2014-12-06"
+		},
+		{
+			"episode": 762,
+			"title": "Kaga Hyakumangoku Mystery Tour (Kaga Hot Springs Part)",
+			"type": "filler",
+			"aired_date": "2014-12-13"
+		},
+		{
+			"episode": 763,
+			"title": "Conan and Heiji, Code of Love (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2015-01-10"
+		},
+		{
+			"episode": 764,
+			"title": "Conan and Heiji, Code of Love (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2015-01-17"
+		},
+		{
+			"episode": 765,
+			"title": "Teimuzu River Kite Flying Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2015-01-24"
+		},
+		{
+			"episode": 766,
+			"title": "Teimuzu River Kite Flying Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2015-01-31"
+		},
+		{
+			"episode": 767,
+			"title": "The Lover Gone Missing in a Snowstorm",
+			"type": "filler",
+			"aired_date": "2015-02-07"
+		},
+		{
+			"episode": 768,
+			"title": "Haibara Ai Imprisonment Case",
+			"type": "filler",
+			"aired_date": "2015-02-21"
+		},
+		{
+			"episode": 769,
+			"title": "The Troublesome Emergency Patient",
+			"type": "filler",
+			"aired_date": "2015-02-28"
+		},
+		{
+			"episode": 770,
+			"title": "The Tense Tea Party (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2015-03-07"
+		},
+		{
+			"episode": 771,
+			"title": "The Tense Tea Party (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2015-03-14"
+		},
+		{
+			"episode": 772,
+			"title": "Shinichi Kudo's Aquarium Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2015-03-21"
+		},
+		{
+			"episode": 773,
+			"title": "Shinichi Kudo's Aquarium Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2015-03-28"
+		},
+		{
+			"episode": 774,
+			"title": "Munch's Missing Scream",
+			"type": "filler",
+			"aired_date": "2015-04-18"
+		},
+		{
+			"episode": 775,
+			"title": "The Manipulated Great Detective (Part 1)",
+			"type": "filler",
+			"aired_date": "2015-04-25"
+		},
+		{
+			"episode": 776,
+			"title": "The Manipulated Great Detective (Part 2)",
+			"type": "filler",
+			"aired_date": "2015-05-02"
+		},
+		{
+			"episode": 777,
+			"title": "The Detective Boys VS the Silver Detectives",
+			"type": "filler",
+			"aired_date": "2015-05-09"
+		},
+		{
+			"episode": 778,
+			"title": "Mirage of the Disappearing Angel",
+			"type": "filler",
+			"aired_date": "2015-05-16"
+		},
+		{
+			"episode": 779,
+			"title": "The Scarlet Prologue",
+			"type": "manga-canon",
+			"aired_date": "2015-05-30"
+		},
+		{
+			"episode": 780,
+			"title": "The Scarlet Pursuit",
+			"type": "manga-canon",
+			"aired_date": "2015-06-06"
+		},
+		{
+			"episode": 781,
+			"title": "The Scarlet Intersection",
+			"type": "manga-canon",
+			"aired_date": "2015-06-13"
+		},
+		{
+			"episode": 782,
+			"title": "The Scarlet Return",
+			"type": "manga-canon",
+			"aired_date": "2015-06-20"
+		},
+		{
+			"episode": 783,
+			"title": "The Scarlet Truth",
+			"type": "manga-canon",
+			"aired_date": "2015-06-27"
+		},
+		{
+			"episode": 784,
+			"title": "Welcome to Club Orihime",
+			"type": "filler",
+			"aired_date": "2015-07-11"
+		},
+		{
+			"episode": 785,
+			"title": "Taiko Meijin's Match of Love (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2015-07-18"
+		},
+		{
+			"episode": 786,
+			"title": "Taiko Meijin's Match of Love (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2015-07-25"
+		},
+		{
+			"episode": 787,
+			"title": "The Mystery Sinking in the Midsummer Pool (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2015-08-01"
+		},
+		{
+			"episode": 788,
+			"title": "The Mystery Sinking in the Midsummer Pool (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2015-08-08"
+		},
+		{
+			"episode": 789,
+			"title": "The Queen's Weather Forecast",
+			"type": "filler",
+			"aired_date": "2015-08-15"
+		},
+		{
+			"episode": 790,
+			"title": "Bekapon's Bleeding Service",
+			"type": "filler",
+			"aired_date": "2015-09-05"
+		},
+		{
+			"episode": 791,
+			"title": "Detective Takagi On the Run in Handcuffs",
+			"type": "filler",
+			"aired_date": "2015-09-12"
+		},
+		{
+			"episode": 792,
+			"title": "Three First Discoverers (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2015-09-19"
+		},
+		{
+			"episode": 793,
+			"title": "Three First Discoverers (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2015-09-26"
+		},
+		{
+			"episode": 794,
+			"title": "Bodyguard Mori Kogoro!",
+			"type": "filler",
+			"aired_date": "2015-10-03"
+		},
+		{
+			"episode": 795,
+			"title": "The Secret of the Missing Young Lady",
+			"type": "filler",
+			"aired_date": "2015-10-10"
+		},
+		{
+			"episode": 796,
+			"title": "The Lovebirds' Ruse",
+			"type": "filler",
+			"aired_date": "2015-10-17"
+		},
+		{
+			"episode": 797,
+			"title": "The Dreaming Girl's Confused Deduction",
+			"type": "filler",
+			"aired_date": "2015-10-24"
+		},
+		{
+			"episode": 798,
+			"title": "The Moving Target",
+			"type": "filler",
+			"aired_date": "2015-11-07"
+		},
+		{
+			"episode": 799,
+			"title": "The Detective Boys' Locked Room Mystery Battle",
+			"type": "filler",
+			"aired_date": "2015-11-14"
+		},
+		{
+			"episode": 800,
+			"title": "After That Hundred Million Yen",
+			"type": "filler",
+			"aired_date": "2015-11-21"
+		},
+		{
+			"episode": 801,
+			"title": "The Tottori Sand Dunes Mystery Tour (Kurayoshi Arc)",
+			"type": "filler",
+			"aired_date": "2015-11-28"
+		},
+		{
+			"episode": 802,
+			"title": "The Tottori Sand Dunes Mystery Tour (Tottori Arc)",
+			"type": "filler",
+			"aired_date": "2015-12-05"
+		},
+		{
+			"episode": 803,
+			"title": "The Pitfall of Fire Precautions",
+			"type": "filler",
+			"aired_date": "2015-12-12"
+		},
+		{
+			"episode": 804,
+			"title": "Conan and Ebizo's Kabuki Jūhachiban Mystery (Part 1)",
+			"type": "filler",
+			"aired_date": "2016-01-09"
+		},
+		{
+			"episode": 805,
+			"title": "Conan and Ebizo's Kabuki Jūhachiban Mystery (Part 2)",
+			"type": "filler",
+			"aired_date": "2016-01-16"
+		},
+		{
+			"episode": 806,
+			"title": "The Ventriloquist's Illusion (Part One)",
+			"type": "filler",
+			"aired_date": "2016-01-30"
+		},
+		{
+			"episode": 807,
+			"title": "The Ventriloquist's Illusion (Part Two)",
+			"type": "filler",
+			"aired_date": "2016-02-06"
+		},
+		{
+			"episode": 808,
+			"title": "The Kamaitachi Inn (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2016-02-13"
+		},
+		{
+			"episode": 809,
+			"title": "The Kamaitachi Inn (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2016-02-20"
+		},
+		{
+			"episode": 810,
+			"title": "The Darkness of the Prefectural Police (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2016-02-27"
+		},
+		{
+			"episode": 811,
+			"title": "The Darkness of the Prefectural Police (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2016-03-05"
+		},
+		{
+			"episode": 812,
+			"title": "The Darkness of the Prefectural Police (Part 3)",
+			"type": "manga-canon",
+			"aired_date": "2016-03-12"
+		},
+		{
+			"episode": 813,
+			"title": "The Shadow Approaching Amuro",
+			"type": "filler",
+			"aired_date": "2016-04-16"
+		},
+		{
+			"episode": 814,
+			"title": "The Actress Blogger's Locked Room Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2016-04-23"
+		},
+		{
+			"episode": 815,
+			"title": "The Actress Blogger's Locked Room Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2016-04-30"
+		},
+		{
+			"episode": 816,
+			"title": "The Disappointing and Kind Alien",
+			"type": "filler",
+			"aired_date": "2016-05-07"
+		},
+		{
+			"episode": 817,
+			"title": "The Missing Fiancée",
+			"type": "filler",
+			"aired_date": "2016-05-14"
+		},
+		{
+			"episode": 818,
+			"title": "Kogoro's Pursuit of Rage (Part 1)",
+			"type": "filler",
+			"aired_date": "2016-05-21"
+		},
+		{
+			"episode": 819,
+			"title": "Kogoro's Pursuit of Rage (Part 2)",
+			"type": "filler",
+			"aired_date": "2016-05-28"
+		},
+		{
+			"episode": 820,
+			"title": "The Seven People in the Waiting Room",
+			"type": "filler",
+			"aired_date": "2016-06-04"
+		},
+		{
+			"episode": 821,
+			"title": "The Hidden Secret of Dongaraji Temple",
+			"type": "filler",
+			"aired_date": "2016-06-11"
+		},
+		{
+			"episode": 822,
+			"title": "The Suspects Are a Passionate Couple (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2016-06-18"
+		},
+		{
+			"episode": 823,
+			"title": "The Suspects Are a Passionate Couple (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2016-06-25"
+		},
+		{
+			"episode": 824,
+			"title": "The Detective Boys Get Out of the Rain",
+			"type": "filler",
+			"aired_date": "2016-07-09"
+		},
+		{
+			"episode": 825,
+			"title": "The Tidal Park Comeback Case",
+			"type": "filler",
+			"aired_date": "2016-07-16"
+		},
+		{
+			"episode": 826,
+			"title": "The Beauty, The Lie, and The Secret",
+			"type": "filler",
+			"aired_date": "2016-07-23"
+		},
+		{
+			"episode": 827,
+			"title": "Ramen So Good, It's to Die For 2 (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2016-07-30"
+		},
+		{
+			"episode": 828,
+			"title": "Ramen So Good, It's to Die For 2 (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2016-08-06"
+		},
+		{
+			"episode": 829,
+			"title": "The Mysterious Boy",
+			"type": "filler",
+			"aired_date": "2016-08-13"
+		},
+		{
+			"episode": 830,
+			"title": "A Cottage Surrounded By Zombies (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2016-09-03"
+		},
+		{
+			"episode": 831,
+			"title": "A Cottage Surrounded By Zombies (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2016-09-10"
+		},
+		{
+			"episode": 832,
+			"title": "A Cottage Surrounded By Zombies (Part 3)",
+			"type": "manga-canon",
+			"aired_date": "2016-09-17"
+		},
+		{
+			"episode": 833,
+			"title": "The Great Detective's Weakness",
+			"type": "filler",
+			"aired_date": "2016-09-24"
+		},
+		{
+			"episode": 834,
+			"title": "The Man Who Died Twice (Part 1)",
+			"type": "filler",
+			"aired_date": "2016-10-01"
+		},
+		{
+			"episode": 835,
+			"title": "The Man Who Died Twice (Part 2)",
+			"type": "filler",
+			"aired_date": "2016-10-08"
+		},
+		{
+			"episode": 836,
+			"title": "The Unfriendly Girls Band (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2016-10-15"
+		},
+		{
+			"episode": 837,
+			"title": "The Unfriendly Girls Band (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2016-10-22"
+		},
+		{
+			"episode": 838,
+			"title": "Mystery in a Hot Air Balloon",
+			"type": "filler",
+			"aired_date": "2016-11-05"
+		},
+		{
+			"episode": 839,
+			"title": "You Can Hear the Tengu's Voice",
+			"type": "filler",
+			"aired_date": "2016-11-12"
+		},
+		{
+			"episode": 840,
+			"title": "The Last Gift",
+			"type": "filler",
+			"aired_date": "2016-11-19"
+		},
+		{
+			"episode": 841,
+			"title": "The Rainy Bus Stop",
+			"type": "filler",
+			"aired_date": "2016-11-26"
+		},
+		{
+			"episode": 842,
+			"title": "Turning Point on a Driving Date",
+			"type": "filler",
+			"aired_date": "2016-12-10"
+		},
+		{
+			"episode": 843,
+			"title": "The Detective Boys in a Grove (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2016-12-17"
+		},
+		{
+			"episode": 844,
+			"title": "The Detective Boys in a Grove (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2016-12-24"
+		},
+		{
+			"episode": 845,
+			"title": "Conan Cornered in the Darkness (Part One)",
+			"type": "filler",
+			"aired_date": "2017-01-07"
+		},
+		{
+			"episode": 846,
+			"title": "Conan Cornered in the Darkness (Part Two)",
+			"type": "filler",
+			"aired_date": "2017-01-14"
+		},
+		{
+			"episode": 847,
+			"title": "Chiba's UFO Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2017-01-28"
+		},
+		{
+			"episode": 848,
+			"title": "Chiba's UFO Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2017-02-04"
+		},
+		{
+			"episode": 849,
+			"title": "The Marriage Registration's Password (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2017-02-11"
+		},
+		{
+			"episode": 850,
+			"title": "The Marriage Registration's Password (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2017-02-18"
+		},
+		{
+			"episode": 851,
+			"title": "The Descent Into Hell Tour of Love (Beppu Chapter)",
+			"type": "filler",
+			"aired_date": "2017-03-04"
+		},
+		{
+			"episode": 852,
+			"title": "The Descent Into Hell Tour of Love (Oita Chapter)",
+			"type": "filler",
+			"aired_date": "2017-03-11"
+		},
+		{
+			"episode": 853,
+			"title": "Memories From Sakura Class (Ran GIRL)",
+			"type": "manga-canon",
+			"aired_date": "2017-03-18"
+		},
+		{
+			"episode": 854,
+			"title": "Memories from Sakura Class (Shinichi BOY)",
+			"type": "manga-canon",
+			"aired_date": "2017-03-25"
+		},
+		{
+			"episode": 855,
+			"title": "Mystery of the Misssing Black Belt",
+			"type": "filler",
+			"aired_date": "2017-04-15"
+		},
+		{
+			"episode": 856,
+			"title": "The Socialite Couple's Secret",
+			"type": "filler",
+			"aired_date": "2017-04-22"
+		},
+		{
+			"episode": 857,
+			"title": "The Shifting Mystery of Beika City (Part 1)",
+			"type": "filler",
+			"aired_date": "2017-04-29"
+		},
+		{
+			"episode": 858,
+			"title": "The Shifting Mystery of Beika City (Part 2)",
+			"type": "filler",
+			"aired_date": "2017-05-06"
+		},
+		{
+			"episode": 859,
+			"title": "The Dark Mountain Route",
+			"type": "filler",
+			"aired_date": "2017-05-13"
+		},
+		{
+			"episode": 860,
+			"title": "The Security System's Pitfall",
+			"type": "filler",
+			"aired_date": "2017-05-20"
+		},
+		{
+			"episode": 861,
+			"title": "Just Like a 17 Year Old Crime Scene (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2017-06-03"
+		},
+		{
+			"episode": 862,
+			"title": "Just Like a 17 Year Old Crime Scene (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2017-06-10"
+		},
+		{
+			"episode": 863,
+			"title": "The Spirit Detective's Murder (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2017-06-17"
+		},
+		{
+			"episode": 864,
+			"title": "The Spirit Detective's Murder (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2017-06-24"
+		},
+		{
+			"episode": 865,
+			"title": "The Foul-Mouthed Myna Bird",
+			"type": "filler",
+			"aired_date": "2017-07-08"
+		},
+		{
+			"episode": 866,
+			"title": "The Traitor's Stage (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2017-07-15"
+		},
+		{
+			"episode": 867,
+			"title": "The Traitor's Stage (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2017-07-22"
+		},
+		{
+			"episode": 868,
+			"title": "The Whistling Bookstore",
+			"type": "filler",
+			"aired_date": "2017-07-29"
+		},
+		{
+			"episode": 869,
+			"title": "Conan Disappears Over a Cliff (Part 1)",
+			"type": "filler",
+			"aired_date": "2017-08-05"
+		},
+		{
+			"episode": 870,
+			"title": "Conan Disappears Over a Cliff (Part 2)",
+			"type": "filler",
+			"aired_date": "2017-08-12"
+		},
+		{
+			"episode": 871,
+			"title": "The Nobunaga 450 Case",
+			"type": "filler",
+			"aired_date": "2017-09-02"
+		},
+		{
+			"episode": 872,
+			"title": "Conan and Heiji's Nue Legend (Roar Arc)",
+			"type": "manga-canon",
+			"aired_date": "2017-09-09"
+		},
+		{
+			"episode": 873,
+			"title": "Conan and Heiji's Nue Legend (Scratch Arc)",
+			"type": "manga-canon",
+			"aired_date": "2017-09-16"
+		},
+		{
+			"episode": 874,
+			"title": "Conan and Heiji's Nue Legend (Resolution Arc)",
+			"type": "manga-canon",
+			"aired_date": "2017-09-23"
+		},
+		{
+			"episode": 875,
+			"title": "The Mysterious Prophetic Buddha!",
+			"type": "filler",
+			"aired_date": "2017-09-30"
+		},
+		{
+			"episode": 876,
+			"title": "The Mechanical Witness",
+			"type": "filler",
+			"aired_date": "2017-10-07"
+		},
+		{
+			"episode": 877,
+			"title": "A Pair of Crossing Fates",
+			"type": "filler",
+			"aired_date": "2017-10-14"
+		},
+		{
+			"episode": 878,
+			"title": "The Blind Spot in the Changing Room (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2017-10-28"
+		},
+		{
+			"episode": 879,
+			"title": "The Blind Spot in the Changing Room (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2017-11-04"
+		},
+		{
+			"episode": 880,
+			"title": "The Detective Boys and the Haunted House",
+			"type": "filler",
+			"aired_date": "2017-11-11"
+		},
+		{
+			"episode": 881,
+			"title": "The Wizard of the Ripples (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2017-11-18"
+		},
+		{
+			"episode": 882,
+			"title": "The Wizard of the Ripples (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2017-11-25"
+		},
+		{
+			"episode": 883,
+			"title": "The Pop-up Book Bomber (Part One)",
+			"type": "filler",
+			"aired_date": "2017-12-02"
+		},
+		{
+			"episode": 884,
+			"title": "The Pop-up Book Bomber (Part Two)",
+			"type": "filler",
+			"aired_date": "2017-12-09"
+		},
+		{
+			"episode": 885,
+			"title": "Solving Mysteries at the Poirot Café (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2017-12-16"
+		},
+		{
+			"episode": 886,
+			"title": "Solving Mysteries at the Poirot Café (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2017-12-23"
+		},
+		{
+			"episode": 887,
+			"title": "Kaito Kid and the Trick Box (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2018-01-06"
+		},
+		{
+			"episode": 888,
+			"title": "Kaito Kid and the Trick Box (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2018-01-13"
+		},
+		{
+			"episode": 889,
+			"title": "The New Teacher's Skeleton Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2018-01-20"
+		},
+		{
+			"episode": 890,
+			"title": "The New Teacher's Skeleton Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2018-01-27"
+		},
+		{
+			"episode": 891,
+			"title": "The Meiji Restoration Mystery Tour (Yamaguchi Arc)",
+			"type": "filler",
+			"aired_date": "2018-02-03"
+		},
+		{
+			"episode": 892,
+			"title": "The Meiji Restoration Mystery Tour (Hagi Arc)",
+			"type": "filler",
+			"aired_date": "2018-02-10"
+		},
+		{
+			"episode": 893,
+			"title": "The Mystery of a Michelin Starred Restaurant",
+			"type": "filler",
+			"aired_date": "2018-02-24"
+		},
+		{
+			"episode": 894,
+			"title": "The Tokyo-Style Detective Show Next Door (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2018-03-03"
+		},
+		{
+			"episode": 895,
+			"title": "The Tokyo-Style Detective Show Next Door (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2018-03-10"
+		},
+		{
+			"episode": 896,
+			"title": "The Woman with White Hands (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2018-03-17"
+		},
+		{
+			"episode": 897,
+			"title": "The Woman with White Hands (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2018-03-24"
+		},
+		{
+			"episode": 898,
+			"title": "The Melting Cake!",
+			"type": "filler",
+			"aired_date": "2018-04-07"
+		},
+		{
+			"episode": 899,
+			"title": "The Real Culprit's Scream",
+			"type": "filler",
+			"aired_date": "2018-04-28"
+		},
+		{
+			"episode": 900,
+			"title": "Solving Mysteries in a Locked Room",
+			"type": "filler",
+			"aired_date": "2018-05-05"
+		},
+		{
+			"episode": 901,
+			"title": "Lawyer Kisaki's SOS (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2018-05-12"
+		},
+		{
+			"episode": 902,
+			"title": "Lawyer Kisaki's SOS (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2018-05-19"
+		},
+		{
+			"episode": 903,
+			"title": "Birds of a Feather at Loggerheads",
+			"type": "filler",
+			"aired_date": "2018-05-26"
+		},
+		{
+			"episode": 904,
+			"title": "Result of the Draw",
+			"type": "filler",
+			"aired_date": "2018-06-09"
+		},
+		{
+			"episode": 905,
+			"title": "Eyewitness Testimony Seven Years Later (Part 1)",
+			"type": "filler",
+			"aired_date": "2018-06-23"
+		},
+		{
+			"episode": 906,
+			"title": "Eyewitness Testimony Seven Years Later (Part 2)",
+			"type": "filler",
+			"aired_date": "2018-06-30"
+		},
+		{
+			"episode": 907,
+			"title": "The J League Bodyguard",
+			"type": "filler",
+			"aired_date": "2018-07-14"
+		},
+		{
+			"episode": 908,
+			"title": "Friendship Washed Away In the Riverbed",
+			"type": "filler",
+			"aired_date": "2018-07-21"
+		},
+		{
+			"episode": 909,
+			"title": "Mystery of the Burning Tent  (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2018-07-28"
+		},
+		{
+			"episode": 910,
+			"title": "Mystery of the Burning Tent  (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2018-08-04"
+		},
+		{
+			"episode": 911,
+			"title": "The Job Request from Inspector Megure",
+			"type": "filler",
+			"aired_date": "2018-09-01"
+		},
+		{
+			"episode": 912,
+			"title": "The Detective Boys Become Models",
+			"type": "filler",
+			"aired_date": "2018-09-08"
+		},
+		{
+			"episode": 913,
+			"title": "Conan Kidnapped (Part 1)",
+			"type": "filler",
+			"aired_date": "2018-09-15"
+		},
+		{
+			"episode": 914,
+			"title": "Conan Kidnapped (Part 2)",
+			"type": "filler",
+			"aired_date": "2018-09-22"
+		},
+		{
+			"episode": 915,
+			"title": "High School Girl Detective Suzuki Sonoko",
+			"type": "filler",
+			"aired_date": "2018-09-29"
+		},
+		{
+			"episode": 916,
+			"title": "The Kendo Tournament of Love and Mystery (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2018-10-06"
+		},
+		{
+			"episode": 917,
+			"title": "The Kendo Tournament of Love and Mystery (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2018-10-13"
+		},
+		{
+			"episode": 918,
+			"title": "The Mini-Patrol Car Police's Big Chase",
+			"type": "filler",
+			"aired_date": "2018-10-27"
+		},
+		{
+			"episode": 919,
+			"title": "The High School Girl Trio's Secret Café (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2018-11-03"
+		},
+		{
+			"episode": 920,
+			"title": "The High School Girl Trio's Secret Café (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2018-11-10"
+		},
+		{
+			"episode": 921,
+			"title": "The Murderous Carpool",
+			"type": "filler",
+			"aired_date": "2018-11-17"
+		},
+		{
+			"episode": 922,
+			"title": "The Disappearing Detective Boys",
+			"type": "filler",
+			"aired_date": "2018-11-24"
+		},
+		{
+			"episode": 923,
+			"title": "A Day Without Conan",
+			"type": "filler",
+			"aired_date": "2018-12-01"
+		},
+		{
+			"episode": 924,
+			"title": "The Sun Sets Over Tangerine Fields",
+			"type": "filler",
+			"aired_date": "2018-12-08"
+		},
+		{
+			"episode": 925,
+			"title": "The Heartfelt Strap (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2018-12-15"
+		},
+		{
+			"episode": 926,
+			"title": "The Heartfelt Strap (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2018-12-22"
+		},
+		{
+			"episode": 927,
+			"title": "The Scarlet School Trip (Bright Red Arc) (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2019-01-05"
+		},
+		{
+			"episode": 928,
+			"title": "The Scarlet School Trip (Red Love Arc) (1 Hour Special)",
+			"type": "manga-canon",
+			"aired_date": "2019-01-12"
+		},
+		{
+			"episode": 929,
+			"title": "The Woman Standing in the Window (Part 1)",
+			"type": "filler",
+			"aired_date": "2019-02-02"
+		},
+		{
+			"episode": 930,
+			"title": "The Woman Standing in the Window (Part 2)",
+			"type": "filler",
+			"aired_date": "2019-02-09"
+		},
+		{
+			"episode": 931,
+			"title": "The Northern Kyushu Mystery Tour (Kokura Arc)",
+			"type": "filler",
+			"aired_date": "2019-02-16"
+		},
+		{
+			"episode": 932,
+			"title": "The Northern Kyushu Mystery Tour (Moji Arc)",
+			"type": "filler",
+			"aired_date": "2019-02-23"
+		},
+		{
+			"episode": 933,
+			"title": "The Thoroughbred Kidnapping Case (Part 1)",
+			"type": "filler",
+			"aired_date": "2019-03-09"
+		},
+		{
+			"episode": 934,
+			"title": "The Thoroughbred Kidnapping Case (Part 2)",
+			"type": "filler",
+			"aired_date": "2019-03-16"
+		},
+		{
+			"episode": 935,
+			"title": "The Fortune Teller and the Three Customers",
+			"type": "filler",
+			"aired_date": "2019-03-23"
+		},
+		{
+			"episode": 936,
+			"title": "Intrigue at the Food Court",
+			"type": "filler",
+			"aired_date": "2019-04-13"
+		},
+		{
+			"episode": 937,
+			"title": "The Killer Fist of Talos (Part 1)",
+			"type": "filler",
+			"aired_date": "2019-04-20"
+		},
+		{
+			"episode": 938,
+			"title": "The Killer Fist of Talos (Part 2)",
+			"type": "filler",
+			"aired_date": "2019-04-27"
+		},
+		{
+			"episode": 939,
+			"title": "The Dangerous Fossil Finding Trip",
+			"type": "filler",
+			"aired_date": "2019-05-04"
+		},
+		{
+			"episode": 940,
+			"title": "The Missing Girlfriend",
+			"type": "filler",
+			"aired_date": "2019-05-11"
+		},
+		{
+			"episode": 941,
+			"title": "Search for Maria-chan! (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2019-06-01"
+		},
+		{
+			"episode": 942,
+			"title": "Search for Maria-chan! (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2019-06-08"
+		},
+		{
+			"episode": 943,
+			"title": "The Tokyo Barls Collection",
+			"type": "filler",
+			"aired_date": "2019-06-15"
+		},
+		{
+			"episode": 944,
+			"title": "The Cost of Likes (Part 1)",
+			"type": "filler",
+			"aired_date": "2019-06-22"
+		},
+		{
+			"episode": 945,
+			"title": "The Cost of Likes (Part 2)",
+			"type": "filler",
+			"aired_date": "2019-06-29"
+		},
+		{
+			"episode": 946,
+			"title": "The Cursed Tears of Borgia (Part One)",
+			"type": "filler",
+			"aired_date": "2019-07-13"
+		},
+		{
+			"episode": 947,
+			"title": "The Cursed Tears of Borgia (Part Two)",
+			"type": "filler",
+			"aired_date": "2019-07-20"
+		},
+		{
+			"episode": 948,
+			"title": "The Man Crushed by a Dinosaur",
+			"type": "filler",
+			"aired_date": "2019-07-27"
+		},
+		{
+			"episode": 949,
+			"title": "The Radio Questions and Concerns Show (Challenge Arc)",
+			"type": "filler",
+			"aired_date": "2019-08-03"
+		},
+		{
+			"episode": 950,
+			"title": "The Radio Questions and Concerns Show (Solution Arc)",
+			"type": "filler",
+			"aired_date": "2019-08-10"
+		},
+		{
+			"episode": 951,
+			"title": "The Whistling Bookstore 2",
+			"type": "filler",
+			"aired_date": "2019-08-17"
+		},
+		{
+			"episode": 952,
+			"title": "The Unsolved Cocktail Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2019-08-31"
+		},
+		{
+			"episode": 953,
+			"title": "The Unsolved Cocktail Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2019-09-07"
+		},
+		{
+			"episode": 954,
+			"title": "The Unsolved Cocktail Case (Part 3)",
+			"type": "manga-canon",
+			"aired_date": "2019-09-14"
+		},
+		{
+			"episode": 955,
+			"title": "The Secret of the Insect Man",
+			"type": "filler",
+			"aired_date": "2019-09-28"
+		},
+		{
+			"episode": 956,
+			"title": "The Mystery-Solving Water Taxi (Part 1)",
+			"type": "filler",
+			"aired_date": "2019-10-12"
+		},
+		{
+			"episode": 957,
+			"title": "The Mystery-Solving Water Taxi (Part 2)",
+			"type": "filler",
+			"aired_date": "2019-10-19"
+		},
+		{
+			"episode": 958,
+			"title": "The Poodle and the Shotgun (Part 1)",
+			"type": "filler",
+			"aired_date": "2019-11-09"
+		},
+		{
+			"episode": 959,
+			"title": "The Poodle and the Shotgun (Part 2)",
+			"type": "filler",
+			"aired_date": "2019-11-16"
+		},
+		{
+			"episode": 960,
+			"title": "Miss Lonely and the Detective Boys",
+			"type": "filler",
+			"aired_date": "2019-11-23"
+		},
+		{
+			"episode": 961,
+			"title": "The Glamping Mystery",
+			"type": "filler",
+			"aired_date": "2019-11-30"
+		},
+		{
+			"episode": 962,
+			"title": "Mori Kogoro's Grand Lecture (Part One)",
+			"type": "filler",
+			"aired_date": "2019-12-07"
+		},
+		{
+			"episode": 963,
+			"title": "Mori Kogoro's Grand Lecture (Part Two)",
+			"type": "filler",
+			"aired_date": "2019-12-14"
+		},
+		{
+			"episode": 964,
+			"title": "Mori Kogoro's Grand Lecture (Part Three)",
+			"type": "filler",
+			"aired_date": "2019-12-21"
+		},
+		{
+			"episode": 965,
+			"title": "Kaiju Gomera VS Kamen Yaiba (Prologue)",
+			"type": "filler",
+			"aired_date": "2020-01-04"
+		},
+		{
+			"episode": 966,
+			"title": "Kaiju Gomera VS Kamen Yaiba (Interlude)",
+			"type": "filler",
+			"aired_date": "2020-01-11"
+		},
+		{
+			"episode": 967,
+			"title": "Kaiju Gomera VS Kamen Yaiba (Climax)",
+			"type": "filler",
+			"aired_date": "2020-01-18"
+		},
+		{
+			"episode": 968,
+			"title": "Kaiju Gomera VS Kamen Yaiba (Finale)",
+			"type": "filler",
+			"aired_date": "2020-01-25"
+		},
+		{
+			"episode": 969,
+			"title": "The Young Kaga Lady's Mystery Tour (Part One)",
+			"type": "filler",
+			"aired_date": "2020-02-15"
+		},
+		{
+			"episode": 970,
+			"title": "The Young Kaga Lady's Mystery Tour (Part Two)",
+			"type": "filler",
+			"aired_date": "2020-02-22"
+		},
+		{
+			"episode": 971,
+			"title": "Target: MPD Transportation Department (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2020-03-07"
+		},
+		{
+			"episode": 972,
+			"title": "Target: MPD Transportation Department (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2020-03-14"
+		},
+		{
+			"episode": 973,
+			"title": "Target: MPD Transportation Department (Part Three)",
+			"type": "manga-canon",
+			"aired_date": "2020-03-21"
+		},
+		{
+			"episode": 974,
+			"title": "Target: MPD Transportation Department (Part Four)",
+			"type": "manga-canon",
+			"aired_date": "2020-03-28"
+		},
+		{
+			"episode": 975,
+			"title": "The Secret of the Search for His Wife",
+			"type": "filler",
+			"aired_date": "2020-07-04"
+		},
+		{
+			"episode": 976,
+			"title": "Follow them! Detective Taxi",
+			"type": "filler",
+			"aired_date": "2020-07-18"
+		},
+		{
+			"episode": 977,
+			"title": "The Broken Fishbowl",
+			"type": "filler",
+			"aired_date": "2020-08-01"
+		},
+		{
+			"episode": 978,
+			"title": "The Case On the Opposite Shore",
+			"type": "filler",
+			"aired_date": "2020-08-15"
+		},
+		{
+			"episode": 979,
+			"title": "Leading a Detective Around By the Nose",
+			"type": "filler",
+			"aired_date": "2020-08-29"
+		},
+		{
+			"episode": 980,
+			"title": "An Encouragement of the Perfect Crime",
+			"type": "filler",
+			"aired_date": "2020-09-05"
+		},
+		{
+			"episode": 981,
+			"title": "Welcome to Bocchan Restaurant (Part One)",
+			"type": "filler",
+			"aired_date": "2020-09-19"
+		},
+		{
+			"episode": 982,
+			"title": "Welcome to Bocchan Restaurant (Part Two)",
+			"type": "filler",
+			"aired_date": "2020-09-26"
+		},
+		{
+			"episode": 983,
+			"title": "Kid vs. Komei: the Targeted Lips (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2020-10-03"
+		},
+		{
+			"episode": 984,
+			"title": "Kid vs. Komei: the Targeted Lips (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2020-10-10"
+		},
+		{
+			"episode": 985,
+			"title": "The Two Faces (Part One)",
+			"type": "filler",
+			"aired_date": "2020-10-24"
+		},
+		{
+			"episode": 986,
+			"title": "The Two Faces (Part Two)",
+			"type": "filler",
+			"aired_date": "2020-10-31"
+		},
+		{
+			"episode": 987,
+			"title": "The Company Dissolution Party",
+			"type": "filler",
+			"aired_date": "2020-11-07"
+		},
+		{
+			"episode": 988,
+			"title": "The Feuding Girls",
+			"type": "filler",
+			"aired_date": "2020-11-14"
+		},
+		{
+			"episode": 989,
+			"title": "The Case of Ayumi's Illustrated Diary",
+			"type": "filler",
+			"aired_date": "2020-12-05"
+		},
+		{
+			"episode": 990,
+			"title": "The Automatic Tragedy (Part One)",
+			"type": "filler",
+			"aired_date": "2020-12-12"
+		},
+		{
+			"episode": 991,
+			"title": "The Automatic Tragedy (Part Two)",
+			"type": "filler",
+			"aired_date": "2020-12-19"
+		},
+		{
+			"episode": 992,
+			"title": "Murder at the Townhouse Café",
+			"type": "filler",
+			"aired_date": "2020-12-26"
+		},
+		{
+			"episode": 993,
+			"title": "Makoto Kyogoku the Understudy (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2021-01-09"
+		},
+		{
+			"episode": 994,
+			"title": "Makoto Kyogoku the Understudy (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2021-01-16"
+		},
+		{
+			"episode": 995,
+			"title": "Makoto Kyogoku the Understudy (Part Three)",
+			"type": "manga-canon",
+			"aired_date": "2021-01-23"
+		},
+		{
+			"episode": 996,
+			"title": "The Skilled Hawk Hides His Crimes",
+			"type": "filler",
+			"aired_date": "2021-01-30"
+		},
+		{
+			"episode": 997,
+			"title": "Intrigue at Smile Village",
+			"type": "filler",
+			"aired_date": "2021-02-13"
+		},
+		{
+			"episode": 998,
+			"title": "The Frying Pan of Hatred",
+			"type": "filler",
+			"aired_date": "2021-02-20"
+		},
+		{
+			"episode": 999,
+			"title": "Troublesome Kindness",
+			"type": "filler",
+			"aired_date": "2021-02-27"
+		},
+		{
+			"episode": 1000,
+			"title": "The Moonlight Sonata Murder (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2021-03-06"
+		},
+		{
+			"episode": 1001,
+			"title": "The Moonlight Sonata Murder (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2021-03-13"
+		},
+		{
+			"episode": 1002,
+			"title": "The Beika City Shopping Center Garbage Bin Mystery",
+			"type": "filler",
+			"aired_date": "2021-04-17"
+		},
+		{
+			"episode": 1003,
+			"title": "The 36-Cell Perfect Game (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2021-04-24"
+		},
+		{
+			"episode": 1004,
+			"title": "The 36-Cell Perfect Game (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2021-05-01"
+		},
+		{
+			"episode": 1005,
+			"title": "The 36-Cell Perfect Game (Part Three)",
+			"type": "manga-canon",
+			"aired_date": "2021-05-08"
+		},
+		{
+			"episode": 1006,
+			"title": "Who Poisoned the Victim",
+			"type": "filler",
+			"aired_date": "2021-05-15"
+		},
+		{
+			"episode": 1007,
+			"title": "Out For Revenge (Part One)",
+			"type": "filler",
+			"aired_date": "2021-06-05"
+		},
+		{
+			"episode": 1008,
+			"title": "Out For Revenge (Part Two)",
+			"type": "filler",
+			"aired_date": "2021-06-12"
+		},
+		{
+			"episode": 1009,
+			"title": "The Lost Article That Smells Like a Case",
+			"type": "filler",
+			"aired_date": "2021-06-19"
+		},
+		{
+			"episode": 1010,
+			"title": "The Idol Whose Smile Disappeared",
+			"type": "filler",
+			"aired_date": "2021-06-26"
+		},
+		{
+			"episode": 1011,
+			"title": "Picking Wild Plants and Clovers (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2021-07-10"
+		},
+		{
+			"episode": 1012,
+			"title": "Picking Wild Plants and Clovers (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2021-07-17"
+		},
+		{
+			"episode": 1013,
+			"title": "The Man Who Loved Too Much",
+			"type": "filler",
+			"aired_date": "2021-07-24"
+		},
+		{
+			"episode": 1014,
+			"title": "The Novelist Known as the Demon King",
+			"type": "filler",
+			"aired_date": "2021-07-31"
+		},
+		{
+			"episode": 1015,
+			"title": "Stakeout",
+			"type": "filler",
+			"aired_date": "2021-08-14"
+		},
+		{
+			"episode": 1016,
+			"title": "The Monorail Sniper Case (Part One)",
+			"type": "filler",
+			"aired_date": "2021-08-28"
+		},
+		{
+			"episode": 1017,
+			"title": "The Monorail Sniper Case (Part Two)",
+			"type": "filler",
+			"aired_date": "2021-09-04"
+		},
+		{
+			"episode": 1018,
+			"title": "The Antique Tray Can't Be Hidden (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2021-09-11"
+		},
+		{
+			"episode": 1019,
+			"title": "The Antique Tray Can't Be Hidden (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2021-09-18"
+		},
+		{
+			"episode": 1020,
+			"title": "The Antique Tray Can't Be Hidden (Part Three)",
+			"type": "manga-canon",
+			"aired_date": "2021-09-25"
+		},
+		{
+			"episode": 1021,
+			"title": "Rondo in Bad Company",
+			"type": "filler",
+			"aired_date": "2021-10-02"
+		},
+		{
+			"episode": 1022,
+			"title": "The Cursed Museum",
+			"type": "filler",
+			"aired_date": "2021-10-09"
+		},
+		{
+			"episode": 1023,
+			"title": "The Whistling Bookstore 3",
+			"type": "filler",
+			"aired_date": "2021-10-16"
+		},
+		{
+			"episode": 1024,
+			"title": "Ooka Momiji's Challenge (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2021-10-30"
+		},
+		{
+			"episode": 1025,
+			"title": "Ooka Momiji's Challenge (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2021-11-06"
+		},
+		{
+			"episode": 1026,
+			"title": "The Wordless Witness",
+			"type": "filler",
+			"aired_date": "2021-11-13"
+		},
+		{
+			"episode": 1027,
+			"title": "Beyond the Curtain",
+			"type": "filler",
+			"aired_date": "2021-11-20"
+		},
+		{
+			"episode": 1028,
+			"title": "Ballad of the Woman Who Loved Cake",
+			"type": "filler",
+			"aired_date": "2021-11-27"
+		},
+		{
+			"episode": 1029,
+			"title": "Police Academy Arc Wild Police Story CASE. Jinpei Matsuda",
+			"type": "manga-canon",
+			"aired_date": "2021-12-04"
+		},
+		{
+			"episode": 1030,
+			"title": "The Blank Year (Part One)",
+			"type": "filler",
+			"aired_date": "2021-12-11"
+		},
+		{
+			"episode": 1031,
+			"title": "The Blank Year (Part Two)",
+			"type": "filler",
+			"aired_date": "2021-12-18"
+		},
+		{
+			"episode": 1032,
+			"title": "Mori Ran, the Model",
+			"type": "filler",
+			"aired_date": "2021-12-25"
+		},
+		{
+			"episode": 1033,
+			"title": "Taiko Meijin's Shogi Board (Opening Move)",
+			"type": "manga-canon",
+			"aired_date": "2022-01-08"
+		},
+		{
+			"episode": 1034,
+			"title": "Taiko Meijin's Shogi Board (Brilliant Move)",
+			"type": "manga-canon",
+			"aired_date": "2022-01-15"
+		},
+		{
+			"episode": 1035,
+			"title": "Taiko Meijin's Shogi Board (Checkmate)",
+			"type": "manga-canon",
+			"aired_date": "2022-01-22"
+		},
+		{
+			"episode": 1036,
+			"title": "Whiteout (Part One)",
+			"type": "filler",
+			"aired_date": "2022-01-29"
+		},
+		{
+			"episode": 1037,
+			"title": "Whiteout (Part Two)",
+			"type": "filler",
+			"aired_date": "2022-02-05"
+		},
+		{
+			"episode": 1038,
+			"title": "Police Academy Arc Wild Police Story CASE. Wataru Date",
+			"type": "manga-canon",
+			"aired_date": "2022-03-12"
+		},
+		{
+			"episode": 1039,
+			"title": "The Flying Jack-o'-lantern",
+			"type": "filler",
+			"aired_date": "2022-04-16"
+		},
+		{
+			"episode": 1040,
+			"title": "The Case of Ayumi's Illustrated Diary 2",
+			"type": "filler",
+			"aired_date": "2022-04-23"
+		},
+		{
+			"episode": 1041,
+			"title": "The Unstated Alibi",
+			"type": "filler",
+			"aired_date": "2022-04-30"
+		},
+		{
+			"episode": 1042,
+			"title": "Police Academy Arc Wild Police Story CASE. Kenji Hagiwara",
+			"type": "manga-canon",
+			"aired_date": "2022-05-07"
+		},
+		{
+			"episode": 1043,
+			"title": "The Figure of Revenge",
+			"type": "filler",
+			"aired_date": "2022-05-14"
+		},
+		{
+			"episode": 1044,
+			"title": "The Deadly Pork Soup Signal",
+			"type": "filler",
+			"aired_date": "2022-05-21"
+		},
+		{
+			"episode": 1045,
+			"title": "The Birthday Party of Divine Punishment (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2022-06-04"
+		},
+		{
+			"episode": 1046,
+			"title": "The Birthday Party of Divine Punishment (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2022-06-11"
+		},
+		{
+			"episode": 1047,
+			"title": "The Red Sheep's Eerie Game (Part One)",
+			"type": "filler",
+			"aired_date": "2022-06-18"
+		},
+		{
+			"episode": 1048,
+			"title": "The Red Sheep's Eerie Game (Part Two)",
+			"type": "filler",
+			"aired_date": "2022-06-25"
+		},
+		{
+			"episode": 1049,
+			"title": "The Threat to Megure's Police Career",
+			"type": "filler",
+			"aired_date": "2022-07-09"
+		},
+		{
+			"episode": 1050,
+			"title": "Intrigue at Morikawa Mansion (Part One)",
+			"type": "filler",
+			"aired_date": "2022-07-16"
+		},
+		{
+			"episode": 1051,
+			"title": "Intrigue at Morikawa Mansion (Part Two)",
+			"type": "filler",
+			"aired_date": "2022-07-23"
+		},
+		{
+			"episode": 1052,
+			"title": "The Detective Boys' Test of Courage",
+			"type": "filler",
+			"aired_date": "2022-07-30"
+		},
+		{
+			"episode": 1053,
+			"title": "The Spark That Fell on the Ranch (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2022-08-06"
+		},
+		{
+			"episode": 1054,
+			"title": "The Spark That Fell on the Ranch (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2022-08-13"
+		},
+		{
+			"episode": 1055,
+			"title": "The Ghost's Revenge",
+			"type": "filler",
+			"aired_date": "2022-09-03"
+		},
+		{
+			"episode": 1056,
+			"title": "I Want My Husband Back",
+			"type": "filler",
+			"aired_date": "2022-09-17"
+		},
+		{
+			"episode": 1057,
+			"title": "Bad Guys",
+			"type": "filler",
+			"aired_date": "2022-09-24"
+		},
+		{
+			"episode": 1058,
+			"title": "The Man Who Camped Out at the Police Station",
+			"type": "filler",
+			"aired_date": "2022-10-01"
+		},
+		{
+			"episode": 1059,
+			"title": "Yoko Okino and the Locked Attic (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2022-10-08"
+		},
+		{
+			"episode": 1060,
+			"title": "Yoko Okino and the Locked Attic (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2022-10-15"
+		},
+		{
+			"episode": 1061,
+			"title": "Police Academy Arc Wild Police Story CASE. Hiromitsu Morofushi",
+			"type": "manga-canon",
+			"aired_date": "2022-10-29"
+		},
+		{
+			"episode": 1062,
+			"title": "The Spiral of Rain and Malice",
+			"type": "filler",
+			"aired_date": "2022-11-05"
+		},
+		{
+			"episode": 1063,
+			"title": "The Targeted Chicken Sexer",
+			"type": "filler",
+			"aired_date": "2022-11-12"
+		},
+		{
+			"episode": 1064,
+			"title": "The Dreamy-Eyed Woman's Last Shot at Love",
+			"type": "filler",
+			"aired_date": "2022-11-19"
+		},
+		{
+			"episode": 1065,
+			"title": "Detectives Don't Sleep",
+			"type": "filler",
+			"aired_date": "2022-11-26"
+		},
+		{
+			"episode": 1066,
+			"title": "'Til Death Do Us Part",
+			"type": "filler",
+			"aired_date": "2022-12-03"
+		},
+		{
+			"episode": 1067,
+			"title": "The Shopping Center in Love",
+			"type": "filler",
+			"aired_date": "2022-12-24"
+		},
+		{
+			"episode": 1068,
+			"title": "Mitsuhiko Tsuburaya's Detective Notes",
+			"type": "filler",
+			"aired_date": "2023-01-07"
+		},
+		{
+			"episode": 1069,
+			"title": "The Sweet Voice Heard Through the Phone",
+			"type": "filler",
+			"aired_date": "2023-01-14"
+		},
+		{
+			"episode": 1070,
+			"title": "The Surprise That Leads to Tragedy",
+			"type": "filler",
+			"aired_date": "2023-01-21"
+		},
+		{
+			"episode": 1071,
+			"title": "Yusaku Kudo's Detective Show (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2023-01-28"
+		},
+		{
+			"episode": 1072,
+			"title": "Yusaku Kudo's Detective Show (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2023-02-04"
+		},
+		{
+			"episode": 1073,
+			"title": "The Detective Boys' Pursuit of the Purse-snatcher",
+			"type": "filler",
+			"aired_date": "2023-02-11"
+		},
+		{
+			"episode": 1074,
+			"title": "The Boiled Fugu Mystery Tour Showdown (Mojiko & Kokura Part)",
+			"type": "filler",
+			"aired_date": "2023-02-18"
+		},
+		{
+			"episode": 1075,
+			"title": "The Boiled Fugu Mystery Tour Showdown (Shimonoseki Part)",
+			"type": "filler",
+			"aired_date": "2023-02-25"
+		},
+		{
+			"episode": 1076,
+			"title": "The Charismatic CEO's Secret Plan",
+			"type": "filler",
+			"aired_date": "2023-03-04"
+		},
+		{
+			"episode": 1077,
+			"title": "The Black Organization's Scheme (Hunt)",
+			"type": "manga-canon",
+			"aired_date": "2023-03-25"
+		},
+		{
+			"episode": 1078,
+			"title": "The Black Organization's Scheme (Landing)",
+			"type": "manga-canon",
+			"aired_date": "2023-04-01"
+		},
+		{
+			"episode": 1079,
+			"title": "The Black Organization's Scheme (Identity)",
+			"type": "manga-canon",
+			"aired_date": "2023-04-08"
+		},
+		{
+			"episode": 1080,
+			"title": "The Cameras Targeting Haibara",
+			"type": "filler",
+			"aired_date": "2023-04-15"
+		},
+		{
+			"episode": 1081,
+			"title": "My Beloved Dog Pan-kun Is a Good Boy",
+			"type": "filler",
+			"aired_date": "2023-04-22"
+		},
+		{
+			"episode": 1082,
+			"title": "The Alley of Sad Betrayal",
+			"type": "filler",
+			"aired_date": "2023-04-29"
+		},
+		{
+			"episode": 1083,
+			"title": "Behind the Scenes of the J League Finals",
+			"type": "filler",
+			"aired_date": "2023-05-13"
+		},
+		{
+			"episode": 1084,
+			"title": "The Freezing Cold Men",
+			"type": "filler",
+			"aired_date": "2023-05-20"
+		},
+		{
+			"episode": 1085,
+			"title": "The Inauspicious Matchmaking (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2023-06-03"
+		},
+		{
+			"episode": 1086,
+			"title": "The Inauspicious Matchmaking (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2023-06-10"
+		},
+		{
+			"episode": 1087,
+			"title": "The Case of Ayumi's Illustrated Diary 3",
+			"type": "filler",
+			"aired_date": "2023-06-17"
+		},
+		{
+			"episode": 1088,
+			"title": "The Unfortunate and Suspicious Victim‎‎",
+			"type": "filler",
+			"aired_date": "2023-06-24"
+		},
+		{
+			"episode": 1089,
+			"title": "The Genius Restaurant",
+			"type": "filler",
+			"aired_date": "2023-07-08"
+		},
+		{
+			"episode": 1090,
+			"title": "The Culprit Who Disappeared Into the Sleeping Town",
+			"type": "filler",
+			"aired_date": "2023-07-15"
+		},
+		{
+			"episode": 1091,
+			"title": "Girls Day Mystery",
+			"type": "filler",
+			"aired_date": "2023-07-22"
+		},
+		{
+			"episode": 1092,
+			"title": "Stakeout 2",
+			"type": "filler",
+			"aired_date": "2023-07-29"
+		},
+		{
+			"episode": 1093,
+			"title": "Akemi Miyano's Time Capsule (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2023-08-05"
+		},
+		{
+			"episode": 1094,
+			"title": "Akemi Miyano's Time Capsule (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2023-08-12"
+		},
+		{
+			"episode": 1095,
+			"title": "The Missing Man's Dream",
+			"type": "filler",
+			"aired_date": "2023-09-02"
+		},
+		{
+			"episode": 1096,
+			"title": "Mitsuhiko Tsuburaya's Detective Notes 2",
+			"type": "filler",
+			"aired_date": "2023-09-09"
+		},
+		{
+			"episode": 1097,
+			"title": "Did I Do It?",
+			"type": "filler",
+			"aired_date": "2023-09-16"
+		},
+		{
+			"episode": 1098,
+			"title": "Chihaya Hagiwara, Goddess of the Wind (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2023-09-23"
+		},
+		{
+			"episode": 1099,
+			"title": "Chihaya Hagiwara, Goddess of the Wind (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2023-09-30"
+		},
+		{
+			"episode": 1100,
+			"title": "The Troublesome 20 Million Yen",
+			"type": "filler",
+			"aired_date": "2023-10-14"
+		},
+		{
+			"episode": 1101,
+			"title": "Pride of the Immortal Man",
+			"type": "filler",
+			"aired_date": "2023-10-21"
+		},
+		{
+			"episode": 1102,
+			"title": "The Akabeko and the Three Lucky Men",
+			"type": "filler",
+			"aired_date": "2023-11-04"
+		},
+		{
+			"episode": 1103,
+			"title": "The Teen Novel That Smells Like Guilt",
+			"type": "filler",
+			"aired_date": "2023-11-11"
+		},
+		{
+			"episode": 1104,
+			"title": "The True Culprit is On the Run",
+			"type": "filler",
+			"aired_date": "2023-11-18"
+		},
+		{
+			"episode": 1105,
+			"title": "Kid vs. Amuro: The Queen's Bangs (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2023-12-02"
+		},
+		{
+			"episode": 1106,
+			"title": "Kid vs. Amuro: The Queen's Bangs (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2023-12-09"
+		},
+		{
+			"episode": 1107,
+			"title": "I Was Set Up",
+			"type": "filler",
+			"aired_date": "2023-12-16"
+		},
+		{
+			"episode": 1108,
+			"title": "The Secret Hidden By the Cards",
+			"type": "filler",
+			"aired_date": "2023-12-23"
+		},
+		{
+			"episode": 1109,
+			"title": "Takagi and Date and the Notebook Promise (Part One)",
+			"type": "manga-canon",
+			"aired_date": "2024-01-06"
+		},
+		{
+			"episode": 1110,
+			"title": "Takagi and Date and the Notebook Promise (Part Two)",
+			"type": "manga-canon",
+			"aired_date": "2024-01-13"
+		},
+		{
+			"episode": 1111,
+			"title": "Rube Goldberg Machine (Part One)",
+			"type": "filler",
+			"aired_date": "2024-01-20"
+		},
+		{
+			"episode": 1112,
+			"title": "Rube Goldberg Machine (Part Two)",
+			"type": "filler",
+			"aired_date": "2024-01-27"
+		},
+		{
+			"episode": 1113,
+			"title": "Last Dinner For You",
+			"type": "filler",
+			"aired_date": "2024-02-03"
+		},
+		{
+			"episode": 1114,
+			"title": "The Holed-Up Sensation",
+			"type": "filler",
+			"aired_date": "2024-02-10"
+		},
+		{
+			"episode": 1115,
+			"title": "Chihaya and Jugo's Matchmaking Party (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2024-03-02"
+		},
+		{
+			"episode": 1116,
+			"title": "Chihaya and Jugo's Matchmaking Party (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2024-03-09"
+		},
+		{
+			"episode": 1117,
+			"title": "Karate Teacher Ran Mori",
+			"type": "filler",
+			"aired_date": "2024-03-16"
+		},
+		{
+			"episode": 1118,
+			"title": "Girls Day Mystery 2",
+			"type": "filler",
+			"aired_date": "2024-03-23"
+		},
+		{
+			"episode": 1119,
+			"title": "The Four-Person Class Reunion",
+			"type": "filler",
+			"aired_date": "2024-04-06"
+		},
+		{
+			"episode": 1120,
+			"title": "Mystery of the Lost Treasure",
+			"type": "filler",
+			"aired_date": "2024-04-13"
+		},
+		{
+			"episode": 1121,
+			"title": "The Dangerous Melon Field",
+			"type": "filler",
+			"aired_date": "2024-04-27"
+		},
+		{
+			"episode": 1122,
+			"title": "Stakeout 3",
+			"type": "filler",
+			"aired_date": "2024-05-04"
+		},
+		{
+			"episode": 1123,
+			"title": "The Body on the Gunma-Nagano Border (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2024-05-11"
+		},
+		{
+			"episode": 1124,
+			"title": "The Body on the Gunma-Nagano Border (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2024-05-18"
+		},
+		{
+			"episode": 1125,
+			"title": "The Case of Ayumi's Illustrated Diary 4",
+			"type": "filler",
+			"aired_date": "2024-06-01"
+		},
+		{
+			"episode": 1126,
+			"title": "The Detective Who Lost His Mind",
+			"type": "filler",
+			"aired_date": "2024-06-08"
+		},
+		{
+			"episode": 1127,
+			"title": "The Interrogation Room 2",
+			"type": "filler",
+			"aired_date": "2024-06-15"
+		},
+		{
+			"episode": 1128,
+			"title": "Conan and Megure's Two Hostages (Part 1)",
+			"type": "filler",
+			"aired_date": "2024-06-22"
+		},
+		{
+			"episode": 1129,
+			"title": "Conan and Megure's Two Hostages (Part 2)",
+			"type": "filler",
+			"aired_date": "2024-06-29"
+		},
+		{
+			"episode": 1130,
+			"title": "The Suspected Infidelity of the Triple Collab (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2024-07-20"
+		},
+		{
+			"episode": 1131,
+			"title": "The Suspected Infidelity of the Triple Collab (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2024-08-03"
+		},
+		{
+			"episode": 1132,
+			"title": "Mitsuhiko Tsuburaya's Detective Notes 3",
+			"type": "filler",
+			"aired_date": "2024-08-17"
+		},
+		{
+			"episode": 1133,
+			"title": "Best Husband",
+			"type": "filler",
+			"aired_date": "2024-08-24"
+		},
+		{
+			"episode": 1134,
+			"title": "Misfortune of the Positive Man",
+			"type": "filler",
+			"aired_date": "2024-09-14"
+		},
+		{
+			"episode": 1135,
+			"title": "Ooka Momiji’s Sweet Trap (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2024-09-21"
+		},
+		{
+			"episode": 1136,
+			"title": "Ooka Momiji’s Sweet Trap (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2024-09-28"
+		},
+		{
+			"episode": 1137,
+			"title": "The Secret of the Popular Restaurant's Changing Flavor",
+			"type": "filler",
+			"aired_date": "2024-10-05"
+		},
+		{
+			"episode": 1138,
+			"title": "The Moving Police Box",
+			"type": "filler",
+			"aired_date": "2024-10-12"
+		},
+		{
+			"episode": 1139,
+			"title": "The Sister Troubled By Her Naughty Brother",
+			"type": "filler",
+			"aired_date": "2024-10-19"
+		},
+		{
+			"episode": 1140,
+			"title": "Girls Day Mystery 3",
+			"type": "filler",
+			"aired_date": "2024-11-02"
+		},
+		{
+			"episode": 1141,
+			"title": "The Mori Family House Sits",
+			"type": "filler",
+			"aired_date": "2024-11-09"
+		},
+		{
+			"episode": 1142,
+			"title": "The Ranpo Mansion Murder Case (Part 1)",
+			"type": "filler",
+			"aired_date": "2024-11-16"
+		},
+		{
+			"episode": 1143,
+			"title": "The Ranpo Mansion Murder Case (Part 2)",
+			"type": "filler",
+			"aired_date": "2024-11-23"
+		},
+		{
+			"episode": 1144,
+			"title": "The Hotel Serial Bombing Case (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2024-12-07"
+		},
+		{
+			"episode": 1145,
+			"title": "The Hotel Serial Bombing Case (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2024-12-14"
+		},
+		{
+			"episode": 1146,
+			"title": "The Whistling Bookstore 4",
+			"type": "filler",
+			"aired_date": "2024-12-21"
+		},
+		{
+			"episode": 1147,
+			"title": "Stakeout 4",
+			"type": "filler",
+			"aired_date": "2024-12-28"
+		},
+		{
+			"episode": 1148,
+			"title": "The Detective Boys and the Two Leaders (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2025-01-04"
+		},
+		{
+			"episode": 1149,
+			"title": "The Detective Boys and the Two Leaders (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2025-01-11"
+		},
+		{
+			"episode": 1150,
+			"title": "Kaitou Kid and the Crown Trick (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2025-01-18"
+		},
+		{
+			"episode": 1151,
+			"title": "Kaitou Kid and the Crown Trick (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2025-01-25"
+		},
+		{
+			"episode": 1152,
+			"title": "Last Dance",
+			"type": "filler",
+			"aired_date": "2025-02-08"
+		},
+		{
+			"episode": 1153,
+			"title": "The Yamahime of Yakushima (Part 1)",
+			"type": "filler",
+			"aired_date": "2025-02-15"
+		},
+		{
+			"episode": 1154,
+			"title": "The Yamahime of Yakushima (Part 2)",
+			"type": "filler",
+			"aired_date": "2025-02-22"
+		},
+		{
+			"episode": 1155,
+			"title": "Follow Them! Detective Taxi 2",
+			"type": "filler",
+			"aired_date": "2025-03-01"
+		},
+		{
+			"episode": 1156,
+			"title": "The Ishikawa Yorumasshi Mystery (Part 1)",
+			"type": "filler",
+			"aired_date": "2025-03-08"
+		},
+		{
+			"episode": 1157,
+			"title": "The Ishikawa Yorumasshi Mystery (Part 2)",
+			"type": "filler",
+			"aired_date": "2025-03-15"
+		},
+		{
+			"episode": 1158,
+			"title": "The Detective Boys and the Traditional Dream House",
+			"type": "filler",
+			"aired_date": "2025-04-12"
+		},
+		{
+			"episode": 1159,
+			"title": "The Whereabouts of the Goodbye",
+			"type": "filler",
+			"aired_date": "2025-04-19"
+		},
+		{
+			"episode": 1160,
+			"title": "When the Shishi-odoshi Sounds",
+			"type": "filler",
+			"aired_date": "2025-04-26"
+		},
+		{
+			"episode": 1161,
+			"title": "The Secret's Afterimage",
+			"type": "filler",
+			"aired_date": "2025-05-03"
+		},
+		{
+			"episode": 1162,
+			"title": "The Case of Ayumi's Illustrated Diary 5",
+			"type": "filler",
+			"aired_date": "2025-05-10"
+		},
+		{
+			"episode": 1163,
+			"title": "The Counting Song Heard in the Dark",
+			"type": "filler",
+			"aired_date": "2025-05-17"
+		},
+		{
+			"episode": 1164,
+			"title": "The 17-Year-Old Truth (The Bloody Knight)",
+			"type": "manga-canon",
+			"aired_date": "2025-06-07"
+		},
+		{
+			"episode": 1165,
+			"title": "The 17-Year-Old Truth (The Perceptive Devil)",
+			"type": "manga-canon",
+			"aired_date": "2025-06-14"
+		},
+		{
+			"episode": 1166,
+			"title": "The 17-Year-Old Truth (The Far-Sighted Bishop)",
+			"type": "manga-canon",
+			"aired_date": "2025-06-21"
+		},
+		{
+			"episode": 1167,
+			"title": "The 17-Year-Old Truth (The Queen's Gambit)",
+			"type": "manga-canon",
+			"aired_date": "2025-06-28"
+		},
+		{
+			"episode": 1168,
+			"title": "Genta's Casebook of the Eel",
+			"type": "filler",
+			"aired_date": "2025-07-19"
+		},
+		{
+			"episode": 1169,
+			"title": "The Mystery of the Man-Eating Classroom (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2025-07-26"
+		},
+		{
+			"episode": 1170,
+			"title": "The Mystery of the Man-Eating Classroom (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2025-08-02"
+		},
+		{
+			"episode": 1171,
+			"title": "The Reason He Became a Butler (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2025-08-16"
+		},
+		{
+			"episode": 1172,
+			"title": "The Reason He Became a Butler (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2025-08-23"
+		},
+		{
+			"episode": 1173,
+			"title": "It's a Ghost!",
+			"type": "filler",
+			"aired_date": "2025-08-30"
+		},
+		{
+			"episode": 1174,
+			"title": "The Glassy Water's Surface (Part 1)",
+			"type": "filler",
+			"aired_date": "2025-09-06"
+		},
+		{
+			"episode": 1175,
+			"title": "The Glassy Water's Surface (Part 2)",
+			"type": "filler",
+			"aired_date": "2025-09-13"
+		},
+		{
+			"episode": 1176,
+			"title": "The Hero of Ishinomaki",
+			"type": "filler",
+			"aired_date": "2025-09-20"
+		},
+		{
+			"episode": 1177,
+			"title": "Find the Phantom Giant",
+			"type": "filler",
+			"aired_date": "2025-09-27"
+		},
+		{
+			"episode": 1178,
+			"title": "The Crimson Skeleton of Mt. Washio (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2025-10-11"
+		},
+		{
+			"episode": 1179,
+			"title": "The Crimson Skeleton of Mt. Washio (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2025-10-18"
+		},
+		{
+			"episode": 1180,
+			"title": "The Lucky Cat Saw Everything",
+			"type": "filler",
+			"aired_date": "2025-11-01"
+		},
+		{
+			"episode": 1181,
+			"title": "Buchi Returns a Favor",
+			"type": "filler",
+			"aired_date": "2025-11-08"
+		},
+		{
+			"episode": 1182,
+			"title": "Arrest That Face",
+			"type": "filler",
+			"aired_date": "2025-11-15"
+		},
+		{
+			"episode": 1183,
+			"title": "The Interrogation Room 3",
+			"type": "filler",
+			"aired_date": "2025-11-29"
+		},
+		{
+			"episode": 1184,
+			"title": "The Red-Brick Warehouse and the Vanishing Kidnapper (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2025-12-06"
+		},
+		{
+			"episode": 1185,
+			"title": "The Red-Brick Warehouse and the Vanishing Kidnapper (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2025-12-13"
+		},
+		{
+			"episode": 1186,
+			"title": "Girls Day Mystery 4",
+			"type": "filler",
+			"aired_date": "2025-12-27"
+		},
+		{
+			"episode": 1187,
+			"title": "Episode \"ZERO\" The Shinichi Kudo Aquarium Case",
+			"type": "anime-canon",
+			"aired_date": "2026-01-03"
+		},
+		{
+			"episode": 1188,
+			"title": "Follow Them! Detective Taxi 3",
+			"type": "filler",
+			"aired_date": "2026-01-10"
+		},
+		{
+			"episode": 1189,
+			"title": "Double Alibi",
+			"type": "filler",
+			"aired_date": "2026-01-17"
+		},
+		{
+			"episode": 1190,
+			"title": "The Lover Who Vanished on Pont Koitani (Tottori Tour)",
+			"type": "filler",
+			"aired_date": "2026-01-24"
+		},
+		{
+			"episode": 1191,
+			"title": "The Lover Who Vanished on Pont Koitani (Misasa Arc)",
+			"type": "filler",
+			"aired_date": "2026-01-31"
+		},
+		{
+			"episode": 1192,
+			"title": "Mitsuhiko Tsuburaya's Detective Notes 4",
+			"type": "filler",
+			"aired_date": "2026-03-07"
+		},
+		{
+			"episode": 1193,
+			"title": "Kid VS Hakuba: The Azure Throne (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2026-03-14"
+		},
+		{
+			"episode": 1194,
+			"title": "Kid VS Hakuba: The Azure Throne (Part 2)",
+			"type": "manga-canon",
+			"aired_date": "2026-03-21"
+		},
+		{
+			"episode": 1195,
+			"title": "The Spiral Mansion Mystery (Part 1)",
+			"type": "filler",
+			"aired_date": "2026-03-28"
+		},
+		{
+			"episode": 1196,
+			"title": "The Spiral Mansion Mystery (Part 2)",
+			"type": "filler",
+			"aired_date": "2026-04-04"
+		},
+		{
+			"episode": 1197,
+			"title": "The Cosplay Rider of the Wind",
+			"type": "filler",
+			"aired_date": "2026-04-11"
+		},
+		{
+			"episode": 1198,
+			"title": "Cinderella's Shoe",
+			"type": "filler",
+			"aired_date": "2026-04-18"
+		}
+	]
+}

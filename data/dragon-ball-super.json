@@ -1,0 +1,796 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Dragon Ball Super",
+	"mappings": {
+		"anilist_id": 21175,
+		"mal_id": 30694
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Peace Reward - Who Will Get the 100 Million Zeni?",
+			"type": "mixed-manga",
+			"aired_date": "2015-07-05"
+		},
+		{
+			"episode": 2,
+			"title": "To the Promised Resort! Vegeta Goes on a Family Trip!?",
+			"type": "mixed-manga",
+			"aired_date": "2015-07-12"
+		},
+		{
+			"episode": 3,
+			"title": "Where's the Rest of the Dream?! In Search of the Super Saiyan God!",
+			"type": "manga-canon",
+			"aired_date": "2015-07-19"
+		},
+		{
+			"episode": 4,
+			"title": "Aim for the Dragon Balls! Pilaf Gang in Action!",
+			"type": "filler",
+			"aired_date": "2015-08-02"
+		},
+		{
+			"episode": 5,
+			"title": "The Ultimate Fight on King Kai's Planet! Goku Vs the God of Destruction Beerus",
+			"type": "manga-canon",
+			"aired_date": "2015-08-09"
+		},
+		{
+			"episode": 6,
+			"title": "Don't Anger the God of Destruction! Excitement at the Birthday Party",
+			"type": "manga-canon",
+			"aired_date": "2015-08-16"
+		},
+		{
+			"episode": 7,
+			"title": "How Dare You Hurt My Bulma! Vegeta's Sudden, Angry Shift?!",
+			"type": "manga-canon",
+			"aired_date": "2015-08-23"
+		},
+		{
+			"episode": 8,
+			"title": "Goku Arrives! A Last Chance from Beerus Sama?!",
+			"type": "manga-canon",
+			"aired_date": "2015-08-30"
+		},
+		{
+			"episode": 9,
+			"title": "Sorry for the Wait, Beerus Sama. The Super Saiyan God is Finally Born!",
+			"type": "manga-canon",
+			"aired_date": "2015-09-06"
+		},
+		{
+			"episode": 10,
+			"title": "Unleash It, Goku! The Power of the Super Saiyan God!!",
+			"type": "manga-canon",
+			"aired_date": "2015-09-13"
+		},
+		{
+			"episode": 11,
+			"title": "Let's Keep Going, Beerus Sama! Our Battle of Gods!",
+			"type": "manga-canon",
+			"aired_date": "2015-09-20"
+		},
+		{
+			"episode": 12,
+			"title": "The Universe Crumbles?! Clash! God of Destruction Vs. Super Saiyan God",
+			"type": "manga-canon",
+			"aired_date": "2015-09-27"
+		},
+		{
+			"episode": 13,
+			"title": "Goku, Surpass the Super Saiyan God!",
+			"type": "manga-canon",
+			"aired_date": "2015-10-04"
+		},
+		{
+			"episode": 14,
+			"title": "This Is Every Ounce of Power I Have! The Battle of Gods' Conclusion!",
+			"type": "manga-canon",
+			"aired_date": "2015-10-11"
+		},
+		{
+			"episode": 15,
+			"title": "Make a Miracle, Satan the Hero! A Challenge from Outer Space",
+			"type": "filler",
+			"aired_date": "2015-10-18"
+		},
+		{
+			"episode": 16,
+			"title": "Vegeta Becomes an Apprentice?! Winning Whis Over!",
+			"type": "anime-canon",
+			"aired_date": "2015-10-25"
+		},
+		{
+			"episode": 17,
+			"title": "Pan is Born! And Goku Goes on a Training Trip?!",
+			"type": "anime-canon",
+			"aired_date": "2015-11-01"
+		},
+		{
+			"episode": 18,
+			"title": "I'm Here, Too! Training Begins On Beerus' Planet!",
+			"type": "manga-canon",
+			"aired_date": "2015-11-08"
+		},
+		{
+			"episode": 19,
+			"title": "Despair Rises! The Emperor of Evil, Frieza, Resurrected!",
+			"type": "manga-canon",
+			"aired_date": "2015-11-15"
+		},
+		{
+			"episode": 20,
+			"title": "Jaco's Warning! Frieza and His 1000 Troops Approach",
+			"type": "manga-canon",
+			"aired_date": "2015-11-22"
+		},
+		{
+			"episode": 21,
+			"title": "The Start of Revenge! the Malice of Frieza Army Strikes Gohan!",
+			"type": "manga-canon",
+			"aired_date": "2015-11-29"
+		},
+		{
+			"episode": 22,
+			"title": "Change! an Unexpected Return! His Name Is Ginyu!!",
+			"type": "anime-canon",
+			"aired_date": "2015-12-06"
+		},
+		{
+			"episode": 23,
+			"title": "The Earth! Gohan! Absolute Peril! Hurry and Get Here, Son Goku!!",
+			"type": "manga-canon",
+			"aired_date": "2015-12-13"
+		},
+		{
+			"episode": 24,
+			"title": "Clash! Frieza Vs Son Goku - This Is The Result of My Training!",
+			"type": "manga-canon",
+			"aired_date": "2015-12-20"
+		},
+		{
+			"episode": 25,
+			"title": "An All-Out Battle! The Revenge of Golden Frieza",
+			"type": "manga-canon",
+			"aired_date": "2015-12-27"
+		},
+		{
+			"episode": 26,
+			"title": "A Glint of Hope Shines Through in a Crisis! Time to Fight Back, Son Goku!",
+			"type": "manga-canon",
+			"aired_date": "2016-01-10"
+		},
+		{
+			"episode": 27,
+			"title": "The Earth Explodes?! The Deciding Kamehameha",
+			"type": "manga-canon",
+			"aired_date": "2016-01-17"
+		},
+		{
+			"episode": 28,
+			"title": "The God of Destruction from Universe 6 - His Name Is Champa",
+			"type": "manga-canon",
+			"aired_date": "2016-01-24"
+		},
+		{
+			"episode": 29,
+			"title": "The Martial Arts Match Has Been Decided! The Team Captain Is Stronger Than Goku",
+			"type": "manga-canon",
+			"aired_date": "2016-01-31"
+		},
+		{
+			"episode": 30,
+			"title": "A Review Before the 'Martial Arts Match' - Who Are the Last Two Members?!",
+			"type": "manga-canon",
+			"aired_date": "2016-02-07"
+		},
+		{
+			"episode": 31,
+			"title": "Off to Zuno Sama's! Find Out Where Super Dragon Balls Are!",
+			"type": "manga-canon",
+			"aired_date": "2016-02-14"
+		},
+		{
+			"episode": 32,
+			"title": "The Match Begins! Let's All Go to the Nameless Planet!",
+			"type": "manga-canon",
+			"aired_date": "2016-02-21"
+		},
+		{
+			"episode": 33,
+			"title": "Behold, Universe 6! This Is the Super Saiyan? Son Goku!",
+			"type": "manga-canon",
+			"aired_date": "2016-02-28"
+		},
+		{
+			"episode": 34,
+			"title": "Piccolo Vs. Frost - Put It All on the Special Beam Cannon!",
+			"type": "manga-canon",
+			"aired_date": "2016-03-06"
+		},
+		{
+			"episode": 35,
+			"title": "Turn Rage into Strength! Vegeta's Full-On Battle",
+			"type": "manga-canon",
+			"aired_date": "2016-03-20"
+		},
+		{
+			"episode": 36,
+			"title": "An Unexpected Desperate Battle! Vegeta's Furious Explosion!",
+			"type": "manga-canon",
+			"aired_date": "2016-03-27"
+		},
+		{
+			"episode": 37,
+			"title": "Don't Forget Your Saiyan Pride! Vegeta Vs the Saiyan of Universe 6",
+			"type": "manga-canon",
+			"aired_date": "2016-04-03"
+		},
+		{
+			"episode": 38,
+			"title": "The Ultimate Warrior of Universe 6! Assassin Hit Appears!!",
+			"type": "manga-canon",
+			"aired_date": "2016-04-10"
+		},
+		{
+			"episode": 39,
+			"title": "The Advanced 'Time-Skip' Fights Back?! Will it Come Forth? Goku's New Technique!",
+			"type": "manga-canon",
+			"aired_date": "2016-04-17"
+		},
+		{
+			"episode": 40,
+			"title": "At Last, It Comes to an End! Is the Winner Beerus? Or is it Champa?",
+			"type": "manga-canon",
+			"aired_date": "2016-04-24"
+		},
+		{
+			"episode": 41,
+			"title": "Come, God of Dragons - And Pretty Please Grant My Wish!",
+			"type": "manga-canon",
+			"aired_date": "2016-05-01"
+		},
+		{
+			"episode": 42,
+			"title": "Trouble at the Victory Celebration! Showdown at Last?! Monaka vs. Son Goku",
+			"type": "filler",
+			"aired_date": "2016-05-08"
+		},
+		{
+			"episode": 43,
+			"title": "Goku's 'Ki' is Out of Control?! Looking After Pan is A Lot of Trouble",
+			"type": "filler",
+			"aired_date": "2016-05-15"
+		},
+		{
+			"episode": 44,
+			"title": "Seal of Planet Potofu - Secret of the Superhuman Water is Unleashed",
+			"type": "filler",
+			"aired_date": "2016-05-22"
+		},
+		{
+			"episode": 45,
+			"title": "Vegeta Disappears?! The Threat Of Duplicated Vegeta!",
+			"type": "filler",
+			"aired_date": "2016-05-29"
+		},
+		{
+			"episode": 46,
+			"title": "Goku vs. Duplicated Vegeta! Who's Gonna Win?!",
+			"type": "filler",
+			"aired_date": "2016-06-05"
+		},
+		{
+			"episode": 47,
+			"title": "An SOS from the Future! A Dark New Enemy Emerges!!",
+			"type": "manga-canon",
+			"aired_date": "2016-06-12"
+		},
+		{
+			"episode": 48,
+			"title": "Hope!! Once More Awaken in the Present, Trunks",
+			"type": "manga-canon",
+			"aired_date": "2016-06-19"
+		},
+		{
+			"episode": 49,
+			"title": "A Message from the Future - Goku Black Strikes!",
+			"type": "manga-canon",
+			"aired_date": "2016-06-26"
+		},
+		{
+			"episode": 50,
+			"title": "Goku Vs Black! The Closed Path to the Future",
+			"type": "anime-canon",
+			"aired_date": "2016-07-03"
+		},
+		{
+			"episode": 51,
+			"title": "Feelings That Travel Beyond Time - Trunks and Mai",
+			"type": "manga-canon",
+			"aired_date": "2016-07-10"
+		},
+		{
+			"episode": 52,
+			"title": "Teacher and Student Reunited - Son Gohan and \"Future\" Trunks",
+			"type": "anime-canon",
+			"aired_date": "2016-07-17"
+		},
+		{
+			"episode": 53,
+			"title": "Uncover Black's Identity! To the Sacred World of the Kais!",
+			"type": "manga-canon",
+			"aired_date": "2016-07-31"
+		},
+		{
+			"episode": 54,
+			"title": "The One Who Inherits the Saiyan Blood - Trunk's Resolve",
+			"type": "manga-canon",
+			"aired_date": "2016-08-07"
+		},
+		{
+			"episode": 55,
+			"title": "I Want to See Son Goku - Zen-Oh Sama's Summoning!",
+			"type": "manga-canon",
+			"aired_date": "2016-08-21"
+		},
+		{
+			"episode": 56,
+			"title": "Rematch With Goku Black! Super Saiyan Rosé Appears",
+			"type": "manga-canon",
+			"aired_date": "2016-08-28"
+		},
+		{
+			"episode": 57,
+			"title": "The God With the Immortal Body - Zamasu Descends",
+			"type": "manga-canon",
+			"aired_date": "2016-09-04"
+		},
+		{
+			"episode": 58,
+			"title": "Zamasu and Black - The Mystery of the Two Deepens",
+			"type": "manga-canon",
+			"aired_date": "2016-09-11"
+		},
+		{
+			"episode": 59,
+			"title": "Protect Supreme Kai Gowasu — Destroy Zamasu!",
+			"type": "manga-canon",
+			"aired_date": "2016-09-25"
+		},
+		{
+			"episode": 60,
+			"title": "Back to the Future - Goku Black's Identity is Revealed!!",
+			"type": "manga-canon",
+			"aired_date": "2016-10-02"
+		},
+		{
+			"episode": 61,
+			"title": "Zamasu's Ambition — The Awful \"Zero Mortal Plan\" Is Revealed",
+			"type": "manga-canon",
+			"aired_date": "2016-10-09"
+		},
+		{
+			"episode": 62,
+			"title": "I'll Protect the World! Trunks’ Furious Super Power Explodes!!",
+			"type": "manga-canon",
+			"aired_date": "2016-10-16"
+		},
+		{
+			"episode": 63,
+			"title": "Don’t Disrespect Saiyan Cells! Vegeta’s Heroic Battle Begins!!",
+			"type": "manga-canon",
+			"aired_date": "2016-10-23"
+		},
+		{
+			"episode": 64,
+			"title": "Revere Him! Praise Him! Fusion Zamasu's Explosive Birth!!",
+			"type": "manga-canon",
+			"aired_date": "2016-10-30"
+		},
+		{
+			"episode": 65,
+			"title": "Is This the Final Judgement?! The Ultimate Power of the Absolute God",
+			"type": "manga-canon",
+			"aired_date": "2016-11-06"
+		},
+		{
+			"episode": 66,
+			"title": "The Climactic Battle! The Miraculous Power of a Relentless Warrior!",
+			"type": "manga-canon",
+			"aired_date": "2016-11-13"
+		},
+		{
+			"episode": 67,
+			"title": "With New Hope!! In Our Hearts - Farewell, Trunks",
+			"type": "manga-canon",
+			"aired_date": "2016-11-20"
+		},
+		{
+			"episode": 68,
+			"title": "Come Forth, Shenron! Whose Wish Will Be Granted?!",
+			"type": "filler",
+			"aired_date": "2016-11-27"
+		},
+		{
+			"episode": 69,
+			"title": "Goku vs Arale! A Ridiculous Battle Will End The Earth?!",
+			"type": "filler",
+			"aired_date": "2016-12-04"
+		},
+		{
+			"episode": 70,
+			"title": "Champa's Challenge! This Time We Fight With Baseball!",
+			"type": "filler",
+			"aired_date": "2016-12-11"
+		},
+		{
+			"episode": 71,
+			"title": "The Death of Goku! The Guaranteed Assassination Mission",
+			"type": "anime-canon",
+			"aired_date": "2016-12-18"
+		},
+		{
+			"episode": 72,
+			"title": "Will There Be A Counterattack?! The Invisible Killing Strike!!",
+			"type": "anime-canon",
+			"aired_date": "2016-12-25"
+		},
+		{
+			"episode": 73,
+			"title": "Gohan's Misfortune! An Unexpected Great Saiyaman Movie?!",
+			"type": "filler",
+			"aired_date": "2017-01-08"
+		},
+		{
+			"episode": 74,
+			"title": "For the Ones He Loves! The Unbeatable Great Saiyaman!!",
+			"type": "filler",
+			"aired_date": "2017-01-15"
+		},
+		{
+			"episode": 75,
+			"title": "Goku and Krillin Back to the Old Training Grounds",
+			"type": "filler",
+			"aired_date": "2017-01-22"
+		},
+		{
+			"episode": 76,
+			"title": "Defeat These Terrifying Enemies! Krillin's Fighting Spirit Returns!",
+			"type": "filler",
+			"aired_date": "2017-01-29"
+		},
+		{
+			"episode": 77,
+			"title": "Let's Do it, Zen-Oh Sama! The All-Universe Martial Arts Tournament!!",
+			"type": "manga-canon",
+			"aired_date": "2017-02-05"
+		},
+		{
+			"episode": 78,
+			"title": "The Gods of Every Universe In Shock?! Losers Erased In The Tournament Of Power",
+			"type": "anime-canon",
+			"aired_date": "2017-02-12"
+		},
+		{
+			"episode": 79,
+			"title": "Universe 9’s Basil The Kicker VS Universe 7’s Majin Buu!!",
+			"type": "anime-canon",
+			"aired_date": "2017-02-19"
+		},
+		{
+			"episode": 80,
+			"title": "Awaken Your Sleeping Battle Spirit! Son Gohan's Fight!!",
+			"type": "anime-canon",
+			"aired_date": "2017-02-26"
+		},
+		{
+			"episode": 81,
+			"title": "Bergamo The Crusher VS Son Goku! Which One Wields The Limitless Power!?",
+			"type": "anime-canon",
+			"aired_date": "2017-03-05"
+		},
+		{
+			"episode": 82,
+			"title": "Never Forgive Son Goku! Toppo The Warrior Of Justice Intrudes!!",
+			"type": "manga-canon",
+			"aired_date": "2017-03-19"
+		},
+		{
+			"episode": 83,
+			"title": "Form the Universe 7 Representing Team! Who are the Strongest Ten?!",
+			"type": "manga-canon",
+			"aired_date": "2017-03-26"
+		},
+		{
+			"episode": 84,
+			"title": "Son Goku The Recruiter Invites Krillin And No. 18",
+			"type": "manga-canon",
+			"aired_date": "2017-04-02"
+		},
+		{
+			"episode": 85,
+			"title": "The Universes Begin To Make Their Moves Their Individual Motives",
+			"type": "manga-canon",
+			"aired_date": "2017-04-09"
+		},
+		{
+			"episode": 86,
+			"title": "Fists Cross For The First Time! Android #17 Vs Son Goku!!",
+			"type": "manga-canon",
+			"aired_date": "2017-04-16"
+		},
+		{
+			"episode": 87,
+			"title": "Hunt the Poachers! Goku and No. 17's United Front!!",
+			"type": "manga-canon",
+			"aired_date": "2017-04-23"
+		},
+		{
+			"episode": 88,
+			"title": "Gohan And Piccolo Teacher And Pupil Clash In Max Training!",
+			"type": "manga-canon",
+			"aired_date": "2017-04-30"
+		},
+		{
+			"episode": 89,
+			"title": "An Unknown Beauty Appears! The Tenshin-style Dojo's Mystery?!",
+			"type": "mixed-manga",
+			"aired_date": "2017-05-07"
+		},
+		{
+			"episode": 90,
+			"title": "See The Wall That Must Be Passed! Goku Vs Gohan",
+			"type": "anime-canon",
+			"aired_date": "2017-05-14"
+		},
+		{
+			"episode": 91,
+			"title": "Which Universe Will Survive?! The Strongest Warriors Are Gathering!!",
+			"type": "anime-canon",
+			"aired_date": "2017-05-21"
+		},
+		{
+			"episode": 92,
+			"title": "Emergency Development! The Incomplete Ten Members!!",
+			"type": "manga-canon",
+			"aired_date": "2017-05-28"
+		},
+		{
+			"episode": 93,
+			"title": "You're The Tenth Warrior! Goku Goes To See Frieza!!",
+			"type": "manga-canon",
+			"aired_date": "2017-06-04"
+		},
+		{
+			"episode": 94,
+			"title": "The Emperor of Evil Returns! A Reception of Mysterious Assassins?!",
+			"type": "anime-canon",
+			"aired_date": "2017-06-11"
+		},
+		{
+			"episode": 95,
+			"title": "The Worst! The Most Evil! Frieza's Rampage!!",
+			"type": "anime-canon",
+			"aired_date": "2017-06-18"
+		},
+		{
+			"episode": 96,
+			"title": "The Time Is Here! To The World Of Void For The Fate Of The Universe!!",
+			"type": "manga-canon",
+			"aired_date": "2017-06-25"
+		},
+		{
+			"episode": 97,
+			"title": "Survive! The Tournament Of Power Begins At Last!!",
+			"type": "manga-canon",
+			"aired_date": "2017-07-02"
+		},
+		{
+			"episode": 98,
+			"title": "Oh, Uncertainty! A Universe  Despairs!!",
+			"type": "manga-canon",
+			"aired_date": "2017-07-09"
+		},
+		{
+			"episode": 99,
+			"title": "Show Them! Krillin's True Power!!",
+			"type": "manga-canon",
+			"aired_date": "2017-07-16"
+		},
+		{
+			"episode": 100,
+			"title": "Out Of Control! The Savage Berserker Awakens!!",
+			"type": "manga-canon",
+			"aired_date": "2017-07-23"
+		},
+		{
+			"episode": 101,
+			"title": "The Impending Warriors of Justice! The Pride Troopers!!",
+			"type": "manga-canon",
+			"aired_date": "2017-07-30"
+		},
+		{
+			"episode": 102,
+			"title": "The Power of Love Explodes?! Universe 2's Little Witch Warriors!!",
+			"type": "manga-canon",
+			"aired_date": "2017-08-06"
+		},
+		{
+			"episode": 103,
+			"title": "Gohan, Show No Mercy! Showdown With Universe 10!!",
+			"type": "manga-canon",
+			"aired_date": "2017-08-13"
+		},
+		{
+			"episode": 104,
+			"title": "The Ultimate High Speed Battle Begins! Goku and Hit Join Forces!!",
+			"type": "manga-canon",
+			"aired_date": "2017-08-20"
+		},
+		{
+			"episode": 105,
+			"title": "A Desperate Battle! Master Roshi's Sacrifice!!",
+			"type": "manga-canon",
+			"aired_date": "2017-08-27"
+		},
+		{
+			"episode": 106,
+			"title": "Find Him! Death Match With An Invisible Attacker!!",
+			"type": "manga-canon",
+			"aired_date": "2017-09-03"
+		},
+		{
+			"episode": 107,
+			"title": "Revenge \"F\"! The Cunning Trap?!",
+			"type": "manga-canon",
+			"aired_date": "2017-09-17"
+		},
+		{
+			"episode": 108,
+			"title": "Frieza and Frost! Conjoined Malice?!",
+			"type": "manga-canon",
+			"aired_date": "2017-09-24"
+		},
+		{
+			"episode": 109,
+			"title": "The Ultimate Enemy Approaches Goku! Now, Let Loose! The Killer Spirit Bomb!!",
+			"type": "manga-canon",
+			"aired_date": "2017-10-08"
+		},
+		{
+			"episode": 110,
+			"title": "Son Goku Wakes! New Level of The Awakened!!",
+			"type": "manga-canon",
+			"aired_date": "2017-10-08"
+		},
+		{
+			"episode": 111,
+			"title": "The Surreal Supreme Battle! Hit vs Jiren!!",
+			"type": "manga-canon",
+			"aired_date": "2017-10-15"
+		},
+		{
+			"episode": 112,
+			"title": "A Saiyan's Vow! Vegeta's Resoution!!",
+			"type": "manga-canon",
+			"aired_date": "2017-10-22"
+		},
+		{
+			"episode": 113,
+			"title": "With Great Joy! The Repeat Battle-Crazy Saiyan Fight!!",
+			"type": "manga-canon",
+			"aired_date": "2017-10-29"
+		},
+		{
+			"episode": 114,
+			"title": "Intimidating Passion! The Birth of a New Super Warrior!!",
+			"type": "manga-canon",
+			"aired_date": "2017-11-05"
+		},
+		{
+			"episode": 115,
+			"title": "Goku vs Kefla! Super Saiyan Blue Defeated?!",
+			"type": "manga-canon",
+			"aired_date": "2017-11-12"
+		},
+		{
+			"episode": 116,
+			"title": "The Sign of a Comeback! Ultra Instinct's Huge Explosion!!",
+			"type": "manga-canon",
+			"aired_date": "2017-11-19"
+		},
+		{
+			"episode": 117,
+			"title": "Showdown of Love! Androids vs Universe 2!!",
+			"type": "manga-canon",
+			"aired_date": "2017-11-26"
+		},
+		{
+			"episode": 118,
+			"title": "Accelerated Tragedy - Vanishing Universes...",
+			"type": "manga-canon",
+			"aired_date": "2017-12-03"
+		},
+		{
+			"episode": 119,
+			"title": "Unavoidable?! The Fierce Stealth Attack!!",
+			"type": "manga-canon",
+			"aired_date": "2017-12-10"
+		},
+		{
+			"episode": 120,
+			"title": "The Perfect Survival Tactic! Universe 3's Menacing Assassin!!",
+			"type": "manga-canon",
+			"aired_date": "2017-12-17"
+		},
+		{
+			"episode": 121,
+			"title": "All-Out War! The Ultimate Quadruple Merge vs Universe 7's Full-Scale Attack!!",
+			"type": "manga-canon",
+			"aired_date": "2017-12-24"
+		},
+		{
+			"episode": 122,
+			"title": "For One's Own Pride! Vegeta's Challenge to be the Strongest!!",
+			"type": "manga-canon",
+			"aired_date": "2018-01-07"
+		},
+		{
+			"episode": 123,
+			"title": "Body and Soul, Full Power Release! Goku and Vegeta!!",
+			"type": "manga-canon",
+			"aired_date": "2018-01-14"
+		},
+		{
+			"episode": 124,
+			"title": "The Fiercely Overwhelming Assault! Gohan's Last Stand!!",
+			"type": "manga-canon",
+			"aired_date": "2018-01-21"
+		},
+		{
+			"episode": 125,
+			"title": "With Imposing Presence! God of Destruction Toppo Descends!!",
+			"type": "manga-canon",
+			"aired_date": "2018-01-28"
+		},
+		{
+			"episode": 126,
+			"title": "Surpass Even a God! Vegeta's Desperate Blow!!",
+			"type": "manga-canon",
+			"aired_date": "2018-02-04"
+		},
+		{
+			"episode": 127,
+			"title": "The Approaching Wall! The Final Barrier of Hope!!",
+			"type": "manga-canon",
+			"aired_date": "2018-02-11"
+		},
+		{
+			"episode": 128,
+			"title": "Noble Pride to the End! Vegeta Falls!!",
+			"type": "manga-canon",
+			"aired_date": "2018-02-18"
+		},
+		{
+			"episode": 129,
+			"title": "Limit Super Surpassed! Ultra Instinct Mastered!!",
+			"type": "manga-canon",
+			"aired_date": "2018-03-04"
+		},
+		{
+			"episode": 130,
+			"title": "The Greatest Showdown of All Time! The Ultimate Survival Battle!!",
+			"type": "manga-canon",
+			"aired_date": "2018-03-18"
+		},
+		{
+			"episode": 131,
+			"title": "The Miraculous Conclusion! Farewell, Goku! Until We Meet Again!!",
+			"type": "manga-canon",
+			"aired_date": "2018-03-25"
+		}
+	]
+}

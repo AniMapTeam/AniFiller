@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Outlaw Star",
+	"mappings": {
+		"anilist_id": 400,
+		"mal_id": 400
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Outlaw World",
+			"type": "anime-canon",
+			"aired_date": "1998-01-05"
+		},
+		{
+			"episode": 2,
+			"title": "World of Desires",
+			"type": "anime-canon",
+			"aired_date": "1998-01-15"
+		},
+		{
+			"episode": 3,
+			"title": "Into Burning Space",
+			"type": "anime-canon",
+			"aired_date": "1998-01-22"
+		},
+		{
+			"episode": 4,
+			"title": "When the Hot Ice Melts",
+			"type": "anime-canon",
+			"aired_date": "1998-01-29"
+		},
+		{
+			"episode": 5,
+			"title": "The Beast Girl, Ready to Pounce!",
+			"type": "anime-canon",
+			"aired_date": "1998-02-05"
+		},
+		{
+			"episode": 6,
+			"title": "The Beautiful Assassin",
+			"type": "anime-canon",
+			"aired_date": "1998-02-12"
+		},
+		{
+			"episode": 7,
+			"title": "Creeping Evil",
+			"type": "anime-canon",
+			"aired_date": "1998-02-19"
+		},
+		{
+			"episode": 8,
+			"title": "Forced Departure",
+			"type": "anime-canon",
+			"aired_date": "1998-02-27"
+		},
+		{
+			"episode": 9,
+			"title": "A Journey of Adventure! Huh?",
+			"type": "mixed-manga",
+			"aired_date": "1998-03-06"
+		},
+		{
+			"episode": 10,
+			"title": "Gathering for the Space Race",
+			"type": "anime-canon",
+			"aired_date": "1998-03-12"
+		},
+		{
+			"episode": 11,
+			"title": "Adrift in Subspace",
+			"type": "anime-canon",
+			"aired_date": "1998-03-19"
+		},
+		{
+			"episode": 12,
+			"title": "Mortal Combat with the El Dorado",
+			"type": "anime-canon",
+			"aired_date": "1998-03-26"
+		},
+		{
+			"episode": 13,
+			"title": "Advance Guard from Another World",
+			"type": "filler",
+			"aired_date": "1998-04-02"
+		},
+		{
+			"episode": 14,
+			"title": "Final Countdown",
+			"type": "filler",
+			"aired_date": "1998-04-09"
+		},
+		{
+			"episode": 15,
+			"title": "The Seven Emerge",
+			"type": "anime-canon",
+			"aired_date": "1998-04-16"
+		},
+		{
+			"episode": 16,
+			"title": "Between Life and Machine",
+			"type": "anime-canon",
+			"aired_date": "1998-04-23"
+		},
+		{
+			"episode": 17,
+			"title": "The Strongest Woman in the Universe",
+			"type": "filler",
+			"aired_date": "1998-04-30"
+		},
+		{
+			"episode": 18,
+			"title": "Law and Lawlessness",
+			"type": "filler",
+			"aired_date": "1998-05-07"
+		},
+		{
+			"episode": 19,
+			"title": "Cats and Girls and Spaceships",
+			"type": "filler",
+			"aired_date": "1998-05-14"
+		},
+		{
+			"episode": 20,
+			"title": "Grave of the Dragon",
+			"type": "mixed-manga",
+			"aired_date": "1998-05-21"
+		},
+		{
+			"episode": 21,
+			"title": "Gravity Jailbreak",
+			"type": "mixed-manga",
+			"aired_date": "1998-05-28"
+		},
+		{
+			"episode": 22,
+			"title": "Cutting the Galactic Leyline",
+			"type": "mixed-manga",
+			"aired_date": "1998-06-12"
+		},
+		{
+			"episode": 23,
+			"title": "Maze of Despair",
+			"type": "mixed-manga",
+			"aired_date": "1998-06-18"
+		},
+		{
+			"episode": 24,
+			"title": "Return to Space",
+			"type": "mixed-manga",
+			"aired_date": "1998-06-25"
+		}
+	]
+}

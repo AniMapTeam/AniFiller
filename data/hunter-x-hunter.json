@@ -1,0 +1,898 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Hunter × Hunter (2011)",
+	"mappings": {
+		"anilist_id": 11061,
+		"mal_id": 11061
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Departure × And × Friends",
+			"type": "manga-canon",
+			"aired_date": "2011-10-02"
+		},
+		{
+			"episode": 2,
+			"title": "Test × Of × Tests",
+			"type": "manga-canon",
+			"aired_date": "2011-10-09"
+		},
+		{
+			"episode": 3,
+			"title": "Rivals × For × Survival",
+			"type": "manga-canon",
+			"aired_date": "2011-10-16"
+		},
+		{
+			"episode": 4,
+			"title": "Hope × And × Ambition",
+			"type": "manga-canon",
+			"aired_date": "2011-10-23"
+		},
+		{
+			"episode": 5,
+			"title": "Hisoka × Is So × Sneaky",
+			"type": "manga-canon",
+			"aired_date": "2011-10-30"
+		},
+		{
+			"episode": 6,
+			"title": "An × Unexpected × Task",
+			"type": "manga-canon",
+			"aired_date": "2011-11-06"
+		},
+		{
+			"episode": 7,
+			"title": "Showdown × On The × Airship",
+			"type": "manga-canon",
+			"aired_date": "2011-11-13"
+		},
+		{
+			"episode": 8,
+			"title": "Decision × By × Majority?",
+			"type": "manga-canon",
+			"aired_date": "2011-11-20"
+		},
+		{
+			"episode": 9,
+			"title": "Beware × Of × Prisoners",
+			"type": "manga-canon",
+			"aired_date": "2011-11-27"
+		},
+		{
+			"episode": 10,
+			"title": "Trick × To The × Trick",
+			"type": "manga-canon",
+			"aired_date": "2011-12-04"
+		},
+		{
+			"episode": 11,
+			"title": "Trouble × With The × Gamble",
+			"type": "manga-canon",
+			"aired_date": "2011-12-11"
+		},
+		{
+			"episode": 12,
+			"title": "Last × Test Of × Resolve!",
+			"type": "mixed-manga",
+			"aired_date": "2011-12-18"
+		},
+		{
+			"episode": 13,
+			"title": "Letter × From × Gon",
+			"type": "filler",
+			"aired_date": "2011-12-25"
+		},
+		{
+			"episode": 14,
+			"title": "Hit × The × Target",
+			"type": "manga-canon",
+			"aired_date": "2012-01-08"
+		},
+		{
+			"episode": 15,
+			"title": "Explosion × Of × Deception",
+			"type": "manga-canon",
+			"aired_date": "2012-01-15"
+		},
+		{
+			"episode": 16,
+			"title": "Defeat × And × Disgrace",
+			"type": "manga-canon",
+			"aired_date": "2012-01-22"
+		},
+		{
+			"episode": 17,
+			"title": "Trap × In The × Hole",
+			"type": "manga-canon",
+			"aired_date": "2012-01-29"
+		},
+		{
+			"episode": 18,
+			"title": "Big × Time × Interview",
+			"type": "manga-canon",
+			"aired_date": "2012-02-05"
+		},
+		{
+			"episode": 19,
+			"title": "Can't Win × And × Can't Lose",
+			"type": "manga-canon",
+			"aired_date": "2012-02-12"
+		},
+		{
+			"episode": 20,
+			"title": "Baffling × Turn Of × Events",
+			"type": "manga-canon",
+			"aired_date": "2012-02-19"
+		},
+		{
+			"episode": 21,
+			"title": "Some × Brother × Trouble",
+			"type": "manga-canon",
+			"aired_date": "2012-03-04"
+		},
+		{
+			"episode": 22,
+			"title": "A × Dangerous × Watchdog",
+			"type": "manga-canon",
+			"aired_date": "2012-03-11"
+		},
+		{
+			"episode": 23,
+			"title": "The × Guard's × Duty",
+			"type": "manga-canon",
+			"aired_date": "2012-03-18"
+		},
+		{
+			"episode": 24,
+			"title": "The × Zoldyck × Family",
+			"type": "manga-canon",
+			"aired_date": "2012-03-25"
+		},
+		{
+			"episode": 25,
+			"title": "Can't See × If × You're Blind",
+			"type": "manga-canon",
+			"aired_date": "2012-04-01"
+		},
+		{
+			"episode": 26,
+			"title": "Then × And × After",
+			"type": "filler",
+			"aired_date": "2012-04-08"
+		},
+		{
+			"episode": 27,
+			"title": "Arrival × At × The Arena",
+			"type": "manga-canon",
+			"aired_date": "2012-04-15"
+		},
+		{
+			"episode": 28,
+			"title": "Nen × And × Nen",
+			"type": "manga-canon",
+			"aired_date": "2012-04-22"
+		},
+		{
+			"episode": 29,
+			"title": "Awakening × And × Potential",
+			"type": "manga-canon",
+			"aired_date": "2012-04-29"
+		},
+		{
+			"episode": 30,
+			"title": "Fierce × And × Ferocious",
+			"type": "manga-canon",
+			"aired_date": "2012-05-06"
+		},
+		{
+			"episode": 31,
+			"title": "Destiny × And × Tenacity",
+			"type": "manga-canon",
+			"aired_date": "2012-05-13"
+		},
+		{
+			"episode": 32,
+			"title": "A × Surprising × Win",
+			"type": "manga-canon",
+			"aired_date": "2012-05-20"
+		},
+		{
+			"episode": 33,
+			"title": "An × Empty × Threat",
+			"type": "manga-canon",
+			"aired_date": "2012-05-27"
+		},
+		{
+			"episode": 34,
+			"title": "Power × To × Avenge",
+			"type": "manga-canon",
+			"aired_date": "2012-06-03"
+		},
+		{
+			"episode": 35,
+			"title": "The × True × Pass",
+			"type": "manga-canon",
+			"aired_date": "2012-06-17"
+		},
+		{
+			"episode": 36,
+			"title": "A Big Debt × And × A Small Kick",
+			"type": "manga-canon",
+			"aired_date": "2012-06-24"
+		},
+		{
+			"episode": 37,
+			"title": "Ging × And × Gon",
+			"type": "manga-canon",
+			"aired_date": "2012-07-01"
+		},
+		{
+			"episode": 38,
+			"title": "Reply × From × Dad",
+			"type": "manga-canon",
+			"aired_date": "2012-07-08"
+		},
+		{
+			"episode": 39,
+			"title": "Wish × And × Promise",
+			"type": "manga-canon",
+			"aired_date": "2012-07-15"
+		},
+		{
+			"episode": 40,
+			"title": "Nen × Users × Unite?",
+			"type": "manga-canon",
+			"aired_date": "2012-07-22"
+		},
+		{
+			"episode": 41,
+			"title": "Gathering × Of × Heroes",
+			"type": "manga-canon",
+			"aired_date": "2012-07-29"
+		},
+		{
+			"episode": 42,
+			"title": "Defend × And × Attack",
+			"type": "manga-canon",
+			"aired_date": "2012-08-05"
+		},
+		{
+			"episode": 43,
+			"title": "A × Shocking × Tragedy",
+			"type": "manga-canon",
+			"aired_date": "2012-08-12"
+		},
+		{
+			"episode": 44,
+			"title": "Buildup × To A × Fierce Battle",
+			"type": "manga-canon",
+			"aired_date": "2012-08-19"
+		},
+		{
+			"episode": 45,
+			"title": "Restraint × And × Vow",
+			"type": "manga-canon",
+			"aired_date": "2012-09-02"
+		},
+		{
+			"episode": 46,
+			"title": "Chasing × And × Waiting",
+			"type": "manga-canon",
+			"aired_date": "2012-09-09"
+		},
+		{
+			"episode": 47,
+			"title": "Condition × And × Condition",
+			"type": "manga-canon",
+			"aired_date": "2012-09-16"
+		},
+		{
+			"episode": 48,
+			"title": "Very × Sharp × Eye",
+			"type": "manga-canon",
+			"aired_date": "2012-09-23"
+		},
+		{
+			"episode": 49,
+			"title": "Pursuit × And × Analysis",
+			"type": "manga-canon",
+			"aired_date": "2012-09-30"
+		},
+		{
+			"episode": 50,
+			"title": "Ally × And × Sword",
+			"type": "manga-canon",
+			"aired_date": "2012-10-07"
+		},
+		{
+			"episode": 51,
+			"title": "A × Brutal × Battlefield",
+			"type": "manga-canon",
+			"aired_date": "2012-10-14"
+		},
+		{
+			"episode": 52,
+			"title": "Assault × And × Impact",
+			"type": "manga-canon",
+			"aired_date": "2012-10-21"
+		},
+		{
+			"episode": 53,
+			"title": "Fake × And × Psyche",
+			"type": "manga-canon",
+			"aired_date": "2012-10-28"
+		},
+		{
+			"episode": 54,
+			"title": "Fortunes × Aren't × Right?",
+			"type": "manga-canon",
+			"aired_date": "2012-11-04"
+		},
+		{
+			"episode": 55,
+			"title": "Allies × And × Lies",
+			"type": "manga-canon",
+			"aired_date": "2012-11-11"
+		},
+		{
+			"episode": 56,
+			"title": "Beloved × And × Beleaguered",
+			"type": "manga-canon",
+			"aired_date": "2012-11-18"
+		},
+		{
+			"episode": 57,
+			"title": "Initiative × And × Law",
+			"type": "manga-canon",
+			"aired_date": "2012-12-02"
+		},
+		{
+			"episode": 58,
+			"title": "Signal × To × Retreat",
+			"type": "manga-canon",
+			"aired_date": "2012-12-09"
+		},
+		{
+			"episode": 59,
+			"title": "Bid × And × Haste",
+			"type": "manga-canon",
+			"aired_date": "2012-12-16"
+		},
+		{
+			"episode": 60,
+			"title": "End × And × Beginning",
+			"type": "manga-canon",
+			"aired_date": "2012-12-23"
+		},
+		{
+			"episode": 61,
+			"title": "Invitation × And × Friend",
+			"type": "manga-canon",
+			"aired_date": "2013-01-06"
+		},
+		{
+			"episode": 62,
+			"title": "Reality? × And × Raw",
+			"type": "manga-canon",
+			"aired_date": "2013-01-13"
+		},
+		{
+			"episode": 63,
+			"title": "A × Hard × Master?",
+			"type": "manga-canon",
+			"aired_date": "2013-01-20"
+		},
+		{
+			"episode": 64,
+			"title": "Strengthen × And × Threaten",
+			"type": "manga-canon",
+			"aired_date": "2013-01-27"
+		},
+		{
+			"episode": 65,
+			"title": "Evil Fist × And × Rock-Paper-Scissors",
+			"type": "manga-canon",
+			"aired_date": "2013-02-03"
+		},
+		{
+			"episode": 66,
+			"title": "Strategy × And × Scheme",
+			"type": "manga-canon",
+			"aired_date": "2013-02-10"
+		},
+		{
+			"episode": 67,
+			"title": "15 × 15",
+			"type": "manga-canon",
+			"aired_date": "2013-02-17"
+		},
+		{
+			"episode": 68,
+			"title": "Pirates × And × Guesses",
+			"type": "manga-canon",
+			"aired_date": "2013-02-24"
+		},
+		{
+			"episode": 69,
+			"title": "A × Heated × Showdown",
+			"type": "manga-canon",
+			"aired_date": "2013-03-03"
+		},
+		{
+			"episode": 70,
+			"title": "Guts × And × Courage",
+			"type": "manga-canon",
+			"aired_date": "2013-03-10"
+		},
+		{
+			"episode": 71,
+			"title": "Bargain × And × Deal",
+			"type": "manga-canon",
+			"aired_date": "2013-03-17"
+		},
+		{
+			"episode": 72,
+			"title": "Chase × And × Chance",
+			"type": "manga-canon",
+			"aired_date": "2013-03-24"
+		},
+		{
+			"episode": 73,
+			"title": "Insanity × And × Sanity",
+			"type": "manga-canon",
+			"aired_date": "2013-03-31"
+		},
+		{
+			"episode": 74,
+			"title": "Victor × And × Loser",
+			"type": "manga-canon",
+			"aired_date": "2013-04-07"
+		},
+		{
+			"episode": 75,
+			"title": "Ging's Friends × And × True Friends",
+			"type": "manga-canon",
+			"aired_date": "2013-04-14"
+		},
+		{
+			"episode": 76,
+			"title": "Reunion × And × Understanding",
+			"type": "manga-canon",
+			"aired_date": "2013-04-21"
+		},
+		{
+			"episode": 77,
+			"title": "Unease × And × Sighting",
+			"type": "manga-canon",
+			"aired_date": "2013-04-28"
+		},
+		{
+			"episode": 78,
+			"title": "Very × Rapid × Reproduction",
+			"type": "manga-canon",
+			"aired_date": "2013-05-05"
+		},
+		{
+			"episode": 79,
+			"title": "No × Good × NGL",
+			"type": "manga-canon",
+			"aired_date": "2013-05-12"
+		},
+		{
+			"episode": 80,
+			"title": "Evil × And × Terrible",
+			"type": "manga-canon",
+			"aired_date": "2013-05-19"
+		},
+		{
+			"episode": 81,
+			"title": "The × Fight × Begins",
+			"type": "manga-canon",
+			"aired_date": "2013-05-26"
+		},
+		{
+			"episode": 82,
+			"title": "Kite × And × Slots",
+			"type": "manga-canon",
+			"aired_date": "2013-06-02"
+		},
+		{
+			"episode": 83,
+			"title": "Inspiration × To × Evolve",
+			"type": "manga-canon",
+			"aired_date": "2013-06-09"
+		},
+		{
+			"episode": 84,
+			"title": "A × Fated × Awakening",
+			"type": "manga-canon",
+			"aired_date": "2013-06-16"
+		},
+		{
+			"episode": 85,
+			"title": "Light × And × Shadow",
+			"type": "manga-canon",
+			"aired_date": "2013-06-23"
+		},
+		{
+			"episode": 86,
+			"title": "Promise × And × Reunion",
+			"type": "manga-canon",
+			"aired_date": "2013-06-30"
+		},
+		{
+			"episode": 87,
+			"title": "Duel × And × Escape",
+			"type": "manga-canon",
+			"aired_date": "2013-07-07"
+		},
+		{
+			"episode": 88,
+			"title": "Rock-Paper-Scissors × And × Weakness",
+			"type": "manga-canon",
+			"aired_date": "2013-07-14"
+		},
+		{
+			"episode": 89,
+			"title": "Compassion × And × Strength",
+			"type": "manga-canon",
+			"aired_date": "2013-07-21"
+		},
+		{
+			"episode": 90,
+			"title": "Slow × And × Cursed",
+			"type": "manga-canon",
+			"aired_date": "2013-07-28"
+		},
+		{
+			"episode": 91,
+			"title": "The Strong × And × The Weak",
+			"type": "manga-canon",
+			"aired_date": "2013-08-04"
+		},
+		{
+			"episode": 92,
+			"title": "One Wish × And × Two Promises",
+			"type": "manga-canon",
+			"aired_date": "2013-08-11"
+		},
+		{
+			"episode": 93,
+			"title": "Date × With × Palm",
+			"type": "manga-canon",
+			"aired_date": "2013-08-18"
+		},
+		{
+			"episode": 94,
+			"title": "Friend × And × Journey",
+			"type": "manga-canon",
+			"aired_date": "2013-09-01"
+		},
+		{
+			"episode": 95,
+			"title": "Grudge × And × Dread",
+			"type": "manga-canon",
+			"aired_date": "2013-09-08"
+		},
+		{
+			"episode": 96,
+			"title": "A × Lawless × Home",
+			"type": "manga-canon",
+			"aired_date": "2013-09-15"
+		},
+		{
+			"episode": 97,
+			"title": "Carnage × And × Devastation",
+			"type": "manga-canon",
+			"aired_date": "2013-09-22"
+		},
+		{
+			"episode": 98,
+			"title": "Infiltration × And × Selection",
+			"type": "manga-canon",
+			"aired_date": "2013-09-29"
+		},
+		{
+			"episode": 99,
+			"title": "Combination × And × Evolution",
+			"type": "manga-canon",
+			"aired_date": "2013-10-09"
+		},
+		{
+			"episode": 100,
+			"title": "Tracking × And × Pursuit",
+			"type": "manga-canon",
+			"aired_date": "2013-10-16"
+		},
+		{
+			"episode": 101,
+			"title": "Ikalgo × And × Lightning",
+			"type": "manga-canon",
+			"aired_date": "2013-10-23"
+		},
+		{
+			"episode": 102,
+			"title": "Power × And × Games",
+			"type": "manga-canon",
+			"aired_date": "2013-10-30"
+		},
+		{
+			"episode": 103,
+			"title": "Check × And × Mate",
+			"type": "manga-canon",
+			"aired_date": "2013-11-06"
+		},
+		{
+			"episode": 104,
+			"title": "Doubt × And × Hesitation",
+			"type": "manga-canon",
+			"aired_date": "2013-11-13"
+		},
+		{
+			"episode": 105,
+			"title": "Resolve × And × Awakening",
+			"type": "manga-canon",
+			"aired_date": "2013-11-20"
+		},
+		{
+			"episode": 106,
+			"title": "Knov × And × Morel",
+			"type": "manga-canon",
+			"aired_date": "2013-11-27"
+		},
+		{
+			"episode": 107,
+			"title": "Return × And × Retire",
+			"type": "manga-canon",
+			"aired_date": "2013-12-04"
+		},
+		{
+			"episode": 108,
+			"title": "Gungi × Of × Komugi",
+			"type": "manga-canon",
+			"aired_date": "2013-12-11"
+		},
+		{
+			"episode": 109,
+			"title": "Taking Stock × And × Taking Action",
+			"type": "manga-canon",
+			"aired_date": "2013-12-18"
+		},
+		{
+			"episode": 110,
+			"title": "Confusion × And × Expectation",
+			"type": "manga-canon",
+			"aired_date": "2013-12-25"
+		},
+		{
+			"episode": 111,
+			"title": "Charge × And × Invade",
+			"type": "manga-canon",
+			"aired_date": "2014-01-08"
+		},
+		{
+			"episode": 112,
+			"title": "Monster × And × Monster",
+			"type": "manga-canon",
+			"aired_date": "2014-01-15"
+		},
+		{
+			"episode": 113,
+			"title": "An × Indebted × Insect",
+			"type": "manga-canon",
+			"aired_date": "2014-01-22"
+		},
+		{
+			"episode": 114,
+			"title": "Divide × And × Conquer",
+			"type": "manga-canon",
+			"aired_date": "2014-01-29"
+		},
+		{
+			"episode": 115,
+			"title": "Duty × And × Question",
+			"type": "manga-canon",
+			"aired_date": "2014-02-05"
+		},
+		{
+			"episode": 116,
+			"title": "Revenge × And × Recovery",
+			"type": "manga-canon",
+			"aired_date": "2014-02-12"
+		},
+		{
+			"episode": 117,
+			"title": "Insult × And × Payback",
+			"type": "manga-canon",
+			"aired_date": "2014-02-19"
+		},
+		{
+			"episode": 118,
+			"title": "A × False × Rage",
+			"type": "manga-canon",
+			"aired_date": "2014-02-26"
+		},
+		{
+			"episode": 119,
+			"title": "Strong × Or × Weak",
+			"type": "manga-canon",
+			"aired_date": "2014-03-05"
+		},
+		{
+			"episode": 120,
+			"title": "Fake × And × Real",
+			"type": "manga-canon",
+			"aired_date": "2014-03-12"
+		},
+		{
+			"episode": 121,
+			"title": "Defeat × And × Dignity",
+			"type": "manga-canon",
+			"aired_date": "2014-03-19"
+		},
+		{
+			"episode": 122,
+			"title": "Pose × And × Name",
+			"type": "manga-canon",
+			"aired_date": "2014-03-26"
+		},
+		{
+			"episode": 123,
+			"title": "Centipede × And × Memory",
+			"type": "manga-canon",
+			"aired_date": "2014-04-02"
+		},
+		{
+			"episode": 124,
+			"title": "Breakdown × And × Awakening",
+			"type": "manga-canon",
+			"aired_date": "2014-04-09"
+		},
+		{
+			"episode": 125,
+			"title": "Great Power × And × Ultimate Power",
+			"type": "manga-canon",
+			"aired_date": "2014-04-16"
+		},
+		{
+			"episode": 126,
+			"title": "Zero × And × Rose",
+			"type": "manga-canon",
+			"aired_date": "2014-04-23"
+		},
+		{
+			"episode": 127,
+			"title": "Hostility × And × Determination",
+			"type": "manga-canon",
+			"aired_date": "2014-04-30"
+		},
+		{
+			"episode": 128,
+			"title": "Unparalleled Joy × And × Unconditional Love",
+			"type": "manga-canon",
+			"aired_date": "2014-05-07"
+		},
+		{
+			"episode": 129,
+			"title": "Formidable Enemy × And × Clear Objective",
+			"type": "manga-canon",
+			"aired_date": "2014-05-14"
+		},
+		{
+			"episode": 130,
+			"title": "Magic × To × Destroy",
+			"type": "manga-canon",
+			"aired_date": "2014-05-21"
+		},
+		{
+			"episode": 131,
+			"title": "Anger × And × Light",
+			"type": "manga-canon",
+			"aired_date": "2014-05-28"
+		},
+		{
+			"episode": 132,
+			"title": "Flash × And × Start",
+			"type": "manga-canon",
+			"aired_date": "2014-06-04"
+		},
+		{
+			"episode": 133,
+			"title": "Deadline × To × Live",
+			"type": "manga-canon",
+			"aired_date": "2014-06-11"
+		},
+		{
+			"episode": 134,
+			"title": "The Word × Is × You",
+			"type": "manga-canon",
+			"aired_date": "2014-06-18"
+		},
+		{
+			"episode": 135,
+			"title": "This Day × And × This Moment",
+			"type": "manga-canon",
+			"aired_date": "2014-06-25"
+		},
+		{
+			"episode": 136,
+			"title": "Homecoming × And × Real Name",
+			"type": "manga-canon",
+			"aired_date": "2014-07-02"
+		},
+		{
+			"episode": 137,
+			"title": "Debate × Among × Zodiacs",
+			"type": "manga-canon",
+			"aired_date": "2014-07-09"
+		},
+		{
+			"episode": 138,
+			"title": "Request × And × Wish",
+			"type": "manga-canon",
+			"aired_date": "2014-07-16"
+		},
+		{
+			"episode": 139,
+			"title": "Alluka × And × Something",
+			"type": "manga-canon",
+			"aired_date": "2014-07-23"
+		},
+		{
+			"episode": 140,
+			"title": "Join Battle × And × Open Battle",
+			"type": "manga-canon",
+			"aired_date": "2014-07-30"
+		},
+		{
+			"episode": 141,
+			"title": "Magician × And × Butler",
+			"type": "manga-canon",
+			"aired_date": "2014-08-06"
+		},
+		{
+			"episode": 142,
+			"title": "Needle × And × Debt",
+			"type": "manga-canon",
+			"aired_date": "2014-08-13"
+		},
+		{
+			"episode": 143,
+			"title": "Sin × And × Claw",
+			"type": "manga-canon",
+			"aired_date": "2014-08-20"
+		},
+		{
+			"episode": 144,
+			"title": "Approval × And × Coalition",
+			"type": "manga-canon",
+			"aired_date": "2014-08-27"
+		},
+		{
+			"episode": 145,
+			"title": "Defeat × And × Reunion",
+			"type": "manga-canon",
+			"aired_date": "2014-09-03"
+		},
+		{
+			"episode": 146,
+			"title": "Chairman × And × Release",
+			"type": "manga-canon",
+			"aired_date": "2014-09-10"
+		},
+		{
+			"episode": 147,
+			"title": "Salvation × And × Future",
+			"type": "manga-canon",
+			"aired_date": "2014-09-17"
+		},
+		{
+			"episode": 148,
+			"title": "Past × And × Future",
+			"type": "manga-canon",
+			"aired_date": "2014-09-24"
+		}
+	]
+}

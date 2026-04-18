@@ -1,0 +1,460 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Hajime no Ippo: The Fighting!",
+	"mappings": {
+		"anilist_id": 263,
+		"mal_id": 263
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The First Step",
+			"type": "manga-canon",
+			"aired_date": "2000-10-04"
+		},
+		{
+			"episode": 2,
+			"title": "Fruits of Labor",
+			"type": "manga-canon",
+			"aired_date": "2000-10-10"
+		},
+		{
+			"episode": 3,
+			"title": "Tears of Joy",
+			"type": "manga-canon",
+			"aired_date": "2000-10-17"
+		},
+		{
+			"episode": 4,
+			"title": "Shadow Boxing",
+			"type": "manga-canon",
+			"aired_date": "2000-10-24"
+		},
+		{
+			"episode": 5,
+			"title": "3 Months to Counter",
+			"type": "manga-canon",
+			"aired_date": "2000-10-31"
+		},
+		{
+			"episode": 6,
+			"title": "The Opening Bell of the Rematch",
+			"type": "manga-canon",
+			"aired_date": "2000-11-07"
+		},
+		{
+			"episode": 7,
+			"title": "The Destructive Force of 1cm",
+			"type": "manga-canon",
+			"aired_date": "2000-11-14"
+		},
+		{
+			"episode": 8,
+			"title": "Promise to Meet Again",
+			"type": "manga-canon",
+			"aired_date": "2000-11-21"
+		},
+		{
+			"episode": 9,
+			"title": "C Class License",
+			"type": "manga-canon",
+			"aired_date": "2000-11-28"
+		},
+		{
+			"episode": 10,
+			"title": "Debut Match!",
+			"type": "manga-canon",
+			"aired_date": "2000-12-05"
+		},
+		{
+			"episode": 11,
+			"title": "Obsession for Victory",
+			"type": "manga-canon",
+			"aired_date": "2000-12-12"
+		},
+		{
+			"episode": 12,
+			"title": "Becoming a Bully's Buddy",
+			"type": "manga-canon",
+			"aired_date": "2000-12-19"
+		},
+		{
+			"episode": 13,
+			"title": "The Eastern Japan Rookie Championship Tournament Begins",
+			"type": "manga-canon",
+			"aired_date": "2000-12-26"
+		},
+		{
+			"episode": 14,
+			"title": "Powerful Arms! Hook vs. Uppercut!",
+			"type": "manga-canon",
+			"aired_date": "2001-01-09"
+		},
+		{
+			"episode": 15,
+			"title": "Test of Endurance",
+			"type": "manga-canon",
+			"aired_date": "2001-01-16"
+		},
+		{
+			"episode": 16,
+			"title": "Anticipating a Fierce Fight",
+			"type": "manga-canon",
+			"aired_date": "2001-01-24"
+		},
+		{
+			"episode": 17,
+			"title": "Ippo on the Beach",
+			"type": "manga-canon",
+			"aired_date": "2001-01-30"
+		},
+		{
+			"episode": 18,
+			"title": "Clinch",
+			"type": "manga-canon",
+			"aired_date": "2001-02-06"
+		},
+		{
+			"episode": 19,
+			"title": "Dream of a KO",
+			"type": "manga-canon",
+			"aired_date": "2001-02-13"
+		},
+		{
+			"episode": 20,
+			"title": "The Threat of Shotgun",
+			"type": "manga-canon",
+			"aired_date": "2001-02-20"
+		},
+		{
+			"episode": 21,
+			"title": "The Way to Capture a Prodigy",
+			"type": "manga-canon",
+			"aired_date": "2001-02-27"
+		},
+		{
+			"episode": 22,
+			"title": "Forward! Forward!!",
+			"type": "manga-canon",
+			"aired_date": "2001-03-06"
+		},
+		{
+			"episode": 23,
+			"title": "The Other Semi-Final",
+			"type": "manga-canon",
+			"aired_date": "2001-03-13"
+		},
+		{
+			"episode": 24,
+			"title": "To the Promised Place...",
+			"type": "manga-canon",
+			"aired_date": "2001-03-20"
+		},
+		{
+			"episode": 25,
+			"title": "Grudges, Sorrows & Dreams",
+			"type": "manga-canon",
+			"aired_date": "2001-03-28"
+		},
+		{
+			"episode": 26,
+			"title": "The Battle for Distance",
+			"type": "manga-canon",
+			"aired_date": "2001-04-03"
+		},
+		{
+			"episode": 27,
+			"title": "Death Match",
+			"type": "manga-canon",
+			"aired_date": "2001-04-10"
+		},
+		{
+			"episode": 28,
+			"title": "Victory or Defeat",
+			"type": "manga-canon",
+			"aired_date": "2001-04-18"
+		},
+		{
+			"episode": 29,
+			"title": "Rocky of Naniwa",
+			"type": "manga-canon",
+			"aired_date": "2001-04-24"
+		},
+		{
+			"episode": 30,
+			"title": "To Enemy Ground",
+			"type": "manga-canon",
+			"aired_date": "2001-05-01"
+		},
+		{
+			"episode": 31,
+			"title": "Traces of Intense Battles",
+			"type": "filler",
+			"aired_date": "2001-05-09"
+		},
+		{
+			"episode": 32,
+			"title": "Throw Your Right!",
+			"type": "manga-canon",
+			"aired_date": "2001-05-15"
+		},
+		{
+			"episode": 33,
+			"title": "Smash Force",
+			"type": "manga-canon",
+			"aired_date": "2001-05-22"
+		},
+		{
+			"episode": 34,
+			"title": "The Rookie King",
+			"type": "manga-canon",
+			"aired_date": "2001-05-29"
+		},
+		{
+			"episode": 35,
+			"title": "The Continuing Journey",
+			"type": "manga-canon",
+			"aired_date": "2001-06-05"
+		},
+		{
+			"episode": 36,
+			"title": "The Champ and I",
+			"type": "manga-canon",
+			"aired_date": "2001-06-12"
+		},
+		{
+			"episode": 37,
+			"title": "A Thing to Strive For",
+			"type": "manga-canon",
+			"aired_date": "2001-06-19"
+		},
+		{
+			"episode": 38,
+			"title": "Two Rookies of the Year",
+			"type": "manga-canon",
+			"aired_date": "2001-06-26"
+		},
+		{
+			"episode": 39,
+			"title": "Challenge in a Foreign Land",
+			"type": "manga-canon",
+			"aired_date": "2001-07-03"
+		},
+		{
+			"episode": 40,
+			"title": "A Counter to Surpass All Counters",
+			"type": "manga-canon",
+			"aired_date": "2001-07-10"
+		},
+		{
+			"episode": 41,
+			"title": "Barf-michi's Big Fight",
+			"type": "manga-canon",
+			"aired_date": "2001-07-17"
+		},
+		{
+			"episode": 42,
+			"title": "Sympathy for a Dream",
+			"type": "manga-canon",
+			"aired_date": "2001-07-24"
+		},
+		{
+			"episode": 43,
+			"title": "The Speed Star",
+			"type": "manga-canon",
+			"aired_date": "2001-07-31"
+		},
+		{
+			"episode": 44,
+			"title": "Blind Spot in the Ring",
+			"type": "manga-canon",
+			"aired_date": "2001-08-07"
+		},
+		{
+			"episode": 45,
+			"title": "The White Fangs of the Wolf",
+			"type": "manga-canon",
+			"aired_date": "2001-08-14"
+		},
+		{
+			"episode": 46,
+			"title": "Be the Gazelle",
+			"type": "manga-canon",
+			"aired_date": "2001-08-21"
+		},
+		{
+			"episode": 47,
+			"title": "The Fighting Spirit Within",
+			"type": "manga-canon",
+			"aired_date": "2001-08-28"
+		},
+		{
+			"episode": 48,
+			"title": "The Red Wolf",
+			"type": "manga-canon",
+			"aired_date": "2001-09-04"
+		},
+		{
+			"episode": 49,
+			"title": "The Courage to Believe",
+			"type": "manga-canon",
+			"aired_date": "2001-09-18"
+		},
+		{
+			"episode": 50,
+			"title": "Something to Convey",
+			"type": "manga-canon",
+			"aired_date": "2001-09-25"
+		},
+		{
+			"episode": 51,
+			"title": "The Group Date",
+			"type": "manga-canon",
+			"aired_date": "2001-10-02"
+		},
+		{
+			"episode": 52,
+			"title": "The Challenger",
+			"type": "filler",
+			"aired_date": "2001-10-10"
+		},
+		{
+			"episode": 53,
+			"title": "So That I Can Be Myself",
+			"type": "manga-canon",
+			"aired_date": "2001-10-16"
+		},
+		{
+			"episode": 54,
+			"title": "Fists of the Champ",
+			"type": "manga-canon",
+			"aired_date": "2001-10-23"
+		},
+		{
+			"episode": 55,
+			"title": "The Japan Featherweight Title Match",
+			"type": "manga-canon",
+			"aired_date": "2001-10-30"
+		},
+		{
+			"episode": 56,
+			"title": "The Power that Stands in the Way",
+			"type": "manga-canon",
+			"aired_date": "2001-11-06"
+		},
+		{
+			"episode": 57,
+			"title": "Conclusion",
+			"type": "manga-canon",
+			"aired_date": "2001-11-13"
+		},
+		{
+			"episode": 58,
+			"title": "Heartbroken",
+			"type": "manga-canon",
+			"aired_date": "2001-11-20"
+		},
+		{
+			"episode": 59,
+			"title": "Look of Determination",
+			"type": "manga-canon",
+			"aired_date": "2001-11-27"
+		},
+		{
+			"episode": 60,
+			"title": "Rival",
+			"type": "manga-canon",
+			"aired_date": "2001-12-04"
+		},
+		{
+			"episode": 61,
+			"title": "Comeback Anxiety",
+			"type": "manga-canon",
+			"aired_date": "2001-12-11"
+		},
+		{
+			"episode": 62,
+			"title": "Revival",
+			"type": "manga-canon",
+			"aired_date": "2001-12-19"
+		},
+		{
+			"episode": 63,
+			"title": "Youth of Fire",
+			"type": "manga-canon",
+			"aired_date": "2001-12-25"
+		},
+		{
+			"episode": 64,
+			"title": "Enthusiastic Era",
+			"type": "manga-canon",
+			"aired_date": "2002-01-08"
+		},
+		{
+			"episode": 65,
+			"title": "The Summer of the Kamogawa Corps",
+			"type": "manga-canon",
+			"aired_date": "2002-01-15"
+		},
+		{
+			"episode": 66,
+			"title": "Takamura-san's Tears",
+			"type": "manga-canon",
+			"aired_date": "2002-01-22"
+		},
+		{
+			"episode": 67,
+			"title": "The Kamogawa Gym Swings into Action",
+			"type": "manga-canon",
+			"aired_date": "2002-01-29"
+		},
+		{
+			"episode": 68,
+			"title": "The Coach's Crisis",
+			"type": "manga-canon",
+			"aired_date": "2002-02-05"
+		},
+		{
+			"episode": 69,
+			"title": "The Trap of the Southpaw",
+			"type": "manga-canon",
+			"aired_date": "2002-02-12"
+		},
+		{
+			"episode": 70,
+			"title": "The Young Punk",
+			"type": "manga-canon",
+			"aired_date": "2002-02-19"
+		},
+		{
+			"episode": 71,
+			"title": "Time for the Showdown",
+			"type": "manga-canon",
+			"aired_date": "2002-02-26"
+		},
+		{
+			"episode": 72,
+			"title": "Lallapalooza",
+			"type": "manga-canon",
+			"aired_date": "2002-03-05"
+		},
+		{
+			"episode": 73,
+			"title": "Surpass That Moment",
+			"type": "manga-canon",
+			"aired_date": "2002-03-12"
+		},
+		{
+			"episode": 74,
+			"title": "Mix-Up",
+			"type": "manga-canon",
+			"aired_date": "2002-03-19"
+		},
+		{
+			"episode": 75,
+			"title": "One Step Further",
+			"type": "manga-canon",
+			"aired_date": "2002-03-26"
+		}
+	]
+}

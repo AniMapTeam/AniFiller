@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Heaven's Lost Property",
+	"mappings": {
+		"anilist_id": 5958,
+		"mal_id": 5958
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "A Full-frontal Hero Arises in the World!",
+			"type": "mixed-manga",
+			"aired_date": "2009-10-04"
+		},
+		{
+			"episode": 2,
+			"title": "An Airborne Prismatic Panty Adventure",
+			"type": "mixed-manga",
+			"aired_date": "2009-10-11"
+		},
+		{
+			"episode": 3,
+			"title": "Angeloid Directive Zero",
+			"type": "mixed-manga",
+			"aired_date": "2009-10-18"
+		},
+		{
+			"episode": 4,
+			"title": "Love and Triangles, Revisited",
+			"type": "mixed-manga",
+			"aired_date": "2009-10-25"
+		},
+		{
+			"episode": 5,
+			"title": "Hot Night With the Big Fish",
+			"type": "manga-canon",
+			"aired_date": "2009-11-01"
+		},
+		{
+			"episode": 6,
+			"title": "Swimsuit Surf Brigade, Go!Go!Go!",
+			"type": "mixed-manga",
+			"aired_date": "2009-11-08"
+		},
+		{
+			"episode": 7,
+			"title": "The Brainy, Heart-Pounding Transfer Students",
+			"type": "mixed-manga",
+			"aired_date": "2009-11-15"
+		},
+		{
+			"episode": 8,
+			"title": "For Whom the Shooting Festival is Held",
+			"type": "mixed-manga",
+			"aired_date": "2009-11-22"
+		},
+		{
+			"episode": 9,
+			"title": "The Delusional Story That Began With a Lie",
+			"type": "mixed-manga",
+			"aired_date": "2009-11-29"
+		},
+		{
+			"episode": 10,
+			"title": "Where the Melodious Words Of an Angel Go",
+			"type": "mixed-manga",
+			"aired_date": "2009-12-06"
+		},
+		{
+			"episode": 11,
+			"title": "Off We Go To My Bathhouse Paradise",
+			"type": "mixed-manga",
+			"aired_date": "2009-12-13"
+		},
+		{
+			"episode": 12,
+			"title": "Chains of No Escape",
+			"type": "mixed-manga",
+			"aired_date": "2009-12-20"
+		},
+		{
+			"episode": 13,
+			"title": "Queen of the Sky",
+			"type": "mixed-manga",
+			"aired_date": "2009-12-27"
+		}
+	]
+}

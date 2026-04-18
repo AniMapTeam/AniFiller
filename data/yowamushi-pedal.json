@@ -1,0 +1,94 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Yowamushi Pedal",
+	"mappings": {
+		"anilist_id": 18179,
+		"mal_id": 18179
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Because I Can Go to Akiba for Free",
+			"type": "manga-canon",
+			"aired_date": "2013-10-07"
+		},
+		{
+			"episode": 2,
+			"title": "To Recruit More Members",
+			"type": "manga-canon",
+			"aired_date": "2013-10-14"
+		},
+		{
+			"episode": 3,
+			"title": "I Don't Have Any Friends",
+			"type": "manga-canon",
+			"aired_date": "2013-10-21"
+		},
+		{
+			"episode": 4,
+			"title": "Naruko Shoukichi",
+			"type": "manga-canon",
+			"aired_date": "2013-10-28"
+		},
+		{
+			"episode": 5,
+			"title": "The Sōhoku High School Bicycle Racing Team",
+			"type": "manga-canon",
+			"aired_date": "2013-11-04"
+		},
+		{
+			"episode": 6,
+			"title": "Welcoming Race",
+			"type": "manga-canon",
+			"aired_date": "2013-11-11"
+		},
+		{
+			"episode": 7,
+			"title": "I Want to Catch Up!",
+			"type": "manga-canon",
+			"aired_date": "2013-11-18"
+		},
+		{
+			"episode": 8,
+			"title": "Sprint Climb!!",
+			"type": "manga-canon",
+			"aired_date": "2013-11-25"
+		},
+		{
+			"episode": 9,
+			"title": "Full Power vs. Full Power",
+			"type": "manga-canon",
+			"aired_date": "2013-12-02"
+		},
+		{
+			"episode": 10,
+			"title": "Peak Spider",
+			"type": "manga-canon",
+			"aired_date": "2013-12-09"
+		},
+		{
+			"episode": 11,
+			"title": "Human Bullet Train!!",
+			"type": "manga-canon",
+			"aired_date": "2013-12-16"
+		},
+		{
+			"episode": 12,
+			"title": "First Day of Camp!",
+			"type": "manga-canon",
+			"aired_date": "2013-12-23"
+		},
+		{
+			"episode": 13,
+			"title": "Imaizumi and Naruko's 1000km",
+			"type": "mixed-manga",
+			"aired_date": "2014-01-06"
+		},
+		{
+			"episode": 14,
+			"title": "Reunion at Dawn",
+			"type": "mixed-manga",
+			"aired_date": "2014-01-13"
+		}
+	]
+}

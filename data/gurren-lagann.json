@@ -1,0 +1,172 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "GURREN LAGANN",
+	"mappings": {
+		"anilist_id": 2001,
+		"mal_id": 2001
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Bust Through The Heavens With Your Drill!",
+			"type": "manga-canon",
+			"aired_date": "2007-04-01"
+		},
+		{
+			"episode": 2,
+			"title": "I Said I'm Gonna Pilot That Thing!",
+			"type": "manga-canon",
+			"aired_date": "2007-04-08"
+		},
+		{
+			"episode": 3,
+			"title": "Who Do You Think You Are, Having Two Faces!?",
+			"type": "manga-canon",
+			"aired_date": "2007-04-15"
+		},
+		{
+			"episode": 4,
+			"title": "Having Lots of Faces Doesn't Make You Great!",
+			"type": "manga-canon",
+			"aired_date": "2007-04-22"
+		},
+		{
+			"episode": 5,
+			"title": "I Don't Get It, Not One Damn Bit!",
+			"type": "manga-canon",
+			"aired_date": "2007-04-29"
+		},
+		{
+			"episode": 6,
+			"title": "Sit in the Hot Tub 'Till You're Sick!!",
+			"type": "manga-canon",
+			"aired_date": "2007-05-06"
+		},
+		{
+			"episode": 7,
+			"title": "You're Gonna Do It!!",
+			"type": "manga-canon",
+			"aired_date": "2007-05-13"
+		},
+		{
+			"episode": 8,
+			"title": "Later Buddy",
+			"type": "manga-canon",
+			"aired_date": "2007-05-20"
+		},
+		{
+			"episode": 9,
+			"title": "What Exactly, is a Human?",
+			"type": "manga-canon",
+			"aired_date": "2007-05-27"
+		},
+		{
+			"episode": 10,
+			"title": "Who Is This Bro?",
+			"type": "manga-canon",
+			"aired_date": "2007-06-03"
+		},
+		{
+			"episode": 11,
+			"title": "Simon, Hands Off",
+			"type": "manga-canon",
+			"aired_date": "2007-06-10"
+		},
+		{
+			"episode": 12,
+			"title": "Yoko, Will You Do Me a Favor?",
+			"type": "manga-canon",
+			"aired_date": "2007-06-17"
+		},
+		{
+			"episode": 13,
+			"title": "Eat Up, Everyone!",
+			"type": "manga-canon",
+			"aired_date": "2007-06-24"
+		},
+		{
+			"episode": 14,
+			"title": "Well Met, Everyone",
+			"type": "manga-canon",
+			"aired_date": "2007-07-01"
+		},
+		{
+			"episode": 15,
+			"title": "I Will Head Towards Tomorrow",
+			"type": "manga-canon",
+			"aired_date": "2007-07-08"
+		},
+		{
+			"episode": 16,
+			"title": "Compilation Episode",
+			"type": "filler",
+			"aired_date": "2007-07-15"
+		},
+		{
+			"episode": 17,
+			"title": "You Don't Know Anything!",
+			"type": "manga-canon",
+			"aired_date": "2007-07-15"
+		},
+		{
+			"episode": 18,
+			"title": "Tell Me the Secrets of This World",
+			"type": "manga-canon",
+			"aired_date": "2007-07-29"
+		},
+		{
+			"episode": 19,
+			"title": "We Will Survive By Any Means Necessary",
+			"type": "manga-canon",
+			"aired_date": "2007-08-05"
+		},
+		{
+			"episode": 20,
+			"title": "How Far Will God Test Us?",
+			"type": "manga-canon",
+			"aired_date": "2007-08-12"
+		},
+		{
+			"episode": 21,
+			"title": "You Are Someone Who Ought To Survive",
+			"type": "manga-canon",
+			"aired_date": "2007-08-19"
+		},
+		{
+			"episode": 22,
+			"title": "That Is My Last Duty",
+			"type": "manga-canon",
+			"aired_date": "2007-08-26"
+		},
+		{
+			"episode": 23,
+			"title": "Let's Go, This Is The Final Battle",
+			"type": "manga-canon",
+			"aired_date": "2007-09-02"
+		},
+		{
+			"episode": 24,
+			"title": "I'll Never Forget This Minute, This Second",
+			"type": "manga-canon",
+			"aired_date": "2007-09-09"
+		},
+		{
+			"episode": 25,
+			"title": "I Accept Your Last Wish!",
+			"type": "manga-canon",
+			"aired_date": "2007-09-16"
+		},
+		{
+			"episode": 26,
+			"title": "Let's Go, Buddy",
+			"type": "manga-canon",
+			"aired_date": "2007-09-23"
+		},
+		{
+			"episode": 27,
+			"title": "The Lights In The Sky Are Stars",
+			"type": "manga-canon",
+			"aired_date": "2007-09-30"
+		}
+	]
+}

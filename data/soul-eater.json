@@ -1,0 +1,316 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Soul Eater",
+	"mappings": {
+		"anilist_id": 3588,
+		"mal_id": 3588
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Resonance of the Soul – Will Soul Eater Become a Death Scythe?",
+			"type": "manga-canon",
+			"aired_date": "2008-04-07"
+		},
+		{
+			"episode": 2,
+			"title": "I Am the Star! The Big Man Is Showing Up Here?",
+			"type": "manga-canon",
+			"aired_date": "2008-04-14"
+		},
+		{
+			"episode": 3,
+			"title": "The Perfect Boy – Death the Kid's Magnificent Mission?",
+			"type": "manga-canon",
+			"aired_date": "2008-04-21"
+		},
+		{
+			"episode": 4,
+			"title": "Engage the Witch Hunter! A Remedial Lesson in the Graveyard?",
+			"type": "manga-canon",
+			"aired_date": "2008-04-28"
+		},
+		{
+			"episode": 5,
+			"title": "Shape of the Soul – Enter the Ultimate Meister Stein?",
+			"type": "manga-canon",
+			"aired_date": "2008-05-05"
+		},
+		{
+			"episode": 6,
+			"title": "The New Student – Kid's First Day at the Academy, Will It Be an Entrance to Remember?",
+			"type": "manga-canon",
+			"aired_date": "2008-05-12"
+		},
+		{
+			"episode": 7,
+			"title": "Black-blooded Terror – There's a Weapon inside Crona?",
+			"type": "mixed-manga",
+			"aired_date": "2008-05-19"
+		},
+		{
+			"episode": 8,
+			"title": "Medusa the Witch – The One Who Possesses a Great Evil Soul?",
+			"type": "manga-canon",
+			"aired_date": "2008-05-26"
+		},
+		{
+			"episode": 9,
+			"title": "Legend of the Holy Sword – Kid and Black☆Star's Great Adventure?",
+			"type": "manga-canon",
+			"aired_date": "2008-06-02"
+		},
+		{
+			"episode": 10,
+			"title": "The Enchanted Sword Masamune – Break the Soul Possession: A Heart Sings in the Rain?",
+			"type": "manga-canon",
+			"aired_date": "2008-06-09"
+		},
+		{
+			"episode": 11,
+			"title": "Tsubaki, the Camellia Blossom – What Lies Beyond the Grief?",
+			"type": "manga-canon",
+			"aired_date": "2008-06-16"
+		},
+		{
+			"episode": 12,
+			"title": "Courage That Beats Out Fear – Maka Albarn's Great Resolution?",
+			"type": "manga-canon",
+			"aired_date": "2008-06-23"
+		},
+		{
+			"episode": 13,
+			"title": "The Man with the Magic Eye – Soul and Maka's Diverging Soul Wavelength?",
+			"type": "manga-canon",
+			"aired_date": "2008-06-30"
+		},
+		{
+			"episode": 14,
+			"title": "The Super Written Exam – Heart-Pounding, Reeling, and Restless. You're Kidding!?",
+			"type": "manga-canon",
+			"aired_date": "2008-07-07"
+		},
+		{
+			"episode": 15,
+			"title": "The Soul Eating Black Dragon – Scaredy-cat Liz and Her Merry Friends?",
+			"type": "manga-canon",
+			"aired_date": "2008-07-14"
+		},
+		{
+			"episode": 16,
+			"title": "Fierce Battle Aboard the Ghost Ship – The Hell inside My Head?",
+			"type": "manga-canon",
+			"aired_date": "2008-07-21"
+		},
+		{
+			"episode": 17,
+			"title": "Legend of the Holy Sword 2 – Wanna Go Drinking, Gambling, and Playing?",
+			"type": "filler",
+			"aired_date": "2008-07-28"
+		},
+		{
+			"episode": 18,
+			"title": "The Eve Party Nightmare – And so the Curtain Rises?",
+			"type": "manga-canon",
+			"aired_date": "2008-08-04"
+		},
+		{
+			"episode": 19,
+			"title": "The Underground Battle Commences – Break Through Medusa's Vector Arrow?",
+			"type": "manga-canon",
+			"aired_date": "2008-08-11"
+		},
+		{
+			"episode": 20,
+			"title": "The Black Blood Resonance Battle! – A Small Soul's Grand Struggle against Fear?",
+			"type": "manga-canon",
+			"aired_date": "2008-08-18"
+		},
+		{
+			"episode": 21,
+			"title": "May My Soul Reach You – A Dry Heart inside Unbearable Isolation?",
+			"type": "manga-canon",
+			"aired_date": "2008-08-25"
+		},
+		{
+			"episode": 22,
+			"title": "The Seal Shrine – The Immortal Man's Tricks?",
+			"type": "manga-canon",
+			"aired_date": "2008-09-01"
+		},
+		{
+			"episode": 23,
+			"title": "Dead or Alive – In the Rift between Revival and Dazzlement?",
+			"type": "manga-canon",
+			"aired_date": "2008-09-08"
+		},
+		{
+			"episode": 24,
+			"title": "The Battle of the Gods – Death City on the Verge of Collapse?",
+			"type": "manga-canon",
+			"aired_date": "2008-09-15"
+		},
+		{
+			"episode": 25,
+			"title": "The Death Scythes Convene – Stop Dad's Staff Reassignment!?",
+			"type": "manga-canon",
+			"aired_date": "2008-09-22"
+		},
+		{
+			"episode": 26,
+			"title": "The Exciting and Embarrassing Trial Enrollment! The DWMA New Lifestyle Support Fair Is Open?",
+			"type": "manga-canon",
+			"aired_date": "2008-09-29"
+		},
+		{
+			"episode": 27,
+			"title": "800 Years of Bloodlust – Advent of the Heretic Witch?",
+			"type": "manga-canon",
+			"aired_date": "2008-10-06"
+		},
+		{
+			"episode": 28,
+			"title": "The Sword God Rises – Does It Have a Sweet or Salty Taste?",
+			"type": "manga-canon",
+			"aired_date": "2008-10-13"
+		},
+		{
+			"episode": 29,
+			"title": "Medusa's Revival! A Spider and Snake's Fateful Reunion?",
+			"type": "manga-canon",
+			"aired_date": "2008-10-20"
+		},
+		{
+			"episode": 30,
+			"title": "The Red Hot Runaway Express – A Magic Tool Left Behind by the Great Wizard?",
+			"type": "manga-canon",
+			"aired_date": "2008-10-27"
+		},
+		{
+			"episode": 31,
+			"title": "Drying Happiness! Whose Tears Sparkle in the Moonlight?",
+			"type": "manga-canon",
+			"aired_date": "2008-11-03"
+		},
+		{
+			"episode": 32,
+			"title": "Legend of the Holy Sword 3 – The Academy Gang Leader's Tale?",
+			"type": "manga-canon",
+			"aired_date": "2008-11-10"
+		},
+		{
+			"episode": 33,
+			"title": "Resonance Link – Play the Melody of the Souls?",
+			"type": "manga-canon",
+			"aired_date": "2008-11-17"
+		},
+		{
+			"episode": 34,
+			"title": "The Battle for Brew – Clash: The DWMA vs. Arachnophobia?",
+			"type": "manga-canon",
+			"aired_date": "2008-11-24"
+		},
+		{
+			"episode": 35,
+			"title": "Mosquito's Storm! Ten Minutes to Fight in the World of the Past?",
+			"type": "manga-canon",
+			"aired_date": "2008-12-01"
+		},
+		{
+			"episode": 36,
+			"title": "Unleash the Seven's Resonance Link! A Recital of Destruction and Creation?",
+			"type": "manga-canon",
+			"aired_date": "2008-12-08"
+		},
+		{
+			"episode": 37,
+			"title": "The Detective's First Case – Kid Exposes the DWMA's Secret?",
+			"type": "manga-canon",
+			"aired_date": "2008-12-15"
+		},
+		{
+			"episode": 38,
+			"title": "Asura's Temptation – The Big Man's Uncontainable Irritation?",
+			"type": "manga-canon",
+			"aired_date": "2008-12-22"
+		},
+		{
+			"episode": 39,
+			"title": "Crona's Escape – Show Me Your Smile, Please?",
+			"type": "anime-canon",
+			"aired_date": "2009-01-05"
+		},
+		{
+			"episode": 40,
+			"title": "The Cards Are Cut – Medusa Surrenders to the DWMA?",
+			"type": "anime-canon",
+			"aired_date": "2009-01-12"
+		},
+		{
+			"episode": 41,
+			"title": "Twirl 'Round and 'Round – A New World in Which the Doc Dances?",
+			"type": "anime-canon",
+			"aired_date": "2009-01-19"
+		},
+		{
+			"episode": 42,
+			"title": "Charge Baba Yaga's Castle! Things Are Kind of Gloomy?",
+			"type": "anime-canon",
+			"aired_date": "2009-01-26"
+		},
+		{
+			"episode": 43,
+			"title": "The Last Magic Tool – Mission Impossible for Unarmed Kid?",
+			"type": "anime-canon",
+			"aired_date": "2009-02-02"
+		},
+		{
+			"episode": 44,
+			"title": "Weakling Crona's Determination – For You, for Always Being by My Side?",
+			"type": "anime-canon",
+			"aired_date": "2009-02-09"
+		},
+		{
+			"episode": 45,
+			"title": "Anti-magic Wavelength – Fierce Attack, the Anger-filled Demon Hunter?",
+			"type": "anime-canon",
+			"aired_date": "2009-02-16"
+		},
+		{
+			"episode": 46,
+			"title": "Warrior or Slaughterer? Showdown: Mifune vs. Black☆Star?",
+			"type": "anime-canon",
+			"aired_date": "2009-02-23"
+		},
+		{
+			"episode": 47,
+			"title": "The Miraculous Coffee Table Flip – Fly, Our Death City Robot?",
+			"type": "anime-canon",
+			"aired_date": "2009-03-02"
+		},
+		{
+			"episode": 48,
+			"title": "Lord Death Wields a Death Scythe – Just One Step from Utter Darkness?",
+			"type": "anime-canon",
+			"aired_date": "2009-03-09"
+		},
+		{
+			"episode": 49,
+			"title": "Asura Wakes – To the End of the World?",
+			"type": "anime-canon",
+			"aired_date": "2009-03-16"
+		},
+		{
+			"episode": 50,
+			"title": "Sink or Swim?! The Men Who Transcend the Gods?",
+			"type": "anime-canon",
+			"aired_date": "2009-03-23"
+		},
+		{
+			"episode": 51,
+			"title": "The Word Is Bravery!",
+			"type": "anime-canon",
+			"aired_date": "2009-03-30"
+		}
+	]
+}

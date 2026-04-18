@@ -1,0 +1,694 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Saint Seiya",
+	"mappings": {
+		"anilist_id": 1254,
+		"mal_id": 1254
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Revive! Legendary Hero!",
+			"type": "manga-canon",
+			"aired_date": "1986-10-11"
+		},
+		{
+			"episode": 2,
+			"title": "Burn! Meteor Punch of Pegasus!",
+			"type": "manga-canon",
+			"aired_date": "1986-10-18"
+		},
+		{
+			"episode": 3,
+			"title": "Cygnus! Warrior of the Ice Field",
+			"type": "manga-canon",
+			"aired_date": "1986-10-25"
+		},
+		{
+			"episode": 4,
+			"title": "Dragon! Unrivaled Fist and Shield!",
+			"type": "manga-canon",
+			"aired_date": "1986-11-01"
+		},
+		{
+			"episode": 5,
+			"title": "Miracle of Rebirth! Friendship of the Cosmos",
+			"type": "manga-canon",
+			"aired_date": "1986-11-15"
+		},
+		{
+			"episode": 6,
+			"title": "Phoenix! The Warrior who saw Hell",
+			"type": "manga-canon",
+			"aired_date": "1986-11-22"
+		},
+		{
+			"episode": 7,
+			"title": "It is Stolen! The Gold Cloth",
+			"type": "manga-canon",
+			"aired_date": "1986-11-29"
+		},
+		{
+			"episode": 8,
+			"title": "Defeat them! The Black Phoenix Army",
+			"type": "manga-canon",
+			"aired_date": "1986-12-06"
+		},
+		{
+			"episode": 9,
+			"title": "Formidable Enemy! The Four Heavenly Knights of Darkness Manifest",
+			"type": "manga-canon",
+			"aired_date": "1986-12-13"
+		},
+		{
+			"episode": 10,
+			"title": "Beware Shiryu! The Cemetery of Cloths",
+			"type": "manga-canon",
+			"aired_date": "1986-12-20"
+		},
+		{
+			"episode": 11,
+			"title": "Life and Death Struggle! Terror of the Black Death Fist",
+			"type": "manga-canon",
+			"aired_date": "1986-12-27"
+		},
+		{
+			"episode": 12,
+			"title": "Catch! Nebula Chain of Friendship",
+			"type": "manga-canon",
+			"aired_date": "1987-01-10"
+		},
+		{
+			"episode": 13,
+			"title": "Burn Up! Punch of Flames",
+			"type": "manga-canon",
+			"aired_date": "1987-01-17"
+		},
+		{
+			"episode": 14,
+			"title": "Defeated! The Illusion Demon Fist",
+			"type": "manga-canon",
+			"aired_date": "1987-01-24"
+		},
+		{
+			"episode": 15,
+			"title": "Now It's Revealed! The Enigma of Ikki",
+			"type": "mixed-manga",
+			"aired_date": "1987-01-31"
+		},
+		{
+			"episode": 16,
+			"title": "A Giant! The Fierce Attack of Docrates",
+			"type": "filler",
+			"aired_date": "1987-02-07"
+		},
+		{
+			"episode": 17,
+			"title": "Rescue! Saori's Crisis",
+			"type": "filler",
+			"aired_date": "1987-02-14"
+		},
+		{
+			"episode": 18,
+			"title": "Great Rage! Ghost Saint of the Caribbean",
+			"type": "filler",
+			"aired_date": "1987-02-21"
+		},
+		{
+			"episode": 19,
+			"title": "Life or Death! Bloody Battle of the Island of Spirits",
+			"type": "filler",
+			"aired_date": "1987-02-28"
+		},
+		{
+			"episode": 20,
+			"title": "Desperate Battle! Shaina's Revenge",
+			"type": "filler",
+			"aired_date": "1987-03-07"
+		},
+		{
+			"episode": 21,
+			"title": "Passionate Misdeed! The Aurora Confrontation",
+			"type": "filler",
+			"aired_date": "1987-03-14"
+		},
+		{
+			"episode": 22,
+			"title": "Rebirth of the Flame! Invincible Ikki",
+			"type": "filler",
+			"aired_date": "1987-03-21"
+		},
+		{
+			"episode": 23,
+			"title": "Silver Saint! Vain and Boastful Assassin",
+			"type": "manga-canon",
+			"aired_date": "1987-03-28"
+		},
+		{
+			"episode": 24,
+			"title": "Fly Pegasus! Like a Comet",
+			"type": "manga-canon",
+			"aired_date": "1987-04-11"
+		},
+		{
+			"episode": 25,
+			"title": "Fight! The Rise of Athena",
+			"type": "mixed-manga",
+			"aired_date": "1987-04-18"
+		},
+		{
+			"episode": 26,
+			"title": "Friend or Foe! Steel Saints",
+			"type": "filler",
+			"aired_date": "1987-04-25"
+		},
+		{
+			"episode": 27,
+			"title": "Stone Seiya! Shield of Medusa",
+			"type": "manga-canon",
+			"aired_date": "1987-05-02"
+		},
+		{
+			"episode": 28,
+			"title": "Dragon! Victory of Self-Sacrifice",
+			"type": "mixed-manga",
+			"aired_date": "1987-05-09"
+		},
+		{
+			"episode": 29,
+			"title": "Kidnapped! Corvus' Army Calls Unexpectedly on Saori",
+			"type": "manga-canon",
+			"aired_date": "1987-05-16"
+		},
+		{
+			"episode": 30,
+			"title": "Burn! Cosmo of Love",
+			"type": "manga-canon",
+			"aired_date": "1987-05-23"
+		},
+		{
+			"episode": 31,
+			"title": "Evil Apparitions! Deadline of Life or Death",
+			"type": "manga-canon",
+			"aired_date": "1987-05-30"
+		},
+		{
+			"episode": 32,
+			"title": "Great Explosion! Death Queen Island",
+			"type": "mixed-manga",
+			"aired_date": "1987-06-06"
+		},
+		{
+			"episode": 33,
+			"title": "Dragon and Tiger Clash! No Light For Dragon Tears",
+			"type": "filler",
+			"aired_date": "1987-06-13"
+		},
+		{
+			"episode": 34,
+			"title": "Farewell Friend! Rest in Peace",
+			"type": "filler",
+			"aired_date": "1987-06-20"
+		},
+		{
+			"episode": 35,
+			"title": "Desperate Journey! Open Dragon's Eyes",
+			"type": "filler",
+			"aired_date": "1987-06-27"
+		},
+		{
+			"episode": 36,
+			"title": "Amazing! Reality of the Twelve Gold Cloths",
+			"type": "manga-canon",
+			"aired_date": "1987-07-04"
+		},
+		{
+			"episode": 37,
+			"title": "The Mask Cries Out! Love or Death?",
+			"type": "manga-canon",
+			"aired_date": "1987-07-11"
+		},
+		{
+			"episode": 38,
+			"title": "Clash! Gold Saint",
+			"type": "manga-canon",
+			"aired_date": "1987-07-18"
+		},
+		{
+			"episode": 39,
+			"title": "Speed of Light! The Fist Faster than the Speed of Sound",
+			"type": "manga-canon",
+			"aired_date": "1987-07-25"
+		},
+		{
+			"episode": 40,
+			"title": "Go! The Official Departure",
+			"type": "manga-canon",
+			"aired_date": "1987-08-01"
+		},
+		{
+			"episode": 41,
+			"title": "Great Sanctuary Battle! Athena's Greatest Crisis",
+			"type": "manga-canon",
+			"aired_date": "1987-08-08"
+		},
+		{
+			"episode": 42,
+			"title": "The Ultimate Cosmo! Seven Senses",
+			"type": "manga-canon",
+			"aired_date": "1987-08-15"
+		},
+		{
+			"episode": 43,
+			"title": "Big Bang! Battle of Taurus Temple",
+			"type": "manga-canon",
+			"aired_date": "1987-08-22"
+		},
+		{
+			"episode": 44,
+			"title": "Gemini! Maze of Light and Dark",
+			"type": "manga-canon",
+			"aired_date": "1987-08-29"
+		},
+		{
+			"episode": 45,
+			"title": "Panic! Adrift in a Different Dimension",
+			"type": "manga-canon",
+			"aired_date": "1987-09-05"
+		},
+		{
+			"episode": 46,
+			"title": "Cry Out! Nebula Chains fight as One",
+			"type": "manga-canon",
+			"aired_date": "1987-09-12"
+		},
+		{
+			"episode": 47,
+			"title": "Farewell Hyoga! Sleep, O Brave One!",
+			"type": "manga-canon",
+			"aired_date": "1987-09-19"
+		},
+		{
+			"episode": 48,
+			"title": "Dragon! Revival in the Land of Death",
+			"type": "manga-canon",
+			"aired_date": "1987-09-26"
+		},
+		{
+			"episode": 49,
+			"title": "Love! Shunrei's Prayer",
+			"type": "manga-canon",
+			"aired_date": "1987-10-10"
+		},
+		{
+			"episode": 50,
+			"title": "Arise Dragon! Shiryu's Angry Cosmo",
+			"type": "manga-canon",
+			"aired_date": "1987-10-17"
+		},
+		{
+			"episode": 51,
+			"title": "Why! Fang of the Gold Lion",
+			"type": "mixed-manga",
+			"aired_date": "1987-10-24"
+		},
+		{
+			"episode": 52,
+			"title": "Ares! The Demon Emperor Plots",
+			"type": "manga-canon",
+			"aired_date": "1987-10-31"
+		},
+		{
+			"episode": 53,
+			"title": "That Man! Cassios Dies for Love",
+			"type": "manga-canon",
+			"aired_date": "1987-11-07"
+		},
+		{
+			"episode": 54,
+			"title": "Ikki! Phoenix's Blazing Wings",
+			"type": "filler",
+			"aired_date": "1987-11-14"
+		},
+		{
+			"episode": 55,
+			"title": "Fellowship of Harm! Athena's Cry",
+			"type": "filler",
+			"aired_date": "1987-11-21"
+		},
+		{
+			"episode": 56,
+			"title": "Shaka! Most Sacred Saint",
+			"type": "manga-canon",
+			"aired_date": "1987-11-28"
+		},
+		{
+			"episode": 57,
+			"title": "The Fear of Nothingness! The Open Eyes of Shaka",
+			"type": "manga-canon",
+			"aired_date": "1987-12-05"
+		},
+		{
+			"episode": 58,
+			"title": "Hero! Ikki Destroyed For Brotherly Love",
+			"type": "manga-canon",
+			"aired_date": "1987-12-12"
+		},
+		{
+			"episode": 59,
+			"title": "Revive Swan! Life, Death, and Love",
+			"type": "manga-canon",
+			"aired_date": "1987-12-19"
+		},
+		{
+			"episode": 60,
+			"title": "Hyoga's Return! At Risk of Life",
+			"type": "manga-canon",
+			"aired_date": "1987-12-26"
+		},
+		{
+			"episode": 61,
+			"title": "Surrender or Die! Scorpion vs. Swan",
+			"type": "manga-canon",
+			"aired_date": "1988-01-09"
+		},
+		{
+			"episode": 62,
+			"title": "Forge Ahead Hyoga! Proud and Brave",
+			"type": "manga-canon",
+			"aired_date": "1988-01-16"
+		},
+		{
+			"episode": 63,
+			"title": "Be Heard! Sanctuary's Gold Cloth",
+			"type": "manga-canon",
+			"aired_date": "1988-01-23"
+		},
+		{
+			"episode": 64,
+			"title": "Young Men! You are worthy of Athena",
+			"type": "filler",
+			"aired_date": "1988-01-30"
+		},
+		{
+			"episode": 65,
+			"title": "Growling Excalibur! Shura vs. Dragon",
+			"type": "manga-canon",
+			"aired_date": "1988-02-06"
+		},
+		{
+			"episode": 66,
+			"title": "Shiryuu! Vanish Like a Star",
+			"type": "manga-canon",
+			"aired_date": "1988-02-13"
+		},
+		{
+			"episode": 67,
+			"title": "Farewell! My teacher, my friends",
+			"type": "manga-canon",
+			"aired_date": "1988-02-20"
+		},
+		{
+			"episode": 68,
+			"title": "Warrior of Beauty! Aphrodite",
+			"type": "manga-canon",
+			"aired_date": "1988-02-27"
+		},
+		{
+			"episode": 69,
+			"title": "Demon Roses! Sweet Fragrance of Death",
+			"type": "manga-canon",
+			"aired_date": "1988-03-12"
+		},
+		{
+			"episode": 70,
+			"title": "Peace! Shun's Last Smile",
+			"type": "manga-canon",
+			"aired_date": "1988-03-19"
+		},
+		{
+			"episode": 71,
+			"title": "Fire is going out In the Fire Clock! True Face of the Pope",
+			"type": "manga-canon",
+			"aired_date": "1988-03-26"
+		},
+		{
+			"episode": 72,
+			"title": "Go Seiya! Get over the death of friends",
+			"type": "manga-canon",
+			"aired_date": "1988-04-09"
+		},
+		{
+			"episode": 73,
+			"title": "Gather, Friends! Toward Athena",
+			"type": "manga-canon",
+			"aired_date": "1988-04-16"
+		},
+		{
+			"episode": 74,
+			"title": "Enemies of the Northern Pole! The Legendary God Warriors",
+			"type": "filler",
+			"aired_date": "1988-04-23"
+		},
+		{
+			"episode": 75,
+			"title": "Hilda! Goddess Imprisoned by Evil",
+			"type": "filler",
+			"aired_date": "1988-04-30"
+		},
+		{
+			"episode": 76,
+			"title": "Great Giant Thor! Hatred of Cosmo",
+			"type": "filler",
+			"aired_date": "1988-05-07"
+		},
+		{
+			"episode": 77,
+			"title": "Giant's Tears! Dying For Hilda's Cause",
+			"type": "filler",
+			"aired_date": "1988-05-14"
+		},
+		{
+			"episode": 78,
+			"title": "Bared Fangs! Northern Wolf Fenrir",
+			"type": "filler",
+			"aired_date": "1988-05-21"
+		},
+		{
+			"episode": 79,
+			"title": "Sorrow! Fate of the Northern Wolf Pack Blow",
+			"type": "filler",
+			"aired_date": "1988-05-28"
+		},
+		{
+			"episode": 80,
+			"title": "Flowing Snowfield! Sad Howling",
+			"type": "filler",
+			"aired_date": "1988-06-04"
+		},
+		{
+			"episode": 81,
+			"title": "Freya! Love Tells of the Life/Death Struggle",
+			"type": "filler",
+			"aired_date": "1988-06-11"
+		},
+		{
+			"episode": 82,
+			"title": "Dancing Swan! Scorching Hell in the Ice",
+			"type": "filler",
+			"aired_date": "1988-06-18"
+		},
+		{
+			"episode": 83,
+			"title": "Bewitching Harp! The Prelude of Death Tempts Shun",
+			"type": "filler",
+			"aired_date": "1988-06-25"
+		},
+		{
+			"episode": 84,
+			"title": "Decree of Death! String Requiem",
+			"type": "filler",
+			"aired_date": "1988-07-02"
+		},
+		{
+			"episode": 85,
+			"title": "Hero's Grief! Frozen Hatred",
+			"type": "filler",
+			"aired_date": "1988-07-09"
+		},
+		{
+			"episode": 86,
+			"title": "Phoenix! Crimson Blazing Wings",
+			"type": "filler",
+			"aired_date": "1988-07-16"
+		},
+		{
+			"episode": 87,
+			"title": "Demon's Amethyst! Saint's Cemetery",
+			"type": "filler",
+			"aired_date": "1988-07-23"
+		},
+		{
+			"episode": 88,
+			"title": "Sword of Flame! Dreadful Ambition",
+			"type": "filler",
+			"aired_date": "1988-07-30"
+		},
+		{
+			"episode": 89,
+			"title": "Impossible Viciousness! Forest of Spirits",
+			"type": "filler",
+			"aired_date": "1988-08-13"
+		},
+		{
+			"episode": 90,
+			"title": "Don't Look Back, Seiya! Cosmo of the Rising Dragon",
+			"type": "filler",
+			"aired_date": "1988-08-20"
+		},
+		{
+			"episode": 91,
+			"title": "Glow Shun! Hidden Puzzle of the Dark Fang",
+			"type": "filler",
+			"aired_date": "1988-08-27"
+		},
+		{
+			"episode": 92,
+			"title": "Swirl! Shun's Desperate Use of the Nebula Storm",
+			"type": "filler",
+			"aired_date": "1988-09-03"
+		},
+		{
+			"episode": 93,
+			"title": "Bud! Fate of the Twin Stars",
+			"type": "filler",
+			"aired_date": "1988-09-10"
+		},
+		{
+			"episode": 94,
+			"title": "Bond of Brotherhood! Syd Rests with his Ancestors",
+			"type": "filler",
+			"aired_date": "1988-09-17"
+		},
+		{
+			"episode": 95,
+			"title": "Hero of Noble Spirit! Legendary Knight Reborn",
+			"type": "filler",
+			"aired_date": "1988-10-15"
+		},
+		{
+			"episode": 96,
+			"title": "Dragon Against Dragon! A Fraction of a Second Leads to Victory",
+			"type": "filler",
+			"aired_date": "1988-10-22"
+		},
+		{
+			"episode": 97,
+			"title": "Siren! Beautiful Melody of Death",
+			"type": "filler",
+			"aired_date": "1988-10-29"
+		},
+		{
+			"episode": 98,
+			"title": "Appearance of a Miracle! Odin Robe",
+			"type": "filler",
+			"aired_date": "1988-11-05"
+		},
+		{
+			"episode": 99,
+			"title": "Athena! Eternal Prayer of Noble Spirits",
+			"type": "filler",
+			"aired_date": "1988-11-12"
+		},
+		{
+			"episode": 100,
+			"title": "The Emperor of the seas, Poseidon! Holy War Once Again",
+			"type": "mixed-manga",
+			"aired_date": "1988-11-19"
+		},
+		{
+			"episode": 101,
+			"title": "Smash! Mammoth Pillars of the Seven Seas",
+			"type": "mixed-manga",
+			"aired_date": "1988-11-26"
+		},
+		{
+			"episode": 102,
+			"title": "Mysterious Shine! Golden Bronze Cloths",
+			"type": "manga-canon",
+			"aired_date": "1988-12-03"
+		},
+		{
+			"episode": 103,
+			"title": "Dangerous Shun! Dreadful Fangs of the Demon Beast",
+			"type": "manga-canon",
+			"aired_date": "1988-12-10"
+		},
+		{
+			"episode": 104,
+			"title": "Death of the Demon Beast! Indestructible Golden Chains",
+			"type": "manga-canon",
+			"aired_date": "1988-12-17"
+		},
+		{
+			"episode": 105,
+			"title": "Excalibur! In the right arm lies Shura's Spirit",
+			"type": "manga-canon",
+			"aired_date": "1988-12-24"
+		},
+		{
+			"episode": 106,
+			"title": "The Dream Was in Vain! The Was the Scent of Death",
+			"type": "manga-canon",
+			"aired_date": "1989-01-14"
+		},
+		{
+			"episode": 107,
+			"title": "Hunter of Hearts! Heartless Lymnades",
+			"type": "manga-canon",
+			"aired_date": "1989-01-21"
+		},
+		{
+			"episode": 108,
+			"title": "Isaac! A Cold Hearted Man",
+			"type": "manga-canon",
+			"aired_date": "1989-02-11"
+		},
+		{
+			"episode": 109,
+			"title": "Hang in There Kiki! A Sorrowful Death Battle",
+			"type": "manga-canon",
+			"aired_date": "1989-02-18"
+		},
+		{
+			"episode": 110,
+			"title": "Listen! The Beautiful Singing of Athena",
+			"type": "manga-canon",
+			"aired_date": "1989-02-25"
+		},
+		{
+			"episode": 111,
+			"title": "Friends! Until Death Do Us Part",
+			"type": "manga-canon",
+			"aired_date": "1989-03-11"
+		},
+		{
+			"episode": 112,
+			"title": "Two Souls! Mystery of Poseidon's Resurrection",
+			"type": "manga-canon",
+			"aired_date": "1989-03-18"
+		},
+		{
+			"episode": 113,
+			"title": "Shoot Poseidon! The Golden Arrow",
+			"type": "manga-canon",
+			"aired_date": "1989-03-25"
+		},
+		{
+			"episode": 114,
+			"title": "Shine, Stars of Friendship! Eternal Legend of Youth",
+			"type": "manga-canon",
+			"aired_date": "1989-04-01"
+		}
+	]
+}

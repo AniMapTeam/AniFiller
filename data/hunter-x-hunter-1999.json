@@ -1,0 +1,382 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Hunter × Hunter",
+	"mappings": {
+		"anilist_id": 136,
+		"mal_id": 136
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "A Boy Setting Out for a Journey × Leaving Behind the Sound of the Wind",
+			"type": "manga-canon",
+			"aired_date": "1999-10-16"
+		},
+		{
+			"episode": 2,
+			"title": "Encounter × Hesitation × Departure",
+			"type": "filler",
+			"aired_date": "1999-10-23"
+		},
+		{
+			"episode": 3,
+			"title": "Pride × Stormy Water × Duel",
+			"type": "manga-canon",
+			"aired_date": "1999-10-30"
+		},
+		{
+			"episode": 4,
+			"title": "Decision × Shortcut × Detour",
+			"type": "mixed-manga",
+			"aired_date": "1999-11-06"
+		},
+		{
+			"episode": 5,
+			"title": "Lies × Truth? × Kiriko",
+			"type": "mixed-manga",
+			"aired_date": "1999-11-13"
+		},
+		{
+			"episode": 6,
+			"title": "Steak × Marathon × The Exam Starts",
+			"type": "mixed-manga",
+			"aired_date": "1999-11-20"
+		},
+		{
+			"episode": 7,
+			"title": "Trauma × Limit × Sweet Trap",
+			"type": "filler",
+			"aired_date": "1999-11-27"
+		},
+		{
+			"episode": 8,
+			"title": "Conjurer × Smile × Beasts Beware",
+			"type": "manga-canon",
+			"aired_date": "1999-12-04"
+		},
+		{
+			"episode": 9,
+			"title": "Menchi × Furious × Second Phase?",
+			"type": "manga-canon",
+			"aired_date": "1999-12-11"
+		},
+		{
+			"episode": 10,
+			"title": "Failing × Panic × Heavenly Voice",
+			"type": "manga-canon",
+			"aired_date": "1999-12-18"
+		},
+		{
+			"episode": 11,
+			"title": "Exploration × Guts × Stowaway",
+			"type": "mixed-manga",
+			"aired_date": "2000-01-08"
+		},
+		{
+			"episode": 12,
+			"title": "Good Boy? × Bad Boy? × Killua",
+			"type": "mixed-manga",
+			"aired_date": "2000-01-15"
+		},
+		{
+			"episode": 13,
+			"title": "Pro × Con × Trap",
+			"type": "manga-canon",
+			"aired_date": "2000-01-22"
+		},
+		{
+			"episode": 14,
+			"title": "Candles × Policy × Dispute",
+			"type": "manga-canon",
+			"aired_date": "2000-01-29"
+		},
+		{
+			"episode": 15,
+			"title": "Fleeting × Life × Majitani",
+			"type": "manga-canon",
+			"aired_date": "2000-02-05"
+		},
+		{
+			"episode": 16,
+			"title": "Rock × Scissors × Heart",
+			"type": "manga-canon",
+			"aired_date": "2000-02-12"
+		},
+		{
+			"episode": 17,
+			"title": "Three People? × Five People? × Last Choice",
+			"type": "manga-canon",
+			"aired_date": "2000-02-19"
+		},
+		{
+			"episode": 18,
+			"title": "Treasure × Memory × Cramped Hotel Room",
+			"type": "filler",
+			"aired_date": "2000-02-26"
+		},
+		{
+			"episode": 19,
+			"title": "Stranded × Log Book × Soaked",
+			"type": "filler",
+			"aired_date": "2000-03-04"
+		},
+		{
+			"episode": 20,
+			"title": "Big Waves × Big Cannon × Huge Rush",
+			"type": "filler",
+			"aired_date": "2000-03-11"
+		},
+		{
+			"episode": 21,
+			"title": "Fourth Phase × Forty-Four × Number of Death",
+			"type": "manga-canon",
+			"aired_date": "2000-03-18"
+		},
+		{
+			"episode": 22,
+			"title": "Found × Hide × Caught Up",
+			"type": "manga-canon",
+			"aired_date": "2000-03-25"
+		},
+		{
+			"episode": 23,
+			"title": "Hisoka × Crash × Gon",
+			"type": "manga-canon",
+			"aired_date": "2000-04-01"
+		},
+		{
+			"episode": 24,
+			"title": "Damage × Reunion × Courage",
+			"type": "manga-canon",
+			"aired_date": "2000-04-15"
+		},
+		{
+			"episode": 25,
+			"title": "Slither × Stinger × In The Cave",
+			"type": "manga-canon",
+			"aired_date": "2000-04-22"
+		},
+		{
+			"episode": 26,
+			"title": "Chairman × Interview × Written Exam",
+			"type": "mixed-manga",
+			"aired_date": "2000-05-06"
+		},
+		{
+			"episode": 27,
+			"title": "Hisoka × Kurapika × Spider's Whisper",
+			"type": "mixed-manga",
+			"aired_date": "2000-05-13"
+		},
+		{
+			"episode": 28,
+			"title": "Chatting × Excuses × Endurance",
+			"type": "manga-canon",
+			"aired_date": "2000-05-20"
+		},
+		{
+			"episode": 29,
+			"title": "Pass! × Fail? × Exam Over",
+			"type": "manga-canon",
+			"aired_date": "2000-05-27"
+		},
+		{
+			"episode": 30,
+			"title": "Killua × Disqualified × Forced Out",
+			"type": "manga-canon",
+			"aired_date": "2000-06-03"
+		},
+		{
+			"episode": 31,
+			"title": "Disband × Party × Unpleasant Ties",
+			"type": "manga-canon",
+			"aired_date": "2000-06-10"
+		},
+		{
+			"episode": 32,
+			"title": "Sightseeing × Landmark × Killua's House",
+			"type": "mixed-manga",
+			"aired_date": "2000-06-17"
+		},
+		{
+			"episode": 33,
+			"title": "Training × Hound × Exhausted",
+			"type": "mixed-manga",
+			"aired_date": "2000-07-01"
+		},
+		{
+			"episode": 34,
+			"title": "Skateboard × Apprentice × Honesty",
+			"type": "mixed-manga",
+			"aired_date": "2000-07-15"
+		},
+		{
+			"episode": 35,
+			"title": "Killua × Punishment × Family Meeting",
+			"type": "manga-canon",
+			"aired_date": "2000-07-22"
+		},
+		{
+			"episode": 36,
+			"title": "Coin Toss × Reunion × Change of Clothes",
+			"type": "manga-canon",
+			"aired_date": "2000-08-08"
+		},
+		{
+			"episode": 37,
+			"title": "Heaven × Fight × Training",
+			"type": "manga-canon",
+			"aired_date": "2000-08-19"
+		},
+		{
+			"episode": 38,
+			"title": "Nen × Nen × Nen?",
+			"type": "manga-canon",
+			"aired_date": "2000-09-09"
+		},
+		{
+			"episode": 39,
+			"title": "Secret Trick × Registration × The Battle Begins",
+			"type": "manga-canon",
+			"aired_date": "2000-09-16"
+		},
+		{
+			"episode": 40,
+			"title": "Two Months × Break × Just In Case",
+			"type": "manga-canon",
+			"aired_date": "2000-09-23"
+		},
+		{
+			"episode": 41,
+			"title": "Bungee × Punch × One Round Battle",
+			"type": "manga-canon",
+			"aired_date": "2000-09-30"
+		},
+		{
+			"episode": 42,
+			"title": "Hisoka's Love × Showdown × Gon's Resolve",
+			"type": "manga-canon",
+			"aired_date": "2000-10-21"
+		},
+		{
+			"episode": 43,
+			"title": "Talent × Agony × Killer Instinct",
+			"type": "manga-canon",
+			"aired_date": "2000-10-28"
+		},
+		{
+			"episode": 44,
+			"title": "Small Fry × Clean Up × Exam Over!?",
+			"type": "manga-canon",
+			"aired_date": "2000-11-04"
+		},
+		{
+			"episode": 45,
+			"title": "Limitation × Vow × Chain of Judgment",
+			"type": "manga-canon",
+			"aired_date": "2000-11-11"
+		},
+		{
+			"episode": 46,
+			"title": "I'm Home × Welcome Back × I'm Killua",
+			"type": "mixed-manga",
+			"aired_date": "2000-11-18"
+		},
+		{
+			"episode": 47,
+			"title": "Dad × Top Secret × Confession",
+			"type": "manga-canon",
+			"aired_date": "2000-11-25"
+		},
+		{
+			"episode": 48,
+			"title": "Kurapika × Black Eyes × First Job",
+			"type": "manga-canon",
+			"aired_date": "2000-12-02"
+		},
+		{
+			"episode": 49,
+			"title": "Heart Tone × Kurapika × Dowsing",
+			"type": "manga-canon",
+			"aired_date": "2000-12-09"
+		},
+		{
+			"episode": 50,
+			"title": "Killua × Big Fortune × Hunter's Tavern",
+			"type": "manga-canon",
+			"aired_date": "2000-12-16"
+		},
+		{
+			"episode": 51,
+			"title": "Spider × Yorknew × Assemble",
+			"type": "manga-canon",
+			"aired_date": "2000-12-23"
+		},
+		{
+			"episode": 52,
+			"title": "Underground Auction × Annihilation × Machinegun",
+			"type": "manga-canon",
+			"aired_date": "2001-01-13"
+		},
+		{
+			"episode": 53,
+			"title": "Phantom Troupe × The Shadow Beasts × Community",
+			"type": "manga-canon",
+			"aired_date": "2001-01-20"
+		},
+		{
+			"episode": 54,
+			"title": "Hisoka × Alliance × Spider Hunting",
+			"type": "manga-canon",
+			"aired_date": "2001-01-27"
+		},
+		{
+			"episode": 55,
+			"title": "Uvo × Kurapika × Melody of Determination",
+			"type": "manga-canon",
+			"aired_date": "2001-02-03"
+		},
+		{
+			"episode": 56,
+			"title": "Scarlet Eyes × Duel × Cost of Life",
+			"type": "manga-canon",
+			"aired_date": "2001-02-10"
+		},
+		{
+			"episode": 57,
+			"title": "Gon × Treasure × Dangerous Man",
+			"type": "manga-canon",
+			"aired_date": "2001-02-17"
+		},
+		{
+			"episode": 58,
+			"title": "Gon × Killua × Deadly Chase",
+			"type": "manga-canon",
+			"aired_date": "2001-02-24"
+		},
+		{
+			"episode": 59,
+			"title": "Nest of Spiders × Captive × Killing Technique",
+			"type": "manga-canon",
+			"aired_date": "2001-03-03"
+		},
+		{
+			"episode": 60,
+			"title": "Kurapika × Assassination Team × Zoldyck",
+			"type": "manga-canon",
+			"aired_date": "2001-03-10"
+		},
+		{
+			"episode": 61,
+			"title": "Spider Rendezvous × Zoldyck Family × Final Battle",
+			"type": "manga-canon",
+			"aired_date": "2001-03-17"
+		},
+		{
+			"episode": 62,
+			"title": "Kurapika × Friends × End of Spiders",
+			"type": "manga-canon",
+			"aired_date": "2001-03-31"
+		}
+	]
+}

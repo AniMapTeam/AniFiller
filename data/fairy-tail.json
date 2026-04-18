@@ -1,0 +1,1060 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Fairy Tail",
+	"mappings": {
+		"anilist_id": 6702,
+		"mal_id": 6702
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Fairy Tail",
+			"type": "manga-canon",
+			"aired_date": "2009-10-12"
+		},
+		{
+			"episode": 2,
+			"title": "Fire Dragon, Monkey and Bull",
+			"type": "manga-canon",
+			"aired_date": "2009-10-19"
+		},
+		{
+			"episode": 3,
+			"title": "Infiltrate the Everlue Mansion",
+			"type": "manga-canon",
+			"aired_date": "2009-10-26"
+		},
+		{
+			"episode": 4,
+			"title": "Dear Kaby",
+			"type": "manga-canon",
+			"aired_date": "2009-11-02"
+		},
+		{
+			"episode": 5,
+			"title": "The Wizard in Armor",
+			"type": "manga-canon",
+			"aired_date": "2009-11-09"
+		},
+		{
+			"episode": 6,
+			"title": "Fairies in the Wind",
+			"type": "manga-canon",
+			"aired_date": "2009-11-16"
+		},
+		{
+			"episode": 7,
+			"title": "Flame and Wind",
+			"type": "manga-canon",
+			"aired_date": "2009-11-23"
+		},
+		{
+			"episode": 8,
+			"title": "The Strongest Team",
+			"type": "manga-canon",
+			"aired_date": "2009-11-30"
+		},
+		{
+			"episode": 9,
+			"title": "Natsu Devours a Village",
+			"type": "filler",
+			"aired_date": "2009-12-07"
+		},
+		{
+			"episode": 10,
+			"title": "Natsu vs. Erza",
+			"type": "manga-canon",
+			"aired_date": "2009-12-14"
+		},
+		{
+			"episode": 11,
+			"title": "The Cursed Island",
+			"type": "manga-canon",
+			"aired_date": "2009-12-21"
+		},
+		{
+			"episode": 12,
+			"title": "Moon Drip",
+			"type": "manga-canon",
+			"aired_date": "2010-01-04"
+		},
+		{
+			"episode": 13,
+			"title": "Natsu vs. Yuka the Wave User",
+			"type": "manga-canon",
+			"aired_date": "2010-01-11"
+		},
+		{
+			"episode": 14,
+			"title": "Just Do Whatever!!",
+			"type": "manga-canon",
+			"aired_date": "2010-01-18"
+		},
+		{
+			"episode": 15,
+			"title": "Eternal Magic",
+			"type": "manga-canon",
+			"aired_date": "2010-01-25"
+		},
+		{
+			"episode": 16,
+			"title": "The Final Showdown on Galuna Island",
+			"type": "manga-canon",
+			"aired_date": "2010-02-01"
+		},
+		{
+			"episode": 17,
+			"title": "Burst",
+			"type": "manga-canon",
+			"aired_date": "2010-02-08"
+		},
+		{
+			"episode": 18,
+			"title": "Reach the Sky Above",
+			"type": "manga-canon",
+			"aired_date": "2010-02-15"
+		},
+		{
+			"episode": 19,
+			"title": "Changeling",
+			"type": "filler",
+			"aired_date": "2010-02-22"
+		},
+		{
+			"episode": 20,
+			"title": "Natsu and the Dragon Egg",
+			"type": "mixed-manga",
+			"aired_date": "2010-03-01"
+		},
+		{
+			"episode": 21,
+			"title": "The Phantom Lord",
+			"type": "manga-canon",
+			"aired_date": "2010-03-08"
+		},
+		{
+			"episode": 22,
+			"title": "Lucy Heartfilia",
+			"type": "manga-canon",
+			"aired_date": "2010-03-15"
+		},
+		{
+			"episode": 23,
+			"title": "15 Minutes",
+			"type": "manga-canon",
+			"aired_date": "2010-03-22"
+		},
+		{
+			"episode": 24,
+			"title": "To Keep From Seeing Those Tears",
+			"type": "manga-canon",
+			"aired_date": "2010-03-29"
+		},
+		{
+			"episode": 25,
+			"title": "A Flower Blooms in the Rain",
+			"type": "manga-canon",
+			"aired_date": "2010-04-12"
+		},
+		{
+			"episode": 26,
+			"title": "Wings of Flame",
+			"type": "manga-canon",
+			"aired_date": "2010-04-19"
+		},
+		{
+			"episode": 27,
+			"title": "The Two Dragon Slayers",
+			"type": "manga-canon",
+			"aired_date": "2010-04-26"
+		},
+		{
+			"episode": 28,
+			"title": "Fairy Law",
+			"type": "manga-canon",
+			"aired_date": "2010-05-03"
+		},
+		{
+			"episode": 29,
+			"title": "My Resolve",
+			"type": "manga-canon",
+			"aired_date": "2010-05-10"
+		},
+		{
+			"episode": 30,
+			"title": "Next Generation",
+			"type": "manga-canon",
+			"aired_date": "2010-05-17"
+		},
+		{
+			"episode": 31,
+			"title": "A Star Removed From the Sky",
+			"type": "manga-canon",
+			"aired_date": "2010-05-24"
+		},
+		{
+			"episode": 32,
+			"title": "Celestial Spirit King",
+			"type": "manga-canon",
+			"aired_date": "2010-05-31"
+		},
+		{
+			"episode": 33,
+			"title": "The Tower of Heaven",
+			"type": "manga-canon",
+			"aired_date": "2010-06-07"
+		},
+		{
+			"episode": 34,
+			"title": "Jellal",
+			"type": "manga-canon",
+			"aired_date": "2010-06-21"
+		},
+		{
+			"episode": 35,
+			"title": "Voice of Darkness",
+			"type": "manga-canon",
+			"aired_date": "2010-06-28"
+		},
+		{
+			"episode": 36,
+			"title": "Heaven's Game",
+			"type": "manga-canon",
+			"aired_date": "2010-07-05"
+		},
+		{
+			"episode": 37,
+			"title": "Armor of the Heart",
+			"type": "manga-canon",
+			"aired_date": "2010-07-12"
+		},
+		{
+			"episode": 38,
+			"title": "Destiny",
+			"type": "manga-canon",
+			"aired_date": "2010-07-19"
+		},
+		{
+			"episode": 39,
+			"title": "Give Our Prayers to the Sacred Light",
+			"type": "manga-canon",
+			"aired_date": "2010-07-26"
+		},
+		{
+			"episode": 40,
+			"title": "Titania Falls",
+			"type": "manga-canon",
+			"aired_date": "2010-08-02"
+		},
+		{
+			"episode": 41,
+			"title": "Home",
+			"type": "manga-canon",
+			"aired_date": "2010-08-09"
+		},
+		{
+			"episode": 42,
+			"title": "Battle of Fairy Tail",
+			"type": "manga-canon",
+			"aired_date": "2010-08-16"
+		},
+		{
+			"episode": 43,
+			"title": "Defeat Your Friends To Save Your Friends",
+			"type": "manga-canon",
+			"aired_date": "2010-08-23"
+		},
+		{
+			"episode": 44,
+			"title": "Thunder Palace",
+			"type": "manga-canon",
+			"aired_date": "2010-08-30"
+		},
+		{
+			"episode": 45,
+			"title": "Advent of Satan",
+			"type": "manga-canon",
+			"aired_date": "2010-09-06"
+		},
+		{
+			"episode": 46,
+			"title": "Clash at Kardia Cathedral!",
+			"type": "manga-canon",
+			"aired_date": "2010-09-13"
+		},
+		{
+			"episode": 47,
+			"title": "Triple Dragons",
+			"type": "manga-canon",
+			"aired_date": "2010-09-20"
+		},
+		{
+			"episode": 48,
+			"title": "Fantasia",
+			"type": "manga-canon",
+			"aired_date": "2010-09-27"
+		},
+		{
+			"episode": 49,
+			"title": "The Day of the Fateful Encounter",
+			"type": "mixed-manga",
+			"aired_date": "2010-10-11"
+		},
+		{
+			"episode": 50,
+			"title": "Special Request: Watch Out for the Guy You Like!",
+			"type": "filler",
+			"aired_date": "2010-10-18"
+		},
+		{
+			"episode": 51,
+			"title": "Love & Lucky",
+			"type": "manga-canon",
+			"aired_date": "2010-10-25"
+		},
+		{
+			"episode": 52,
+			"title": "Allied Forces, Assemble!",
+			"type": "manga-canon",
+			"aired_date": "2010-11-01"
+		},
+		{
+			"episode": 53,
+			"title": "Enter the Oración Seis!",
+			"type": "manga-canon",
+			"aired_date": "2010-11-08"
+		},
+		{
+			"episode": 54,
+			"title": "Maiden of the Sky",
+			"type": "manga-canon",
+			"aired_date": "2010-11-15"
+		},
+		{
+			"episode": 55,
+			"title": "The Girl and the Ghost",
+			"type": "manga-canon",
+			"aired_date": "2010-11-22"
+		},
+		{
+			"episode": 56,
+			"title": "Dead Grand Prix",
+			"type": "manga-canon",
+			"aired_date": "2010-11-29"
+		},
+		{
+			"episode": 57,
+			"title": "Darkness",
+			"type": "manga-canon",
+			"aired_date": "2010-12-06"
+		},
+		{
+			"episode": 58,
+			"title": "Celestial Skirmish",
+			"type": "manga-canon",
+			"aired_date": "2010-12-13"
+		},
+		{
+			"episode": 59,
+			"title": "Jellal of Days Gone By",
+			"type": "manga-canon",
+			"aired_date": "2010-12-20"
+		},
+		{
+			"episode": 60,
+			"title": "March of Destruction",
+			"type": "manga-canon",
+			"aired_date": "2010-12-27"
+		},
+		{
+			"episode": 61,
+			"title": "Super Aerial Battle: Natsu vs. Cobra!",
+			"type": "manga-canon",
+			"aired_date": "2011-01-10"
+		},
+		{
+			"episode": 62,
+			"title": "Wizard Saint Jura",
+			"type": "manga-canon",
+			"aired_date": "2011-01-17"
+		},
+		{
+			"episode": 63,
+			"title": "Your Words",
+			"type": "manga-canon",
+			"aired_date": "2011-01-24"
+		},
+		{
+			"episode": 64,
+			"title": "Zero",
+			"type": "manga-canon",
+			"aired_date": "2011-01-31"
+		},
+		{
+			"episode": 65,
+			"title": "From Pegasus to Fairies",
+			"type": "manga-canon",
+			"aired_date": "2011-02-07"
+		},
+		{
+			"episode": 66,
+			"title": "The Power of Feelings",
+			"type": "manga-canon",
+			"aired_date": "2011-02-14"
+		},
+		{
+			"episode": 67,
+			"title": "I'm With You",
+			"type": "manga-canon",
+			"aired_date": "2011-02-21"
+		},
+		{
+			"episode": 68,
+			"title": "A Guild for One",
+			"type": "manga-canon",
+			"aired_date": "2011-02-28"
+		},
+		{
+			"episode": 69,
+			"title": "Call of the Dragon",
+			"type": "mixed-manga",
+			"aired_date": "2011-03-07"
+		},
+		{
+			"episode": 70,
+			"title": "Natsu vs. Gray!!",
+			"type": "filler",
+			"aired_date": "2011-03-14"
+		},
+		{
+			"episode": 71,
+			"title": "Friendship Overcomes the Dead",
+			"type": "filler",
+			"aired_date": "2011-03-21"
+		},
+		{
+			"episode": 72,
+			"title": "A Fairy Tail Wizard",
+			"type": "filler",
+			"aired_date": "2011-03-28"
+		},
+		{
+			"episode": 73,
+			"title": "Rainbow Cherry Blossoms",
+			"type": "filler",
+			"aired_date": "2011-04-04"
+		},
+		{
+			"episode": 74,
+			"title": "Wendy's First Big Job!?",
+			"type": "filler",
+			"aired_date": "2011-04-11"
+		},
+		{
+			"episode": 75,
+			"title": "24-Hour Endurance Road Race",
+			"type": "filler",
+			"aired_date": "2011-04-16"
+		},
+		{
+			"episode": 76,
+			"title": "Gildarts",
+			"type": "manga-canon",
+			"aired_date": "2011-04-23"
+		},
+		{
+			"episode": 77,
+			"title": "Earth Land",
+			"type": "manga-canon",
+			"aired_date": "2011-04-30"
+		},
+		{
+			"episode": 78,
+			"title": "Edolas",
+			"type": "manga-canon",
+			"aired_date": "2011-05-07"
+		},
+		{
+			"episode": 79,
+			"title": "Fairy Hunter",
+			"type": "manga-canon",
+			"aired_date": "2011-05-14"
+		},
+		{
+			"episode": 80,
+			"title": "Key of Hope",
+			"type": "manga-canon",
+			"aired_date": "2011-05-21"
+		},
+		{
+			"episode": 81,
+			"title": "Fireball",
+			"type": "manga-canon",
+			"aired_date": "2011-05-28"
+		},
+		{
+			"episode": 82,
+			"title": "Welcome Home",
+			"type": "manga-canon",
+			"aired_date": "2011-06-04"
+		},
+		{
+			"episode": 83,
+			"title": "Extalia",
+			"type": "manga-canon",
+			"aired_date": "2011-06-11"
+		},
+		{
+			"episode": 84,
+			"title": "Fly, to Our Friends!",
+			"type": "manga-canon",
+			"aired_date": "2011-06-18"
+		},
+		{
+			"episode": 85,
+			"title": "Code ETD",
+			"type": "manga-canon",
+			"aired_date": "2011-06-25"
+		},
+		{
+			"episode": 86,
+			"title": "Erza vs. Erza",
+			"type": "manga-canon",
+			"aired_date": "2011-07-02"
+		},
+		{
+			"episode": 87,
+			"title": "We're Talking About Lives Here!!!!",
+			"type": "manga-canon",
+			"aired_date": "2011-07-09"
+		},
+		{
+			"episode": 88,
+			"title": "For Pride's Sake, the River of Stars",
+			"type": "manga-canon",
+			"aired_date": "2011-07-16"
+		},
+		{
+			"episode": 89,
+			"title": "The Apocalyptic Dragon Chain Cannon",
+			"type": "manga-canon",
+			"aired_date": "2011-07-23"
+		},
+		{
+			"episode": 90,
+			"title": "The Boy Back Then",
+			"type": "manga-canon",
+			"aired_date": "2011-07-30"
+		},
+		{
+			"episode": 91,
+			"title": "Dragon Sense",
+			"type": "manga-canon",
+			"aired_date": "2011-08-06"
+		},
+		{
+			"episode": 92,
+			"title": "O Living Ones",
+			"type": "manga-canon",
+			"aired_date": "2011-08-13"
+		},
+		{
+			"episode": 93,
+			"title": "I'm Standing Right Here",
+			"type": "manga-canon",
+			"aired_date": "2011-08-20"
+		},
+		{
+			"episode": 94,
+			"title": "Bye-Bye, Edolas",
+			"type": "manga-canon",
+			"aired_date": "2011-08-27"
+		},
+		{
+			"episode": 95,
+			"title": "Lisanna",
+			"type": "manga-canon",
+			"aired_date": "2011-09-03"
+		},
+		{
+			"episode": 96,
+			"title": "He Who Extinguishes Life",
+			"type": "manga-canon",
+			"aired_date": "2011-09-10"
+		},
+		{
+			"episode": 97,
+			"title": "Best Partners",
+			"type": "manga-canon",
+			"aired_date": "2011-09-17"
+		},
+		{
+			"episode": 98,
+			"title": "Who's the Lucky One?",
+			"type": "manga-canon",
+			"aired_date": "2011-09-24"
+		},
+		{
+			"episode": 99,
+			"title": "Natsu vs. Gildarts",
+			"type": "manga-canon",
+			"aired_date": "2011-10-01"
+		},
+		{
+			"episode": 100,
+			"title": "Mest",
+			"type": "manga-canon",
+			"aired_date": "2011-10-08"
+		},
+		{
+			"episode": 101,
+			"title": "Black Wizard",
+			"type": "manga-canon",
+			"aired_date": "2011-10-15"
+		},
+		{
+			"episode": 102,
+			"title": "Iron Soul",
+			"type": "manga-canon",
+			"aired_date": "2011-10-22"
+		},
+		{
+			"episode": 103,
+			"title": "Makarov Charges",
+			"type": "manga-canon",
+			"aired_date": "2011-10-29"
+		},
+		{
+			"episode": 104,
+			"title": "Lost Magic",
+			"type": "manga-canon",
+			"aired_date": "2011-11-05"
+		},
+		{
+			"episode": 105,
+			"title": "Fire Dragon vs. Flame God",
+			"type": "manga-canon",
+			"aired_date": "2011-11-12"
+		},
+		{
+			"episode": 106,
+			"title": "Grand Magic World",
+			"type": "manga-canon",
+			"aired_date": "2011-11-19"
+		},
+		{
+			"episode": 107,
+			"title": "Arc of Embodiment",
+			"type": "manga-canon",
+			"aired_date": "2011-11-26"
+		},
+		{
+			"episode": 108,
+			"title": "Human Gate",
+			"type": "manga-canon",
+			"aired_date": "2011-12-03"
+		},
+		{
+			"episode": 109,
+			"title": "Lucy Fire",
+			"type": "manga-canon",
+			"aired_date": "2011-12-10"
+		},
+		{
+			"episode": 110,
+			"title": "Dead-End of Despair",
+			"type": "manga-canon",
+			"aired_date": "2011-12-17"
+		},
+		{
+			"episode": 111,
+			"title": "Tears of Love and Vitality",
+			"type": "manga-canon",
+			"aired_date": "2011-12-24"
+		},
+		{
+			"episode": 112,
+			"title": "The One Thing I Couldn't Say",
+			"type": "manga-canon",
+			"aired_date": "2012-01-07"
+		},
+		{
+			"episode": 113,
+			"title": "Tenrou Tree",
+			"type": "manga-canon",
+			"aired_date": "2012-01-14"
+		},
+		{
+			"episode": 114,
+			"title": "Erza vs. Azuma",
+			"type": "manga-canon",
+			"aired_date": "2012-01-21"
+		},
+		{
+			"episode": 115,
+			"title": "Freezing Fighting Spirit",
+			"type": "manga-canon",
+			"aired_date": "2012-01-28"
+		},
+		{
+			"episode": 116,
+			"title": "Power of Life",
+			"type": "manga-canon",
+			"aired_date": "2012-02-04"
+		},
+		{
+			"episode": 117,
+			"title": "Rolling Thunder",
+			"type": "manga-canon",
+			"aired_date": "2012-02-11"
+		},
+		{
+			"episode": 118,
+			"title": "The Man Without an Emblem",
+			"type": "manga-canon",
+			"aired_date": "2012-02-18"
+		},
+		{
+			"episode": 119,
+			"title": "Realm of the Abyss",
+			"type": "manga-canon",
+			"aired_date": "2012-02-25"
+		},
+		{
+			"episode": 120,
+			"title": "Daybreak on Tenrou Island",
+			"type": "manga-canon",
+			"aired_date": "2012-03-02"
+		},
+		{
+			"episode": 121,
+			"title": "The Right To Love",
+			"type": "manga-canon",
+			"aired_date": "2012-03-09"
+		},
+		{
+			"episode": 122,
+			"title": "Let's Hold Hands",
+			"type": "manga-canon",
+			"aired_date": "2012-03-16"
+		},
+		{
+			"episode": 123,
+			"title": "Fairy Tail, Year X791",
+			"type": "manga-canon",
+			"aired_date": "2012-03-23"
+		},
+		{
+			"episode": 124,
+			"title": "The Seven Year Gap",
+			"type": "manga-canon",
+			"aired_date": "2012-03-31"
+		},
+		{
+			"episode": 125,
+			"title": "The Magic Ball",
+			"type": "filler",
+			"aired_date": "2012-04-07"
+		},
+		{
+			"episode": 126,
+			"title": "True Scoundrels - The Butt Jiggle Gang",
+			"type": "filler",
+			"aired_date": "2012-04-14"
+		},
+		{
+			"episode": 127,
+			"title": "The Terror of Invisible Lucy!",
+			"type": "filler",
+			"aired_date": "2012-04-21"
+		},
+		{
+			"episode": 128,
+			"title": "Father's Memento",
+			"type": "filler",
+			"aired_date": "2012-04-28"
+		},
+		{
+			"episode": 129,
+			"title": "Turbulent Showdown! Natsu vs. Laxus",
+			"type": "filler",
+			"aired_date": "2012-05-05"
+		},
+		{
+			"episode": 130,
+			"title": "Target: Lucy",
+			"type": "filler",
+			"aired_date": "2012-05-12"
+		},
+		{
+			"episode": 131,
+			"title": "The Fury of Legion",
+			"type": "filler",
+			"aired_date": "2012-05-19"
+		},
+		{
+			"episode": 132,
+			"title": "Key of the Starry Heavens",
+			"type": "filler",
+			"aired_date": "2012-05-26"
+		},
+		{
+			"episode": 133,
+			"title": "Travel Companions",
+			"type": "filler",
+			"aired_date": "2012-06-02"
+		},
+		{
+			"episode": 134,
+			"title": "Labyrinth Capriccio",
+			"type": "filler",
+			"aired_date": "2012-06-09"
+		},
+		{
+			"episode": 135,
+			"title": "Footprints of the Myth",
+			"type": "filler",
+			"aired_date": "2012-06-16"
+		},
+		{
+			"episode": 136,
+			"title": "True Scoundrels, Once Again",
+			"type": "filler",
+			"aired_date": "2012-06-23"
+		},
+		{
+			"episode": 137,
+			"title": "Defying Calculation",
+			"type": "filler",
+			"aired_date": "2012-06-30"
+		},
+		{
+			"episode": 138,
+			"title": "The Course of the Holy War",
+			"type": "filler",
+			"aired_date": "2012-07-07"
+		},
+		{
+			"episode": 139,
+			"title": "Time Begins To Tick",
+			"type": "filler",
+			"aired_date": "2012-07-14"
+		},
+		{
+			"episode": 140,
+			"title": "Enter the Neo-Oración Seis!",
+			"type": "filler",
+			"aired_date": "2012-07-21"
+		},
+		{
+			"episode": 141,
+			"title": "Get the Infinity Clock!",
+			"type": "filler",
+			"aired_date": "2012-07-28"
+		},
+		{
+			"episode": 142,
+			"title": "Dissonance of Battle",
+			"type": "filler",
+			"aired_date": "2012-08-04"
+		},
+		{
+			"episode": 143,
+			"title": "Anti-Link",
+			"type": "filler",
+			"aired_date": "2012-08-11"
+		},
+		{
+			"episode": 144,
+			"title": "Despair Unleashed",
+			"type": "filler",
+			"aired_date": "2012-08-18"
+		},
+		{
+			"episode": 145,
+			"title": "Real Nightmare",
+			"type": "filler",
+			"aired_date": "2012-08-25"
+		},
+		{
+			"episode": 146,
+			"title": "Time Spiral",
+			"type": "filler",
+			"aired_date": "2012-09-01"
+		},
+		{
+			"episode": 147,
+			"title": "To the Infinity Castle!",
+			"type": "filler",
+			"aired_date": "2012-09-08"
+		},
+		{
+			"episode": 148,
+			"title": "Angel Tears",
+			"type": "filler",
+			"aired_date": "2012-09-15"
+		},
+		{
+			"episode": 149,
+			"title": "I Hear the Voice of My Friend",
+			"type": "filler",
+			"aired_date": "2012-09-22"
+		},
+		{
+			"episode": 150,
+			"title": "Lucy and Michelle",
+			"type": "filler",
+			"aired_date": "2012-09-29"
+		},
+		{
+			"episode": 151,
+			"title": "Sabertooth",
+			"type": "mixed-manga",
+			"aired_date": "2012-10-06"
+		},
+		{
+			"episode": 152,
+			"title": "And So We Aim for the Top",
+			"type": "manga-canon",
+			"aired_date": "2012-10-13"
+		},
+		{
+			"episode": 153,
+			"title": "Song of the Stars",
+			"type": "manga-canon",
+			"aired_date": "2012-10-20"
+		},
+		{
+			"episode": 154,
+			"title": "For All the Time We Missed Each Other",
+			"type": "manga-canon",
+			"aired_date": "2012-10-27"
+		},
+		{
+			"episode": 155,
+			"title": "Crocus, the Flower-Blooming Capital",
+			"type": "manga-canon",
+			"aired_date": "2012-11-03"
+		},
+		{
+			"episode": 156,
+			"title": "Sky Labyrinth",
+			"type": "manga-canon",
+			"aired_date": "2012-11-10"
+		},
+		{
+			"episode": 157,
+			"title": "New Guild",
+			"type": "manga-canon",
+			"aired_date": "2012-11-17"
+		},
+		{
+			"episode": 158,
+			"title": "Night of Shooting Stars",
+			"type": "manga-canon",
+			"aired_date": "2012-11-24"
+		},
+		{
+			"episode": 159,
+			"title": "Lucy vs. Flare",
+			"type": "manga-canon",
+			"aired_date": "2012-12-01"
+		},
+		{
+			"episode": 160,
+			"title": "Portent",
+			"type": "manga-canon",
+			"aired_date": "2012-12-08"
+		},
+		{
+			"episode": 161,
+			"title": "Chariots",
+			"type": "manga-canon",
+			"aired_date": "2012-12-15"
+		},
+		{
+			"episode": 162,
+			"title": "Elfman vs. Bacchus",
+			"type": "manga-canon",
+			"aired_date": "2012-12-22"
+		},
+		{
+			"episode": 163,
+			"title": "Mirajane vs. Jenny",
+			"type": "manga-canon",
+			"aired_date": "2013-01-05"
+		},
+		{
+			"episode": 164,
+			"title": "Kagura vs. Yukino",
+			"type": "manga-canon",
+			"aired_date": "2013-01-12"
+		},
+		{
+			"episode": 165,
+			"title": "Hatred at Nightfall",
+			"type": "manga-canon",
+			"aired_date": "2013-01-19"
+		},
+		{
+			"episode": 166,
+			"title": "Pandemonium",
+			"type": "manga-canon",
+			"aired_date": "2013-01-26"
+		},
+		{
+			"episode": 167,
+			"title": "100 Against 1",
+			"type": "manga-canon",
+			"aired_date": "2013-02-02"
+		},
+		{
+			"episode": 168,
+			"title": "Laxus vs. Alexei",
+			"type": "manga-canon",
+			"aired_date": "2013-02-09"
+		},
+		{
+			"episode": 169,
+			"title": "Wendy vs. Shelia",
+			"type": "manga-canon",
+			"aired_date": "2013-02-16"
+		},
+		{
+			"episode": 170,
+			"title": "Small Fists",
+			"type": "manga-canon",
+			"aired_date": "2013-02-23"
+		},
+		{
+			"episode": 171,
+			"title": "Naval Battle",
+			"type": "manga-canon",
+			"aired_date": "2013-03-02"
+		},
+		{
+			"episode": 172,
+			"title": "A Parfum for You",
+			"type": "manga-canon",
+			"aired_date": "2013-03-09"
+		},
+		{
+			"episode": 173,
+			"title": "Battle of Dragon Slayers!",
+			"type": "manga-canon",
+			"aired_date": "2013-03-16"
+		},
+		{
+			"episode": 174,
+			"title": "Four Dragons",
+			"type": "manga-canon",
+			"aired_date": "2013-03-23"
+		},
+		{
+			"episode": 175,
+			"title": "Natsu vs. the Twin Dragons",
+			"type": "manga-canon",
+			"aired_date": "2013-03-30"
+		}
+	]
+}

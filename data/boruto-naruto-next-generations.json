@@ -1099,12 +1099,6 @@
 			"aired_date": "2021-01-17"
 		},
 		{
-			"episode": 182,
-			"title": "The Past",
-			"type": "manga-canon",
-			"aired_date": "2021-03-28"
-		},
-		{
 			"episode": 183,
 			"title": "The Hand",
 			"type": "manga-canon",
@@ -1157,6 +1151,12 @@
 			"title": "Stray Dog",
 			"type": "anime-canon",
 			"aired_date": "2021-03-21"
+		},
+		{
+			"episode": 192,
+			"title": "The Past",
+			"type": "manga-canon",
+			"aired_date": "2021-03-28"
 		},
 		{
 			"episode": 193,

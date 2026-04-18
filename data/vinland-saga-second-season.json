@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "VINLAND SAGA Season 2",
+	"mappings": {
+		"anilist_id": 136430,
+		"mal_id": 49387
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Slave",
+			"type": "mixed-manga",
+			"aired_date": "2023-01-09"
+		},
+		{
+			"episode": 2,
+			"title": "Ketil's Farm",
+			"type": "manga-canon",
+			"aired_date": "2023-01-16"
+		},
+		{
+			"episode": 3,
+			"title": "Snake",
+			"type": "manga-canon",
+			"aired_date": "2023-01-23"
+		},
+		{
+			"episode": 4,
+			"title": "Awakening",
+			"type": "manga-canon",
+			"aired_date": "2023-01-30"
+		},
+		{
+			"episode": 5,
+			"title": "The Path of Blood",
+			"type": "manga-canon",
+			"aired_date": "2023-02-06"
+		},
+		{
+			"episode": 6,
+			"title": "We Need a Horse",
+			"type": "manga-canon",
+			"aired_date": "2023-02-13"
+		},
+		{
+			"episode": 7,
+			"title": "Iron Fist Ketil",
+			"type": "manga-canon",
+			"aired_date": "2023-02-20"
+		},
+		{
+			"episode": 8,
+			"title": "An Empty Man",
+			"type": "manga-canon",
+			"aired_date": "2023-02-27"
+		},
+		{
+			"episode": 9,
+			"title": "Oath",
+			"type": "manga-canon",
+			"aired_date": "2023-03-06"
+		},
+		{
+			"episode": 10,
+			"title": "Cursed Head",
+			"type": "manga-canon",
+			"aired_date": "2023-03-13"
+		},
+		{
+			"episode": 11,
+			"title": "The King and the Sword",
+			"type": "manga-canon",
+			"aired_date": "2023-03-20"
+		},
+		{
+			"episode": 12,
+			"title": "For The Love That Was Lost",
+			"type": "manga-canon",
+			"aired_date": "2023-03-27"
+		},
+		{
+			"episode": 13,
+			"title": "Dark Clouds",
+			"type": "manga-canon",
+			"aired_date": "2023-04-03"
+		},
+		{
+			"episode": 14,
+			"title": "Freedom",
+			"type": "manga-canon",
+			"aired_date": "2023-04-10"
+		},
+		{
+			"episode": 15,
+			"title": "Storm",
+			"type": "manga-canon",
+			"aired_date": "2023-04-17"
+		},
+		{
+			"episode": 16,
+			"title": "Cause",
+			"type": "manga-canon",
+			"aired_date": "2023-04-24"
+		},
+		{
+			"episode": 17,
+			"title": "Way Home",
+			"type": "manga-canon",
+			"aired_date": "2023-05-01"
+		},
+		{
+			"episode": 18,
+			"title": "The First Measure",
+			"type": "manga-canon",
+			"aired_date": "2023-05-08"
+		},
+		{
+			"episode": 19,
+			"title": "Battle at Ketil's Farm",
+			"type": "manga-canon",
+			"aired_date": "2023-05-15"
+		},
+		{
+			"episode": 20,
+			"title": "Pain",
+			"type": "manga-canon",
+			"aired_date": "2023-05-22"
+		},
+		{
+			"episode": 21,
+			"title": "Courage",
+			"type": "manga-canon",
+			"aired_date": "2023-05-29"
+		},
+		{
+			"episode": 22,
+			"title": "Emperor of Rebellion",
+			"type": "manga-canon",
+			"aired_date": "2023-06-05"
+		},
+		{
+			"episode": 23,
+			"title": "Two Paths",
+			"type": "manga-canon",
+			"aired_date": "2023-06-12"
+		},
+		{
+			"episode": 24,
+			"title": "Hometown",
+			"type": "manga-canon",
+			"aired_date": "2023-06-19"
+		}
+	]
+}

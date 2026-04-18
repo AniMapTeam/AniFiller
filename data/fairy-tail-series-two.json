@@ -1,0 +1,622 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Fairy Tail Series 2",
+	"mappings": {
+		"anilist_id": 20626,
+		"mal_id": 22043
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "King of the Dragons",
+			"type": "manga-canon",
+			"aired_date": "2014-04-05"
+		},
+		{
+			"episode": 2,
+			"title": "The Eclipse Project",
+			"type": "manga-canon",
+			"aired_date": "2014-04-12"
+		},
+		{
+			"episode": 3,
+			"title": "Fairy Tactician",
+			"type": "manga-canon",
+			"aired_date": "2014-04-19"
+		},
+		{
+			"episode": 4,
+			"title": "Gray vs. Rufus",
+			"type": "manga-canon",
+			"aired_date": "2014-04-26"
+		},
+		{
+			"episode": 5,
+			"title": "The Hungry Wolf Knights",
+			"type": "manga-canon",
+			"aired_date": "2014-05-03"
+		},
+		{
+			"episode": 6,
+			"title": "Fairy Tail vs. Executioners",
+			"type": "manga-canon",
+			"aired_date": "2014-05-10"
+		},
+		{
+			"episode": 7,
+			"title": "Scorching Earth",
+			"type": "mixed-manga",
+			"aired_date": "2014-05-17"
+		},
+		{
+			"episode": 8,
+			"title": "Our Place",
+			"type": "mixed-manga",
+			"aired_date": "2014-05-24"
+		},
+		{
+			"episode": 9,
+			"title": "The Kingdom 'til Tomorrow",
+			"type": "manga-canon",
+			"aired_date": "2014-05-31"
+		},
+		{
+			"episode": 10,
+			"title": "Erza vs. Kagura",
+			"type": "manga-canon",
+			"aired_date": "2014-06-07"
+		},
+		{
+			"episode": 11,
+			"title": "A Future Racing Toward Despair",
+			"type": "manga-canon",
+			"aired_date": "2014-06-14"
+		},
+		{
+			"episode": 12,
+			"title": "Frog",
+			"type": "manga-canon",
+			"aired_date": "2014-06-21"
+		},
+		{
+			"episode": 13,
+			"title": "Roaring Thunder!",
+			"type": "manga-canon",
+			"aired_date": "2014-06-28"
+		},
+		{
+			"episode": 14,
+			"title": "Gloria",
+			"type": "manga-canon",
+			"aired_date": "2014-07-05"
+		},
+		{
+			"episode": 15,
+			"title": "The One Who Closes the Gate",
+			"type": "manga-canon",
+			"aired_date": "2014-07-12"
+		},
+		{
+			"episode": 16,
+			"title": "Natsu vs. Rogue",
+			"type": "manga-canon",
+			"aired_date": "2014-07-19"
+		},
+		{
+			"episode": 17,
+			"title": "For Me, Too",
+			"type": "manga-canon",
+			"aired_date": "2014-07-26"
+		},
+		{
+			"episode": 18,
+			"title": "Seven Dragons",
+			"type": "manga-canon",
+			"aired_date": "2014-08-02"
+		},
+		{
+			"episode": 19,
+			"title": "Zirconis' Magic",
+			"type": "manga-canon",
+			"aired_date": "2014-08-09"
+		},
+		{
+			"episode": 20,
+			"title": "People and People, Dragons and Dragons, People and Dragons",
+			"type": "manga-canon",
+			"aired_date": "2014-08-16"
+		},
+		{
+			"episode": 21,
+			"title": "Sin and Sacrifice",
+			"type": "manga-canon",
+			"aired_date": "2014-08-23"
+		},
+		{
+			"episode": 22,
+			"title": "Time of Life",
+			"type": "manga-canon",
+			"aired_date": "2014-08-30"
+		},
+		{
+			"episode": 23,
+			"title": "Fields of Gold",
+			"type": "manga-canon",
+			"aired_date": "2014-09-06"
+		},
+		{
+			"episode": 24,
+			"title": "The Grand Banquet",
+			"type": "manga-canon",
+			"aired_date": "2014-09-13"
+		},
+		{
+			"episode": 25,
+			"title": "Droplets of Time",
+			"type": "manga-canon",
+			"aired_date": "2014-09-20"
+		},
+		{
+			"episode": 26,
+			"title": "A Gift",
+			"type": "mixed-manga",
+			"aired_date": "2014-09-27"
+		},
+		{
+			"episode": 27,
+			"title": "Welcome Back, Frosch",
+			"type": "filler",
+			"aired_date": "2014-10-03"
+		},
+		{
+			"episode": 28,
+			"title": "Moulin Rouge",
+			"type": "filler",
+			"aired_date": "2014-10-11"
+		},
+		{
+			"episode": 29,
+			"title": "Full Effort Hospitality!",
+			"type": "filler",
+			"aired_date": "2014-10-18"
+		},
+		{
+			"episode": 30,
+			"title": "Signal of Rebellion",
+			"type": "filler",
+			"aired_date": "2014-10-25"
+		},
+		{
+			"episode": 31,
+			"title": "Library Panic",
+			"type": "filler",
+			"aired_date": "2014-11-01"
+		},
+		{
+			"episode": 32,
+			"title": "Hisui Rises!",
+			"type": "filler",
+			"aired_date": "2014-11-07"
+		},
+		{
+			"episode": 33,
+			"title": "Astral Spiritus",
+			"type": "filler",
+			"aired_date": "2014-11-14"
+		},
+		{
+			"episode": 34,
+			"title": "Wendy vs. Aquarius - Let's Have Fun in the Amusement Park!",
+			"type": "filler",
+			"aired_date": "2014-11-21"
+		},
+		{
+			"episode": 35,
+			"title": "Guild Deck vs. Celestial Deck",
+			"type": "filler",
+			"aired_date": "2014-11-28"
+		},
+		{
+			"episode": 36,
+			"title": "Gray vs. Cancer! Dance Battle!",
+			"type": "filler",
+			"aired_date": "2014-12-05"
+		},
+		{
+			"episode": 37,
+			"title": "Juvia vs. Aries! Desert Death Match!",
+			"type": "filler",
+			"aired_date": "2014-12-12"
+		},
+		{
+			"episode": 38,
+			"title": "Erza vs. Sagittarius! Horseback Showdown!",
+			"type": "filler",
+			"aired_date": "2014-12-19"
+		},
+		{
+			"episode": 39,
+			"title": "Natsu vs. Leo",
+			"type": "filler",
+			"aired_date": "2014-12-26"
+		},
+		{
+			"episode": 40,
+			"title": "Ophiuchus, the Snake Charmer",
+			"type": "filler",
+			"aired_date": "2015-01-09"
+		},
+		{
+			"episode": 41,
+			"title": "When the Stars Fall",
+			"type": "filler",
+			"aired_date": "2015-01-16"
+		},
+		{
+			"episode": 42,
+			"title": "Celestial Spirit Beast",
+			"type": "filler",
+			"aired_date": "2015-01-23"
+		},
+		{
+			"episode": 43,
+			"title": "Believe",
+			"type": "filler",
+			"aired_date": "2015-01-30"
+		},
+		{
+			"episode": 44,
+			"title": "What a Pure Heart Weaves",
+			"type": "filler",
+			"aired_date": "2015-02-06"
+		},
+		{
+			"episode": 45,
+			"title": "413 Days",
+			"type": "filler",
+			"aired_date": "2015-02-13"
+		},
+		{
+			"episode": 46,
+			"title": "The Labyrinth of White",
+			"type": "filler",
+			"aired_date": "2015-02-20"
+		},
+		{
+			"episode": 47,
+			"title": "Transform!",
+			"type": "filler",
+			"aired_date": "2015-02-28"
+		},
+		{
+			"episode": 48,
+			"title": "It's Kemo-Kemo!",
+			"type": "filler",
+			"aired_date": "2015-03-07"
+		},
+		{
+			"episode": 49,
+			"title": "The Place You Came To",
+			"type": "filler",
+			"aired_date": "2015-03-14"
+		},
+		{
+			"episode": 50,
+			"title": "Lightning Man",
+			"type": "filler",
+			"aired_date": "2015-03-21"
+		},
+		{
+			"episode": 51,
+			"title": "Fairy Tail of the Dead Meeeeeeeeen",
+			"type": "filler",
+			"aired_date": "2015-03-28"
+		},
+		{
+			"episode": 52,
+			"title": "Morning of a New Adventure",
+			"type": "manga-canon",
+			"aired_date": "2015-04-04"
+		},
+		{
+			"episode": 53,
+			"title": "Wizards vs. Hunters",
+			"type": "manga-canon",
+			"aired_date": "2015-04-11"
+		},
+		{
+			"episode": 54,
+			"title": "Art of Regression",
+			"type": "manga-canon",
+			"aired_date": "2015-04-18"
+		},
+		{
+			"episode": 55,
+			"title": "The Demon Returns",
+			"type": "manga-canon",
+			"aired_date": "2015-04-25"
+		},
+		{
+			"episode": 56,
+			"title": "Gray vs. Doriate",
+			"type": "manga-canon",
+			"aired_date": "2015-05-02"
+		},
+		{
+			"episode": 57,
+			"title": "Voice of the Flame",
+			"type": "manga-canon",
+			"aired_date": "2015-05-09"
+		},
+		{
+			"episode": 58,
+			"title": "Song of the Fairies",
+			"type": "manga-canon",
+			"aired_date": "2015-05-16"
+		},
+		{
+			"episode": 59,
+			"title": "Tartaros Chapter, Prologue - The Nine Demon Gates",
+			"type": "manga-canon",
+			"aired_date": "2015-05-23"
+		},
+		{
+			"episode": 60,
+			"title": "Tartaros Chapter, Prologue - Fairies vs. Netherworld",
+			"type": "manga-canon",
+			"aired_date": "2015-05-30"
+		},
+		{
+			"episode": 61,
+			"title": "Tartaros Chapter, Prologue - The White Legacy",
+			"type": "manga-canon",
+			"aired_date": "2015-06-06"
+		},
+		{
+			"episode": 62,
+			"title": "Tartaros Chapter, Prologue - Natsu vs. Jackal",
+			"type": "manga-canon",
+			"aired_date": "2015-06-13"
+		},
+		{
+			"episode": 63,
+			"title": "Tartaros Chapter - Immorality and Sinners",
+			"type": "manga-canon",
+			"aired_date": "2015-06-20"
+		},
+		{
+			"episode": 64,
+			"title": "Tartaros Chapter - Jellal vs. Oración Seis",
+			"type": "manga-canon",
+			"aired_date": "2015-06-27"
+		},
+		{
+			"episode": 65,
+			"title": "Tartaros Chapter - A Place Reached by Prayer",
+			"type": "manga-canon",
+			"aired_date": "2015-07-04"
+		},
+		{
+			"episode": 66,
+			"title": "Tartaros Chapter - The Demon's Rebirth",
+			"type": "manga-canon",
+			"aired_date": "2015-07-11"
+		},
+		{
+			"episode": 67,
+			"title": "Tartaros Chapter - To Let Live or Die",
+			"type": "manga-canon",
+			"aired_date": "2015-07-18"
+		},
+		{
+			"episode": 68,
+			"title": "Tartaros Chapter - Wendy vs. Ezel",
+			"type": "manga-canon",
+			"aired_date": "2015-07-25"
+		},
+		{
+			"episode": 69,
+			"title": "Tartaros Chapter - Friends Forever",
+			"type": "manga-canon",
+			"aired_date": "2015-08-01"
+		},
+		{
+			"episode": 70,
+			"title": "Tartaros Chapter - Hell's Core",
+			"type": "manga-canon",
+			"aired_date": "2015-08-08"
+		},
+		{
+			"episode": 71,
+			"title": "Tartaros Chapter - Underworld King",
+			"type": "anime-canon",
+			"aired_date": "2015-08-15"
+		},
+		{
+			"episode": 72,
+			"title": "Tartaros Chapter - Alegria",
+			"type": "manga-canon",
+			"aired_date": "2015-08-22"
+		},
+		{
+			"episode": 73,
+			"title": "Tartaros Chapter - A Strike from the Stars",
+			"type": "manga-canon",
+			"aired_date": "2015-08-29"
+		},
+		{
+			"episode": 74,
+			"title": "Tartaros Chapter - Celestial Spirit King vs. Underworld King",
+			"type": "manga-canon",
+			"aired_date": "2015-09-05"
+		},
+		{
+			"episode": 75,
+			"title": "Tartaros Chapter - Erza vs. Minerva",
+			"type": "manga-canon",
+			"aired_date": "2015-09-12"
+		},
+		{
+			"episode": 76,
+			"title": "Tartaros Chapter - The Boy's Tale",
+			"type": "manga-canon",
+			"aired_date": "2015-09-19"
+		},
+		{
+			"episode": 77,
+			"title": "Tartaros Chapter - Gray vs. Silver",
+			"type": "manga-canon",
+			"aired_date": "2015-09-26"
+		},
+		{
+			"episode": 78,
+			"title": "Tartaros Chapter - A Silver Wish",
+			"type": "manga-canon",
+			"aired_date": "2015-10-03"
+		},
+		{
+			"episode": 79,
+			"title": "Tartaros Chapter - Air",
+			"type": "manga-canon",
+			"aired_date": "2015-10-10"
+		},
+		{
+			"episode": 80,
+			"title": "Tartaros Chapter - Steel",
+			"type": "mixed-manga",
+			"aired_date": "2015-10-17"
+		},
+		{
+			"episode": 81,
+			"title": "Tartaros Chapter - Final Duels",
+			"type": "anime-canon",
+			"aired_date": "2015-10-24"
+		},
+		{
+			"episode": 82,
+			"title": "Tartaros Chapter - Wings of Despair",
+			"type": "manga-canon",
+			"aired_date": "2015-10-31"
+		},
+		{
+			"episode": 83,
+			"title": "Tartaros Chapter - Fire Dragon Iron Fist",
+			"type": "manga-canon",
+			"aired_date": "2015-11-07"
+		},
+		{
+			"episode": 84,
+			"title": "Tartaros Chapter - 00:00",
+			"type": "manga-canon",
+			"aired_date": "2015-11-14"
+		},
+		{
+			"episode": 85,
+			"title": "Tartaros Chapter - The Girl in the Crystal",
+			"type": "mixed-manga",
+			"aired_date": "2015-11-21"
+		},
+		{
+			"episode": 86,
+			"title": "Tartaros Chapter - Absolute Demon",
+			"type": "manga-canon",
+			"aired_date": "2015-11-28"
+		},
+		{
+			"episode": 87,
+			"title": "Tartaros Chapter - Memento Mori",
+			"type": "manga-canon",
+			"aired_date": "2015-12-05"
+		},
+		{
+			"episode": 88,
+			"title": "Tartaros Chapter - Soaring Above Ishgar",
+			"type": "manga-canon",
+			"aired_date": "2015-12-12"
+		},
+		{
+			"episode": 89,
+			"title": "Tartaros Chapter - Drops of Fire",
+			"type": "manga-canon",
+			"aired_date": "2015-12-19"
+		},
+		{
+			"episode": 90,
+			"title": "Tartaros Chapter, Finale - Where the Power of Life Lies",
+			"type": "manga-canon",
+			"aired_date": "2015-12-26"
+		},
+		{
+			"episode": 91,
+			"title": "Fairy Tail Zerø: The Fairy In Your Heart",
+			"type": "manga-canon",
+			"aired_date": "2016-01-09"
+		},
+		{
+			"episode": 92,
+			"title": "Fairy Tail Zerø: The Adventure Begins",
+			"type": "manga-canon",
+			"aired_date": "2016-01-16"
+		},
+		{
+			"episode": 93,
+			"title": "Fairy Tail Zerø: Treasure Hunt",
+			"type": "filler",
+			"aired_date": "2016-01-23"
+		},
+		{
+			"episode": 94,
+			"title": "Fairy Tail Zerø: Dancing with Blades",
+			"type": "manga-canon",
+			"aired_date": "2016-01-30"
+		},
+		{
+			"episode": 95,
+			"title": "Fairy Tail Zerø: Moonlit Lake",
+			"type": "mixed-manga",
+			"aired_date": "2016-02-06"
+		},
+		{
+			"episode": 96,
+			"title": "Fairy Tail Zerø: Blue Skull",
+			"type": "manga-canon",
+			"aired_date": "2016-02-13"
+		},
+		{
+			"episode": 97,
+			"title": "Fairy Tail Zerø: Conveyer of Magic",
+			"type": "manga-canon",
+			"aired_date": "2016-02-20"
+		},
+		{
+			"episode": 98,
+			"title": "Fairy Tail Zerø: Treasure",
+			"type": "manga-canon",
+			"aired_date": "2016-02-27"
+		},
+		{
+			"episode": 99,
+			"title": "Fairy Tail Zerø: Law",
+			"type": "manga-canon",
+			"aired_date": "2016-03-05"
+		},
+		{
+			"episode": 100,
+			"title": "Fairy Tail Zerø: Eternal Adventure",
+			"type": "manga-canon",
+			"aired_date": "2016-03-12"
+		},
+		{
+			"episode": 101,
+			"title": "Challenger",
+			"type": "manga-canon",
+			"aired_date": "2016-03-19"
+		},
+		{
+			"episode": 102,
+			"title": "Message of Flame",
+			"type": "manga-canon",
+			"aired_date": "2016-03-26"
+		}
+	]
+}

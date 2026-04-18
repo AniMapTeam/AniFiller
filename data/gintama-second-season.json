@@ -1,0 +1,316 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Gintama Season 2",
+	"mappings": {
+		"anilist_id": 9969,
+		"mal_id": 9969
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Everyone Looks a Little Grown Up After Spring Break",
+			"type": "manga-canon",
+			"aired_date": "2011-04-04"
+		},
+		{
+			"episode": 2,
+			"title": "Everyone Looks Pretty Grown up after Summer Break",
+			"type": "manga-canon",
+			"aired_date": "2011-04-11"
+		},
+		{
+			"episode": 3,
+			"title": "Use a Calligraphy Pen for New Year's Cards",
+			"type": "manga-canon",
+			"aired_date": "2011-04-18"
+		},
+		{
+			"episode": 4,
+			"title": "Meals Should Be Balanced",
+			"type": "manga-canon",
+			"aired_date": "2011-04-25"
+		},
+		{
+			"episode": 5,
+			"title": "It's Too Confusing When Talking about the Poster Girl for a Poster Store, So Call Her a Sandwich Board",
+			"type": "manga-canon",
+			"aired_date": "2011-05-02"
+		},
+		{
+			"episode": 6,
+			"title": "Glasses Are Part of the Soul",
+			"type": "manga-canon",
+			"aired_date": "2011-05-09"
+		},
+		{
+			"episode": 7,
+			"title": "Glasses Prevent You from Seeing Certain Things",
+			"type": "manga-canon",
+			"aired_date": "2011-05-16"
+		},
+		{
+			"episode": 8,
+			"title": "Nothing Lasts Forever, including Parents, Money, Youth, Your Room, Dress Shirts, Me, You, and the Gintama Anime",
+			"type": "filler",
+			"aired_date": "2011-05-23"
+		},
+		{
+			"episode": 9,
+			"title": "A Lawless Town Tends to Attract a Bunch of Whoohooey Folk",
+			"type": "manga-canon",
+			"aired_date": "2011-05-30"
+		},
+		{
+			"episode": 10,
+			"title": "Ghosts Aren't the Only Ones Who Run Wild around Graveyards",
+			"type": "manga-canon",
+			"aired_date": "2011-06-06"
+		},
+		{
+			"episode": 11,
+			"title": "Chains of a Warrior",
+			"type": "manga-canon",
+			"aired_date": "2011-06-13"
+		},
+		{
+			"episode": 12,
+			"title": "Iron Town",
+			"type": "manga-canon",
+			"aired_date": "2011-06-20"
+		},
+		{
+			"episode": 13,
+			"title": "'Tis an Honor!",
+			"type": "manga-canon",
+			"aired_date": "2011-06-27"
+		},
+		{
+			"episode": 14,
+			"title": "Odds or Evens",
+			"type": "manga-canon",
+			"aired_date": "2011-07-04"
+		},
+		{
+			"episode": 15,
+			"title": "I Can't Remember a Damn Thing about the Factory Tour",
+			"type": "manga-canon",
+			"aired_date": "2011-07-11"
+		},
+		{
+			"episode": 16,
+			"title": "What Happens Twice Can Happen Thrice",
+			"type": "manga-canon",
+			"aired_date": "2011-07-18"
+		},
+		{
+			"episode": 17,
+			"title": "The Claws of a Crab Can Snip through a Friendship",
+			"type": "manga-canon",
+			"aired_date": "2011-07-25"
+		},
+		{
+			"episode": 18,
+			"title": "People Forget to Return Stuff All the Time without Even Realizing It",
+			"type": "manga-canon",
+			"aired_date": "2011-08-01"
+		},
+		{
+			"episode": 19,
+			"title": "The Bathhouse, Where You're Naked in Body and Soul",
+			"type": "manga-canon",
+			"aired_date": "2011-08-08"
+		},
+		{
+			"episode": 20,
+			"title": "Jugem",
+			"type": "manga-canon",
+			"aired_date": "2011-08-15"
+		},
+		{
+			"episode": 21,
+			"title": "The Name Reveals the Person",
+			"type": "manga-canon",
+			"aired_date": "2011-08-22"
+		},
+		{
+			"episode": 22,
+			"title": "The Man's Household Situation Is Hard, His Heart Is Soft",
+			"type": "manga-canon",
+			"aired_date": "2011-08-29"
+		},
+		{
+			"episode": 23,
+			"title": "Blue and Red Ecstasy",
+			"type": "manga-canon",
+			"aired_date": "2011-09-05"
+		},
+		{
+			"episode": 24,
+			"title": "So in the second season of Prison Break, they've already broken out of prison, but the name works once you realize that society is a prison",
+			"type": "manga-canon",
+			"aired_date": "2011-09-12"
+		},
+		{
+			"episode": 25,
+			"title": "Everybody Loves Pajamas",
+			"type": "manga-canon",
+			"aired_date": "2011-09-19"
+		},
+		{
+			"episode": 26,
+			"title": "Speaking of Crossovers, Don't Forget about Alien vs. Predator",
+			"type": "manga-canon",
+			"aired_date": "2011-09-26"
+		},
+		{
+			"episode": 27,
+			"title": "Love Is Neither plus Nor Minus",
+			"type": "manga-canon",
+			"aired_date": "2011-10-03"
+		},
+		{
+			"episode": 28,
+			"title": "Making It through Love",
+			"type": "manga-canon",
+			"aired_date": "2011-10-10"
+		},
+		{
+			"episode": 29,
+			"title": "It Would Take Too Much Effort to Make This Title Sound like a Text Message Subject",
+			"type": "manga-canon",
+			"aired_date": "2011-10-17"
+		},
+		{
+			"episode": 30,
+			"title": "When You Go to a Funeral for the First Time, You're Surprised by How Happy the People Are",
+			"type": "manga-canon",
+			"aired_date": "2011-10-24"
+		},
+		{
+			"episode": 31,
+			"title": "The People You Tend to Forget Tend to Show up after You Forget Them",
+			"type": "manga-canon",
+			"aired_date": "2011-10-31"
+		},
+		{
+			"episode": 32,
+			"title": "Space Ururun Homestay",
+			"type": "manga-canon",
+			"aired_date": "2011-11-07"
+		},
+		{
+			"episode": 33,
+			"title": "Piggy Banks and Trash Cans",
+			"type": "manga-canon",
+			"aired_date": "2011-11-14"
+		},
+		{
+			"episode": 34,
+			"title": "Empty Planet",
+			"type": "manga-canon",
+			"aired_date": "2011-11-21"
+		},
+		{
+			"episode": 35,
+			"title": "Don't Say Goodbye Lionel",
+			"type": "manga-canon",
+			"aired_date": "2011-11-28"
+		},
+		{
+			"episode": 36,
+			"title": "Please Take Me Skiing",
+			"type": "manga-canon",
+			"aired_date": "2011-12-05"
+		},
+		{
+			"episode": 37,
+			"title": "A Vacation in Disorientation",
+			"type": "manga-canon",
+			"aired_date": "2011-12-12"
+		},
+		{
+			"episode": 38,
+			"title": "There Are a Few Things You're Not Supposed to Forget",
+			"type": "manga-canon",
+			"aired_date": "2011-12-19"
+		},
+		{
+			"episode": 39,
+			"title": "People Can Only Live by Forgetting the Bad",
+			"type": "manga-canon",
+			"aired_date": "2011-12-26"
+		},
+		{
+			"episode": 40,
+			"title": "We Are All Hosts, in Capital Letters",
+			"type": "manga-canon",
+			"aired_date": "2012-01-09"
+		},
+		{
+			"episode": 41,
+			"title": "Girls like Vegeta, Guys like Piccolo",
+			"type": "manga-canon",
+			"aired_date": "2012-01-16"
+		},
+		{
+			"episode": 42,
+			"title": "Draw Your Life on the Canvas We Call Manga",
+			"type": "manga-canon",
+			"aired_date": "2012-01-23"
+		},
+		{
+			"episode": 43,
+			"title": "Check It Out!!",
+			"type": "manga-canon",
+			"aired_date": "2012-01-30"
+		},
+		{
+			"episode": 44,
+			"title": "Thorny and Rosy",
+			"type": "manga-canon",
+			"aired_date": "2012-02-06"
+		},
+		{
+			"episode": 45,
+			"title": "Festival of Thornies",
+			"type": "manga-canon",
+			"aired_date": "2012-02-13"
+		},
+		{
+			"episode": 46,
+			"title": "Letter from Thorny",
+			"type": "manga-canon",
+			"aired_date": "2012-02-20"
+		},
+		{
+			"episode": 47,
+			"title": "Madaodog Madaonaire",
+			"type": "manga-canon",
+			"aired_date": "2012-02-27"
+		},
+		{
+			"episode": 48,
+			"title": "Presents Are Meant to Be Given Early",
+			"type": "manga-canon",
+			"aired_date": "2012-03-05"
+		},
+		{
+			"episode": 49,
+			"title": "New Year's Envelopes Are Perfect for Dirty Jokes",
+			"type": "manga-canon",
+			"aired_date": "2012-03-12"
+		},
+		{
+			"episode": 50,
+			"title": "When Sleeping under a Kotatsu, Make Sure You Don't Burn Your Balls",
+			"type": "manga-canon",
+			"aired_date": "2012-03-19"
+		},
+		{
+			"episode": 51,
+			"title": "We're Sorry",
+			"type": "filler",
+			"aired_date": "2012-03-26"
+		}
+	]
+}

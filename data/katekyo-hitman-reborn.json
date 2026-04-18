@@ -1,0 +1,1228 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Reborn!",
+	"mappings": {
+		"anilist_id": 1604,
+		"mal_id": 1604
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "What!? I'm a Tenth-Generation Mafia Boss!?",
+			"type": "manga-canon",
+			"aired_date": "2006-10-07"
+		},
+		{
+			"episode": 2,
+			"title": "The End of the School?!",
+			"type": "manga-canon",
+			"aired_date": "2006-10-14"
+		},
+		{
+			"episode": 3,
+			"title": "Shocking! Cooking With Love and Horror!",
+			"type": "manga-canon",
+			"aired_date": "2006-10-21"
+		},
+		{
+			"episode": 4,
+			"title": "Eek! A Maiden's Heart Can Destroy!",
+			"type": "manga-canon",
+			"aired_date": "2006-10-28"
+		},
+		{
+			"episode": 5,
+			"title": "The Leader of the Disciplinary Committee Kills Time.",
+			"type": "manga-canon",
+			"aired_date": "2006-11-04"
+		},
+		{
+			"episode": 6,
+			"title": "Ni-Hao Gyoza Fist!",
+			"type": "manga-canon",
+			"aired_date": "2006-11-11"
+		},
+		{
+			"episode": 7,
+			"title": "To the Limit! Passionate Brother!",
+			"type": "manga-canon",
+			"aired_date": "2006-11-18"
+		},
+		{
+			"episode": 8,
+			"title": "The Senior Boss Cares About the Family.",
+			"type": "manga-canon",
+			"aired_date": "2006-11-25"
+		},
+		{
+			"episode": 9,
+			"title": "Life-shortening Skullitis",
+			"type": "manga-canon",
+			"aired_date": "2006-12-02"
+		},
+		{
+			"episode": 10,
+			"title": "Gahaha! The Exploding Lunch Box!",
+			"type": "mixed-manga",
+			"aired_date": "2006-12-09"
+		},
+		{
+			"episode": 11,
+			"title": "The Gyoza Buns of Love and Death!?",
+			"type": "manga-canon",
+			"aired_date": "2006-12-16"
+		},
+		{
+			"episode": 12,
+			"title": "Master's Training! Strengthening Program",
+			"type": "manga-canon",
+			"aired_date": "2006-12-23"
+		},
+		{
+			"episode": 13,
+			"title": "New Spring! The Hundred Million Yen Contest",
+			"type": "manga-canon",
+			"aired_date": "2007-01-06"
+		},
+		{
+			"episode": 14,
+			"title": "First Date!? Hell's Zoo",
+			"type": "manga-canon",
+			"aired_date": "2007-01-13"
+		},
+		{
+			"episode": 15,
+			"title": "Clash! Survival Snow Battle",
+			"type": "manga-canon",
+			"aired_date": "2007-01-20"
+		},
+		{
+			"episode": 16,
+			"title": "Escape From Death Mountain!",
+			"type": "manga-canon",
+			"aired_date": "2007-01-27"
+		},
+		{
+			"episode": 17,
+			"title": "Don't Make a Noise When You're Hospitalized",
+			"type": "manga-canon",
+			"aired_date": "2007-02-03"
+		},
+		{
+			"episode": 18,
+			"title": "Poisoned Love Chocolates",
+			"type": "manga-canon",
+			"aired_date": "2007-02-10"
+		},
+		{
+			"episode": 19,
+			"title": "100% Accuracy? Ranking Anything",
+			"type": "manga-canon",
+			"aired_date": "2007-02-17"
+		},
+		{
+			"episode": 20,
+			"title": "Sudden Attack",
+			"type": "manga-canon",
+			"aired_date": "2007-02-24"
+		},
+		{
+			"episode": 21,
+			"title": "Wounded Friends",
+			"type": "manga-canon",
+			"aired_date": "2007-03-03"
+		},
+		{
+			"episode": 22,
+			"title": "Unforeseen Evil Influence",
+			"type": "manga-canon",
+			"aired_date": "2007-03-10"
+		},
+		{
+			"episode": 23,
+			"title": "The Final Deathperation Shot",
+			"type": "manga-canon",
+			"aired_date": "2007-03-17"
+		},
+		{
+			"episode": 24,
+			"title": "Fighting Back in Different Ways",
+			"type": "manga-canon",
+			"aired_date": "2007-03-24"
+		},
+		{
+			"episode": 25,
+			"title": "I Want to Win! Moment of Awakening",
+			"type": "manga-canon",
+			"aired_date": "2007-03-31"
+		},
+		{
+			"episode": 26,
+			"title": "The End and From Then On",
+			"type": "manga-canon",
+			"aired_date": "2007-04-07"
+		},
+		{
+			"episode": 27,
+			"title": "Eat Sushi to Celebrate Moving Up a Grade",
+			"type": "manga-canon",
+			"aired_date": "2007-04-14"
+		},
+		{
+			"episode": 28,
+			"title": "No Way! I Killed Him?",
+			"type": "manga-canon",
+			"aired_date": "2007-04-21"
+		},
+		{
+			"episode": 29,
+			"title": "Her Lover is Broccoli?",
+			"type": "mixed-manga",
+			"aired_date": "2007-04-28"
+		},
+		{
+			"episode": 30,
+			"title": "Hide and Seek on a Luxury Cruise",
+			"type": "manga-canon",
+			"aired_date": "2007-05-05"
+		},
+		{
+			"episode": 31,
+			"title": "Welcome to Mafia Land",
+			"type": "manga-canon",
+			"aired_date": "2007-05-12"
+		},
+		{
+			"episode": 32,
+			"title": "A Shark Showed Up in the Public Pool",
+			"type": "manga-canon",
+			"aired_date": "2007-05-19"
+		},
+		{
+			"episode": 33,
+			"title": "A Summer Filled With Debt?",
+			"type": "manga-canon",
+			"aired_date": "2007-05-26"
+		},
+		{
+			"episode": 34,
+			"title": "The Varia Arrive",
+			"type": "manga-canon",
+			"aired_date": "2007-06-02"
+		},
+		{
+			"episode": 35,
+			"title": "The Seven Vongola Rings",
+			"type": "manga-canon",
+			"aired_date": "2007-06-09"
+		},
+		{
+			"episode": 36,
+			"title": "Tutors on the Move",
+			"type": "manga-canon",
+			"aired_date": "2007-06-16"
+		},
+		{
+			"episode": 37,
+			"title": "Teacher and Student Together",
+			"type": "manga-canon",
+			"aired_date": "2007-06-23"
+		},
+		{
+			"episode": 38,
+			"title": "The Selfish Baby Cow Vanishes",
+			"type": "manga-canon",
+			"aired_date": "2007-06-30"
+		},
+		{
+			"episode": 39,
+			"title": "The Unseen Enemies' Goal",
+			"type": "manga-canon",
+			"aired_date": "2007-07-07"
+		},
+		{
+			"episode": 40,
+			"title": "The Battle of the Rings Begins!",
+			"type": "manga-canon",
+			"aired_date": "2007-07-14"
+		},
+		{
+			"episode": 41,
+			"title": "The Guardian of the Sun Ring's Feelings",
+			"type": "manga-canon",
+			"aired_date": "2007-07-21"
+		},
+		{
+			"episode": 42,
+			"title": "The Power to Overcome Adversity",
+			"type": "manga-canon",
+			"aired_date": "2007-07-28"
+		},
+		{
+			"episode": 43,
+			"title": "Thunder Strike from Twenty Years Later",
+			"type": "manga-canon",
+			"aired_date": "2007-08-04"
+		},
+		{
+			"episode": 44,
+			"title": "The Stolen Sky Ring",
+			"type": "manga-canon",
+			"aired_date": "2007-08-11"
+		},
+		{
+			"episode": 45,
+			"title": "Raging Storm Battle",
+			"type": "manga-canon",
+			"aired_date": "2007-08-18"
+		},
+		{
+			"episode": 46,
+			"title": "Reason to Fight",
+			"type": "manga-canon",
+			"aired_date": "2007-08-25"
+		},
+		{
+			"episode": 47,
+			"title": "The Strongest, Invincible Style",
+			"type": "manga-canon",
+			"aired_date": "2007-09-01"
+		},
+		{
+			"episode": 48,
+			"title": "Flow of Battle",
+			"type": "manga-canon",
+			"aired_date": "2007-09-08"
+		},
+		{
+			"episode": 49,
+			"title": "Requiem Rain",
+			"type": "manga-canon",
+			"aired_date": "2007-09-15"
+		},
+		{
+			"episode": 50,
+			"title": "The Guardian of the Mist Ring Arrives!?",
+			"type": "manga-canon",
+			"aired_date": "2007-09-22"
+		},
+		{
+			"episode": 51,
+			"title": "Illusion vs. Illusion",
+			"type": "manga-canon",
+			"aired_date": "2007-09-29"
+		},
+		{
+			"episode": 52,
+			"title": "The Truth About the Mist",
+			"type": "manga-canon",
+			"aired_date": "2007-10-06"
+		},
+		{
+			"episode": 53,
+			"title": "A Hint of Uneasiness",
+			"type": "manga-canon",
+			"aired_date": "2007-10-13"
+		},
+		{
+			"episode": 54,
+			"title": "The Cloud Guardian's Rampage",
+			"type": "manga-canon",
+			"aired_date": "2007-10-20"
+		},
+		{
+			"episode": 55,
+			"title": "Determination",
+			"type": "manga-canon",
+			"aired_date": "2007-10-27"
+		},
+		{
+			"episode": 56,
+			"title": "Gokudera's Story",
+			"type": "filler",
+			"aired_date": "2007-11-03"
+		},
+		{
+			"episode": 57,
+			"title": "The Sky Ring Battle Begins!",
+			"type": "manga-canon",
+			"aired_date": "2007-11-10"
+		},
+		{
+			"episode": 58,
+			"title": "Flame of Fury",
+			"type": "manga-canon",
+			"aired_date": "2007-11-17"
+		},
+		{
+			"episode": 59,
+			"title": "Supporters",
+			"type": "manga-canon",
+			"aired_date": "2007-11-24"
+		},
+		{
+			"episode": 60,
+			"title": "Deathperate Zero Point Breakthrough",
+			"type": "manga-canon",
+			"aired_date": "2007-12-01"
+		},
+		{
+			"episode": 61,
+			"title": "Zero Point Breakthrough Revised",
+			"type": "manga-canon",
+			"aired_date": "2007-12-08"
+		},
+		{
+			"episode": 62,
+			"title": "Tactics",
+			"type": "manga-canon",
+			"aired_date": "2007-12-15"
+		},
+		{
+			"episode": 63,
+			"title": "Freezing Flame",
+			"type": "manga-canon",
+			"aired_date": "2007-12-22"
+		},
+		{
+			"episode": 64,
+			"title": "The Truth Behind The Rage",
+			"type": "manga-canon",
+			"aired_date": "2008-01-05"
+		},
+		{
+			"episode": 65,
+			"title": "Conclusion!",
+			"type": "manga-canon",
+			"aired_date": "2008-01-12"
+		},
+		{
+			"episode": 66,
+			"title": "Shivering Ghost",
+			"type": "manga-canon",
+			"aired_date": "2008-01-19"
+		},
+		{
+			"episode": 67,
+			"title": "Vongola-style Open House",
+			"type": "manga-canon",
+			"aired_date": "2008-01-26"
+		},
+		{
+			"episode": 68,
+			"title": "Happy? Wedding",
+			"type": "manga-canon",
+			"aired_date": "2008-02-02"
+		},
+		{
+			"episode": 69,
+			"title": "Crazy Criminal Brother Trio",
+			"type": "manga-canon",
+			"aired_date": "2008-02-09"
+		},
+		{
+			"episode": 70,
+			"title": "The Misfortune of Shoichi Irie",
+			"type": "manga-canon",
+			"aired_date": "2008-02-16"
+		},
+		{
+			"episode": 71,
+			"title": "Fighting Spirit! Absolute Evil Fist",
+			"type": "manga-canon",
+			"aired_date": "2008-02-23"
+		},
+		{
+			"episode": 72,
+			"title": "Expulsion Crisis",
+			"type": "manga-canon",
+			"aired_date": "2008-03-01"
+		},
+		{
+			"episode": 73,
+			"title": "Mother's Day Vongola-style",
+			"type": "mixed-manga",
+			"aired_date": "2008-03-08"
+		},
+		{
+			"episode": 74,
+			"title": "The World 10 Years Later",
+			"type": "manga-canon",
+			"aired_date": "2008-03-15"
+		},
+		{
+			"episode": 75,
+			"title": "Secret Base",
+			"type": "manga-canon",
+			"aired_date": "2008-03-22"
+		},
+		{
+			"episode": 76,
+			"title": "Search for the Guardians",
+			"type": "manga-canon",
+			"aired_date": "2008-03-29"
+		},
+		{
+			"episode": 77,
+			"title": "Flame of Resolve",
+			"type": "manga-canon",
+			"aired_date": "2008-04-05"
+		},
+		{
+			"episode": 78,
+			"title": "Clues to The Past",
+			"type": "manga-canon",
+			"aired_date": "2008-04-12"
+		},
+		{
+			"episode": 79,
+			"title": "The First Trial",
+			"type": "manga-canon",
+			"aired_date": "2008-04-19"
+		},
+		{
+			"episode": 80,
+			"title": "Discord",
+			"type": "manga-canon",
+			"aired_date": "2008-04-26"
+		},
+		{
+			"episode": 81,
+			"title": "Combination",
+			"type": "manga-canon",
+			"aired_date": "2008-05-03"
+		},
+		{
+			"episode": 82,
+			"title": "The Strongest Guardian",
+			"type": "manga-canon",
+			"aired_date": "2008-05-10"
+		},
+		{
+			"episode": 83,
+			"title": "Information Divulged",
+			"type": "manga-canon",
+			"aired_date": "2008-05-17"
+		},
+		{
+			"episode": 84,
+			"title": "The Long Road Home",
+			"type": "filler",
+			"aired_date": "2008-05-24"
+		},
+		{
+			"episode": 85,
+			"title": "Where's the Base?",
+			"type": "filler",
+			"aired_date": "2008-05-31"
+		},
+		{
+			"episode": 86,
+			"title": "The Most Terrifying Tutor",
+			"type": "manga-canon",
+			"aired_date": "2008-06-07"
+		},
+		{
+			"episode": 87,
+			"title": "Succession",
+			"type": "manga-canon",
+			"aired_date": "2008-06-14"
+		},
+		{
+			"episode": 88,
+			"title": "7³ Policy",
+			"type": "manga-canon",
+			"aired_date": "2008-06-21"
+		},
+		{
+			"episode": 89,
+			"title": "Piano of Sorrow",
+			"type": "manga-canon",
+			"aired_date": "2008-06-28"
+		},
+		{
+			"episode": 90,
+			"title": "Gufo di Pioggia",
+			"type": "manga-canon",
+			"aired_date": "2008-07-05"
+		},
+		{
+			"episode": 91,
+			"title": "What You Believe In",
+			"type": "manga-canon",
+			"aired_date": "2008-07-12"
+		},
+		{
+			"episode": 92,
+			"title": "Your Choice",
+			"type": "manga-canon",
+			"aired_date": "2008-07-19"
+		},
+		{
+			"episode": 93,
+			"title": "Level D Security Alert",
+			"type": "manga-canon",
+			"aired_date": "2008-07-26"
+		},
+		{
+			"episode": 94,
+			"title": "Identity Revealed",
+			"type": "manga-canon",
+			"aired_date": "2008-08-02"
+		},
+		{
+			"episode": 95,
+			"title": "Determination",
+			"type": "manga-canon",
+			"aired_date": "2008-08-09"
+		},
+		{
+			"episode": 96,
+			"title": "X BURNER",
+			"type": "manga-canon",
+			"aired_date": "2008-08-23"
+		},
+		{
+			"episode": 97,
+			"title": "The Great Chase",
+			"type": "filler",
+			"aired_date": "2008-08-30"
+		},
+		{
+			"episode": 98,
+			"title": "Declaration of War",
+			"type": "manga-canon",
+			"aired_date": "2008-09-06"
+		},
+		{
+			"episode": 99,
+			"title": "The Final Trial",
+			"type": "manga-canon",
+			"aired_date": "2008-09-13"
+		},
+		{
+			"episode": 100,
+			"title": "The Night Before the Raid",
+			"type": "manga-canon",
+			"aired_date": "2008-09-20"
+		},
+		{
+			"episode": 101,
+			"title": "Night Attack",
+			"type": "manga-canon",
+			"aired_date": "2008-09-27"
+		},
+		{
+			"episode": 102,
+			"title": "Mission Start",
+			"type": "manga-canon",
+			"aired_date": "2008-10-04"
+		},
+		{
+			"episode": 103,
+			"title": "The First Barrier",
+			"type": "manga-canon",
+			"aired_date": "2008-10-11"
+		},
+		{
+			"episode": 104,
+			"title": "Magician of Fate",
+			"type": "manga-canon",
+			"aired_date": "2008-10-18"
+		},
+		{
+			"episode": 105,
+			"title": "Regret",
+			"type": "manga-canon",
+			"aired_date": "2008-10-25"
+		},
+		{
+			"episode": 106,
+			"title": "The Student's Maturation",
+			"type": "manga-canon",
+			"aired_date": "2008-11-01"
+		},
+		{
+			"episode": 107,
+			"title": "Absolute Desperation",
+			"type": "manga-canon",
+			"aired_date": "2008-11-08"
+		},
+		{
+			"episode": 108,
+			"title": "A Man's Box Weapon",
+			"type": "manga-canon",
+			"aired_date": "2008-11-15"
+		},
+		{
+			"episode": 109,
+			"title": "Captive",
+			"type": "manga-canon",
+			"aired_date": "2008-11-22"
+		},
+		{
+			"episode": 110,
+			"title": "The Secret of Merone Base",
+			"type": "manga-canon",
+			"aired_date": "2008-11-29"
+		},
+		{
+			"episode": 111,
+			"title": "The Enemy is Octopus Head",
+			"type": "manga-canon",
+			"aired_date": "2008-12-06"
+		},
+		{
+			"episode": 112,
+			"title": "Boomerang Trap",
+			"type": "manga-canon",
+			"aired_date": "2008-12-13"
+		},
+		{
+			"episode": 113,
+			"title": "Lightning Strikes Again",
+			"type": "manga-canon",
+			"aired_date": "2008-12-20"
+		},
+		{
+			"episode": 114,
+			"title": "The Storm Guardian, Stands",
+			"type": "manga-canon",
+			"aired_date": "2008-12-27"
+		},
+		{
+			"episode": 115,
+			"title": "SISTEMA C.A.I.",
+			"type": "manga-canon",
+			"aired_date": "2009-01-10"
+		},
+		{
+			"episode": 116,
+			"title": "Difference in Resolve",
+			"type": "manga-canon",
+			"aired_date": "2009-01-17"
+		},
+		{
+			"episode": 117,
+			"title": "Storm Fights Back",
+			"type": "manga-canon",
+			"aired_date": "2009-01-24"
+		},
+		{
+			"episode": 118,
+			"title": "The Princess's Conviction",
+			"type": "manga-canon",
+			"aired_date": "2009-01-31"
+		},
+		{
+			"episode": 119,
+			"title": "Interval Between Battles",
+			"type": "mixed-manga",
+			"aired_date": "2009-02-07"
+		},
+		{
+			"episode": 120,
+			"title": "Virtual Space",
+			"type": "filler",
+			"aired_date": "2009-02-14"
+		},
+		{
+			"episode": 121,
+			"title": "Two Battles",
+			"type": "filler",
+			"aired_date": "2009-02-21"
+		},
+		{
+			"episode": 122,
+			"title": "The Ultimate Swordsman",
+			"type": "manga-canon",
+			"aired_date": "2009-02-28"
+		},
+		{
+			"episode": 123,
+			"title": "Teachings of the Sword Emperor",
+			"type": "manga-canon",
+			"aired_date": "2009-03-07"
+		},
+		{
+			"episode": 124,
+			"title": "Obstructing Mist",
+			"type": "manga-canon",
+			"aired_date": "2009-03-14"
+		},
+		{
+			"episode": 125,
+			"title": "More Intruders",
+			"type": "manga-canon",
+			"aired_date": "2009-03-21"
+		},
+		{
+			"episode": 126,
+			"title": "The Strongest versus The Strongest",
+			"type": "manga-canon",
+			"aired_date": "2009-03-28"
+		},
+		{
+			"episode": 127,
+			"title": "A Bewitching Flower",
+			"type": "manga-canon",
+			"aired_date": "2009-04-04"
+		},
+		{
+			"episode": 128,
+			"title": "The Head Prefect Comes",
+			"type": "manga-canon",
+			"aired_date": "2009-04-11"
+		},
+		{
+			"episode": 129,
+			"title": "Operation X",
+			"type": "manga-canon",
+			"aired_date": "2009-04-18"
+		},
+		{
+			"episode": 130,
+			"title": "Resolve and Irritation",
+			"type": "manga-canon",
+			"aired_date": "2009-04-25"
+		},
+		{
+			"episode": 131,
+			"title": "Rampage",
+			"type": "manga-canon",
+			"aired_date": "2009-05-02"
+		},
+		{
+			"episode": 132,
+			"title": "Final Block Of Defense",
+			"type": "manga-canon",
+			"aired_date": "2009-05-09"
+		},
+		{
+			"episode": 133,
+			"title": "A Game-Changing Move",
+			"type": "manga-canon",
+			"aired_date": "2009-05-16"
+		},
+		{
+			"episode": 134,
+			"title": "Hell Knight",
+			"type": "manga-canon",
+			"aired_date": "2009-05-23"
+		},
+		{
+			"episode": 135,
+			"title": "Arrival",
+			"type": "manga-canon",
+			"aired_date": "2009-05-30"
+		},
+		{
+			"episode": 136,
+			"title": "Revealed Truth",
+			"type": "manga-canon",
+			"aired_date": "2009-06-06"
+		},
+		{
+			"episode": 137,
+			"title": "Main Battle in Italy",
+			"type": "manga-canon",
+			"aired_date": "2009-06-13"
+		},
+		{
+			"episode": 138,
+			"title": "Twin Princes",
+			"type": "manga-canon",
+			"aired_date": "2009-06-20"
+		},
+		{
+			"episode": 139,
+			"title": "Furious Roar",
+			"type": "manga-canon",
+			"aired_date": "2009-06-27"
+		},
+		{
+			"episode": 140,
+			"title": "Another Sky",
+			"type": "manga-canon",
+			"aired_date": "2009-07-04"
+		},
+		{
+			"episode": 141,
+			"title": "Reunion",
+			"type": "mixed-manga",
+			"aired_date": "2009-07-11"
+		},
+		{
+			"episode": 142,
+			"title": "The Strongest Seven",
+			"type": "filler",
+			"aired_date": "2009-07-18"
+		},
+		{
+			"episode": 143,
+			"title": "Trial #1",
+			"type": "filler",
+			"aired_date": "2009-07-25"
+		},
+		{
+			"episode": 144,
+			"title": "The Arcobaleno Seals",
+			"type": "filler",
+			"aired_date": "2009-08-01"
+		},
+		{
+			"episode": 145,
+			"title": "Guardian Showdown! Cloud and Mist",
+			"type": "filler",
+			"aired_date": "2009-08-08"
+		},
+		{
+			"episode": 146,
+			"title": "Box Weapon Prototype",
+			"type": "filler",
+			"aired_date": "2009-08-15"
+		},
+		{
+			"episode": 147,
+			"title": "Catch the Wind",
+			"type": "filler",
+			"aired_date": "2009-08-22"
+		},
+		{
+			"episode": 148,
+			"title": "Two Successors of the Sky",
+			"type": "filler",
+			"aired_date": "2009-08-29"
+		},
+		{
+			"episode": 149,
+			"title": "Reborn's Trial",
+			"type": "filler",
+			"aired_date": "2009-09-05"
+		},
+		{
+			"episode": 150,
+			"title": "A Path is Closed Off",
+			"type": "filler",
+			"aired_date": "2009-09-12"
+		},
+		{
+			"episode": 151,
+			"title": "Once the Rainbow is Complete",
+			"type": "filler",
+			"aired_date": "2009-09-19"
+		},
+		{
+			"episode": 152,
+			"title": "A Boss' Resolve",
+			"type": "filler",
+			"aired_date": "2009-09-26"
+		},
+		{
+			"episode": 153,
+			"title": "The Final Seal",
+			"type": "filler",
+			"aired_date": "2009-10-03"
+		},
+		{
+			"episode": 154,
+			"title": "To the Next Battle",
+			"type": "filler",
+			"aired_date": "2009-10-10"
+		},
+		{
+			"episode": 155,
+			"title": "The Real Six Funeral Wreaths",
+			"type": "manga-canon",
+			"aired_date": "2009-10-17"
+		},
+		{
+			"episode": 156,
+			"title": "Inspiring Allies",
+			"type": "manga-canon",
+			"aired_date": "2009-10-24"
+		},
+		{
+			"episode": 157,
+			"title": "Namimori Holiday",
+			"type": "manga-canon",
+			"aired_date": "2009-10-31"
+		},
+		{
+			"episode": 158,
+			"title": "A Warm Place",
+			"type": "filler",
+			"aired_date": "2009-11-07"
+		},
+		{
+			"episode": 159,
+			"title": "For My Friends",
+			"type": "mixed-manga",
+			"aired_date": "2009-11-14"
+		},
+		{
+			"episode": 160,
+			"title": "Gaining Mobility",
+			"type": "manga-canon",
+			"aired_date": "2009-11-21"
+		},
+		{
+			"episode": 161,
+			"title": "Airbike",
+			"type": "manga-canon",
+			"aired_date": "2009-11-28"
+		},
+		{
+			"episode": 162,
+			"title": "The Sky Vongola Box",
+			"type": "manga-canon",
+			"aired_date": "2009-12-05"
+		},
+		{
+			"episode": 163,
+			"title": "Terror! Turmoil on Base",
+			"type": "manga-canon",
+			"aired_date": "2009-12-12"
+		},
+		{
+			"episode": 164,
+			"title": "Vongola Box, Training Begins",
+			"type": "manga-canon",
+			"aired_date": "2009-12-19"
+		},
+		{
+			"episode": 165,
+			"title": "Boycott Declared",
+			"type": "manga-canon",
+			"aired_date": "2009-12-26"
+		},
+		{
+			"episode": 166,
+			"title": "With the Same Heart",
+			"type": "manga-canon",
+			"aired_date": "2010-01-09"
+		},
+		{
+			"episode": 167,
+			"title": "Day of the Battle",
+			"type": "manga-canon",
+			"aired_date": "2010-01-16"
+		},
+		{
+			"episode": 168,
+			"title": "Choice Begins",
+			"type": "manga-canon",
+			"aired_date": "2010-01-23"
+		},
+		{
+			"episode": 169,
+			"title": "Sky Lion: Leone di Cieli ver. Vongola",
+			"type": "manga-canon",
+			"aired_date": "2010-01-30"
+		},
+		{
+			"episode": 170,
+			"title": "Fateful Showdown",
+			"type": "manga-canon",
+			"aired_date": "2010-02-06"
+		},
+		{
+			"episode": 171,
+			"title": "Revenge",
+			"type": "manga-canon",
+			"aired_date": "2010-02-13"
+		},
+		{
+			"episode": 172,
+			"title": "Kikyo's Assault",
+			"type": "manga-canon",
+			"aired_date": "2010-02-20"
+		},
+		{
+			"episode": 173,
+			"title": "Choice Ends",
+			"type": "manga-canon",
+			"aired_date": "2010-02-27"
+		},
+		{
+			"episode": 174,
+			"title": "The Truth about the Future",
+			"type": "manga-canon",
+			"aired_date": "2010-03-06"
+		},
+		{
+			"episode": 175,
+			"title": "Yuni Comes",
+			"type": "manga-canon",
+			"aired_date": "2010-03-13"
+		},
+		{
+			"episode": 176,
+			"title": "Escape",
+			"type": "manga-canon",
+			"aired_date": "2010-03-20"
+		},
+		{
+			"episode": 177,
+			"title": "After the Battle",
+			"type": "manga-canon",
+			"aired_date": "2010-03-27"
+		},
+		{
+			"episode": 178,
+			"title": "The Primo Family Arrives!",
+			"type": "mixed-manga",
+			"aired_date": "2010-04-03"
+		},
+		{
+			"episode": 179,
+			"title": "Inheritance Begins",
+			"type": "filler",
+			"aired_date": "2010-04-10"
+		},
+		{
+			"episode": 180,
+			"title": "The Duty of the Rain Guardian",
+			"type": "filler",
+			"aired_date": "2010-04-17"
+		},
+		{
+			"episode": 181,
+			"title": "Furious Bolt of Lightning",
+			"type": "filler",
+			"aired_date": "2010-04-24"
+		},
+		{
+			"episode": 182,
+			"title": "Silent Storm",
+			"type": "filler",
+			"aired_date": "2010-05-01"
+		},
+		{
+			"episode": 183,
+			"title": "Aloof Cloud",
+			"type": "filler",
+			"aired_date": "2010-05-08"
+		},
+		{
+			"episode": 184,
+			"title": "Sunny then Cloudy",
+			"type": "filler",
+			"aired_date": "2010-05-15"
+		},
+		{
+			"episode": 185,
+			"title": "The Trap is Set",
+			"type": "filler",
+			"aired_date": "2010-05-22"
+		},
+		{
+			"episode": 186,
+			"title": "Bewitching Mist",
+			"type": "filler",
+			"aired_date": "2010-05-29"
+		},
+		{
+			"episode": 187,
+			"title": "Memories of Betrayal",
+			"type": "filler",
+			"aired_date": "2010-06-05"
+		},
+		{
+			"episode": 188,
+			"title": "Primo's Will",
+			"type": "filler",
+			"aired_date": "2010-06-12"
+		},
+		{
+			"episode": 189,
+			"title": "The Family's Resolve",
+			"type": "mixed-manga",
+			"aired_date": "2010-06-19"
+		},
+		{
+			"episode": 190,
+			"title": "The Real Six Funeral Wreaths Attack!",
+			"type": "manga-canon",
+			"aired_date": "2010-06-26"
+		},
+		{
+			"episode": 191,
+			"title": "Open Carnage Box",
+			"type": "manga-canon",
+			"aired_date": "2010-07-03"
+		},
+		{
+			"episode": 192,
+			"title": "Alaude's Handcuffs",
+			"type": "manga-canon",
+			"aired_date": "2010-07-10"
+		},
+		{
+			"episode": 193,
+			"title": "Daemon Spade's Devil Lens",
+			"type": "manga-canon",
+			"aired_date": "2010-07-17"
+		},
+		{
+			"episode": 194,
+			"title": "The Final Battle Begins",
+			"type": "manga-canon",
+			"aired_date": "2010-07-24"
+		},
+		{
+			"episode": 195,
+			"title": "G's Archery",
+			"type": "manga-canon",
+			"aired_date": "2010-07-31"
+		},
+		{
+			"episode": 196,
+			"title": "Lambo's Shield",
+			"type": "manga-canon",
+			"aired_date": "2010-08-07"
+		},
+		{
+			"episode": 197,
+			"title": "Knuckle's Maximum Break",
+			"type": "manga-canon",
+			"aired_date": "2010-08-14"
+		},
+		{
+			"episode": 198,
+			"title": "The Last Real Funeral Wreath",
+			"type": "manga-canon",
+			"aired_date": "2010-08-21"
+		},
+		{
+			"episode": 199,
+			"title": "GHOST Awakens",
+			"type": "manga-canon",
+			"aired_date": "2010-08-28"
+		},
+		{
+			"episode": 200,
+			"title": "Sky Full of Desire",
+			"type": "manga-canon",
+			"aired_date": "2010-09-04"
+		},
+		{
+			"episode": 201,
+			"title": "Precious Moments in Time",
+			"type": "manga-canon",
+			"aired_date": "2010-09-11"
+		},
+		{
+			"episode": 202,
+			"title": "Sea. Clam. Rainbow.",
+			"type": "manga-canon",
+			"aired_date": "2010-09-18"
+		},
+		{
+			"episode": 203,
+			"title": "To a New Future",
+			"type": "manga-canon",
+			"aired_date": "2010-09-25"
+		}
+	]
+}

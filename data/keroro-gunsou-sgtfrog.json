@@ -1,0 +1,2158 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Sgt. Frog",
+	"mappings": {
+		"anilist_id": 516,
+		"mal_id": 516
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Meet the Sergeant!",
+			"type": "mixed-manga",
+			"aired_date": "2004-04-03"
+		},
+		{
+			"episode": 2,
+			"title": "Bag of Secrets!",
+			"type": "mixed-manga",
+			"aired_date": "2004-04-10"
+		},
+		{
+			"episode": 3,
+			"title": "Amphibian on the Verge of a Nervous Breakdown!",
+			"type": "mixed-manga",
+			"aired_date": "2004-04-17"
+		},
+		{
+			"episode": 4,
+			"title": "Blood Violence Death Kill!",
+			"type": "mixed-manga",
+			"aired_date": "2004-04-24"
+		},
+		{
+			"episode": 5,
+			"title": "The Song of Men Who Love Toys",
+			"type": "manga-canon",
+			"aired_date": "2004-05-01"
+		},
+		{
+			"episode": 6,
+			"title": "Ghost Kiss-perer!",
+			"type": "mixed-manga",
+			"aired_date": "2004-05-08"
+		},
+		{
+			"episode": 7,
+			"title": "Apocalypse Later!",
+			"type": "mixed-manga",
+			"aired_date": "2004-05-15"
+		},
+		{
+			"episode": 8,
+			"title": "Base: The Final Frontier!",
+			"type": "mixed-manga",
+			"aired_date": "2004-05-22"
+		},
+		{
+			"episode": 9,
+			"title": "Desperately Seeking Brains!",
+			"type": "mixed-manga",
+			"aired_date": "2004-05-29"
+		},
+		{
+			"episode": 10,
+			"title": "Sgt. Frog Versus the Cavitians of Cavity 9!",
+			"type": "mixed-manga",
+			"aired_date": "2004-06-05"
+		},
+		{
+			"episode": 11,
+			"title": "Fake It 'Til You Make It!",
+			"type": "mixed-manga",
+			"aired_date": "2004-06-12"
+		},
+		{
+			"episode": 12,
+			"title": "Pop $tartled!",
+			"type": "mixed-manga",
+			"aired_date": "2004-06-19"
+		},
+		{
+			"episode": 13,
+			"title": "Viper? I Hardly Knew Her!",
+			"type": "manga-canon",
+			"aired_date": "2004-06-26"
+		},
+		{
+			"episode": 14,
+			"title": "The Silence of the Plans!",
+			"type": "manga-canon",
+			"aired_date": "2004-07-03"
+		},
+		{
+			"episode": 15,
+			"title": "The Dark Momoka Saga!",
+			"type": "mixed-manga",
+			"aired_date": "2004-07-10"
+		},
+		{
+			"episode": 16,
+			"title": "Twin at All Costs!",
+			"type": "mixed-manga",
+			"aired_date": "2004-07-17"
+		},
+		{
+			"episode": 17,
+			"title": "Keroro vs Natsumi, Great Underwater Battle!/ Fuyuki, welcome to the Horror World",
+			"type": "mixed-manga",
+			"aired_date": "2004-07-24"
+		},
+		{
+			"episode": 18,
+			"title": "Natsumi is Hilarious! Adult Coast Story",
+			"type": "mixed-manga",
+			"aired_date": "2004-07-31"
+		},
+		{
+			"episode": 19,
+			"title": "Keroro vs Natsumi, Final Battle in the Festival!/Keroro, your ears have been invaded by radio!",
+			"type": "mixed-manga",
+			"aired_date": "2004-08-07"
+		},
+		{
+			"episode": 20,
+			"title": "Fuyuki meets a girl/Fuyuki, Messenger of the Nontolma",
+			"type": "mixed-manga",
+			"aired_date": "2004-08-14"
+		},
+		{
+			"episode": 21,
+			"title": "Keroro, saving energy also is invasion/Keroro attacks the countryside!",
+			"type": "mixed-manga",
+			"aired_date": "2004-08-21"
+		},
+		{
+			"episode": 22,
+			"title": "Tamama, from now on, I'm the leader!",
+			"type": "mixed-manga",
+			"aired_date": "2004-08-28"
+		},
+		{
+			"episode": 23,
+			"title": "Panic! The most noisy day in the Hinata Residence!",
+			"type": "filler",
+			"aired_date": "2004-09-04"
+		},
+		{
+			"episode": 24,
+			"title": "Keroro, the Space Detective of Justice and Poverty/556, tokusatsu job on the frontlines",
+			"type": "mixed-manga",
+			"aired_date": "2004-09-11"
+		},
+		{
+			"episode": 25,
+			"title": "Momoka, fugitive of love, youth and trouble",
+			"type": "manga-canon",
+			"aired_date": "2004-09-18"
+		},
+		{
+			"episode": 26,
+			"title": "Keroro, united! Invading the Sports Festival",
+			"type": "mixed-manga",
+			"aired_date": "2004-09-25"
+		},
+		{
+			"episode": 27,
+			"title": "Keroro, father is coming, father is going! Keroro Hotspring, GO! GO! GO!",
+			"type": "mixed-manga",
+			"aired_date": "2004-10-02"
+		},
+		{
+			"episode": 28,
+			"title": "Keroro, snowball battle survival/ Kululu, Ku of Kukuku",
+			"type": "mixed-manga",
+			"aired_date": "2004-10-09"
+		},
+		{
+			"episode": 29,
+			"title": "Natsumi and Koyuki, youth on stage!/ Keroro Scoop NG!",
+			"type": "mixed-manga",
+			"aired_date": "2004-10-16"
+		},
+		{
+			"episode": 30,
+			"title": "Tamama, the boy that came from Planet Keron/ Momoka aims for a Nice Body!",
+			"type": "mixed-manga",
+			"aired_date": "2004-10-23"
+		},
+		{
+			"episode": 31,
+			"title": "Keroro wants to but can't return",
+			"type": "mixed-manga",
+			"aired_date": "2004-10-30"
+		},
+		{
+			"episode": 32,
+			"title": "Keroro, Animal Platoon Assemble!/ Giroro, what the cat wishes to say...",
+			"type": "mixed-manga",
+			"aired_date": "2004-11-06"
+		},
+		{
+			"episode": 33,
+			"title": "Keroro Platoon invades Pekopon through anime!",
+			"type": "filler",
+			"aired_date": "2004-11-13"
+		},
+		{
+			"episode": 34,
+			"title": "Momoka vs Koyuki, hotspring battle/ Keroro and Fuyuki relax together",
+			"type": "manga-canon",
+			"aired_date": "2004-11-20"
+		},
+		{
+			"episode": 35,
+			"title": "Top Secret! Operation Natsumi's Birthday Party!",
+			"type": "manga-canon",
+			"aired_date": "2004-11-27"
+		},
+		{
+			"episode": 36,
+			"title": "Keroro duel! Sergeant vs General Winter/ Fuyuki, that's how it is, Nishizawa",
+			"type": "mixed-manga",
+			"aired_date": "2004-12-04"
+		},
+		{
+			"episode": 37,
+			"title": "Dororo, to the ninja classroom/ Keroro's dinosaur",
+			"type": "filler",
+			"aired_date": "2004-12-11"
+		},
+		{
+			"episode": 38,
+			"title": "Giroro, mobile infantry of love/Giroro vs Natsumi's re-encounter",
+			"type": "filler",
+			"aired_date": "2004-12-18"
+		},
+		{
+			"episode": 39,
+			"title": "Keroro, the Great Christmas Operation/ Keroro, housecleaning in a day's work",
+			"type": "mixed-manga",
+			"aired_date": "2004-12-25"
+		},
+		{
+			"episode": 40,
+			"title": "Mois, you could say, happy new year?/ Keroro, new year's food and work are going well",
+			"type": "mixed-manga",
+			"aired_date": "2005-01-08"
+		},
+		{
+			"episode": 41,
+			"title": "Keroro, board game guided battle!/ Dororo, burning up with passion",
+			"type": "mixed-manga",
+			"aired_date": "2005-01-15"
+		},
+		{
+			"episode": 42,
+			"title": "Keroro, red blooded Keroro Platoon/ Tamama, the jealously shoot of friendship",
+			"type": "mixed-manga",
+			"aired_date": "2005-01-22"
+		},
+		{
+			"episode": 43,
+			"title": "Giroro, the red oni who can't cry/ Giroro, flying into setsubun",
+			"type": "mixed-manga",
+			"aired_date": "2005-01-29"
+		},
+		{
+			"episode": 44,
+			"title": "Keroro vs Fuyuki, Sports Duel/ Kululu vs Aki, Explosive Invasion Robots",
+			"type": "filler",
+			"aired_date": "2005-02-05"
+		},
+		{
+			"episode": 45,
+			"title": "Keroro, sudden love for Dango/Natsumi and Momoka, Valentine Operation Initiated!",
+			"type": "mixed-manga",
+			"aired_date": "2005-02-12"
+		},
+		{
+			"episode": 46,
+			"title": "Keroro, have you forgotten me?",
+			"type": "manga-canon",
+			"aired_date": "2005-02-19"
+		},
+		{
+			"episode": 47,
+			"title": "Natsumi, protect the girl's festival/ Keroro with Afro",
+			"type": "filler",
+			"aired_date": "2005-02-26"
+		},
+		{
+			"episode": 48,
+			"title": "Keroro platoon's dazzingly spring operation/ Fuyuki, Useless Hazard Rescue Operation",
+			"type": "manga-canon",
+			"aired_date": "2005-03-05"
+		},
+		{
+			"episode": 49,
+			"title": "Kululu, How to Suceed in Space/Momoka, White Day Operation",
+			"type": "mixed-manga",
+			"aired_date": "2005-03-12"
+		},
+		{
+			"episode": 50,
+			"title": "Natsumi, high fever of the Earth warrior/ Giroro, If I can't do it, who will?!",
+			"type": "mixed-manga",
+			"aired_date": "2005-03-19"
+		},
+		{
+			"episode": 51,
+			"title": "Keroro Platoon Retreats! Goodbye, Pekopon!",
+			"type": "mixed-manga",
+			"aired_date": "2005-03-26"
+		},
+		{
+			"episode": 52,
+			"title": "Keroro, standing on Earth once again!/ Tamama, Black Tamama",
+			"type": "filler",
+			"aired_date": "2005-04-01"
+		},
+		{
+			"episode": 53,
+			"title": "Keroro, Great Treasure Invasion Operation/ Angol Mois, more more flower viewing",
+			"type": "filler",
+			"aired_date": "2005-04-08"
+		},
+		{
+			"episode": 54,
+			"title": "Fuyuki, I'm a famous detective?/ Dororo, the revived warrior",
+			"type": "filler",
+			"aired_date": "2005-04-15"
+		},
+		{
+			"episode": 55,
+			"title": "Giroro, the ressurected soldier/Fuyuki, swimming carp flags!",
+			"type": "mixed-manga",
+			"aired_date": "2005-04-22"
+		},
+		{
+			"episode": 56,
+			"title": "Natsumi and Koyuki, Princesses of Tennis/Keroro, sunny summer day for invasion",
+			"type": "mixed-manga",
+			"aired_date": "2005-04-29"
+		},
+		{
+			"episode": 57,
+			"title": "Dororo, revenge is mine/ Huge Frog vs Giant Monsters of the Southern Sea",
+			"type": "filler",
+			"aired_date": "2005-05-06"
+		},
+		{
+			"episode": 58,
+			"title": "Keroro, invading with a vending machine/Tamama Awakens! New Final Attack!",
+			"type": "mixed-manga",
+			"aired_date": "2005-05-13"
+		},
+		{
+			"episode": 59,
+			"title": "Keroro, raising a castle/Keroro, moving castle",
+			"type": "filler",
+			"aired_date": "2005-05-20"
+		},
+		{
+			"episode": 60,
+			"title": "Keroro, KeroKero Machines Extreme Racing/Mois, you could say, Sleeping Beauty wishes for a quiet sleep?",
+			"type": "filler",
+			"aired_date": "2005-05-27"
+		},
+		{
+			"episode": 61,
+			"title": "Fuyuki, Whatever happened to the Mysterious Transfer Student?/ Natsumi and Saburo, the two who can't return",
+			"type": "filler",
+			"aired_date": "2005-06-03"
+		},
+		{
+			"episode": 62,
+			"title": "Momoka & Natsumi & Mois, Phantom Thieves More Peach Summer/ Keroro Triumphant! Great Water Battle",
+			"type": "filler",
+			"aired_date": "2005-06-10"
+		},
+		{
+			"episode": 63,
+			"title": "Teacher Keroro, Gerogero Story/ Keroro, father re-encounter",
+			"type": "filler",
+			"aired_date": "2005-06-17"
+		},
+		{
+			"episode": 64,
+			"title": "Keroro, if you want to suck, suck! Just kidding, stop/ Dororo, escape from trauma",
+			"type": "filler",
+			"aired_date": "2005-06-24"
+		},
+		{
+			"episode": 65,
+			"title": "Keroro roar at Pekopon!/Tamama, a visitor from Planet Keron",
+			"type": "filler",
+			"aired_date": "2005-07-01"
+		},
+		{
+			"episode": 66,
+			"title": "Giroro, Love Rescue Operation/ Natsumi & Koyuki, heart-beating first date",
+			"type": "filler",
+			"aired_date": "2005-07-08"
+		},
+		{
+			"episode": 67,
+			"title": "Fuyuki & Momoka, secret mystery date/ Keroro, let's make a game",
+			"type": "filler",
+			"aired_date": "2005-07-15"
+		},
+		{
+			"episode": 68,
+			"title": "Keroro reform! Great reconstruction!/ Dororo, now come! Destined Showdown",
+			"type": "filler",
+			"aired_date": "2005-07-22"
+		},
+		{
+			"episode": 69,
+			"title": "Natsumi and Fuyuki, Spirited Away/ Keroro yearly! Midsummer Comedy Battle!",
+			"type": "filler",
+			"aired_date": "2005-07-29"
+		},
+		{
+			"episode": 70,
+			"title": "Keronians vs Pekoponians, finally, all out battle?! / Koyuki, thrilling first riceball",
+			"type": "filler",
+			"aired_date": "2005-08-05"
+		},
+		{
+			"episode": 71,
+			"title": "Villainous! Annoying! Legend of the king who forgot his Space Homework",
+			"type": "manga-canon",
+			"aired_date": "2005-08-12"
+		},
+		{
+			"episode": 72,
+			"title": "Keroro, Ironman Chief Challenge/ Tamama, Strongest Warrior Challenge",
+			"type": "filler",
+			"aired_date": "2005-08-19"
+		},
+		{
+			"episode": 73,
+			"title": "Fuyuki 198X: Our Summer Vacation",
+			"type": "filler",
+			"aired_date": "2005-08-26"
+		},
+		{
+			"episode": 74,
+			"title": "Suprising Special - GeroGero 30 minutes",
+			"type": "filler",
+			"aired_date": "2005-09-02"
+		},
+		{
+			"episode": 75,
+			"title": "Momoka Awakens! The third Momoka!",
+			"type": "filler",
+			"aired_date": "2005-09-09"
+		},
+		{
+			"episode": 76,
+			"title": "Keroro Platoon, take me to the moon",
+			"type": "filler",
+			"aired_date": "2005-09-16"
+		},
+		{
+			"episode": 77,
+			"title": "Tamama, am I really getting married?/ Tamama, sealed Tamama Impact",
+			"type": "filler",
+			"aired_date": "2005-09-23"
+		},
+		{
+			"episode": 78,
+			"title": "Keroro, treasure hunting should be on a treasure island",
+			"type": "filler",
+			"aired_date": "2005-09-30"
+		},
+		{
+			"episode": 79,
+			"title": "Fuyuki, don't give up on the Sports Festival/ Giroro, I know the cat",
+			"type": "filler",
+			"aired_date": "2005-10-07"
+		},
+		{
+			"episode": 80,
+			"title": "Keroro, lonely runaway",
+			"type": "manga-canon",
+			"aired_date": "2005-10-14"
+		},
+		{
+			"episode": 81,
+			"title": "Giroro, red-faced days full of willpower/ Fight Koyuki! Protect your loved ones!",
+			"type": "mixed-manga",
+			"aired_date": "2005-10-21"
+		},
+		{
+			"episode": 82,
+			"title": "Mutsumi, do you want to be on My Radio? Keroro vs Natsumi, 1/6 model battle",
+			"type": "mixed-manga",
+			"aired_date": "2005-10-28"
+		},
+		{
+			"episode": 83,
+			"title": "Keroro, Mixed Hot Springs Murder Case, etc./ Kururu, completely unpleasant guy",
+			"type": "filler",
+			"aired_date": "2005-11-04"
+		},
+		{
+			"episode": 84,
+			"title": "Momoka, Lunching in space/ Keroro, harvesting mushrooms",
+			"type": "filler",
+			"aired_date": "2005-11-11"
+		},
+		{
+			"episode": 85,
+			"title": "Keroro, turn it once and switch bodies/ Natsumi becomes a magical girl",
+			"type": "mixed-manga",
+			"aired_date": "2005-11-18"
+		},
+		{
+			"episode": 86,
+			"title": "Fuyuki & Natsumi, devilish Hinata residence/ Keroro become Super Heroes!",
+			"type": "filler",
+			"aired_date": "2005-11-25"
+		},
+		{
+			"episode": 87,
+			"title": "Keroro congratulates! Happy Birthday!/ Mois, Mois in Wonderland",
+			"type": "filler",
+			"aired_date": "2005-12-02"
+		},
+		{
+			"episode": 88,
+			"title": "Dasonu Maso conquers Pekopon! Actually, he didn't even want it.",
+			"type": "filler",
+			"aired_date": "2005-12-09"
+		},
+		{
+			"episode": 89,
+			"title": "Giroro, the man with seven faces/ Fuyuki go! Occult Tournament",
+			"type": "filler",
+			"aired_date": "2005-12-16"
+		},
+		{
+			"episode": 90,
+			"title": "Keroro, I can't say Merry Christmas",
+			"type": "filler",
+			"aired_date": "2005-12-23"
+		},
+		{
+			"episode": 91,
+			"title": "Keroro, the New Year: Birth of the New Keroro/ Koyuki, grandma is coming",
+			"type": "filler",
+			"aired_date": "2006-01-06"
+		},
+		{
+			"episode": 92,
+			"title": "Keroro Platoon, love from the sky/ Momoka vs Mois: Hanetsuki Battle",
+			"type": "filler",
+			"aired_date": "2006-01-13"
+		},
+		{
+			"episode": 93,
+			"title": "Natsumi enters into the secret base/ AkiHinata, probably the strongest woman in the universe",
+			"type": "filler",
+			"aired_date": "2006-01-20"
+		},
+		{
+			"episode": 94,
+			"title": "Karara & Taruru take Pekopon!",
+			"type": "mixed-manga",
+			"aired_date": "2006-01-27"
+		},
+		{
+			"episode": 95,
+			"title": "Natsumi and Giroro separated? Desperate Rescue Mission!",
+			"type": "filler",
+			"aired_date": "2006-02-03"
+		},
+		{
+			"episode": 96,
+			"title": "More Peach Summer Snow, Final Battle in Valentine's/ Keroro, an extremely sorrowful tale",
+			"type": "filler",
+			"aired_date": "2006-02-10"
+		},
+		{
+			"episode": 97,
+			"title": "Momoka, written as \"enemy\", but read as \"friend\"/ Keroro & Fuyuki, just the two of us...",
+			"type": "mixed-manga",
+			"aired_date": "2006-02-17"
+		},
+		{
+			"episode": 98,
+			"title": "Momoka, the grand running away plan/ Dororo & Koyuki, a memorable encounter",
+			"type": "mixed-manga",
+			"aired_date": "2006-02-24"
+		},
+		{
+			"episode": 99,
+			"title": "Natsumi, Nacchi, the good dog/ Keroro, a naughty Keroppa",
+			"type": "filler",
+			"aired_date": "2006-03-03"
+		},
+		{
+			"episode": 100,
+			"title": "Keroro e? Who... am I? Who is... Everyone?",
+			"type": "filler",
+			"aired_date": "2006-03-10"
+		},
+		{
+			"episode": 101,
+			"title": "Keroro Platoon, the Day Pekopon Stood Still",
+			"type": "manga-canon",
+			"aired_date": "2006-03-17"
+		},
+		{
+			"episode": 102,
+			"title": "Keroro Platoon, Pekopon! Impending destruction of a beloved planet!",
+			"type": "manga-canon",
+			"aired_date": "2006-03-24"
+		},
+		{
+			"episode": 103,
+			"title": "Keroro Platoon, the sincerity that you showed me",
+			"type": "manga-canon",
+			"aired_date": "2006-03-31"
+		},
+		{
+			"episode": 104,
+			"title": "Keroro, farewell, lovable Keroro/ Keroro, Countdown to Ruin",
+			"type": "filler",
+			"aired_date": "2006-04-07"
+		},
+		{
+			"episode": 105,
+			"title": "Keroro, Great Opening of the Smile Sales/ Momoka, cherry blossom viewing love love operation",
+			"type": "filler",
+			"aired_date": "2006-04-14"
+		},
+		{
+			"episode": 106,
+			"title": "Fuyuki & Natsumi, suddenly invaders/ Giroro, time for hobbies",
+			"type": "filler",
+			"aired_date": "2006-04-21"
+		},
+		{
+			"episode": 107,
+			"title": "Natsumi, a fearful health inspection/ Fuyuki & Natsumi, the Great Sibling War",
+			"type": "filler",
+			"aired_date": "2006-04-28"
+		},
+		{
+			"episode": 108,
+			"title": "Tamama exclusive! Adult time/ Fuyuki and Momoka, The Island of Doctor Kululu",
+			"type": "filler",
+			"aired_date": "2006-05-05"
+		},
+		{
+			"episode": 109,
+			"title": "Keroro, Master Mama's Grand Soothing Operation/Dororo, Runaway Silent Galaxy Express",
+			"type": "mixed-manga",
+			"aired_date": "2006-05-12"
+		},
+		{
+			"episode": 110,
+			"title": "Keroro, a little of a mysterious medicine/ Keroro, all paths lead to starfruits",
+			"type": "mixed-manga",
+			"aired_date": "2006-05-19"
+		},
+		{
+			"episode": 111,
+			"title": "Koyuki, a shinobi pajama party/ Natsumi, the surprising teacher visit",
+			"type": "filler",
+			"aired_date": "2006-05-26"
+		},
+		{
+			"episode": 112,
+			"title": "Kululu & Saburo, meeting in a drawing duel",
+			"type": "mixed-manga",
+			"aired_date": "2006-06-02"
+		},
+		{
+			"episode": 113,
+			"title": "Keroro, fight, our WettleKing!/ Natsumi, the Return of WettleKing",
+			"type": "mixed-manga",
+			"aired_date": "2006-06-09"
+		},
+		{
+			"episode": 114,
+			"title": "Giroro, vengeance is ours/Keroro, Dasonu Maso again, again and again?",
+			"type": "filler",
+			"aired_date": "2006-06-16"
+		},
+		{
+			"episode": 115,
+			"title": "Keroro, Nyororo vs Mecha-Nyororo/ Keroro, Gone with the Nyobo",
+			"type": "filler",
+			"aired_date": "2006-06-23"
+		},
+		{
+			"episode": 116,
+			"title": "Keroro, aiming for a shinning bath/ Mois, a diary about Uncle.",
+			"type": "mixed-manga",
+			"aired_date": "2006-06-30"
+		},
+		{
+			"episode": 117,
+			"title": "Keroro wishes on Tanaba/ Keroro Revival! The Extraordinary Dopamine!",
+			"type": "filler",
+			"aired_date": "2006-07-07"
+		},
+		{
+			"episode": 118,
+			"title": "Ghost Girl, let's go to school/ Kululu, the Sergeant Major of Curry",
+			"type": "filler",
+			"aired_date": "2006-07-14"
+		},
+		{
+			"episode": 119,
+			"title": "Giroro Glorious! Summer Training Camp/ Keroro, catch the midsummer day!",
+			"type": "filler",
+			"aired_date": "2006-07-21"
+		},
+		{
+			"episode": 120,
+			"title": "Keroro, Doinaka Coast Returns/ Momoka, a summer experience",
+			"type": "filler",
+			"aired_date": "2006-07-28"
+		},
+		{
+			"episode": 121,
+			"title": "Dororo, the Kunoichi Karara appears!",
+			"type": "filler",
+			"aired_date": "2006-08-04"
+		},
+		{
+			"episode": 122,
+			"title": "Kululu, the cursed DVD/ Natsumi, everything is forbidden!",
+			"type": "mixed-manga",
+			"aired_date": "2006-08-11"
+		},
+		{
+			"episode": 123,
+			"title": "Visiting Grandma Hinata/ Tamama and the Turtle",
+			"type": "filler",
+			"aired_date": "2006-08-18"
+		},
+		{
+			"episode": 124,
+			"title": "Keroro, Summer's Treasure",
+			"type": "filler",
+			"aired_date": "2006-08-25"
+		},
+		{
+			"episode": 125,
+			"title": "Keroro, conveyor belt sushi with no morals/ Keroro, The Mosquito of Terror",
+			"type": "filler",
+			"aired_date": "2006-09-01"
+		},
+		{
+			"episode": 126,
+			"title": "Keroro & Natsumi, where are the heroes?!",
+			"type": "filler",
+			"aired_date": "2006-09-08"
+		},
+		{
+			"episode": 127,
+			"title": "Keroro, secret Moon vacation/ Giroro, Typhoon Invasion Start!",
+			"type": "mixed-manga",
+			"aired_date": "2006-09-15"
+		},
+		{
+			"episode": 128,
+			"title": "Keroro in the end prays to god?!",
+			"type": "filler",
+			"aired_date": "2006-09-22"
+		},
+		{
+			"episode": 129,
+			"title": "Kiruru, the Messenger of Destruction",
+			"type": "filler",
+			"aired_date": "2006-09-29"
+		},
+		{
+			"episode": 130,
+			"title": "Keroro Platoon, all members reboot!/ Garuru Platoon, everyone fight!",
+			"type": "filler",
+			"aired_date": "2006-10-06"
+		},
+		{
+			"episode": 131,
+			"title": "Giroro, a secret day off/ Baio conquers the Sports Festival",
+			"type": "filler",
+			"aired_date": "2006-10-13"
+		},
+		{
+			"episode": 132,
+			"title": "Dororo, the moment is important!/ Natsumi, my blue bird",
+			"type": "mixed-manga",
+			"aired_date": "2006-10-20"
+		},
+		{
+			"episode": 133,
+			"title": "Arisa, Hunter of Darkness, Halloween Mayhem",
+			"type": "manga-canon",
+			"aired_date": "2006-10-27"
+		},
+		{
+			"episode": 134,
+			"title": "Keroro, if you have a cold, why don't you get a dub voice?/ Fuyuki & Kululu go to Akihabara",
+			"type": "filler",
+			"aired_date": "2006-11-03"
+		},
+		{
+			"episode": 135,
+			"title": "Karara & Chiroro, The Shichi-Go-San of Nagomi/ Keroro, it's only one grain left",
+			"type": "filler",
+			"aired_date": "2006-11-10"
+		},
+		{
+			"episode": 136,
+			"title": "Aki, war at hot springs/ Keroro, Go! Keroropan",
+			"type": "mixed-manga",
+			"aired_date": "2006-11-17"
+		},
+		{
+			"episode": 137,
+			"title": "Keroro, it's an Excursion until you say \"I'm home!\"/ Keroro, sukiyaki of love and sorrow",
+			"type": "filler",
+			"aired_date": "2006-11-24"
+		},
+		{
+			"episode": 138,
+			"title": "Keroro, Keroro Show/ Fuyuki & Chiruyo, KGS Returns",
+			"type": "filler",
+			"aired_date": "2006-12-01"
+		},
+		{
+			"episode": 139,
+			"title": "556, Okutokyo is a man's battlefield",
+			"type": "filler",
+			"aired_date": "2006-12-08"
+		},
+		{
+			"episode": 140,
+			"title": "Keroro Platoon, Super Tax Returns Operation/ Keroro, a certain man's fight",
+			"type": "filler",
+			"aired_date": "2006-12-15"
+		},
+		{
+			"episode": 141,
+			"title": "Keroro, Okutokyo's Ice Age, Arisa appears",
+			"type": "mixed-manga",
+			"aired_date": "2006-12-22"
+		},
+		{
+			"episode": 142,
+			"title": "Keroro, give me back my new year!/ Giroro, let's start working on the Pekopon Invasion!",
+			"type": "mixed-manga",
+			"aired_date": "2007-01-05"
+		},
+		{
+			"episode": 143,
+			"title": "Keroro miracle!? Keroro's father/ Hinata House submerged?!",
+			"type": "filler",
+			"aired_date": "2007-01-12"
+		},
+		{
+			"episode": 144,
+			"title": "Keroro, the Legend of the Iron Mask, the Mystery of the Big Ears",
+			"type": "filler",
+			"aired_date": "2007-01-19"
+		},
+		{
+			"episode": 145,
+			"title": "Urere, the salesman invader/ Keroro, And Then Nonetheless There Were None",
+			"type": "filler",
+			"aired_date": "2007-01-26"
+		},
+		{
+			"episode": 146,
+			"title": "Pluto, Do you Remember it?",
+			"type": "filler",
+			"aired_date": "2007-02-02"
+		},
+		{
+			"episode": 147,
+			"title": "Paul, a Butler's Honor/ Giroro, who gave me this?",
+			"type": "filler",
+			"aired_date": "2007-02-09"
+		},
+		{
+			"episode": 148,
+			"title": "Koyuki, Jidaigeki Wonderland/ Keroro jumps to Chubei",
+			"type": "filler",
+			"aired_date": "2007-02-16"
+		},
+		{
+			"episode": 149,
+			"title": "Arisa, Alien versus Monster",
+			"type": "manga-canon",
+			"aired_date": "2007-02-23"
+		},
+		{
+			"episode": 150,
+			"title": "Giroro, time to depart",
+			"type": "filler",
+			"aired_date": "2007-03-02"
+		},
+		{
+			"episode": 151,
+			"title": "Chiruyo, Marking White Day/Fuyuki, plan your usage",
+			"type": "mixed-manga",
+			"aired_date": "2007-03-09"
+		},
+		{
+			"episode": 152,
+			"title": "Keroro, Always! Planet Ad's Heaven",
+			"type": "filler",
+			"aired_date": "2007-03-16"
+		},
+		{
+			"episode": 153,
+			"title": "Kerokero, Military Operation Number 100",
+			"type": "filler",
+			"aired_date": "2007-03-23"
+		},
+		{
+			"episode": 154,
+			"title": "Keroro, Farewell, Sergeant Keroro!",
+			"type": "filler",
+			"aired_date": "2007-03-30"
+		},
+		{
+			"episode": 155,
+			"title": "Keroro Platoon, Perfect Rhythm/ Keroro Platoon, Great Resonance",
+			"type": "filler",
+			"aired_date": "2007-04-07"
+		},
+		{
+			"episode": 156,
+			"title": "Keroro Combination! Keroro Robo/ Keroro Invasion! Cherry Blossoms Frontline!",
+			"type": "mixed-manga",
+			"aired_date": "2007-04-14"
+		},
+		{
+			"episode": 157,
+			"title": "Pururu, count with the Chief Nurse/ Natsumi, today's fortune",
+			"type": "filler",
+			"aired_date": "2007-04-21"
+		},
+		{
+			"episode": 158,
+			"title": "Keroro, past victories/ Giroro, forbidden memories",
+			"type": "filler",
+			"aired_date": "2007-04-28"
+		},
+		{
+			"episode": 159,
+			"title": "Keroro Climax! Card Battle/ Keroro, the targeted Platoon",
+			"type": "filler",
+			"aired_date": "2007-05-05"
+		},
+		{
+			"episode": 160,
+			"title": "Momoka, the Strongest Mother's Day",
+			"type": "manga-canon",
+			"aired_date": "2007-05-12"
+		},
+		{
+			"episode": 161,
+			"title": "Putata and Mekeke, professional killers",
+			"type": "filler",
+			"aired_date": "2007-05-19"
+		},
+		{
+			"episode": 162,
+			"title": "Chibi Kero, Joriri from those times...",
+			"type": "filler",
+			"aired_date": "2007-05-26"
+		},
+		{
+			"episode": 163,
+			"title": "Natsumi, Goodbye Saburo/ Fuyuki & Arisa, Rain Monster",
+			"type": "filler",
+			"aired_date": "2007-06-02"
+		},
+		{
+			"episode": 164,
+			"title": "Keroro, Nyororo Extinction?/ Lavie, becoming a bride",
+			"type": "filler",
+			"aired_date": "2007-06-09"
+		},
+		{
+			"episode": 165,
+			"title": "Kululu, temporary leader/ Koyuki, extreme normalcy training",
+			"type": "filler",
+			"aired_date": "2007-06-16"
+		},
+		{
+			"episode": 166,
+			"title": "Keroro, Crush! WettleRobo/ Keroro, Assault! Wettle Human",
+			"type": "filler",
+			"aired_date": "2007-06-23"
+		},
+		{
+			"episode": 167,
+			"title": "556, how to make cup ramen/ Keroro, capture! Crosswords",
+			"type": "filler",
+			"aired_date": "2007-06-30"
+		},
+		{
+			"episode": 168,
+			"title": "Keroro, Invading with Limited Items/ Momoka, Limited Tanabata",
+			"type": "filler",
+			"aired_date": "2007-07-07"
+		},
+		{
+			"episode": 169,
+			"title": "Urere, King of Trains/ Giroro, the beautiful girl and the liquid Keronian",
+			"type": "filler",
+			"aired_date": "2007-07-14"
+		},
+		{
+			"episode": 170,
+			"title": "Fuyuki & Keroro, expose! Seven Mysteries!/ Pururu & Chiruyo, Secret Friends",
+			"type": "filler",
+			"aired_date": "2007-07-21"
+		},
+		{
+			"episode": 171,
+			"title": "Tamama, Rebel Without a Cause/ Kururu housesitting?",
+			"type": "filler",
+			"aired_date": "2007-07-28"
+		},
+		{
+			"episode": 172,
+			"title": "Arisa & Fuyuki, UMA versus Dungal",
+			"type": "filler",
+			"aired_date": "2007-08-04"
+		},
+		{
+			"episode": 173,
+			"title": "Keroro, Yamato and Kapuu",
+			"type": "mixed-manga",
+			"aired_date": "2007-08-11"
+		},
+		{
+			"episode": 174,
+			"title": "Keroro, messy hair, Afro Wave/ Dororo, Mysterious Mountain",
+			"type": "filler",
+			"aired_date": "2007-08-18"
+		},
+		{
+			"episode": 175,
+			"title": "Keroro, Dive! Vinyl Pool/ Fuyuki & Natsumi, a new morning",
+			"type": "manga-canon",
+			"aired_date": "2007-08-25"
+		},
+		{
+			"episode": 176,
+			"title": "Chibi Kero, Goodbye, Summer Vacation",
+			"type": "filler",
+			"aired_date": "2007-09-01"
+		},
+		{
+			"episode": 177,
+			"title": "Dokuku, Gas Keronian Number 1/ Keroro, Pekopon's Number 1 Gunpla Man",
+			"type": "filler",
+			"aired_date": "2007-09-08"
+		},
+		{
+			"episode": 178,
+			"title": "Momoka and the ghost, Hinata Family's Phantom",
+			"type": "manga-canon",
+			"aired_date": "2007-09-15"
+		},
+		{
+			"episode": 179,
+			"title": "Keroro, Running for Election!/ Natsumi & Giroro, the two who can't return",
+			"type": "filler",
+			"aired_date": "2007-09-22"
+		},
+		{
+			"episode": 180,
+			"title": "Keroro, the Great Competition",
+			"type": "anime-canon",
+			"aired_date": "2007-09-29"
+		},
+		{
+			"episode": 181,
+			"title": "Mushishi, search for the insects!/ Momoka, Three-legged race!",
+			"type": "filler",
+			"aired_date": "2007-10-06"
+		},
+		{
+			"episode": 182,
+			"title": "Keroro, Buried Treasure Special/ Tamama versus Tamama",
+			"type": "filler",
+			"aired_date": "2007-10-13"
+		},
+		{
+			"episode": 183,
+			"title": "Garuru, a bothersome vacation",
+			"type": "manga-canon",
+			"aired_date": "2007-10-20"
+		},
+		{
+			"episode": 184,
+			"title": "Fuyuki, Burning Occult Cultural Festival!/ Natsumi, Rome and Juliet?",
+			"type": "filler",
+			"aired_date": "2007-10-27"
+		},
+		{
+			"episode": 185,
+			"title": "Robobo, Big Mechanized Operation/ Tamama, This Note",
+			"type": "filler",
+			"aired_date": "2007-11-03"
+		},
+		{
+			"episode": 186,
+			"title": "Arisa vs Yokai of the Invasion won't advance",
+			"type": "filler",
+			"aired_date": "2007-11-10"
+		},
+		{
+			"episode": 187,
+			"title": "Keroro, thank you for your work/ Keroro, fight! Wakiranger",
+			"type": "filler",
+			"aired_date": "2007-11-17"
+		},
+		{
+			"episode": 188,
+			"title": "Nuii, don't throw me away!",
+			"type": "filler",
+			"aired_date": "2007-11-24"
+		},
+		{
+			"episode": 189,
+			"title": "Dororo, Assassin from the past",
+			"type": "filler",
+			"aired_date": "2007-12-01"
+		},
+		{
+			"episode": 190,
+			"title": "Giroro, target, present! / Keroro, the big birthday party!",
+			"type": "filler",
+			"aired_date": "2007-12-08"
+		},
+		{
+			"episode": 191,
+			"title": "Keroro and that certain one, a Legendary Lullaby/ Keroro, Plastic Model King, Great Clash",
+			"type": "mixed-manga",
+			"aired_date": "2007-12-15"
+		},
+		{
+			"episode": 192,
+			"title": "Keroro, Stop Christmas!/ Keroro Platoon, Cake is a Man's Battlefield",
+			"type": "filler",
+			"aired_date": "2007-12-22"
+		},
+		{
+			"episode": 193,
+			"title": "Keroro, New Years with no manners/ Keroro, Sechira versus Zonira",
+			"type": "filler",
+			"aired_date": "2008-01-05"
+		},
+		{
+			"episode": 194,
+			"title": "Toilets, now it's time to rise!/ Kululu and a puppy",
+			"type": "filler",
+			"aired_date": "2008-01-12"
+		},
+		{
+			"episode": 195,
+			"title": "Natsumi, I want to ski too!/ Keroro, Hotsprings mean Table Tennis!",
+			"type": "mixed-manga",
+			"aired_date": "2008-01-19"
+		},
+		{
+			"episode": 196,
+			"title": "It Returned! GeroGero 30 Minutes Special",
+			"type": "filler",
+			"aired_date": "2008-01-26"
+		},
+		{
+			"episode": 197,
+			"title": "Zeroro, are there too many?! / Keroro, I want to dig holes!",
+			"type": "filler",
+			"aired_date": "2008-02-02"
+		},
+		{
+			"episode": 198,
+			"title": "Chibi Kero, Cute, Little, Big Adventure/ Natsumi & Momoka, Chocolate without love is forbidden!",
+			"type": "filler",
+			"aired_date": "2008-02-09"
+		},
+		{
+			"episode": 199,
+			"title": "Kululu, Legend of Idol Kululun/ Keroro, going back to basics!",
+			"type": "filler",
+			"aired_date": "2008-02-16"
+		},
+		{
+			"episode": 200,
+			"title": "Keroro, Leap has come!",
+			"type": "filler",
+			"aired_date": "2008-02-23"
+		},
+		{
+			"episode": 201,
+			"title": "Giroro, the 3rd or March is Ear's Day?!/ Not Keroro, it's the women's fight!",
+			"type": "filler",
+			"aired_date": "2008-03-01"
+		},
+		{
+			"episode": 202,
+			"title": "Keroro, attack! The Last Specialist",
+			"type": "filler",
+			"aired_date": "2008-03-08"
+		},
+		{
+			"episode": 203,
+			"title": "Keroro, Shurara, the Final Battle",
+			"type": "filler",
+			"aired_date": "2008-03-15"
+		},
+		{
+			"episode": 204,
+			"title": "Robo 556/ Keroro & Natsumi, shelter from rain",
+			"type": "filler",
+			"aired_date": "2008-03-22"
+		},
+		{
+			"episode": 205,
+			"title": "Keroro & Fuyuki, Another World",
+			"type": "filler",
+			"aired_date": "2008-03-29"
+		},
+		{
+			"episode": 206,
+			"title": "Keroro Platoon, Start Operation Colors!/ Dororo, do you like natto?",
+			"type": "filler",
+			"aired_date": "2008-04-05"
+		},
+		{
+			"episode": 207,
+			"title": "Keroro, open a company! / Ouka arrives with the Cherry Blossom",
+			"type": "filler",
+			"aired_date": "2008-04-12"
+		},
+		{
+			"episode": 208,
+			"title": "Giroro, a Man's Backup/ Keroro, Operation Mobile Bargain",
+			"type": "filler",
+			"aired_date": "2008-04-19"
+		},
+		{
+			"episode": 209,
+			"title": "Koyuki, I'm retiring as a ninja",
+			"type": "filler",
+			"aired_date": "2008-04-26"
+		},
+		{
+			"episode": 210,
+			"title": "Natsumi, perplexity after school / Aki, Children's Day",
+			"type": "filler",
+			"aired_date": "2008-05-03"
+		},
+		{
+			"episode": 211,
+			"title": "Musha Kero, Volume 1: The Legendary Heroes",
+			"type": "filler",
+			"aired_date": "2008-05-10"
+		},
+		{
+			"episode": 212,
+			"title": "Keroro, don't look at it! / 556 vs Space Superintendent",
+			"type": "filler",
+			"aired_date": "2008-05-17"
+		},
+		{
+			"episode": 213,
+			"title": "Momoka, Reclaim Tomorrow!",
+			"type": "filler",
+			"aired_date": "2008-05-24"
+		},
+		{
+			"episode": 214,
+			"title": "Kululu, I quit / Pururu, nurse in love",
+			"type": "filler",
+			"aired_date": "2008-05-31"
+		},
+		{
+			"episode": 215,
+			"title": "Keroro, the Eight Wettle Kings / Keroro, Gamma 3's Great Wet Operation",
+			"type": "filler",
+			"aired_date": "2008-06-07"
+		},
+		{
+			"episode": 216,
+			"title": "Keroro, Compression Invasion / Fuyuki, Hinata Family's Legendary Treasure",
+			"type": "filler",
+			"aired_date": "2008-06-14"
+		},
+		{
+			"episode": 217,
+			"title": "Chibi Kero, Forbidden Game/ Keroro, Invaders of Terror",
+			"type": "filler",
+			"aired_date": "2008-06-21"
+		},
+		{
+			"episode": 218,
+			"title": "Keroro, Whisper of the Heart / Keroro, Caries War 2",
+			"type": "filler",
+			"aired_date": "2008-06-28"
+		},
+		{
+			"episode": 219,
+			"title": "Musha Kero, Volume 2: Laughters! Sengoku Comedy Battle",
+			"type": "filler",
+			"aired_date": "2008-07-05"
+		},
+		{
+			"episode": 220,
+			"title": "Keroro, What is Global Warming? / Sababa, Demon King of the Desert",
+			"type": "filler",
+			"aired_date": "2008-07-12"
+		},
+		{
+			"episode": 221,
+			"title": "Momoka, the final battle on Sunday / Giroro, the final battle on Sunday",
+			"type": "filler",
+			"aired_date": "2008-07-19"
+		},
+		{
+			"episode": 222,
+			"title": "Keroro, Fishing cookies in Rainy Days / Keroro, memories and fireworks",
+			"type": "filler",
+			"aired_date": "2008-07-26"
+		},
+		{
+			"episode": 223,
+			"title": "Momoka, Desert Island Full of Women / Keroro, Operation Frightening Red Shoes",
+			"type": "filler",
+			"aired_date": "2008-08-02"
+		},
+		{
+			"episode": 224,
+			"title": "Keroro, Celebrity Resort Dragnet",
+			"type": "filler",
+			"aired_date": "2008-08-09"
+		},
+		{
+			"episode": 225,
+			"title": "Tamama, Beautiful Dive / Keroro, the Ultimate Pekoponian Suit",
+			"type": "filler",
+			"aired_date": "2008-08-16"
+		},
+		{
+			"episode": 226,
+			"title": "Fuyuki, From A Distant Ocean Came A Turtle",
+			"type": "filler",
+			"aired_date": "2008-08-23"
+		},
+		{
+			"episode": 227,
+			"title": "Keroro and Natsumi, One Room",
+			"type": "filler",
+			"aired_date": "2008-08-30"
+		},
+		{
+			"episode": 228,
+			"title": "Meruru, Postal Ser-vice! / Fuyuki, a break in the parking area",
+			"type": "mixed-manga",
+			"aired_date": "2008-09-06"
+		},
+		{
+			"episode": 229,
+			"title": "Keroro, Killer Fist of Words / Saburo & Kululu, Silent Fight",
+			"type": "filler",
+			"aired_date": "2008-09-13"
+		},
+		{
+			"episode": 230,
+			"title": "Momoka, Operation Savings of Love / Dororo, Kikaka appears",
+			"type": "filler",
+			"aired_date": "2008-09-20"
+		},
+		{
+			"episode": 231,
+			"title": "Musha Kero, Volume 3: Explosion! Princess Momo's Close Call",
+			"type": "filler",
+			"aired_date": "2008-09-27"
+		},
+		{
+			"episode": 232,
+			"title": "Keroro, Board Thief / Keroro, He-Ro-Es",
+			"type": "filler",
+			"aired_date": "2008-10-04"
+		},
+		{
+			"episode": 233,
+			"title": "Aki, Editors are Strong!",
+			"type": "filler",
+			"aired_date": "2008-10-11"
+		},
+		{
+			"episode": 234,
+			"title": "Keroro, Operation TV Projector / Keroro, Invading with a How-to Book.",
+			"type": "filler",
+			"aired_date": "2008-10-18"
+		},
+		{
+			"episode": 235,
+			"title": "Fuyuki and the Plesiosaur",
+			"type": "filler",
+			"aired_date": "2008-10-25"
+		},
+		{
+			"episode": 236,
+			"title": "Keroro, Chewing Gun? / Tamama, Tamamatango",
+			"type": "mixed-manga",
+			"aired_date": "2008-11-01"
+		},
+		{
+			"episode": 237,
+			"title": "Musha Kero, Volume 4: Go West, Musha Kero Platoon",
+			"type": "filler",
+			"aired_date": "2008-11-08"
+		},
+		{
+			"episode": 238,
+			"title": "Keroro Attack! Hint Age Difference Ultra Hammer/Dororo, Great Transformation!",
+			"type": "filler",
+			"aired_date": "2008-11-15"
+		},
+		{
+			"episode": 239,
+			"title": "Natsumi, is it a Love Triangle? / Pururu, Operation Marriage Interview",
+			"type": "filler",
+			"aired_date": "2008-11-22"
+		},
+		{
+			"episode": 240,
+			"title": "Kururu, Sergeant Major's Special Mission / Keroro, Legendary Morning",
+			"type": "mixed-manga",
+			"aired_date": "2008-11-29"
+		},
+		{
+			"episode": 241,
+			"title": "556, I can't tell you right now / Keroro, Vacuum Cleaner Forever!",
+			"type": "filler",
+			"aired_date": "2008-12-06"
+		},
+		{
+			"episode": 242,
+			"title": "Keroro, Atic Walker / Keroro, Self-Consciously by Invasion",
+			"type": "filler",
+			"aired_date": "2008-12-13"
+		},
+		{
+			"episode": 243,
+			"title": "Keroro, Merry Christmas on the Battlefield",
+			"type": "manga-canon",
+			"aired_date": "2008-12-20"
+		},
+		{
+			"episode": 244,
+			"title": "Keroro, Graffiti Dwellers/ Keroro, New Year's Eve Mayhem",
+			"type": "filler",
+			"aired_date": "2008-12-27"
+		},
+		{
+			"episode": 245,
+			"title": "Keroro, New Year's Invasion Operation!/ 556, Scratched Helmet",
+			"type": "filler",
+			"aired_date": "2009-01-10"
+		},
+		{
+			"episode": 246,
+			"title": "Giroro, Extra-Hard Gargling Training / Keroro, Kero-Eraser!",
+			"type": "filler",
+			"aired_date": "2009-01-17"
+		},
+		{
+			"episode": 247,
+			"title": "Mois, Lipstick Slapstick/Keroro, Break out! Keron Barfield",
+			"type": "filler",
+			"aired_date": "2009-01-24"
+		},
+		{
+			"episode": 248,
+			"title": "Keroro, don't call me Mommy / Masayoshi Yoshiokadaira, the Delusion is Mine",
+			"type": "filler",
+			"aired_date": "2009-01-31"
+		},
+		{
+			"episode": 249,
+			"title": "Musha Kero, Volume 5: The Keronian of the Secret Fort",
+			"type": "filler",
+			"aired_date": "2009-02-07"
+		},
+		{
+			"episode": 250,
+			"title": "Musha Kero, Volume 6: The Revived Hero",
+			"type": "filler",
+			"aired_date": "2009-02-14"
+		},
+		{
+			"episode": 251,
+			"title": "556 and 5884!",
+			"type": "filler",
+			"aired_date": "2009-02-21"
+		},
+		{
+			"episode": 252,
+			"title": "Keroro, Let's Go to the Movies",
+			"type": "filler",
+			"aired_date": "2009-02-28"
+		},
+		{
+			"episode": 253,
+			"title": "Keroro, The Incredible Keroro/ Keroro, Black-Phone Investigator 66",
+			"type": "filler",
+			"aired_date": "2009-03-07"
+		},
+		{
+			"episode": 254,
+			"title": "Fuyuki, Trunks versus Briefs/ Garuru, Secret Feelings!?",
+			"type": "filler",
+			"aired_date": "2009-03-14"
+		},
+		{
+			"episode": 255,
+			"title": "Keroro, Frightening Darkness Operation!/Keroro, Frightening Whiteness Operation!/Keroro, Frightening Time-Stop Operation!",
+			"type": "filler",
+			"aired_date": "2009-03-21"
+		},
+		{
+			"episode": 256,
+			"title": "Fuyuki and Natsumi, Keroro Attacks!/Keroro, That's a Lie!",
+			"type": "mixed-manga",
+			"aired_date": "2009-03-28"
+		},
+		{
+			"episode": 257,
+			"title": "Keroro, First Episode Revised",
+			"type": "mixed-manga",
+			"aired_date": "2009-04-04"
+		},
+		{
+			"episode": 258,
+			"title": "Keroro, Negative Thinking of Terror/ Keroro, Honorless Grilled Meat",
+			"type": "filler",
+			"aired_date": "2009-04-11"
+		},
+		{
+			"episode": 259,
+			"title": "Koyuki, Cherry Blossom Mayhem",
+			"type": "filler",
+			"aired_date": "2009-04-18"
+		},
+		{
+			"episode": 260,
+			"title": "Kero Zero: Keroro Platoon's Last Night before Departure/ Kero Zero: Keroro Platoon's First Mission",
+			"type": "filler",
+			"aired_date": "2009-04-25"
+		},
+		{
+			"episode": 261,
+			"title": "Momoka, Seat Change Operation/556, My Feelings!",
+			"type": "filler",
+			"aired_date": "2009-05-02"
+		},
+		{
+			"episode": 262,
+			"title": "Bariri in love with the Chief Nurse/ Keroro, gaze at space thinking of mother",
+			"type": "filler",
+			"aired_date": "2009-05-09"
+		},
+		{
+			"episode": 263,
+			"title": "Keroro, the Weevil that grants dreams/Keroro, Go, Trash Bag!",
+			"type": "filler",
+			"aired_date": "2009-05-16"
+		},
+		{
+			"episode": 264,
+			"title": "Keroro, Space Digital Monsters Strikes!/ Keroro, transform",
+			"type": "filler",
+			"aired_date": "2009-05-23"
+		},
+		{
+			"episode": 265,
+			"title": "Giroro, Remote-Controlled Date/Keroro, Pooh in a Cave",
+			"type": "filler",
+			"aired_date": "2009-05-30"
+		},
+		{
+			"episode": 266,
+			"title": "Tamama, The Wake-Up Kiss is Mine/Pururu, Secret Revealed?!",
+			"type": "filler",
+			"aired_date": "2009-06-06"
+		},
+		{
+			"episode": 267,
+			"title": "Keroro, Air Anything Operation/ Keroro, Motel",
+			"type": "filler",
+			"aired_date": "2009-06-13"
+		},
+		{
+			"episode": 268,
+			"title": "Kero Zero: Pekoponian Mecha Designer Kiko Katoyama appears",
+			"type": "filler",
+			"aired_date": "2009-06-20"
+		},
+		{
+			"episode": 269,
+			"title": "Momoka, Head over Heels Operation/Giroro, Escape From Natsumi!",
+			"type": "filler",
+			"aired_date": "2009-06-27"
+		},
+		{
+			"episode": 270,
+			"title": "Chibi Kero vs. Chibi Fuyuki",
+			"type": "filler",
+			"aired_date": "2009-07-04"
+		},
+		{
+			"episode": 271,
+			"title": "Tamama, it's hard being an veteran/Natsumi, We're all boys!",
+			"type": "filler",
+			"aired_date": "2009-07-11"
+		},
+		{
+			"episode": 272,
+			"title": "WettleKing versus 556!/ Three Monsters, the smallest showdown on Pekopon",
+			"type": "filler",
+			"aired_date": "2009-07-18"
+		},
+		{
+			"episode": 273,
+			"title": "Keroro, training is Ok!/ Koyuki, shodown! Midsummer Shore",
+			"type": "filler",
+			"aired_date": "2009-07-25"
+		},
+		{
+			"episode": 274,
+			"title": "Keroro Platoon, Keroro of Silence",
+			"type": "manga-canon",
+			"aired_date": "2009-08-01"
+		},
+		{
+			"episode": 275,
+			"title": "Keroro, Keron-Style Golf/ Keroro, Run Keroro",
+			"type": "filler",
+			"aired_date": "2009-08-08"
+		},
+		{
+			"episode": 276,
+			"title": "Keroro, the Admiral attacks!/Giroro, it's the zipper",
+			"type": "filler",
+			"aired_date": "2009-08-15"
+		},
+		{
+			"episode": 277,
+			"title": "Kero Zero: Space Delivery/ Keroro Zero: Eating Formula",
+			"type": "filler",
+			"aired_date": "2009-08-22"
+		},
+		{
+			"episode": 278,
+			"title": "Ghost Girl, Before, After/ Giroro, the Red Fairy",
+			"type": "filler",
+			"aired_date": "2009-08-29"
+		},
+		{
+			"episode": 279,
+			"title": "Alisa's first time with Mama!?",
+			"type": "filler",
+			"aired_date": "2009-09-05"
+		},
+		{
+			"episode": 280,
+			"title": "Keroro & Natsumi, Ruthless Stamp Card/Keroro, Kerobot of Sadness",
+			"type": "filler",
+			"aired_date": "2009-09-12"
+		},
+		{
+			"episode": 281,
+			"title": "Keroro, Cicada Platoon/Keroro, Kero Day",
+			"type": "filler",
+			"aired_date": "2009-09-19"
+		},
+		{
+			"episode": 282,
+			"title": "Momoka, Sudden Dance of Flames/Kero Zero: All Quiet on the Fig Front",
+			"type": "mixed-manga",
+			"aired_date": "2009-09-26"
+		},
+		{
+			"episode": 283,
+			"title": "Keroro, Five Shocked Keronians/ Fuyuki, Planet of the Humans",
+			"type": "filler",
+			"aired_date": "2009-10-03"
+		},
+		{
+			"episode": 284,
+			"title": "Dororo, Farewell Platoon",
+			"type": "filler",
+			"aired_date": "2009-10-10"
+		},
+		{
+			"episode": 285,
+			"title": "Aki, Earth Defense Front/ Natsumi tension! Parent's Classroom Visit",
+			"type": "filler",
+			"aired_date": "2009-10-17"
+		},
+		{
+			"episode": 286,
+			"title": "Keroro, Carelessly Wet Operation/ Keroro, Invasion! Softglon of Terror",
+			"type": "filler",
+			"aired_date": "2009-10-24"
+		},
+		{
+			"episode": 287,
+			"title": "Natsumi, stop those hiccups/Kero Zero: THe one waiting on the Training Planet",
+			"type": "filler",
+			"aired_date": "2009-10-31"
+		},
+		{
+			"episode": 288,
+			"title": "Keroro, Kappa Legend/ Keroro, Welcome Back",
+			"type": "filler",
+			"aired_date": "2009-11-07"
+		},
+		{
+			"episode": 289,
+			"title": "Giroro, Red Devil of the Battlefield/ Keroro, is that really a lie?",
+			"type": "filler",
+			"aired_date": "2009-11-14"
+		},
+		{
+			"episode": 290,
+			"title": "Poyon, Miraculous Paul Operation!/Kero Zero: Snow is a Merciless Queen of the Night",
+			"type": "filler",
+			"aired_date": "2009-11-21"
+		},
+		{
+			"episode": 291,
+			"title": "Arisa & Nevula, First Hot Spring/Keroro Platoon, Struggle! Bird Day Fair",
+			"type": "filler",
+			"aired_date": "2009-11-28"
+		},
+		{
+			"episode": 292,
+			"title": "Natsumi, Secret of the Dresser/Keroro, you were in my dreams",
+			"type": "filler",
+			"aired_date": "2009-12-05"
+		},
+		{
+			"episode": 293,
+			"title": "Once again, Gero Gero 30 minutes",
+			"type": "filler",
+			"aired_date": "2009-12-12"
+		},
+		{
+			"episode": 294,
+			"title": "Yoshiokadaira, Bodyguard Elegy/ Natsumi, Christmas Party Operation",
+			"type": "filler",
+			"aired_date": "2009-12-19"
+		},
+		{
+			"episode": 295,
+			"title": "Keroro, The Two of Us Are One Kerorom/Keroro, Mysterious Ultimate Weapon",
+			"type": "filler",
+			"aired_date": "2009-12-26"
+		},
+		{
+			"episode": 296,
+			"title": "Keroro, New Year's Early Luck/ Keroro, this year is Keron Year!",
+			"type": "filler",
+			"aired_date": "2010-01-09"
+		},
+		{
+			"episode": 297,
+			"title": "Keroro, There's only one chance/Dungal lands",
+			"type": "filler",
+			"aired_date": "2010-01-16"
+		},
+		{
+			"episode": 298,
+			"title": "Mois, Goodbye Pekopon/Saburo, The Mysterious Boy",
+			"type": "filler",
+			"aired_date": "2010-01-23"
+		},
+		{
+			"episode": 299,
+			"title": "Giroro, Take Down G!/ Giroro, G's Counterattack",
+			"type": "filler",
+			"aired_date": "2010-01-30"
+		},
+		{
+			"episode": 300,
+			"title": "Onono, the Phantom Keron Soldier",
+			"type": "filler",
+			"aired_date": "2010-02-06"
+		},
+		{
+			"episode": 301,
+			"title": "Tamama, Kicked Out Of The Nishizawa Family?/ Momoka, Chocolate Cake of Love and Sadness",
+			"type": "filler",
+			"aired_date": "2010-02-13"
+		},
+		{
+			"episode": 302,
+			"title": "Keroro, I'm a director!/ Keroro & Fuyuki, Small Adventure In a Big City",
+			"type": "filler",
+			"aired_date": "2010-02-20"
+		},
+		{
+			"episode": 303,
+			"title": "Kero Zero: my home is Pekopon",
+			"type": "filler",
+			"aired_date": "2010-02-27"
+		},
+		{
+			"episode": 304,
+			"title": "Keroro, Please Return That!",
+			"type": "filler",
+			"aired_date": "2010-03-06"
+		},
+		{
+			"episode": 305,
+			"title": "Nobibi is Here!",
+			"type": "filler",
+			"aired_date": "2010-03-13"
+		},
+		{
+			"episode": 306,
+			"title": "Shugo Kero, Dokki Doki Party!/Dororo, Doro is coming\"",
+			"type": "filler",
+			"aired_date": "2010-03-20"
+		},
+		{
+			"episode": 307,
+			"title": "Keroro & Fuyuki, Night of the Time Capsule",
+			"type": "filler",
+			"aired_date": "2010-03-27"
+		},
+		{
+			"episode": 308,
+			"title": "Keroro, Nightmare on the Third Planet/ Nocturnal Sergeant Keroro",
+			"type": "filler",
+			"aired_date": "2010-04-04"
+		},
+		{
+			"episode": 309,
+			"title": "Giroro, the Pekopon invasion starts/ Giroro & Natsumi, operation cell phone mail",
+			"type": "filler",
+			"aired_date": "2010-04-11"
+		},
+		{
+			"episode": 310,
+			"title": "Tamama, Kingdom of Sweets/ Momoka, I appreciate your kindness",
+			"type": "filler",
+			"aired_date": "2010-04-18"
+		},
+		{
+			"episode": 311,
+			"title": "Kululu, the invasion has started/ Keroro, a good kero story!",
+			"type": "filler",
+			"aired_date": "2010-04-25"
+		},
+		{
+			"episode": 312,
+			"title": "Dororo, invasion is my mission!/ Koyuki's Secret...",
+			"type": "filler",
+			"aired_date": "2010-05-02"
+		},
+		{
+			"episode": 313,
+			"title": "Keroro, invasion achievement in the next day/ Aki, becoming an invader",
+			"type": "filler",
+			"aired_date": "2010-05-09"
+		},
+		{
+			"episode": 314,
+			"title": "Keroro, naked invasion/ Natsumi & Saburo, lunch break of the skies",
+			"type": "filler",
+			"aired_date": "2010-05-16"
+		},
+		{
+			"episode": 315,
+			"title": "Keroro, enjoyable horticulture/ Fuyuki, shadow stepping like the old days",
+			"type": "filler",
+			"aired_date": "2010-05-23"
+		},
+		{
+			"episode": 316,
+			"title": "Momoka, I'm the sergeant?/ Keroro, invasion operation from space",
+			"type": "filler",
+			"aired_date": "2010-05-30"
+		},
+		{
+			"episode": 317,
+			"title": "Keroro, Search for Viper!/ Giroro, soldier in the closet",
+			"type": "filler",
+			"aired_date": "2010-06-06"
+		},
+		{
+			"episode": 318,
+			"title": "Dororo, the man of the mask/ Mois, black visitor",
+			"type": "filler",
+			"aired_date": "2010-06-13"
+		},
+		{
+			"episode": 319,
+			"title": "Mois, a genius hacker?/ Kululu, small old clock",
+			"type": "filler",
+			"aired_date": "2010-06-20"
+		},
+		{
+			"episode": 320,
+			"title": "Natsumi, charming invaders/ Pururu, June's bride?",
+			"type": "filler",
+			"aired_date": "2010-06-27"
+		},
+		{
+			"episode": 321,
+			"title": "Keroro, learning with the old ways/ Natsumi, gentleness is a sin...",
+			"type": "filler",
+			"aired_date": "2010-07-04"
+		},
+		{
+			"episode": 322,
+			"title": "Giroro, impossible escape!/ Keroro, impossible rescue?",
+			"type": "filler",
+			"aired_date": "2010-07-11"
+		},
+		{
+			"episode": 323,
+			"title": "Keroro, advent of the space chief of house-sitting/ Natsumi, Front-line Cameraman Training!",
+			"type": "manga-canon",
+			"aired_date": "2010-07-18"
+		},
+		{
+			"episode": 324,
+			"title": "Natsumi, presses it!/ Keroro, invader level check\"",
+			"type": "filler",
+			"aired_date": "2010-07-25"
+		},
+		{
+			"episode": 325,
+			"title": "Keroro, Version Up Model/ Keroro, the make up used is the self",
+			"type": "filler",
+			"aired_date": "2010-08-01"
+		},
+		{
+			"episode": 326,
+			"title": "Chibi Kero, fireworks from that summer/ Keroro, Swimsuit Beauties Contest!",
+			"type": "filler",
+			"aired_date": "2010-08-08"
+		},
+		{
+			"episode": 327,
+			"title": "Keroro, super hero!/ Keroro, invasion in a blink!",
+			"type": "filler",
+			"aired_date": "2010-08-15"
+		},
+		{
+			"episode": 328,
+			"title": "Momoka, becoming normal!/ Paul's day off",
+			"type": "filler",
+			"aired_date": "2010-08-22"
+		},
+		{
+			"episode": 329,
+			"title": "Fuyuki, becoming worried!/ Natsumi, the ocean isn't large or big",
+			"type": "filler",
+			"aired_date": "2010-08-29"
+		},
+		{
+			"episode": 330,
+			"title": "556, unluckiest partner/ Koyuki, first curry",
+			"type": "filler",
+			"aired_date": "2010-09-05"
+		},
+		{
+			"episode": 331,
+			"title": "Natsumi, one week without anger/ Keroro, invasion is a second stomach?",
+			"type": "filler",
+			"aired_date": "2010-09-12"
+		},
+		{
+			"episode": 332,
+			"title": "Fuyuki, butterfly person appears?/ Giroro, uninvited guest",
+			"type": "filler",
+			"aired_date": "2010-09-19"
+		},
+		{
+			"episode": 333,
+			"title": "Momoka, mood of the starry sky/ Keroro, hairstrand of luck",
+			"type": "filler",
+			"aired_date": "2010-09-26"
+		},
+		{
+			"episode": 334,
+			"title": "Keroro, clash, Star Circular Violent Tool Tournament/ Keroro, My Super Decisive Plan!?",
+			"type": "manga-canon",
+			"aired_date": "2010-10-03"
+		},
+		{
+			"episode": 335,
+			"title": "Keroro, leader representative robot launches!/Keroro, the moon is luxurious!",
+			"type": "manga-canon",
+			"aired_date": "2010-10-10"
+		},
+		{
+			"episode": 336,
+			"title": "Dororo, ninja approaching the shadow/ Natsumi, exploring the construction of the Hinata residence",
+			"type": "manga-canon",
+			"aired_date": "2010-10-17"
+		},
+		{
+			"episode": 337,
+			"title": "Keroro, Flowers for Algernainon/ Giroro, oh! Ferocious Ox",
+			"type": "manga-canon",
+			"aired_date": "2010-10-24"
+		},
+		{
+			"episode": 338,
+			"title": "Koyuki, Halloween Day/ Koyuki vs Arisa, duel of the ocean depths",
+			"type": "mixed-manga",
+			"aired_date": "2010-10-31"
+		},
+		{
+			"episode": 339,
+			"title": "Keroro, red light of fear/ Keroro, Invasion Plus Minus",
+			"type": "mixed-manga",
+			"aired_date": "2010-11-07"
+		},
+		{
+			"episode": 340,
+			"title": "Aki, real ramen/ Joriri, false ramen",
+			"type": "mixed-manga",
+			"aired_date": "2010-11-14"
+		},
+		{
+			"episode": 341,
+			"title": "Keroro, restroom survival!/ Keroro vs Giroro vs Tamama vs Dororo",
+			"type": "mixed-manga",
+			"aired_date": "2010-11-21"
+		},
+		{
+			"episode": 342,
+			"title": "Keroro, Birth! New Final Technique!/ Natsumi going through",
+			"type": "mixed-manga",
+			"aired_date": "2010-11-28"
+		},
+		{
+			"episode": 343,
+			"title": "556, the Space Sheriff!/ Lavie, leave it to me",
+			"type": "filler",
+			"aired_date": "2010-12-05"
+		},
+		{
+			"episode": 344,
+			"title": "Pururu, Pekopon love tour/ Arisa & Momoka, women's battle",
+			"type": "filler",
+			"aired_date": "2010-12-12"
+		},
+		{
+			"episode": 345,
+			"title": "Keroro vs Giroro, duel in the cold rain!/ Keroro platoon, big year-end party",
+			"type": "mixed-manga",
+			"aired_date": "2010-12-19"
+		},
+		{
+			"episode": 346,
+			"title": "Keroro, Bouquet of Rejected Operations/ Keroro, dear Natsumi",
+			"type": "filler",
+			"aired_date": "2011-01-09"
+		},
+		{
+			"episode": 347,
+			"title": "Keroro, invader's aura/ Dororon? Tamama-kun",
+			"type": "filler",
+			"aired_date": "2011-01-16"
+		},
+		{
+			"episode": 348,
+			"title": "Fuyuki, Birth! Jerseyman Fuyuki/ Keroro, the great throat candies",
+			"type": "filler",
+			"aired_date": "2011-01-23"
+		},
+		{
+			"episode": 349,
+			"title": "Keroro, invading daily life/ Keroro, hooray for reset",
+			"type": "filler",
+			"aired_date": "2011-01-30"
+		},
+		{
+			"episode": 350,
+			"title": "Mois, chronicle of uncle's hard battles/ Aki VS Cat, Anything Goes match",
+			"type": "filler",
+			"aired_date": "2011-02-06"
+		},
+		{
+			"episode": 351,
+			"title": "This time it's Gero Gero 15 minutes/ Giroro, show me!",
+			"type": "filler",
+			"aired_date": "2011-02-13"
+		},
+		{
+			"episode": 352,
+			"title": "Nabebe, Yaminabe magistrate!/ Natsumi, 623's identity",
+			"type": "filler",
+			"aired_date": "2011-02-20"
+		},
+		{
+			"episode": 353,
+			"title": "Ghost girl, I'll rest in peace/ Giroro, even after dreaming time",
+			"type": "filler",
+			"aired_date": "2011-02-27"
+		},
+		{
+			"episode": 354,
+			"title": "Keroro, visitor from the future/ 623, tragedy of the radio star",
+			"type": "filler",
+			"aired_date": "2011-03-06"
+		},
+		{
+			"episode": 355,
+			"title": "Ouka resigns!/ Keroro must survive",
+			"type": "filler",
+			"aired_date": "2011-03-13"
+		},
+		{
+			"episode": 356,
+			"title": "Keroro platoon, Real Dragon Warriors/ Mois, the Other's Spring",
+			"type": "filler",
+			"aired_date": "2011-03-27"
+		},
+		{
+			"episode": 357,
+			"title": "Hinata family, Haru returns",
+			"type": "anime-canon",
+			"aired_date": "2011-04-02"
+		},
+		{
+			"episode": 358,
+			"title": "Keroro, The world's Sgt. Keroros/ Keroro, Keron Army Style excursion great opening!",
+			"type": "manga-canon",
+			"aired_date": "2011-04-09"
+		}
+	]
+}

@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "That Time I Got Reincarnated as a Slime",
+	"mappings": {
+		"anilist_id": 101280,
+		"mal_id": 37430
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Storm Dragon, Veldora",
+			"type": "manga-canon",
+			"aired_date": "2018-10-02"
+		},
+		{
+			"episode": 2,
+			"title": "Meeting the Goblins",
+			"type": "manga-canon",
+			"aired_date": "2018-10-09"
+		},
+		{
+			"episode": 3,
+			"title": "Battle at the Goblin Village",
+			"type": "manga-canon",
+			"aired_date": "2018-10-16"
+		},
+		{
+			"episode": 4,
+			"title": "In the Kingdom of the Dwarves",
+			"type": "mixed-manga",
+			"aired_date": "2018-10-23"
+		},
+		{
+			"episode": 5,
+			"title": "Hero King, Gazel Dwargo",
+			"type": "manga-canon",
+			"aired_date": "2018-10-29"
+		},
+		{
+			"episode": 6,
+			"title": "Shizu",
+			"type": "manga-canon",
+			"aired_date": "2018-11-06"
+		},
+		{
+			"episode": 7,
+			"title": "Conqueror of Flames",
+			"type": "manga-canon",
+			"aired_date": "2018-11-13"
+		},
+		{
+			"episode": 8,
+			"title": "Inherited Will",
+			"type": "manga-canon",
+			"aired_date": "2018-11-20"
+		},
+		{
+			"episode": 9,
+			"title": "Attack of the Ogres",
+			"type": "manga-canon",
+			"aired_date": "2018-11-27"
+		},
+		{
+			"episode": 10,
+			"title": "The Orc Lord",
+			"type": "manga-canon",
+			"aired_date": "2018-12-04"
+		},
+		{
+			"episode": 11,
+			"title": "Gabiru Is Here!",
+			"type": "manga-canon",
+			"aired_date": "2018-12-11"
+		},
+		{
+			"episode": 12,
+			"title": "The Gears Spin Out of Control",
+			"type": "manga-canon",
+			"aired_date": "2018-12-18"
+		},
+		{
+			"episode": 13,
+			"title": "The Great Clash",
+			"type": "manga-canon",
+			"aired_date": "2018-12-25"
+		},
+		{
+			"episode": 14,
+			"title": "The One Who Devours All",
+			"type": "manga-canon",
+			"aired_date": "2019-01-08"
+		},
+		{
+			"episode": 15,
+			"title": "The Jura Forest Alliance",
+			"type": "manga-canon",
+			"aired_date": "2019-01-15"
+		},
+		{
+			"episode": 16,
+			"title": "Demon Lord Milim Attacks",
+			"type": "manga-canon",
+			"aired_date": "2019-01-22"
+		},
+		{
+			"episode": 17,
+			"title": "The Gathering",
+			"type": "manga-canon",
+			"aired_date": "2019-01-29"
+		},
+		{
+			"episode": 18,
+			"title": "Evil Creeps Closer",
+			"type": "manga-canon",
+			"aired_date": "2019-02-05"
+		},
+		{
+			"episode": 19,
+			"title": "Charybdis",
+			"type": "manga-canon",
+			"aired_date": "2019-02-12"
+		},
+		{
+			"episode": 20,
+			"title": "Yuuki Kagurazaka",
+			"type": "manga-canon",
+			"aired_date": "2019-02-19"
+		},
+		{
+			"episode": 21,
+			"title": "Shizu-san's Students",
+			"type": "manga-canon",
+			"aired_date": "2019-02-26"
+		},
+		{
+			"episode": 22,
+			"title": "Conquering the Labyrinth",
+			"type": "manga-canon",
+			"aired_date": "2019-03-05"
+		},
+		{
+			"episode": 23,
+			"title": "Saved Souls",
+			"type": "manga-canon",
+			"aired_date": "2019-03-12"
+		},
+		{
+			"episode": 24,
+			"title": "Black and a Mask",
+			"type": "filler",
+			"aired_date": "2019-03-19"
+		}
+	]
+}

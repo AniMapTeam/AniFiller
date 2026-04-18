@@ -1,0 +1,160 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Hajime No Ippo: The Fighting! - Rising -",
+	"mappings": {
+		"anilist_id": 19647,
+		"mal_id": 19647
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Strongest Challenger",
+			"type": "manga-canon",
+			"aired_date": "2013-10-05"
+		},
+		{
+			"episode": 2,
+			"title": "The Dempsey Roll Broken",
+			"type": "manga-canon",
+			"aired_date": "2013-10-12"
+		},
+		{
+			"episode": 3,
+			"title": "A Woman's Battle",
+			"type": "manga-canon",
+			"aired_date": "2013-10-19"
+		},
+		{
+			"episode": 4,
+			"title": "Goddess of Victory",
+			"type": "manga-canon",
+			"aired_date": "2013-10-26"
+		},
+		{
+			"episode": 5,
+			"title": "The 100% Fake",
+			"type": "manga-canon",
+			"aired_date": "2013-11-02"
+		},
+		{
+			"episode": 6,
+			"title": "Distance to Glory",
+			"type": "manga-canon",
+			"aired_date": "2013-11-09"
+		},
+		{
+			"episode": 7,
+			"title": "Cheese Champion",
+			"type": "manga-canon",
+			"aired_date": "2013-11-16"
+		},
+		{
+			"episode": 8,
+			"title": "Starved Mad Dog, Red Wolf",
+			"type": "manga-canon",
+			"aired_date": "2013-11-23"
+		},
+		{
+			"episode": 9,
+			"title": "The Devil's Scenario",
+			"type": "manga-canon",
+			"aired_date": "2013-11-30"
+		},
+		{
+			"episode": 10,
+			"title": "The Face of Determination",
+			"type": "manga-canon",
+			"aired_date": "2013-12-07"
+		},
+		{
+			"episode": 11,
+			"title": "Fearless Challenger",
+			"type": "manga-canon",
+			"aired_date": "2013-12-14"
+		},
+		{
+			"episode": 12,
+			"title": "The Dempsey Break Perfected",
+			"type": "manga-canon",
+			"aired_date": "2014-01-04"
+		},
+		{
+			"episode": 13,
+			"title": "Life-Saving Fists",
+			"type": "manga-canon",
+			"aired_date": "2014-01-04"
+		},
+		{
+			"episode": 14,
+			"title": "Empowering Words",
+			"type": "manga-canon",
+			"aired_date": "2014-01-11"
+		},
+		{
+			"episode": 15,
+			"title": "Approaching Wind! Fishing Boat Makunouchi!!",
+			"type": "manga-canon",
+			"aired_date": "2014-01-18"
+		},
+		{
+			"episode": 16,
+			"title": "Golden Eagle",
+			"type": "manga-canon",
+			"aired_date": "2014-01-25"
+		},
+		{
+			"episode": 17,
+			"title": "Shocking Eleki and Coconut Papaya",
+			"type": "manga-canon",
+			"aired_date": "2014-02-01"
+		},
+		{
+			"episode": 18,
+			"title": "The Unfinished New Counter",
+			"type": "manga-canon",
+			"aired_date": "2014-02-08"
+		},
+		{
+			"episode": 19,
+			"title": "Hawk vs Eagle",
+			"type": "manga-canon",
+			"aired_date": "2014-02-15"
+		},
+		{
+			"episode": 20,
+			"title": "Unforgettable Teachings",
+			"type": "manga-canon",
+			"aired_date": "2014-02-22"
+		},
+		{
+			"episode": 21,
+			"title": "At the End of the Death Match",
+			"type": "manga-canon",
+			"aired_date": "2014-03-01"
+		},
+		{
+			"episode": 22,
+			"title": "Flower of Hope",
+			"type": "manga-canon",
+			"aired_date": "2014-03-08"
+		},
+		{
+			"episode": 23,
+			"title": "The Courage to Live",
+			"type": "manga-canon",
+			"aired_date": "2014-03-15"
+		},
+		{
+			"episode": 24,
+			"title": "Iron Fist",
+			"type": "manga-canon",
+			"aired_date": "2014-03-22"
+		},
+		{
+			"episode": 25,
+			"title": "Vow",
+			"type": "manga-canon",
+			"aired_date": "2014-03-29"
+		}
+	]
+}

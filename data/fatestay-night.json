@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Fate/stay night",
+	"mappings": {
+		"anilist_id": 356,
+		"mal_id": 356
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The First Day",
+			"type": "manga-canon",
+			"aired_date": "2006-01-07"
+		},
+		{
+			"episode": 2,
+			"title": "Fateful Night",
+			"type": "manga-canon",
+			"aired_date": "2006-01-14"
+		},
+		{
+			"episode": 3,
+			"title": "Opening",
+			"type": "manga-canon",
+			"aired_date": "2006-01-21"
+		},
+		{
+			"episode": 4,
+			"title": "The Strongest Enemy",
+			"type": "manga-canon",
+			"aired_date": "2006-01-28"
+		},
+		{
+			"episode": 5,
+			"title": "Two Magi (Part 1)",
+			"type": "manga-canon",
+			"aired_date": "2006-02-04"
+		},
+		{
+			"episode": 6,
+			"title": "Two Magi (Part 2)",
+			"type": "filler",
+			"aired_date": "2006-02-11"
+		},
+		{
+			"episode": 7,
+			"title": "Despicable Act",
+			"type": "manga-canon",
+			"aired_date": "2006-02-18"
+		},
+		{
+			"episode": 8,
+			"title": "Discordant Melody",
+			"type": "manga-canon",
+			"aired_date": "2006-02-25"
+		},
+		{
+			"episode": 9,
+			"title": "Moonlit Elegance",
+			"type": "manga-canon",
+			"aired_date": "2006-03-04"
+		},
+		{
+			"episode": 10,
+			"title": "A Peaceful Interlude",
+			"type": "manga-canon",
+			"aired_date": "2006-03-11"
+		},
+		{
+			"episode": 11,
+			"title": "Fresh Blood Temple (Blood Fort Andromeda)",
+			"type": "manga-canon",
+			"aired_date": "2006-03-18"
+		},
+		{
+			"episode": 12,
+			"title": "Tearing The Sky",
+			"type": "manga-canon",
+			"aired_date": "2006-03-25"
+		},
+		{
+			"episode": 13,
+			"title": "Winter Castle",
+			"type": "manga-canon",
+			"aired_date": "2006-04-01"
+		},
+		{
+			"episode": 14,
+			"title": "End of The Ideal",
+			"type": "manga-canon",
+			"aired_date": "2006-04-08"
+		},
+		{
+			"episode": 15,
+			"title": "The Twelve Trials",
+			"type": "manga-canon",
+			"aired_date": "2006-04-15"
+		},
+		{
+			"episode": 16,
+			"title": "The Sword of Promised Victory",
+			"type": "manga-canon",
+			"aired_date": "2006-04-22"
+		},
+		{
+			"episode": 17,
+			"title": "Branded As A Witch",
+			"type": "filler",
+			"aired_date": "2006-04-29"
+		},
+		{
+			"episode": 18,
+			"title": "Decisive Battle",
+			"type": "filler",
+			"aired_date": "2006-05-06"
+		},
+		{
+			"episode": 19,
+			"title": "The Golden King",
+			"type": "manga-canon",
+			"aired_date": "2006-05-13"
+		},
+		{
+			"episode": 20,
+			"title": "Distant Trace of a Dream",
+			"type": "manga-canon",
+			"aired_date": "2006-05-20"
+		},
+		{
+			"episode": 21,
+			"title": "The Star of Creation That Divided Heaven and Earth",
+			"type": "manga-canon",
+			"aired_date": "2006-05-27"
+		},
+		{
+			"episode": 22,
+			"title": "At The End of Wishes",
+			"type": "manga-canon",
+			"aired_date": "2006-06-03"
+		},
+		{
+			"episode": 23,
+			"title": "Holy Grail",
+			"type": "manga-canon",
+			"aired_date": "2006-06-10"
+		},
+		{
+			"episode": 24,
+			"title": "All Too Distant Utopia",
+			"type": "manga-canon",
+			"aired_date": "2006-06-17"
+		}
+	]
+}

@@ -1,0 +1,1078 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "The Prince of Tennis",
+	"mappings": {
+		"anilist_id": 22,
+		"mal_id": 22
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "A Prince Appears",
+			"type": "manga-canon",
+			"aired_date": "2001-10-10"
+		},
+		{
+			"episode": 2,
+			"title": "Samurai Junior",
+			"type": "manga-canon",
+			"aired_date": "2001-10-17"
+		},
+		{
+			"episode": 3,
+			"title": "The Seigaku Regulars Make Their Debut",
+			"type": "manga-canon",
+			"aired_date": "2001-10-24"
+		},
+		{
+			"episode": 4,
+			"title": "The One Named Viper",
+			"type": "manga-canon",
+			"aired_date": "2001-10-31"
+		},
+		{
+			"episode": 5,
+			"title": "Snake Shot",
+			"type": "manga-canon",
+			"aired_date": "2001-11-07"
+		},
+		{
+			"episode": 6,
+			"title": "Nanjiroh Echizen",
+			"type": "manga-canon",
+			"aired_date": "2001-11-14"
+		},
+		{
+			"episode": 7,
+			"title": "The Two Ryomas",
+			"type": "manga-canon",
+			"aired_date": "2001-11-21"
+		},
+		{
+			"episode": 8,
+			"title": "The Split Step",
+			"type": "manga-canon",
+			"aired_date": "2001-11-28"
+		},
+		{
+			"episode": 9,
+			"title": "The Hard Day",
+			"type": "manga-canon",
+			"aired_date": "2001-12-05"
+		},
+		{
+			"episode": 10,
+			"title": "Counterattack! Sasabe Again?",
+			"type": "mixed-manga",
+			"aired_date": "2001-12-12"
+		},
+		{
+			"episode": 11,
+			"title": "Ryoma vs. Momoshiro",
+			"type": "manga-canon",
+			"aired_date": "2001-12-19"
+		},
+		{
+			"episode": 12,
+			"title": "The Perfect Match",
+			"type": "manga-canon",
+			"aired_date": "2001-12-26"
+		},
+		{
+			"episode": 13,
+			"title": "Real Men Play Doubles",
+			"type": "manga-canon",
+			"aired_date": "2002-01-09"
+		},
+		{
+			"episode": 14,
+			"title": "The Triple Counter",
+			"type": "manga-canon",
+			"aired_date": "2002-01-16"
+		},
+		{
+			"episode": 15,
+			"title": "To Each His Own Battle",
+			"type": "manga-canon",
+			"aired_date": "2002-01-23"
+		},
+		{
+			"episode": 16,
+			"title": "The Boomerang Snake",
+			"type": "manga-canon",
+			"aired_date": "2002-01-30"
+		},
+		{
+			"episode": 17,
+			"title": "A Little Gesture of Triumph",
+			"type": "manga-canon",
+			"aired_date": "2002-02-06"
+		},
+		{
+			"episode": 18,
+			"title": "The Love Letter",
+			"type": "manga-canon",
+			"aired_date": "2002-02-13"
+		},
+		{
+			"episode": 19,
+			"title": "Battle-Scarred Ryoma",
+			"type": "manga-canon",
+			"aired_date": "2002-02-20"
+		},
+		{
+			"episode": 20,
+			"title": "Time Limit",
+			"type": "manga-canon",
+			"aired_date": "2002-02-27"
+		},
+		{
+			"episode": 21,
+			"title": "Is the Tennis Court Burning Up?",
+			"type": "filler",
+			"aired_date": "2002-03-03"
+		},
+		{
+			"episode": 22,
+			"title": "Kaoru's Troubles",
+			"type": "mixed-manga",
+			"aired_date": "2002-03-13"
+		},
+		{
+			"episode": 23,
+			"title": "Here Comes Inui's Deluxe Drink!",
+			"type": "mixed-manga",
+			"aired_date": "2002-03-20"
+		},
+		{
+			"episode": 24,
+			"title": "Ryoma's Day Off",
+			"type": "filler",
+			"aired_date": "2002-03-27"
+		},
+		{
+			"episode": 25,
+			"title": "Seigaku's Strongest Man, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-04-10"
+		},
+		{
+			"episode": 26,
+			"title": "Seigaku's Strongest Man, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-04-10"
+		},
+		{
+			"episode": 27,
+			"title": "Karupin's Adventure",
+			"type": "mixed-manga",
+			"aired_date": "2002-04-17"
+		},
+		{
+			"episode": 28,
+			"title": "A New Regular Appears?!",
+			"type": "manga-canon",
+			"aired_date": "2002-04-24"
+		},
+		{
+			"episode": 29,
+			"title": "Momo and Viper",
+			"type": "manga-canon",
+			"aired_date": "2002-05-01"
+		},
+		{
+			"episode": 30,
+			"title": "Mizuki's Scenario",
+			"type": "manga-canon",
+			"aired_date": "2002-05-08"
+		},
+		{
+			"episode": 31,
+			"title": "The Moon Volley",
+			"type": "manga-canon",
+			"aired_date": "2002-05-15"
+		},
+		{
+			"episode": 32,
+			"title": "Mortal Blow: Eiji's Feigned Sleep Attack!?",
+			"type": "manga-canon",
+			"aired_date": "2002-05-22"
+		},
+		{
+			"episode": 33,
+			"title": "The Tiebreak",
+			"type": "manga-canon",
+			"aired_date": "2002-05-27"
+		},
+		{
+			"episode": 34,
+			"title": "Twist Spin Shot",
+			"type": "manga-canon",
+			"aired_date": "2002-06-05"
+		},
+		{
+			"episode": 35,
+			"title": "Drive B",
+			"type": "manga-canon",
+			"aired_date": "2002-06-12"
+		},
+		{
+			"episode": 36,
+			"title": "Big Brother, Shusuke Fuji",
+			"type": "manga-canon",
+			"aired_date": "2002-06-19"
+		},
+		{
+			"episode": 37,
+			"title": "A Tennis Ball with Ryoma's Face",
+			"type": "manga-canon",
+			"aired_date": "2002-06-26"
+		},
+		{
+			"episode": 38,
+			"title": "Penal-Tea",
+			"type": "manga-canon",
+			"aired_date": "2002-07-03"
+		},
+		{
+			"episode": 39,
+			"title": "The Brown Bear",
+			"type": "manga-canon",
+			"aired_date": "2002-07-10"
+		},
+		{
+			"episode": 40,
+			"title": "A Duel in the Rain",
+			"type": "manga-canon",
+			"aired_date": "2002-07-17"
+		},
+		{
+			"episode": 41,
+			"title": "Trouble!",
+			"type": "manga-canon",
+			"aired_date": "2002-07-24"
+		},
+		{
+			"episode": 42,
+			"title": "Oishi is Targeted",
+			"type": "manga-canon",
+			"aired_date": "2002-07-31"
+		},
+		{
+			"episode": 43,
+			"title": "Lucky Sengoku",
+			"type": "manga-canon",
+			"aired_date": "2002-08-07"
+		},
+		{
+			"episode": 44,
+			"title": "Jack Knife",
+			"type": "manga-canon",
+			"aired_date": "2002-08-14"
+		},
+		{
+			"episode": 45,
+			"title": "A Devil on the Court",
+			"type": "manga-canon",
+			"aired_date": "2002-08-21"
+		},
+		{
+			"episode": 46,
+			"title": "Samurai Spirit",
+			"type": "manga-canon",
+			"aired_date": "2002-08-28"
+		},
+		{
+			"episode": 47,
+			"title": "I Can't Lose!",
+			"type": "manga-canon",
+			"aired_date": "2002-09-04"
+		},
+		{
+			"episode": 48,
+			"title": "The Decisive Moment",
+			"type": "manga-canon",
+			"aired_date": "2002-09-11"
+		},
+		{
+			"episode": 49,
+			"title": "Free-Style Fighting",
+			"type": "manga-canon",
+			"aired_date": "2002-09-18"
+		},
+		{
+			"episode": 50,
+			"title": "A Seigaku Tradition",
+			"type": "manga-canon",
+			"aired_date": "2002-09-25"
+		},
+		{
+			"episode": 51,
+			"title": "Inui's Challenge",
+			"type": "manga-canon",
+			"aired_date": "2002-10-02"
+		},
+		{
+			"episode": 52,
+			"title": "Seigaku's Biggest Crisis",
+			"type": "manga-canon",
+			"aired_date": "2002-10-09"
+		},
+		{
+			"episode": 53,
+			"title": "The Momo Who's Returned",
+			"type": "manga-canon",
+			"aired_date": "2002-10-16"
+		},
+		{
+			"episode": 54,
+			"title": "Kaoru's Special Training",
+			"type": "manga-canon",
+			"aired_date": "2002-10-23"
+		},
+		{
+			"episode": 55,
+			"title": "Hyotei Presses Near",
+			"type": "manga-canon",
+			"aired_date": "2002-10-30"
+		},
+		{
+			"episode": 56,
+			"title": "Doubles for Three",
+			"type": "manga-canon",
+			"aired_date": "2002-11-06"
+		},
+		{
+			"episode": 57,
+			"title": "Scud Serve",
+			"type": "manga-canon",
+			"aired_date": "2002-11-13"
+		},
+		{
+			"episode": 58,
+			"title": "The Worst Compatibility",
+			"type": "manga-canon",
+			"aired_date": "2002-11-20"
+		},
+		{
+			"episode": 59,
+			"title": "The Hidden Trouble",
+			"type": "manga-canon",
+			"aired_date": "2002-11-27"
+		},
+		{
+			"episode": 60,
+			"title": "Power vs. Power",
+			"type": "manga-canon",
+			"aired_date": "2002-12-04"
+		},
+		{
+			"episode": 61,
+			"title": "Duel of Hadokyu!",
+			"type": "manga-canon",
+			"aired_date": "2002-12-11"
+		},
+		{
+			"episode": 62,
+			"title": "The Disappearing Serve",
+			"type": "manga-canon",
+			"aired_date": "2002-12-18"
+		},
+		{
+			"episode": 63,
+			"title": "The Last Triple Counter",
+			"type": "manga-canon",
+			"aired_date": "2002-12-25"
+		},
+		{
+			"episode": 64,
+			"title": "Compilation Stories TeniPuri",
+			"type": "filler",
+			"aired_date": "2003-01-08"
+		},
+		{
+			"episode": 65,
+			"title": "Become Seigaku's Pillar of Support",
+			"type": "manga-canon",
+			"aired_date": "2003-01-15"
+		},
+		{
+			"episode": 66,
+			"title": "Rondo Towards Destruction",
+			"type": "manga-canon",
+			"aired_date": "2003-01-22"
+		},
+		{
+			"episode": 67,
+			"title": "End of the ball",
+			"type": "manga-canon",
+			"aired_date": "2003-01-29"
+		},
+		{
+			"episode": 68,
+			"title": "The Never Ending Tie-Break",
+			"type": "manga-canon",
+			"aired_date": "2003-02-05"
+		},
+		{
+			"episode": 69,
+			"title": "Who Will be a Regular?",
+			"type": "manga-canon",
+			"aired_date": "2003-02-12"
+		},
+		{
+			"episode": 70,
+			"title": "Tennis vs. Ping Pong",
+			"type": "filler",
+			"aired_date": "2003-02-19"
+		},
+		{
+			"episode": 71,
+			"title": "It's a date!",
+			"type": "filler",
+			"aired_date": "2003-02-26"
+		},
+		{
+			"episode": 72,
+			"title": "Kaoru becomes Ryoma",
+			"type": "filler",
+			"aired_date": "2003-03-05"
+		},
+		{
+			"episode": 73,
+			"title": "Tezuka's Decision",
+			"type": "filler",
+			"aired_date": "2003-03-12"
+		},
+		{
+			"episode": 74,
+			"title": "A Message for Echizen",
+			"type": "filler",
+			"aired_date": "2003-03-19"
+		},
+		{
+			"episode": 75,
+			"title": "Farewell, Tezuka Kunimitsu",
+			"type": "filler",
+			"aired_date": "2003-03-26"
+		},
+		{
+			"episode": 76,
+			"title": "Seigaku vs. Josei Shonan",
+			"type": "mixed-manga",
+			"aired_date": "2003-04-09"
+		},
+		{
+			"episode": 77,
+			"title": "Fight of the Calm and the Passionate",
+			"type": "mixed-manga",
+			"aired_date": "2003-04-16"
+		},
+		{
+			"episode": 78,
+			"title": "Thunderbolt",
+			"type": "mixed-manga",
+			"aired_date": "2003-04-23"
+		},
+		{
+			"episode": 79,
+			"title": "I formation",
+			"type": "mixed-manga",
+			"aired_date": "2003-04-30"
+		},
+		{
+			"episode": 80,
+			"title": "Style of the Pretender",
+			"type": "mixed-manga",
+			"aired_date": "2003-05-07"
+		},
+		{
+			"episode": 81,
+			"title": "Viper vs. Fake Viper",
+			"type": "mixed-manga",
+			"aired_date": "2003-05-14"
+		},
+		{
+			"episode": 82,
+			"title": "Hanamura's Temptation",
+			"type": "mixed-manga",
+			"aired_date": "2003-05-21"
+		},
+		{
+			"episode": 83,
+			"title": "The Best Masterpiece",
+			"type": "mixed-manga",
+			"aired_date": "2003-05-28"
+		},
+		{
+			"episode": 84,
+			"title": "Deep Impulse",
+			"type": "mixed-manga",
+			"aired_date": "2003-06-04"
+		},
+		{
+			"episode": 85,
+			"title": "The Result of the Deadly Duel",
+			"type": "mixed-manga",
+			"aired_date": "2003-06-11"
+		},
+		{
+			"episode": 86,
+			"title": "High on Rhythm!",
+			"type": "manga-canon",
+			"aired_date": "2003-06-18"
+		},
+		{
+			"episode": 87,
+			"title": "Prince of Tennis Special! Part 1",
+			"type": "filler",
+			"aired_date": "2003-06-25"
+		},
+		{
+			"episode": 88,
+			"title": "Prince of Tennis Special! Part 2",
+			"type": "filler",
+			"aired_date": "2003-06-25"
+		},
+		{
+			"episode": 89,
+			"title": "Seigaku, Dadada Dan",
+			"type": "filler",
+			"aired_date": "2003-07-02"
+		},
+		{
+			"episode": 90,
+			"title": "Cheap Housing Beach Volleyball",
+			"type": "filler",
+			"aired_date": "2003-07-09"
+		},
+		{
+			"episode": 91,
+			"title": "Rokkaku's Freshman Captain",
+			"type": "manga-canon",
+			"aired_date": "2003-07-16"
+		},
+		{
+			"episode": 92,
+			"title": "The Boy with the Long Racket",
+			"type": "manga-canon",
+			"aired_date": "2003-07-23"
+		},
+		{
+			"episode": 93,
+			"title": "Dash Hadokyu",
+			"type": "manga-canon",
+			"aired_date": "2003-07-30"
+		},
+		{
+			"episode": 94,
+			"title": "The Secret Plan to Seal Kikumaru",
+			"type": "manga-canon",
+			"aired_date": "2003-08-06"
+		},
+		{
+			"episode": 95,
+			"title": "Tsubame Gaeshi, Broken",
+			"type": "manga-canon",
+			"aired_date": "2003-08-13"
+		},
+		{
+			"episode": 96,
+			"title": "Ryoma, Get Pumped!",
+			"type": "manga-canon",
+			"aired_date": "2003-08-20"
+		},
+		{
+			"episode": 97,
+			"title": "Finishing Smash",
+			"type": "manga-canon",
+			"aired_date": "2003-08-27"
+		},
+		{
+			"episode": 98,
+			"title": "The Prince of Billiards",
+			"type": "filler",
+			"aired_date": "2003-09-03"
+		},
+		{
+			"episode": 99,
+			"title": "The Cursed Racket",
+			"type": "filler",
+			"aired_date": "2003-09-10"
+		},
+		{
+			"episode": 100,
+			"title": "Captain Oishi",
+			"type": "filler",
+			"aired_date": "2003-09-17"
+		},
+		{
+			"episode": 101,
+			"title": "Eat Rikkaidai",
+			"type": "filler",
+			"aired_date": "2003-09-24"
+		},
+		{
+			"episode": 102,
+			"title": "Mizuki's Whispers",
+			"type": "filler",
+			"aired_date": "2003-10-01"
+		},
+		{
+			"episode": 103,
+			"title": "Sleepless Night",
+			"type": "filler",
+			"aired_date": "2003-10-08"
+		},
+		{
+			"episode": 104,
+			"title": "Ryoma vs. Sanada",
+			"type": "filler",
+			"aired_date": "2003-10-15"
+		},
+		{
+			"episode": 105,
+			"title": "Ryoma Utterly Beaten",
+			"type": "filler",
+			"aired_date": "2003-10-15"
+		},
+		{
+			"episode": 106,
+			"title": "Off To The Cottage!",
+			"type": "filler",
+			"aired_date": "2003-10-29"
+		},
+		{
+			"episode": 107,
+			"title": "The Captain Appears!",
+			"type": "filler",
+			"aired_date": "2003-11-05"
+		},
+		{
+			"episode": 108,
+			"title": "Surprise at Camp",
+			"type": "filler",
+			"aired_date": "2003-11-12"
+		},
+		{
+			"episode": 109,
+			"title": "Tennis Biathlon",
+			"type": "filler",
+			"aired_date": "2003-11-19"
+		},
+		{
+			"episode": 110,
+			"title": "Jump, Kabaji!",
+			"type": "filler",
+			"aired_date": "2003-11-26"
+		},
+		{
+			"episode": 111,
+			"title": "Original Prodigy: Fuji Shūsuke",
+			"type": "filler",
+			"aired_date": "2003-12-03"
+		},
+		{
+			"episode": 112,
+			"title": "Hadōkyū vs. Scud Serve",
+			"type": "filler",
+			"aired_date": "2003-12-10"
+		},
+		{
+			"episode": 113,
+			"title": "Atobe the Beautiful",
+			"type": "filler",
+			"aired_date": "2003-12-17"
+		},
+		{
+			"episode": 114,
+			"title": "Ryoma is Going!",
+			"type": "filler",
+			"aired_date": "2003-12-24"
+		},
+		{
+			"episode": 115,
+			"title": "Baseball Game Filled With Men",
+			"type": "filler",
+			"aired_date": "2004-01-07"
+		},
+		{
+			"episode": 116,
+			"title": "Seigaku vs Champion Rikkaidai! I'll be the One who'll Win! Part 1",
+			"type": "filler",
+			"aired_date": "2004-01-21"
+		},
+		{
+			"episode": 117,
+			"title": "Seigaku vs Champion Rikkaidai! I'll be the One who'll Win! Part 2",
+			"type": "manga-canon",
+			"aired_date": "2004-01-21"
+		},
+		{
+			"episode": 118,
+			"title": "Battle Ceremony",
+			"type": "manga-canon",
+			"aired_date": "2004-01-28"
+		},
+		{
+			"episode": 119,
+			"title": "Tightrope Walking Doubles",
+			"type": "manga-canon",
+			"aired_date": "2004-02-04"
+		},
+		{
+			"episode": 120,
+			"title": "Kikumaru Was Read By Niou",
+			"type": "manga-canon",
+			"aired_date": "2004-02-11"
+		},
+		{
+			"episode": 121,
+			"title": "Yagyuu's Decision",
+			"type": "manga-canon",
+			"aired_date": "2004-02-18"
+		},
+		{
+			"episode": 122,
+			"title": "Inui Hollers",
+			"type": "manga-canon",
+			"aired_date": "2004-02-25"
+		},
+		{
+			"episode": 123,
+			"title": "Conclusion of the Remembered",
+			"type": "manga-canon",
+			"aired_date": "2004-03-03"
+		},
+		{
+			"episode": 124,
+			"title": "Kirihara's Red Trap",
+			"type": "manga-canon",
+			"aired_date": "2004-03-10"
+		},
+		{
+			"episode": 125,
+			"title": "Angry Fuji",
+			"type": "manga-canon",
+			"aired_date": "2004-03-17"
+		},
+		{
+			"episode": 126,
+			"title": "Clash! Ryoma vs. Sanada",
+			"type": "manga-canon",
+			"aired_date": "2004-03-24"
+		},
+		{
+			"episode": 127,
+			"title": "Invisible Serve",
+			"type": "manga-canon",
+			"aired_date": "2004-03-31"
+		},
+		{
+			"episode": 128,
+			"title": "Conclusion ~ Which One will Win?",
+			"type": "manga-canon",
+			"aired_date": "2004-04-07"
+		},
+		{
+			"episode": 129,
+			"title": "The Samurai's Ballad",
+			"type": "filler",
+			"aired_date": "2004-04-14"
+		},
+		{
+			"episode": 130,
+			"title": "We Want To See Tezuka!",
+			"type": "filler",
+			"aired_date": "2004-04-21"
+		},
+		{
+			"episode": 131,
+			"title": "Never Give Up",
+			"type": "filler",
+			"aired_date": "2004-04-28"
+		},
+		{
+			"episode": 132,
+			"title": "The Zany Teni-Puri Family",
+			"type": "filler",
+			"aired_date": "2004-05-05"
+		},
+		{
+			"episode": 133,
+			"title": "The Best Sushi Chef in Japan",
+			"type": "filler",
+			"aired_date": "2004-05-12"
+		},
+		{
+			"episode": 134,
+			"title": "My Prince",
+			"type": "filler",
+			"aired_date": "2004-05-19"
+		},
+		{
+			"episode": 135,
+			"title": "Kikumaru's Summer Vacation",
+			"type": "filler",
+			"aired_date": "2004-05-26"
+		},
+		{
+			"episode": 136,
+			"title": "Junior Selection Camp, Gathered",
+			"type": "filler",
+			"aired_date": "2004-06-02"
+		},
+		{
+			"episode": 137,
+			"title": "The Member Who was not Trusted",
+			"type": "filler",
+			"aired_date": "2004-06-09"
+		},
+		{
+			"episode": 138,
+			"title": "Ryoma vs. Kirihara! Beyond Battle Rage",
+			"type": "filler",
+			"aired_date": "2004-06-16"
+		},
+		{
+			"episode": 139,
+			"title": "Sengoku Kiyosumi Reborn",
+			"type": "filler",
+			"aired_date": "2004-06-23"
+		},
+		{
+			"episode": 140,
+			"title": "Welcome Back, Tezuka Kunimitsu",
+			"type": "filler",
+			"aired_date": "2004-06-30"
+		},
+		{
+			"episode": 141,
+			"title": "The Ultimate Showdown",
+			"type": "filler",
+			"aired_date": "2004-06-30"
+		},
+		{
+			"episode": 142,
+			"title": "The Boy who Came from America",
+			"type": "filler",
+			"aired_date": "2004-07-07"
+		},
+		{
+			"episode": 143,
+			"title": "Tezuka's Choice",
+			"type": "filler",
+			"aired_date": "2004-07-14"
+		},
+		{
+			"episode": 144,
+			"title": "Formation! A Dream Team",
+			"type": "filler",
+			"aired_date": "2004-07-21"
+		},
+		{
+			"episode": 145,
+			"title": "Ryoma and Kevin",
+			"type": "filler",
+			"aired_date": "2004-07-28"
+		},
+		{
+			"episode": 146,
+			"title": "The American Team's Ambition",
+			"type": "filler",
+			"aired_date": "2004-08-04"
+		},
+		{
+			"episode": 147,
+			"title": "The Strongest! Atobe and Sanada",
+			"type": "filler",
+			"aired_date": "2004-08-18"
+		},
+		{
+			"episode": 148,
+			"title": "Baker's Scenario",
+			"type": "filler",
+			"aired_date": "2004-08-25"
+		},
+		{
+			"episode": 149,
+			"title": "Tango Towards Destruction",
+			"type": "filler",
+			"aired_date": "2004-09-01"
+		},
+		{
+			"episode": 150,
+			"title": "Gorgeous Guys' Duo",
+			"type": "filler",
+			"aired_date": "2004-09-08"
+		},
+		{
+			"episode": 151,
+			"title": "Sorrowful Marionettes",
+			"type": "filler",
+			"aired_date": "2004-09-15"
+		},
+		{
+			"episode": 152,
+			"title": "Bobby Max The Beast",
+			"type": "filler",
+			"aired_date": "2004-09-22"
+		},
+		{
+			"episode": 153,
+			"title": "A Battle to the Limits",
+			"type": "filler",
+			"aired_date": "2004-09-29"
+		},
+		{
+			"episode": 154,
+			"title": "The Prodigy Vs. Tennis Machine",
+			"type": "filler",
+			"aired_date": "2004-10-06"
+		},
+		{
+			"episode": 155,
+			"title": "1 mm Battle",
+			"type": "filler",
+			"aired_date": "2004-10-06"
+		},
+		{
+			"episode": 156,
+			"title": "Who Will Play?",
+			"type": "filler",
+			"aired_date": "2004-10-13"
+		},
+		{
+			"episode": 157,
+			"title": "The Phantom Ball that Vanished",
+			"type": "filler",
+			"aired_date": "2004-10-20"
+		},
+		{
+			"episode": 158,
+			"title": "The Long Awaited Confrontation – Ryoma vs. Kevin",
+			"type": "filler",
+			"aired_date": "2004-10-27"
+		},
+		{
+			"episode": 159,
+			"title": "Illusion",
+			"type": "filler",
+			"aired_date": "2004-11-03"
+		},
+		{
+			"episode": 160,
+			"title": "Game and Match",
+			"type": "filler",
+			"aired_date": "2004-11-10"
+		},
+		{
+			"episode": 161,
+			"title": "Run, Momo!",
+			"type": "filler",
+			"aired_date": "2004-11-17"
+		},
+		{
+			"episode": 162,
+			"title": "The Golden Pair's Memories",
+			"type": "filler",
+			"aired_date": "2004-12-01"
+		},
+		{
+			"episode": 163,
+			"title": "Kaido's Unknown World",
+			"type": "filler",
+			"aired_date": "2004-12-08"
+		},
+		{
+			"episode": 164,
+			"title": "Seigaku's Shocking Secret Plans",
+			"type": "filler",
+			"aired_date": "2004-12-15"
+		},
+		{
+			"episode": 165,
+			"title": "The Tenipuri Family Goes to Hawaii?! – Christmas at the Tenipuri Family",
+			"type": "filler",
+			"aired_date": "2004-12-22"
+		},
+		{
+			"episode": 166,
+			"title": "Seigaku's Specialty, again",
+			"type": "filler",
+			"aired_date": "2005-01-12"
+		},
+		{
+			"episode": 167,
+			"title": "Eternal Rivals, Momoshiro Vs. Kaido",
+			"type": "filler",
+			"aired_date": "2005-01-19"
+		},
+		{
+			"episode": 168,
+			"title": "Ryoma's Decision",
+			"type": "filler",
+			"aired_date": "2005-01-26"
+		},
+		{
+			"episode": 169,
+			"title": "Wavering Feelings",
+			"type": "filler",
+			"aired_date": "2005-01-26"
+		},
+		{
+			"episode": 170,
+			"title": "Be Passionate, Echizen!",
+			"type": "filler",
+			"aired_date": "2005-02-02"
+		},
+		{
+			"episode": 171,
+			"title": "To my Dear Friend",
+			"type": "filler",
+			"aired_date": "2005-02-09"
+		},
+		{
+			"episode": 172,
+			"title": "Goodbye Seigaku",
+			"type": "filler",
+			"aired_date": "2005-02-16"
+		},
+		{
+			"episode": 173,
+			"title": "Samurai in New York",
+			"type": "filler",
+			"aired_date": "2005-02-23"
+		},
+		{
+			"episode": 174,
+			"title": "Tezuka Kunimitsu Vs. Fuji Syusuke",
+			"type": "filler",
+			"aired_date": "2005-03-02"
+		},
+		{
+			"episode": 175,
+			"title": "Seriousness in the Third Year",
+			"type": "filler",
+			"aired_date": "2005-03-09"
+		},
+		{
+			"episode": 176,
+			"title": "Climax",
+			"type": "filler",
+			"aired_date": "2005-03-16"
+		},
+		{
+			"episode": 177,
+			"title": "Unforgettable Promise",
+			"type": "manga-canon",
+			"aired_date": "2005-03-23"
+		},
+		{
+			"episode": 178,
+			"title": "Goodbye, Prince",
+			"type": "manga-canon",
+			"aired_date": "2005-03-30"
+		}
+	]
+}

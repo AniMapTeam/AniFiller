@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Miss Kobayashi's Dragon Maid",
+	"mappings": {
+		"anilist_id": 21776,
+		"mal_id": 33206
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Strongest Maid in History, Tohru! (Well, She is a Dragon)",
+			"type": "manga-canon",
+			"aired_date": "2017-01-11"
+		},
+		{
+			"episode": 2,
+			"title": "Second Dragon, Kanna! (We're Totally Spoiling Here)",
+			"type": "manga-canon",
+			"aired_date": "2017-01-18"
+		},
+		{
+			"episode": 3,
+			"title": "Start of a New Life! (That Doesn't Go Well, Of Course)",
+			"type": "mixed-manga",
+			"aired_date": "2017-01-25"
+		},
+		{
+			"episode": 4,
+			"title": "Kanna Goes to School! (Not that she needs to.)",
+			"type": "mixed-manga",
+			"aired_date": "2017-02-01"
+		},
+		{
+			"episode": 5,
+			"title": "Tohru's Real World Lessons! (She thinks she understands it already.)",
+			"type": "manga-canon",
+			"aired_date": "2017-02-08"
+		},
+		{
+			"episode": 6,
+			"title": "Home Visit! (And Homes Not Visited)",
+			"type": "mixed-manga",
+			"aired_date": "2017-02-15"
+		},
+		{
+			"episode": 7,
+			"title": "Summer's Staples! (The Fanservice Episode, Frankly)",
+			"type": "manga-canon",
+			"aired_date": "2017-02-22"
+		},
+		{
+			"episode": 8,
+			"title": "New Dragon, Elma! (She's Finally Appearing, Huh?)",
+			"type": "manga-canon",
+			"aired_date": "2017-03-01"
+		},
+		{
+			"episode": 9,
+			"title": "Sports Festival! (There's No Twist Or Anything)",
+			"type": "filler",
+			"aired_date": "2017-03-08"
+		},
+		{
+			"episode": 10,
+			"title": "Troupe Dragon, On Stage! (They Had A Troupe Name, Huh)",
+			"type": "filler",
+			"aired_date": "2017-03-15"
+		},
+		{
+			"episode": 11,
+			"title": "Year End, New Year! (No Comiket Bit This Time)",
+			"type": "filler",
+			"aired_date": "2017-03-22"
+		},
+		{
+			"episode": 12,
+			"title": "Tohru and Kobayashi's Impactful Meeting! (We're Raising the Bar on Ourselves)",
+			"type": "manga-canon",
+			"aired_date": "2017-03-29"
+		},
+		{
+			"episode": 13,
+			"title": "Emperor of Demise Arrives! (It Was the Final Episode Before We Knew It)",
+			"type": "mixed-manga",
+			"aired_date": "2017-04-06"
+		}
+	]
+}

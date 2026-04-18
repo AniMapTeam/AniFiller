@@ -1,0 +1,316 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Shugo Chara!! Doki",
+	"mappings": {
+		"anilist_id": 5262,
+		"mal_id": 5262
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Sparkle With All Your Might!",
+			"type": "manga-canon",
+			"aired_date": "2008-10-04"
+		},
+		{
+			"episode": 2,
+			"title": "Hectic Day to Speak Frankly!?",
+			"type": "manga-canon",
+			"aired_date": "2008-10-11"
+		},
+		{
+			"episode": 3,
+			"title": "Eh? A New Friend!",
+			"type": "manga-canon",
+			"aired_date": "2008-10-18"
+		},
+		{
+			"episode": 4,
+			"title": "Put the Heart of the Song on Wings!",
+			"type": "manga-canon",
+			"aired_date": "2008-10-25"
+		},
+		{
+			"episode": 5,
+			"title": "To the Sky! The Feeling to Take Off!",
+			"type": "manga-canon",
+			"aired_date": "2008-11-01"
+		},
+		{
+			"episode": 6,
+			"title": "Real Pretty Close Call!",
+			"type": "filler",
+			"aired_date": "2008-11-08"
+		},
+		{
+			"episode": 7,
+			"title": "Panic in Class Plum!",
+			"type": "filler",
+			"aired_date": "2008-11-15"
+		},
+		{
+			"episode": 8,
+			"title": "Utau Hoshina! New Beginning!",
+			"type": "mixed-manga",
+			"aired_date": "2008-11-22"
+		},
+		{
+			"episode": 9,
+			"title": "When You Confess, it's Your Lucky Day?",
+			"type": "filler",
+			"aired_date": "2008-11-29"
+		},
+		{
+			"episode": 10,
+			"title": "Notice Kiran's Feelings!",
+			"type": "mixed-manga",
+			"aired_date": "2008-12-06"
+		},
+		{
+			"episode": 11,
+			"title": "Rima vs. Nagihiko! Are the Two Rivals?",
+			"type": "mixed-manga",
+			"aired_date": "2008-12-13"
+		},
+		{
+			"episode": 12,
+			"title": "Lulu's Flawless Christmas!",
+			"type": "filler",
+			"aired_date": "2008-12-20"
+		},
+		{
+			"episode": 13,
+			"title": "The New Year! First Laughter in Character Transformation!?",
+			"type": "manga-canon",
+			"aired_date": "2008-12-27"
+		},
+		{
+			"episode": 14,
+			"title": "Snow Days are Full of Secrets?",
+			"type": "manga-canon",
+			"aired_date": "2009-01-10"
+		},
+		{
+			"episode": 15,
+			"title": "Uproar! A Cat-Eared Girl!?",
+			"type": "filler",
+			"aired_date": "2009-01-17"
+		},
+		{
+			"episode": 16,
+			"title": "A UFO Girl Appears!",
+			"type": "manga-canon",
+			"aired_date": "2009-01-24"
+		},
+		{
+			"episode": 17,
+			"title": "Fare Thee Well, Yamabuki Saaya...",
+			"type": "filler",
+			"aired_date": "2009-01-31"
+		},
+		{
+			"episode": 18,
+			"title": "First Love? Love Attack!",
+			"type": "manga-canon",
+			"aired_date": "2009-02-07"
+		},
+		{
+			"episode": 19,
+			"title": "I Hate These Stupid Chocolates!?",
+			"type": "manga-canon",
+			"aired_date": "2009-02-14"
+		},
+		{
+			"episode": 20,
+			"title": "The Arduous Path of Truth! Kairi Returns!",
+			"type": "manga-canon",
+			"aired_date": "2009-02-21"
+		},
+		{
+			"episode": 21,
+			"title": "All Shook Up! The Grandmother Appears!!",
+			"type": "filler",
+			"aired_date": "2009-02-28"
+		},
+		{
+			"episode": 22,
+			"title": "Classified! Make-up Recipe?",
+			"type": "manga-canon",
+			"aired_date": "2009-03-07"
+		},
+		{
+			"episode": 23,
+			"title": "The Jig is Up!? Utau Pays a Visit",
+			"type": "manga-canon",
+			"aired_date": "2009-03-14"
+		},
+		{
+			"episode": 24,
+			"title": "An Exciting White Day!",
+			"type": "manga-canon",
+			"aired_date": "2009-03-21"
+		},
+		{
+			"episode": 25,
+			"title": "New Enemy!? Battle On Moonlight!",
+			"type": "manga-canon",
+			"aired_date": "2009-03-28"
+		},
+		{
+			"episode": 26,
+			"title": "Shocking! First Date, Busted!?",
+			"type": "manga-canon",
+			"aired_date": "2009-04-04"
+		},
+		{
+			"episode": 27,
+			"title": "Amu-chan's Loong Day!?",
+			"type": "manga-canon",
+			"aired_date": "2009-04-11"
+		},
+		{
+			"episode": 28,
+			"title": "Ikuto and Amu Sorrowful Battle!",
+			"type": "manga-canon",
+			"aired_date": "2009-04-18"
+		},
+		{
+			"episode": 29,
+			"title": "Believe in Each Other! Platinum Heart!",
+			"type": "manga-canon",
+			"aired_date": "2009-04-25"
+		},
+		{
+			"episode": 30,
+			"title": "Infiltration! Easter Company!?",
+			"type": "manga-canon",
+			"aired_date": "2009-05-02"
+		},
+		{
+			"episode": 31,
+			"title": "Chance Encounter at the World Music Fair?",
+			"type": "manga-canon",
+			"aired_date": "2009-05-09"
+		},
+		{
+			"episode": 32,
+			"title": "Fierce Battle! I'll Become the Ace Player!",
+			"type": "filler",
+			"aired_date": "2009-05-16"
+		},
+		{
+			"episode": 33,
+			"title": "Mr. Nikaidou is a Teacher After All!?",
+			"type": "filler",
+			"aired_date": "2009-05-23"
+		},
+		{
+			"episode": 34,
+			"title": "Wassup! Here Comes the Gal Everyone's Talking About!!",
+			"type": "filler",
+			"aired_date": "2009-05-30"
+		},
+		{
+			"episode": 35,
+			"title": "Resound, My Voice! To Who I Used to Be!!",
+			"type": "manga-canon",
+			"aired_date": "2009-06-06"
+		},
+		{
+			"episode": 36,
+			"title": "Save Nana! Guardian Character Nurses, Move Out?",
+			"type": "manga-canon",
+			"aired_date": "2009-06-20"
+		},
+		{
+			"episode": 37,
+			"title": "Confrontation! The Great? Egg Calamity!!",
+			"type": "manga-canon",
+			"aired_date": "2009-06-20"
+		},
+		{
+			"episode": 38,
+			"title": "I Want to Tell You These Feelings!",
+			"type": "manga-canon",
+			"aired_date": "2009-06-27"
+		},
+		{
+			"episode": 39,
+			"title": "Heart to Heart",
+			"type": "manga-canon",
+			"aired_date": "2009-07-04"
+		},
+		{
+			"episode": 40,
+			"title": "Full Throttle! My Rhythm!",
+			"type": "manga-canon",
+			"aired_date": "2009-07-11"
+		},
+		{
+			"episode": 41,
+			"title": "It's Got to Be Cool! Beat Jumper!",
+			"type": "manga-canon",
+			"aired_date": "2009-07-18"
+		},
+		{
+			"episode": 42,
+			"title": "Hoshina Utau, Fly to the Future!",
+			"type": "manga-canon",
+			"aired_date": "2009-07-25"
+		},
+		{
+			"episode": 43,
+			"title": "Onward! The Calico Cat Search Party!?",
+			"type": "manga-canon",
+			"aired_date": "2009-08-01"
+		},
+		{
+			"episode": 44,
+			"title": "Unheard Pleas, Shattered Feelings.",
+			"type": "manga-canon",
+			"aired_date": "2009-08-08"
+		},
+		{
+			"episode": 45,
+			"title": "Rima, Yaya, and the Pearls that Bind Them!",
+			"type": "manga-canon",
+			"aired_date": "2009-08-15"
+		},
+		{
+			"episode": 46,
+			"title": "Tadase and Ikuto, the Horoscope of Fate!",
+			"type": "manga-canon",
+			"aired_date": "2009-08-22"
+		},
+		{
+			"episode": 47,
+			"title": "Reborn!! My Radiant Dancing Princess!",
+			"type": "manga-canon",
+			"aired_date": "2009-08-29"
+		},
+		{
+			"episode": 48,
+			"title": "Our Feelings United! The Guardians' Battle!",
+			"type": "manga-canon",
+			"aired_date": "2009-09-05"
+		},
+		{
+			"episode": 49,
+			"title": "The Birth of Two Character Transformations!",
+			"type": "manga-canon",
+			"aired_date": "2009-09-12"
+		},
+		{
+			"episode": 50,
+			"title": "The Torn Picture Book! The Tragic Secret!",
+			"type": "manga-canon",
+			"aired_date": "2009-09-19"
+		},
+		{
+			"episode": 51,
+			"title": "The Dream Egg, Who I Want to Be.",
+			"type": "manga-canon",
+			"aired_date": "2009-09-26"
+		}
+	]
+}

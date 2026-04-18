@@ -1,0 +1,268 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Sailor Moon R",
+	"mappings": {
+		"anilist_id": 740,
+		"mal_id": 740
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Moon Revived! The Mysterious Aliens Appear",
+			"type": "filler",
+			"aired_date": "1993-03-06"
+		},
+		{
+			"episode": 2,
+			"title": "For Love and Justice! A Sailor Guardian Once Again",
+			"type": "filler",
+			"aired_date": "1993-03-13"
+		},
+		{
+			"episode": 3,
+			"title": "For Whom is the White Rise? Moonlight Knight Appears",
+			"type": "filler",
+			"aired_date": "1993-03-20"
+		},
+		{
+			"episode": 4,
+			"title": "Usagi's Crisis: The Moon Tiara Doesn't Work",
+			"type": "filler",
+			"aired_date": "1993-04-10"
+		},
+		{
+			"episode": 5,
+			"title": "A New Transformation: Usagi Powers Up",
+			"type": "filler",
+			"aired_date": "1993-04-17"
+		},
+		{
+			"episode": 6,
+			"title": "Targeted Kindergarten Kids: Venus's Great Performance",
+			"type": "filler",
+			"aired_date": "1993-04-24"
+		},
+		{
+			"episode": 7,
+			"title": "Mamoru and Usagi's Babysitting Mayhem",
+			"type": "filler",
+			"aired_date": "1993-05-01"
+		},
+		{
+			"episode": 8,
+			"title": "The Culture Fest is for Me? Queen Rei Sings with Passion",
+			"type": "filler",
+			"aired_date": "1993-05-08"
+		},
+		{
+			"episode": 9,
+			"title": "Is Seijuro the Moonlight Knight? Mako Falls in Love",
+			"type": "filler",
+			"aired_date": "1993-05-22"
+		},
+		{
+			"episode": 10,
+			"title": "Steal Mamoru's Kiss! An's Snow White Strategy",
+			"type": "filler",
+			"aired_date": "1993-05-29"
+		},
+		{
+			"episode": 11,
+			"title": "Be Careful After School: Usagi is a Target",
+			"type": "filler",
+			"aired_date": "1993-06-05"
+		},
+		{
+			"episode": 12,
+			"title": "The Lovers' Hearts Disagree: The Angry Doom Tree",
+			"type": "filler",
+			"aired_date": "1993-06-12"
+		},
+		{
+			"episode": 13,
+			"title": "True Love Awakens: The Angry Doom Tree",
+			"type": "filler",
+			"aired_date": "1993-06-19"
+		},
+		{
+			"episode": 14,
+			"title": "An Angel? A Devil? Mysterious Girl from the Sky",
+			"type": "manga-canon",
+			"aired_date": "1993-06-26"
+		},
+		{
+			"episode": 15,
+			"title": "Huge Shock for Usagi: Mamoru Declares a Break Up",
+			"type": "manga-canon",
+			"aired_date": "1993-07-03"
+		},
+		{
+			"episode": 16,
+			"title": "The Friendship of the Sailor Guardians: Goodbye, Ami",
+			"type": "mixed-manga",
+			"aired_date": "1993-07-10"
+		},
+		{
+			"episode": 17,
+			"title": "Women Should be Strong and Beautiful: Rei's Killer New Move",
+			"type": "filler",
+			"aired_date": "1993-07-24"
+		},
+		{
+			"episode": 18,
+			"title": "In Search of the Silver Crystal: Chibiusa's Secret",
+			"type": "filler",
+			"aired_date": "1993-07-31"
+		},
+		{
+			"episode": 19,
+			"title": "Dispute Over Love: Minako and Makoto Face Off",
+			"type": "filler",
+			"aired_date": "1993-08-14"
+		},
+		{
+			"episode": 20,
+			"title": "Usagi's Parental Love: A Curry Triangle Relationship",
+			"type": "filler",
+			"aired_date": "1993-08-21"
+		},
+		{
+			"episode": 21,
+			"title": "The Ocean! The Island! A Vacation! A Break for the Sailor Guardians",
+			"type": "filler",
+			"aired_date": "1993-08-28"
+		},
+		{
+			"episode": 22,
+			"title": "Protect Chibiusa: The Clash of the 10 Warriors",
+			"type": "manga-canon",
+			"aired_date": "1993-09-11"
+		},
+		{
+			"episode": 23,
+			"title": "Awaken, Sleeping Beauty: Mamoru's Distress",
+			"type": "filler",
+			"aired_date": "1993-09-25"
+		},
+		{
+			"episode": 24,
+			"title": "A Battle of the Flames of Love: Mars vs. Koan",
+			"type": "mixed-manga",
+			"aired_date": "1993-10-02"
+		},
+		{
+			"episode": 25,
+			"title": "For Friendship: Ami and Berthier Clash",
+			"type": "mixed-manga",
+			"aired_date": "1993-10-16"
+		},
+		{
+			"episode": 26,
+			"title": "Cold-Hearted Rubeus: The Four Sisters of Sorrow",
+			"type": "manga-canon",
+			"aired_date": "1993-10-30"
+		},
+		{
+			"episode": 27,
+			"title": "A UFO Appears: The Sailor Guardians are Abducted",
+			"type": "manga-canon",
+			"aired_date": "1993-11-06"
+		},
+		{
+			"episode": 28,
+			"title": "Defeat Rubeus: A Battle in Space",
+			"type": "manga-canon",
+			"aired_date": "1993-11-13"
+		},
+		{
+			"episode": 29,
+			"title": "A Mysterious New Guardian: Pluto Appears",
+			"type": "manga-canon",
+			"aired_date": "1993-11-20"
+		},
+		{
+			"episode": 30,
+			"title": "Magical Power of Darkness: Emeraude's Invasion",
+			"type": "mixed-manga",
+			"aired_date": "1993-12-04"
+		},
+		{
+			"episode": 31,
+			"title": "Our Feelings are the Same: Usagi and Mamoru in Love Once Again",
+			"type": "manga-canon",
+			"aired_date": "1993-12-11"
+		},
+		{
+			"episode": 32,
+			"title": "Venus Minako's Nurse Mayhem",
+			"type": "filler",
+			"aired_date": "1993-12-18"
+		},
+		{
+			"episode": 33,
+			"title": "Artemis's Adventure: The Evil Animal Kingdom",
+			"type": "filler",
+			"aired_date": "1993-12-25"
+		},
+		{
+			"episode": 34,
+			"title": "Terrifying Illusion: Ami All Alone",
+			"type": "filler",
+			"aired_date": "1994-01-08"
+		},
+		{
+			"episode": 35,
+			"title": "Dark Gate Completed: A Grade School in Danger",
+			"type": "mixed-manga",
+			"aired_date": "1994-01-15"
+		},
+		{
+			"episode": 36,
+			"title": "A Journey to the Future: Battle in the Space-Time Corridor",
+			"type": "manga-canon",
+			"aired_date": "1994-01-22"
+		},
+		{
+			"episode": 37,
+			"title": "The Shocking Future: Dimande's Dark Ambition",
+			"type": "manga-canon",
+			"aired_date": "1994-01-29"
+		},
+		{
+			"episode": 38,
+			"title": "Wiseman's Evil Hand: Chibiusa Disappears",
+			"type": "manga-canon",
+			"aired_date": "1994-02-05"
+		},
+		{
+			"episode": 39,
+			"title": "The Birth of Black Lady, Queen of Darkness",
+			"type": "manga-canon",
+			"aired_date": "1994-02-12"
+		},
+		{
+			"episode": 40,
+			"title": "Saphir Dies: Wiseman's Trap",
+			"type": "manga-canon",
+			"aired_date": "1994-02-19"
+		},
+		{
+			"episode": 41,
+			"title": "Believe in Love and the Future: Usagi's Determination",
+			"type": "manga-canon",
+			"aired_date": "1994-02-26"
+		},
+		{
+			"episode": 42,
+			"title": "The Final Battle Between Love and Darkness: Love Sworn to the Future",
+			"type": "manga-canon",
+			"aired_date": "1994-03-05"
+		},
+		{
+			"episode": 43,
+			"title": "Usagi and the Girls' Resolve: Prelude to a New Battle",
+			"type": "filler",
+			"aired_date": "1994-03-12"
+		}
+	]
+}

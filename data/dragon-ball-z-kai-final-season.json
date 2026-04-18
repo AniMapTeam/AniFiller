@@ -1,0 +1,424 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Dragon Ball Z Kai: The Final Chapters",
+	"mappings": {
+		"anilist_id": 20635,
+		"mal_id": 22777
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Seven Years Later! Starting Today, Gohan Is a High School Student",
+			"type": "manga-canon",
+			"aired_date": "2014-04-06"
+		},
+		{
+			"episode": 2,
+			"title": "A New Hero, Great Saiyaman, Is Born!",
+			"type": "mixed-manga",
+			"aired_date": "2014-04-13"
+		},
+		{
+			"episode": 3,
+			"title": "Videl's Crisis? Gohan's Urgent Call-out!",
+			"type": "filler",
+			"aired_date": "2014-04-20"
+		},
+		{
+			"episode": 4,
+			"title": "A Monster is Taken Away! The Culprit is Great Saiyaman?",
+			"type": "mixed-manga",
+			"aired_date": "2014-04-27"
+		},
+		{
+			"episode": 5,
+			"title": "Entering the World Martial Arts Tournament! Goten Shows Off His Explosive Power During Training!",
+			"type": "mixed-manga",
+			"aired_date": "2014-05-04"
+		},
+		{
+			"episode": 6,
+			"title": "Gohan the Teacher! Videl's Flying Technique Tutorial",
+			"type": "mixed-manga",
+			"aired_date": "2014-05-11"
+		},
+		{
+			"episode": 7,
+			"title": "The Dragon Team Fully Assembled! Goku Has Come Back!",
+			"type": "mixed-manga",
+			"aired_date": "2014-05-18"
+		},
+		{
+			"episode": 8,
+			"title": "Who Is the World's Greatest? The Tournament Preliminaries Begin!",
+			"type": "mixed-manga",
+			"aired_date": "2014-05-25"
+		},
+		{
+			"episode": 9,
+			"title": "Everyone is Surprised! Goten and Trunks' Super Battle!",
+			"type": "mixed-manga",
+			"aired_date": "2014-06-01"
+		},
+		{
+			"episode": 10,
+			"title": "The Junior Champ Is Finally Decided! Who Will Fight Against Mr. Satan?",
+			"type": "manga-canon",
+			"aired_date": "2014-06-08"
+		},
+		{
+			"episode": 11,
+			"title": "Restless Foreboding; A Mysterious Warrior Appears!",
+			"type": "manga-canon",
+			"aired_date": "2014-06-15"
+		},
+		{
+			"episode": 12,
+			"title": "What Happened, Piccolo? An Unexpected Outcome in the First Round",
+			"type": "mixed-manga",
+			"aired_date": "2014-06-22"
+		},
+		{
+			"episode": 13,
+			"title": "An Eerie Entity; Who Exactly Is Spopovich?",
+			"type": "mixed-manga",
+			"aired_date": "2014-06-29"
+		},
+		{
+			"episode": 14,
+			"title": "Videl Battered! Gohan's Fury Reaches Its Limit!",
+			"type": "mixed-manga",
+			"aired_date": "2014-07-06"
+		},
+		{
+			"episode": 15,
+			"title": "A Creeping Conspiracy! The Target is Gohan",
+			"type": "mixed-manga",
+			"aired_date": "2014-07-13"
+		},
+		{
+			"episode": 16,
+			"title": "Terrifying Secret of the Majin; The Mastermind Revealed!",
+			"type": "mixed-manga",
+			"aired_date": "2014-07-20"
+		},
+		{
+			"episode": 17,
+			"title": "The Nefarious Wizard Babidi And Demon King Dabura's Trap",
+			"type": "mixed-manga",
+			"aired_date": "2014-07-27"
+		},
+		{
+			"episode": 18,
+			"title": "Don't Sell Super Saiyans Short! Vegeta and Goku's Full-Bore Power!",
+			"type": "manga-canon",
+			"aired_date": "2014-08-03"
+		},
+		{
+			"episode": 19,
+			"title": "Whither Victory? A Battle Royal Championship Match!",
+			"type": "mixed-manga",
+			"aired_date": "2014-08-10"
+		},
+		{
+			"episode": 20,
+			"title": "Stunning Youngsters! No. 18's Uphill Battle",
+			"type": "mixed-manga",
+			"aired_date": "2014-08-17"
+		},
+		{
+			"episode": 21,
+			"title": "Enter the Headliner! The Looming Demon King!",
+			"type": "mixed-manga",
+			"aired_date": "2014-08-24"
+		},
+		{
+			"episode": 22,
+			"title": "A Heart of Evil Awakened; Vegeta, Prince of Destruction",
+			"type": "mixed-manga",
+			"aired_date": "2014-08-31"
+		},
+		{
+			"episode": 23,
+			"title": "I am the Strongest! The Clash of Goku vs. Vegeta",
+			"type": "mixed-manga",
+			"aired_date": "2014-09-07"
+		},
+		{
+			"episode": 24,
+			"title": "Countdown to Revival: Crush Babidi’s Ambitions!",
+			"type": "mixed-manga",
+			"aired_date": "2014-09-14"
+		},
+		{
+			"episode": 25,
+			"title": "The Seal is Released? Gohan's Kamehame-Ha of Resistance",
+			"type": "mixed-manga",
+			"aired_date": "2014-09-21"
+		},
+		{
+			"episode": 26,
+			"title": "Straightaway Into Despair? The Terror of Majin Buu",
+			"type": "manga-canon",
+			"aired_date": "2014-09-28"
+		},
+		{
+			"episode": 27,
+			"title": "Turn Into Candy! A Hungry Majin's Bizarre Power!",
+			"type": "mixed-manga",
+			"aired_date": "2014-10-05"
+		},
+		{
+			"episode": 28,
+			"title": "I Will Deal With the Majin! Vegeta's Final Mortal Combat!",
+			"type": "mixed-manga",
+			"aired_date": "2014-10-12"
+		},
+		{
+			"episode": 29,
+			"title": "For His Beloved Ones... The End of the Proud Warrior!",
+			"type": "mixed-manga",
+			"aired_date": "2014-10-19"
+		},
+		{
+			"episode": 30,
+			"title": "A Nightmare Revisited: The Immortal Monster Majin Buu!",
+			"type": "mixed-manga",
+			"aired_date": "2014-10-26"
+		},
+		{
+			"episode": 31,
+			"title": "A Secret Plan to Defeat Buu! Its Name is Fusion",
+			"type": "mixed-manga",
+			"aired_date": "2014-11-02"
+		},
+		{
+			"episode": 32,
+			"title": "Found! A Faint Ray of Hope - Awaken, Warriors!",
+			"type": "mixed-manga",
+			"aired_date": "2014-11-09"
+		},
+		{
+			"episode": 33,
+			"title": "Find the Nuisances: Babidi's Retaliation Begins!",
+			"type": "mixed-manga",
+			"aired_date": "2014-11-16"
+		},
+		{
+			"episode": 34,
+			"title": "A Time of Trials! Lay Hold of Legendary Powers!",
+			"type": "mixed-manga",
+			"aired_date": "2014-11-23"
+		},
+		{
+			"episode": 35,
+			"title": "Hold Majin Buu in Check! Limit — Super Saiyan 3!",
+			"type": "mixed-manga",
+			"aired_date": "2014-11-30"
+		},
+		{
+			"episode": 36,
+			"title": "True Worth Beginning to Show - The Treacherous Buu!",
+			"type": "mixed-manga",
+			"aired_date": "2014-12-07"
+		},
+		{
+			"episode": 37,
+			"title": "Silly Looking? Drilling the Fusion Pose!",
+			"type": "mixed-manga",
+			"aired_date": "2014-12-14"
+		},
+		{
+			"episode": 38,
+			"title": "Bye-bye, Everyone! Goku Returns to the Next World",
+			"type": "mixed-manga",
+			"aired_date": "2014-12-21"
+		},
+		{
+			"episode": 39,
+			"title": "Gohan Located! Intensive Training in the World of the Kais!",
+			"type": "mixed-manga",
+			"aired_date": "2014-12-28"
+		},
+		{
+			"episode": 40,
+			"title": "Birth of a Merged Superwarrior His Name is Gotenks!",
+			"type": "mixed-manga",
+			"aired_date": "2015-01-04"
+		},
+		{
+			"episode": 41,
+			"title": "Who Will Defeat Majin Buu? The Mightiest of Men Moves Out!",
+			"type": "mixed-manga",
+			"aired_date": "2015-01-11"
+		},
+		{
+			"episode": 42,
+			"title": "The Powering Up Continues? Super Gotenks is Achieved!",
+			"type": "mixed-manga",
+			"aired_date": "2015-01-18"
+		},
+		{
+			"episode": 43,
+			"title": "What Anger Gives Rise To Another Majin!",
+			"type": "mixed-manga",
+			"aired_date": "2015-01-25"
+		},
+		{
+			"episode": 44,
+			"title": "Buu Gobbles Up Buu! Onslaught of a New Majin!",
+			"type": "mixed-manga",
+			"aired_date": "2015-02-01"
+		},
+		{
+			"episode": 45,
+			"title": "Headlong Rush Into Catastrophe! A One-Hour Time Limit!",
+			"type": "mixed-manga",
+			"aired_date": "2015-02-08"
+		},
+		{
+			"episode": 46,
+			"title": "Training Complete! You're Finished Now, Majin Buu!",
+			"type": "mixed-manga",
+			"aired_date": "2015-02-15"
+		},
+		{
+			"episode": 47,
+			"title": "Eliminating Buu with Ghosts: A Knockout Kamikaze Attack!",
+			"type": "mixed-manga",
+			"aired_date": "2015-02-22"
+		},
+		{
+			"episode": 48,
+			"title": "Gotenks' Ace in the Hole! Transformation! Super Gotenks 3!",
+			"type": "mixed-manga",
+			"aired_date": "2015-03-01"
+		},
+		{
+			"episode": 49,
+			"title": "On a Roll! Buu-Buu-Volleyball!",
+			"type": "mixed-manga",
+			"aired_date": "2015-03-08"
+		},
+		{
+			"episode": 50,
+			"title": "Thanks for Waiting, Everyone! A Reborn Gohan Heads for Earth!",
+			"type": "mixed-manga",
+			"aired_date": "2015-03-15"
+		},
+		{
+			"episode": 51,
+			"title": "Buu Overwhelmed! Ultimate Gohan's Super Power!",
+			"type": "mixed-manga",
+			"aired_date": "2015-03-22"
+		},
+		{
+			"episode": 52,
+			"title": "Buu's Sinister Scheme: Gotenks is Absorbed",
+			"type": "mixed-manga",
+			"aired_date": "2015-03-29"
+		},
+		{
+			"episode": 53,
+			"title": "The Elder Kai's Brainstorm! Return to Life, Goku!",
+			"type": "mixed-manga",
+			"aired_date": "2015-04-05"
+		},
+		{
+			"episode": 54,
+			"title": "Miracles Happen Once... Will Goku and He Make the Ultimate Combination?",
+			"type": "mixed-manga",
+			"aired_date": "2015-04-12"
+		},
+		{
+			"episode": 55,
+			"title": "Invincible! The Ultimate Warrior Vegito!",
+			"type": "mixed-manga",
+			"aired_date": "2015-04-19"
+		},
+		{
+			"episode": 56,
+			"title": "Buu's Ace in the Hole! The Warriors Are Absorbed!",
+			"type": "mixed-manga",
+			"aired_date": "2015-04-26"
+		},
+		{
+			"episode": 57,
+			"title": "Rescue Gohan and the Others! Goku and Vegeta's Infiltration Mission!",
+			"type": "mixed-manga",
+			"aired_date": "2015-05-03"
+		},
+		{
+			"episode": 58,
+			"title": "Emergency Escape from the Body! Buu's Retrogression Into Evil!",
+			"type": "mixed-manga",
+			"aired_date": "2015-05-10"
+		},
+		{
+			"episode": 59,
+			"title": "Earth Destroyed! The Initial Buu's Nefarious Strike",
+			"type": "mixed-manga",
+			"aired_date": "2015-05-17"
+		},
+		{
+			"episode": 60,
+			"title": "A Final Showdown at the Summit! Face-Off in the World of the Kais!",
+			"type": "mixed-manga",
+			"aired_date": "2015-05-24"
+		},
+		{
+			"episode": 61,
+			"title": "Hang In There, Kakarot! You Are No. 1!",
+			"type": "mixed-manga",
+			"aired_date": "2015-05-31"
+		},
+		{
+			"episode": 62,
+			"title": "A One-Minute Match-Up! Vegeta's Life-Threatening Stall for Time!",
+			"type": "mixed-manga",
+			"aired_date": "2015-06-07"
+		},
+		{
+			"episode": 63,
+			"title": "An Inspired Strategy - Make Two Wishes Come True!",
+			"type": "manga-canon",
+			"aired_date": "2015-06-14"
+		},
+		{
+			"episode": 64,
+			"title": "Share Your Spirit Energy with Me! I'm Making a Huge Spirit Bomb!",
+			"type": "mixed-manga",
+			"aired_date": "2015-06-21"
+		},
+		{
+			"episode": 65,
+			"title": "You Are the Savior of the World! Everybody's Spirit Bomb Completed!",
+			"type": "mixed-manga",
+			"aired_date": "2015-06-28"
+		},
+		{
+			"episode": 66,
+			"title": "You Really Are the Greatest, Goku!! The Demise of Majin Buu",
+			"type": "mixed-manga",
+			"aired_date": "2015-07-05"
+		},
+		{
+			"episode": 67,
+			"title": "Peace Returns! A Time of Rest for the Warriors!",
+			"type": "filler",
+			"aired_date": "2015-07-12"
+		},
+		{
+			"episode": 68,
+			"title": "And So, Ten Years Later... A Long-Awaited World Martial Arts Tournament!",
+			"type": "mixed-manga",
+			"aired_date": "2015-07-19"
+		},
+		{
+			"episode": 69,
+			"title": "Even Stronger! Goku's Dream is Never-Ending!",
+			"type": "mixed-manga",
+			"aired_date": "2015-07-26"
+		}
+	]
+}

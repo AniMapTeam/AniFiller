@@ -1,0 +1,130 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Magic Knight Rayearth",
+	"mappings": {
+		"anilist_id": 435,
+		"mal_id": 435
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Birth of the Legendary Magic Knights!",
+			"type": "manga-canon",
+			"aired_date": "1994-10-17"
+		},
+		{
+			"episode": 2,
+			"title": "Presea, the Master Smith in the Forest of Silence",
+			"type": "mixed-manga",
+			"aired_date": "1994-10-24"
+		},
+		{
+			"episode": 3,
+			"title": "Ferio, the Handsome, Mysterious Swordsman",
+			"type": "mixed-manga",
+			"aired_date": "1994-10-31"
+		},
+		{
+			"episode": 4,
+			"title": "Alcyone, the Vengeful Sorceress",
+			"type": "manga-canon",
+			"aired_date": "1994-11-07"
+		},
+		{
+			"episode": 5,
+			"title": "Escudo, the Legendary Ore",
+			"type": "manga-canon",
+			"aired_date": "1994-11-14"
+		},
+		{
+			"episode": 6,
+			"title": "Lives at Stake, Presea's Weapons",
+			"type": "mixed-manga",
+			"aired_date": "1994-11-21"
+		},
+		{
+			"episode": 7,
+			"title": "Ferio in Desperation - A Romance in the Desert",
+			"type": "filler",
+			"aired_date": "1994-11-28"
+		},
+		{
+			"episode": 8,
+			"title": "The Horrible Trap of Summoner Ascot",
+			"type": "filler",
+			"aired_date": "1994-12-05"
+		},
+		{
+			"episode": 9,
+			"title": "The Magic Knights' Greatest Crisis",
+			"type": "filler",
+			"aired_date": "1994-12-12"
+		},
+		{
+			"episode": 10,
+			"title": "Revival of Selece, the Legendary Rune-God",
+			"type": "manga-canon",
+			"aired_date": "1995-01-09"
+		},
+		{
+			"episode": 11,
+			"title": "The Legend of the Rune-Gods - In Cephiro, Another World",
+			"type": "filler",
+			"aired_date": "1995-01-16"
+		},
+		{
+			"episode": 12,
+			"title": "The Fearsome Illusionist Caldina",
+			"type": "mixed-manga",
+			"aired_date": "1995-01-23"
+		},
+		{
+			"episode": 13,
+			"title": "The Most Valuable Thing in this World",
+			"type": "manga-canon",
+			"aired_date": "1995-01-30"
+		},
+		{
+			"episode": 14,
+			"title": "Hikaru, Umi, and Fuu's Unyielding Wish",
+			"type": "filler",
+			"aired_date": "1995-02-06"
+		},
+		{
+			"episode": 15,
+			"title": "The Second Rune-God: Windam, the Lord of the Skies",
+			"type": "mixed-manga",
+			"aired_date": "1995-02-13"
+		},
+		{
+			"episode": 16,
+			"title": "A Powerful Foe! Lafarga the Swordmaster",
+			"type": "manga-canon",
+			"aired_date": "1995-02-20"
+		},
+		{
+			"episode": 17,
+			"title": "The Truth About Inouva, and the Return of Memories",
+			"type": "filler",
+			"aired_date": "1995-02-27"
+		},
+		{
+			"episode": 18,
+			"title": "The Last Rune-God: Rayearth, the Lord of Fire",
+			"type": "manga-canon",
+			"aired_date": "1995-03-06"
+		},
+		{
+			"episode": 19,
+			"title": "Showdown! The Magic Knights Versus Zagato",
+			"type": "manga-canon",
+			"aired_date": "1995-03-13"
+		},
+		{
+			"episode": 20,
+			"title": "The Unbelievable Truth About the Legendary Magic Knights",
+			"type": "manga-canon",
+			"aired_date": "1995-03-13"
+		}
+	]
+}

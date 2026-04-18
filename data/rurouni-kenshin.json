@@ -1,0 +1,574 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Rurouni Kenshin",
+	"mappings": {
+		"anilist_id": 45,
+		"mal_id": 45
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Handsome Swordsman of Legend: A Man who Fights for Love",
+			"type": "mixed-manga",
+			"aired_date": "1996-01-10"
+		},
+		{
+			"episode": 2,
+			"title": "Kid Samurai: A Big Ordeal and a New Student",
+			"type": "manga-canon",
+			"aired_date": "1996-01-17"
+		},
+		{
+			"episode": 3,
+			"title": "Swordsman of Sorrow: The Man Who Slays His Past",
+			"type": "manga-canon",
+			"aired_date": "1996-01-24"
+		},
+		{
+			"episode": 4,
+			"title": "Bad! Introducing Sanosuke, Fighter-for-hire",
+			"type": "manga-canon",
+			"aired_date": "1996-01-31"
+		},
+		{
+			"episode": 5,
+			"title": "The Reverse-blade Sword vs. the Zanbatou: Beyond the Battle",
+			"type": "manga-canon",
+			"aired_date": "1996-02-07"
+		},
+		{
+			"episode": 6,
+			"title": "The Appearance of Kurogasa: Visitor from the Shadows",
+			"type": "manga-canon",
+			"aired_date": "1996-02-14"
+		},
+		{
+			"episode": 7,
+			"title": "Deathmatch under the Moon! Protect the One You Love",
+			"type": "manga-canon",
+			"aired_date": "1996-02-21"
+		},
+		{
+			"episode": 8,
+			"title": "A New Battle! The Mysterious Beauty From Nowhere",
+			"type": "manga-canon",
+			"aired_date": "1996-02-28"
+		},
+		{
+			"episode": 9,
+			"title": "The Strongest Group of Ninjas: The Horrible Oniwaban Group",
+			"type": "manga-canon",
+			"aired_date": "1996-03-06"
+		},
+		{
+			"episode": 10,
+			"title": "Aoshi: Someone so Beautiful it's Frightening",
+			"type": "manga-canon",
+			"aired_date": "1996-03-13"
+		},
+		{
+			"episode": 11,
+			"title": "Farewell, the Strongest Men: The Clash of Light and Shadow",
+			"type": "manga-canon",
+			"aired_date": "1996-04-24"
+		},
+		{
+			"episode": 12,
+			"title": "Birth of a Boy Swordsman: The Battle of First Apprentice Yahiko",
+			"type": "manga-canon",
+			"aired_date": "1996-05-07"
+		},
+		{
+			"episode": 13,
+			"title": "Strive for the Grand Championship: Toramaru's Sumo Battle Log!",
+			"type": "filler",
+			"aired_date": "1996-05-08"
+		},
+		{
+			"episode": 14,
+			"title": "To Save a Small Life Lady Doctor Megumi to the Rescue",
+			"type": "filler",
+			"aired_date": "1996-05-15"
+		},
+		{
+			"episode": 15,
+			"title": "Two Legendary Manslayers\nTwo Legendary Slashers",
+			"type": "filler",
+			"aired_date": "1996-05-22"
+		},
+		{
+			"episode": 16,
+			"title": "A Promise From the Heart\nThe Secret Sword Technique of Shiden",
+			"type": "filler",
+			"aired_date": "1996-06-05"
+		},
+		{
+			"episode": 17,
+			"title": "Fly to Your Dreams\nMarimo, The Human Cannon",
+			"type": "filler",
+			"aired_date": "1996-06-12"
+		},
+		{
+			"episode": 18,
+			"title": "Run, Yahiko!\nRun Yahiko! Get the Reverse-Edged Sword Back",
+			"type": "filler",
+			"aired_date": "1996-06-19"
+		},
+		{
+			"episode": 19,
+			"title": "Raijuta's Ambition\nThe Fantasy of the Forbidden Kingdom",
+			"type": "manga-canon",
+			"aired_date": "1996-06-26"
+		},
+		{
+			"episode": 20,
+			"title": "Revival of the Shinko Style\nRevival of the Killer Sword – Shinko Style",
+			"type": "manga-canon",
+			"aired_date": "1996-07-10"
+		},
+		{
+			"episode": 21,
+			"title": "Dissolution of a Nightmare\nDestruction of a Nightmare",
+			"type": "manga-canon",
+			"aired_date": "1996-07-17"
+		},
+		{
+			"episode": 22,
+			"title": "Danger on a Runaway Locomotive\nSurprise Incident on a Runaway Locomotive",
+			"type": "filler",
+			"aired_date": "1996-07-31"
+		},
+		{
+			"episode": 23,
+			"title": "Sanosuke's Betrayal\nThe Fateful Reunion",
+			"type": "manga-canon",
+			"aired_date": "1996-08-14"
+		},
+		{
+			"episode": 24,
+			"title": "Midnight Battle:Kenshin versus Sanosuke Revisited",
+			"type": "manga-canon",
+			"aired_date": "1996-08-24"
+		},
+		{
+			"episode": 25,
+			"title": "The Crimson Pirate\nThe Red Pirate – Kenshin and Kaoru Separated",
+			"type": "filler",
+			"aired_date": "1996-08-28"
+		},
+		{
+			"episode": 26,
+			"title": "Lightning Incarnate\nShura, The Mysterious Female Pirate",
+			"type": "filler",
+			"aired_date": "1996-09-04"
+		},
+		{
+			"episode": 27,
+			"title": "Burn, Island of Terror!\nThe Red Pirate - Conclusion",
+			"type": "filler",
+			"aired_date": "1996-10-16"
+		},
+		{
+			"episode": 28,
+			"title": "Prelude to the Impending Fight: The Shadow of the Wolf Draws Near",
+			"type": "manga-canon",
+			"aired_date": "1996-10-30"
+		},
+		{
+			"episode": 29,
+			"title": "Strongest Opponent From the Past: Merciless Fangs Strike!",
+			"type": "manga-canon",
+			"aired_date": "1996-11-06"
+		},
+		{
+			"episode": 30,
+			"title": "A Devil of Vengeance: Makoto Shishio's Plot",
+			"type": "manga-canon",
+			"aired_date": "1996-11-13"
+		},
+		{
+			"episode": 31,
+			"title": "A Wish Unrequited: Kenshin Departs",
+			"type": "manga-canon",
+			"aired_date": "1996-11-27"
+		},
+		{
+			"episode": 32,
+			"title": "Change Tears to Courage: Kaoru Kamiya's Choice",
+			"type": "manga-canon",
+			"aired_date": "1996-12-04"
+		},
+		{
+			"episode": 33,
+			"title": "For the Title of Strongest: Aoshi's New Conflict",
+			"type": "manga-canon",
+			"aired_date": "1996-12-11"
+		},
+		{
+			"episode": 34,
+			"title": "The Girl Bandit: Misao Makimachi's Hidden Side",
+			"type": "manga-canon",
+			"aired_date": "1997-01-08"
+		},
+		{
+			"episode": 35,
+			"title": "Conquered Village: The Grasp of Shishio's Hands",
+			"type": "manga-canon",
+			"aired_date": "1997-01-15"
+		},
+		{
+			"episode": 36,
+			"title": "Across the Boundary Between Edo and Meiji: Kenshin and Shishio Face to Face!",
+			"type": "manga-canon",
+			"aired_date": "1997-01-22"
+		},
+		{
+			"episode": 37,
+			"title": "Shock! The Reverse-Blade is Broken: Sojiro's Tenken verses Kenshin",
+			"type": "manga-canon",
+			"aired_date": "1997-01-29"
+		},
+		{
+			"episode": 38,
+			"title": "Sanosuke's Secret Training: The Challenge of Anji the Destroyer",
+			"type": "manga-canon",
+			"aired_date": "1997-02-05"
+		},
+		{
+			"episode": 39,
+			"title": "The Creator of the Reverse-Blade Sword: Shakku Arai's Final Swing",
+			"type": "manga-canon",
+			"aired_date": "1997-02-12"
+		},
+		{
+			"episode": 40,
+			"title": "A Killer Without Mercy: Fight to the Death Against the Cho of the Juppongatana",
+			"type": "manga-canon",
+			"aired_date": "1997-02-19"
+		},
+		{
+			"episode": 41,
+			"title": "The Ultimate Technique of the Hiten-Mitsurugi Style: Reunion with a Mentor, Seijuro Hiko",
+			"type": "manga-canon",
+			"aired_date": "1997-02-26"
+		},
+		{
+			"episode": 42,
+			"title": "The Formation of an Alliance: The Day When Aoshi Joins with Shishio",
+			"type": "manga-canon",
+			"aired_date": "1997-03-05"
+		},
+		{
+			"episode": 43,
+			"title": "Between Life and Death: Master the Ultimate Technique, Amakakeru Ryu no Hikameki!",
+			"type": "manga-canon",
+			"aired_date": "1997-03-12"
+		},
+		{
+			"episode": 44,
+			"title": "A Decisive Battle Like Violent Waters: The Strongest Troop Juppongatana",
+			"type": "manga-canon",
+			"aired_date": "1997-03-19"
+		},
+		{
+			"episode": 45,
+			"title": "As if to Fly: Stop the Launch of the Battleship Purgatory!",
+			"type": "manga-canon",
+			"aired_date": "1997-04-16"
+		},
+		{
+			"episode": 46,
+			"title": "Purgatory Bursts into Flames: The Destiny of Makoto Shishio",
+			"type": "manga-canon",
+			"aired_date": "1997-04-23"
+		},
+		{
+			"episode": 47,
+			"title": "Crash! The Lethal Punch, Futae no Kiwami: The Fist of Sonosuke Screams!",
+			"type": "manga-canon",
+			"aired_date": "1997-04-30"
+		},
+		{
+			"episode": 48,
+			"title": "Reborn to Salvation: The Beginning of Anji’s New Life",
+			"type": "manga-canon",
+			"aired_date": "1997-05-14"
+		},
+		{
+			"episode": 49,
+			"title": "The Wolf Destroys the Eye of the Heart: The Fierce Attack of the Zero Stance Gatotsu",
+			"type": "manga-canon",
+			"aired_date": "1997-05-28"
+		},
+		{
+			"episode": 50,
+			"title": "The Promised Time Has Come: Aoshi and Kenshin Fight Again",
+			"type": "manga-canon",
+			"aired_date": "1997-06-04"
+		},
+		{
+			"episode": 51,
+			"title": "Wake Up Now! Ignore Your Wounds and Fight to the Finish",
+			"type": "manga-canon",
+			"aired_date": "1997-06-11"
+		},
+		{
+			"episode": 52,
+			"title": "To Make a Miracle: The Battle at the Aoiya",
+			"type": "manga-canon",
+			"aired_date": "1997-06-18"
+		},
+		{
+			"episode": 53,
+			"title": "The Giant Versus Superman: Like an Arrow Shot at a Time of Despair",
+			"type": "manga-canon",
+			"aired_date": "1997-06-25"
+		},
+		{
+			"episode": 54,
+			"title": "Hiten versus Shukuchi",
+			"type": "manga-canon",
+			"aired_date": "1997-07-02"
+		},
+		{
+			"episode": 55,
+			"title": "The Tragedy of a Stormy Night",
+			"type": "manga-canon",
+			"aired_date": "1997-07-09"
+		},
+		{
+			"episode": 56,
+			"title": "A Duel With an Extreme Moment",
+			"type": "manga-canon",
+			"aired_date": "1997-07-16"
+		},
+		{
+			"episode": 57,
+			"title": "Two Men at the End of an Era",
+			"type": "manga-canon",
+			"aired_date": "1997-08-06"
+		},
+		{
+			"episode": 58,
+			"title": "The Age Chooses Shishio?",
+			"type": "manga-canon",
+			"aired_date": "1997-08-13"
+		},
+		{
+			"episode": 59,
+			"title": "Not Out of Luck!",
+			"type": "manga-canon",
+			"aired_date": "1997-08-20"
+		},
+		{
+			"episode": 60,
+			"title": "The Man Who is Chosen for Victory",
+			"type": "manga-canon",
+			"aired_date": "1997-09-03"
+		},
+		{
+			"episode": 61,
+			"title": "The Juppongatana Who Remain (aka The Choice for Life)",
+			"type": "manga-canon",
+			"aired_date": "1997-09-10"
+		},
+		{
+			"episode": 62,
+			"title": "Kyoto, the Engraved Memory",
+			"type": "manga-canon",
+			"aired_date": "1997-09-17"
+		},
+		{
+			"episode": 63,
+			"title": "The Legend of the Fireflies",
+			"type": "filler",
+			"aired_date": "1997-10-14"
+		},
+		{
+			"episode": 64,
+			"title": "The Birth of Prince Yahiko",
+			"type": "filler",
+			"aired_date": "1997-10-28"
+		},
+		{
+			"episode": 65,
+			"title": "Find the Lost Treasure!",
+			"type": "filler",
+			"aired_date": "1997-11-04"
+		},
+		{
+			"episode": 66,
+			"title": "Kaoru, Ecstatic",
+			"type": "filler",
+			"aired_date": "1997-11-11"
+		},
+		{
+			"episode": 67,
+			"title": "The Gleaming Blade of Legends",
+			"type": "filler",
+			"aired_date": "1997-11-18"
+		},
+		{
+			"episode": 68,
+			"title": "The Medallion of Destiny",
+			"type": "filler",
+			"aired_date": "1997-11-25"
+		},
+		{
+			"episode": 69,
+			"title": "To the Battlefield of Shimabara",
+			"type": "filler",
+			"aired_date": "1997-12-02"
+		},
+		{
+			"episode": 70,
+			"title": "Shock of the Rai Ryu Sen",
+			"type": "filler",
+			"aired_date": "1997-12-09"
+		},
+		{
+			"episode": 71,
+			"title": "Kaiou's Conspiracy",
+			"type": "filler",
+			"aired_date": "1997-12-16"
+		},
+		{
+			"episode": 72,
+			"title": "The Days of Remorse",
+			"type": "filler",
+			"aired_date": "1998-01-06"
+		},
+		{
+			"episode": 73,
+			"title": "The Sneering Demon",
+			"type": "filler",
+			"aired_date": "1998-01-13"
+		},
+		{
+			"episode": 74,
+			"title": "Sanosuke's Tears",
+			"type": "filler",
+			"aired_date": "1998-01-20"
+		},
+		{
+			"episode": 75,
+			"title": "The Last Crusade",
+			"type": "filler",
+			"aired_date": "1998-01-27"
+		},
+		{
+			"episode": 76,
+			"title": "Bon Voyage",
+			"type": "filler",
+			"aired_date": "1998-02-03"
+		},
+		{
+			"episode": 77,
+			"title": "Himura Dojo in Shimonoseki?",
+			"type": "filler",
+			"aired_date": "1998-02-10"
+		},
+		{
+			"episode": 78,
+			"title": "Crush!",
+			"type": "filler",
+			"aired_date": "1998-02-17"
+		},
+		{
+			"episode": 79,
+			"title": "Kaishu-Katsu and Kenshin",
+			"type": "mixed-manga",
+			"aired_date": "1998-02-24"
+		},
+		{
+			"episode": 80,
+			"title": "The Unending Revolution",
+			"type": "mixed-manga",
+			"aired_date": "1998-03-03"
+		},
+		{
+			"episode": 81,
+			"title": "Conspiracy of the Beniaoi",
+			"type": "mixed-manga",
+			"aired_date": "1998-03-10"
+		},
+		{
+			"episode": 82,
+			"title": "Kaishu-Katsu's Determination",
+			"type": "mixed-manga",
+			"aired_date": "1998-04-14"
+		},
+		{
+			"episode": 83,
+			"title": "Yutaro Returns",
+			"type": "filler",
+			"aired_date": "1998-04-21"
+		},
+		{
+			"episode": 84,
+			"title": "The Sanada Ninja Squad",
+			"type": "filler",
+			"aired_date": "1998-05-05"
+		},
+		{
+			"episode": 85,
+			"title": "A Straying Journey",
+			"type": "filler",
+			"aired_date": "1998-05-19"
+		},
+		{
+			"episode": 86,
+			"title": "A Heatwave from Beneath the Earth",
+			"type": "filler",
+			"aired_date": "1998-05-26"
+		},
+		{
+			"episode": 87,
+			"title": "Schneider's Bet",
+			"type": "filler",
+			"aired_date": "1998-06-02"
+		},
+		{
+			"episode": 88,
+			"title": "The Two Guides",
+			"type": "filler",
+			"aired_date": "1998-06-09"
+		},
+		{
+			"episode": 89,
+			"title": "To My Angel Misao",
+			"type": "filler",
+			"aired_date": "1998-06-16"
+		},
+		{
+			"episode": 90,
+			"title": "Feng Shui Surprise Attack!",
+			"type": "filler",
+			"aired_date": "1998-06-23"
+		},
+		{
+			"episode": 91,
+			"title": "The Magic of Feng Shui",
+			"type": "filler",
+			"aired_date": "1998-07-21"
+		},
+		{
+			"episode": 92,
+			"title": "Tokyo Under Martial Law",
+			"type": "filler",
+			"aired_date": "1998-08-04"
+		},
+		{
+			"episode": 93,
+			"title": "The Enemy Awaits in Senjogahara",
+			"type": "filler",
+			"aired_date": "1998-08-18"
+		},
+		{
+			"episode": 94,
+			"title": "The Elegy of Wind and Water",
+			"type": "filler",
+			"aired_date": "1998-09-08"
+		}
+	]
+}

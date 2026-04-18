@@ -1,0 +1,1360 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Yu-Gi-Oh! Duel Monsters",
+	"mappings": {
+		"anilist_id": 481,
+		"mal_id": 481
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Heart of the Cards",
+			"type": "mixed-manga",
+			"aired_date": "2000-04-18"
+		},
+		{
+			"episode": 2,
+			"title": "The Gauntlet Is Thrown",
+			"type": "manga-canon",
+			"aired_date": "2000-04-25"
+		},
+		{
+			"episode": 3,
+			"title": "Journey to the Duelist Kingdom",
+			"type": "manga-canon",
+			"aired_date": "2000-05-05"
+		},
+		{
+			"episode": 4,
+			"title": "Into The Hornet's Nest",
+			"type": "manga-canon",
+			"aired_date": "2000-05-09"
+		},
+		{
+			"episode": 5,
+			"title": "The Ultimate Great Moth",
+			"type": "manga-canon",
+			"aired_date": "2000-05-16"
+		},
+		{
+			"episode": 6,
+			"title": "First Duel",
+			"type": "manga-canon",
+			"aired_date": "2000-05-23"
+		},
+		{
+			"episode": 7,
+			"title": "Attack from the Deep",
+			"type": "manga-canon",
+			"aired_date": "2000-05-30"
+		},
+		{
+			"episode": 8,
+			"title": "Everything's Relative",
+			"type": "manga-canon",
+			"aired_date": "2000-06-06"
+		},
+		{
+			"episode": 9,
+			"title": "Duel With a Ghoul",
+			"type": "manga-canon",
+			"aired_date": "2000-06-13"
+		},
+		{
+			"episode": 10,
+			"title": "Give up the Ghost",
+			"type": "manga-canon",
+			"aired_date": "2000-06-20"
+		},
+		{
+			"episode": 11,
+			"title": "The Dueling Monkey",
+			"type": "manga-canon",
+			"aired_date": "2000-06-27"
+		},
+		{
+			"episode": 12,
+			"title": "Trial by Red-Eyes",
+			"type": "manga-canon",
+			"aired_date": "2000-07-04"
+		},
+		{
+			"episode": 13,
+			"title": "Evil Spirit of the Ring",
+			"type": "filler",
+			"aired_date": "2000-07-11"
+		},
+		{
+			"episode": 14,
+			"title": "The Light at the End of the Tunnel",
+			"type": "manga-canon",
+			"aired_date": "2000-07-25"
+		},
+		{
+			"episode": 15,
+			"title": "Winning Through Intimidation",
+			"type": "manga-canon",
+			"aired_date": "2000-08-01"
+		},
+		{
+			"episode": 16,
+			"title": "The Scars of Defeat",
+			"type": "manga-canon",
+			"aired_date": "2000-08-08"
+		},
+		{
+			"episode": 17,
+			"title": "Arena of Lost Souls, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2000-08-15"
+		},
+		{
+			"episode": 18,
+			"title": "Arena of Lost Souls, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2000-08-22"
+		},
+		{
+			"episode": 19,
+			"title": "Double Trouble Duel, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2000-08-29"
+		},
+		{
+			"episode": 20,
+			"title": "Double Trouble Duel, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2000-09-09"
+		},
+		{
+			"episode": 21,
+			"title": "Double Trouble Duel, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2000-09-12"
+		},
+		{
+			"episode": 22,
+			"title": "Face Off, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2000-09-19"
+		},
+		{
+			"episode": 23,
+			"title": "Face Off, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2000-09-26"
+		},
+		{
+			"episode": 24,
+			"title": "Face Off, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2000-10-03"
+		},
+		{
+			"episode": 25,
+			"title": "Shining Friendship",
+			"type": "filler",
+			"aired_date": "2000-10-10"
+		},
+		{
+			"episode": 26,
+			"title": "Champion Vs. Creator, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2000-10-17"
+		},
+		{
+			"episode": 27,
+			"title": "Champion Vs. Creator, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2000-10-24"
+		},
+		{
+			"episode": 28,
+			"title": "The Night Before",
+			"type": "manga-canon",
+			"aired_date": "2000-10-31"
+		},
+		{
+			"episode": 29,
+			"title": "Duel Identity, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2000-11-07"
+		},
+		{
+			"episode": 30,
+			"title": "Duel Identity, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2000-11-14"
+		},
+		{
+			"episode": 31,
+			"title": "Keith's Machinations, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2000-11-21"
+		},
+		{
+			"episode": 32,
+			"title": "Keith's Machinations, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2000-11-28"
+		},
+		{
+			"episode": 33,
+			"title": "Best of Friends Best of Duelists, Part 1",
+			"type": "filler",
+			"aired_date": "2000-12-05"
+		},
+		{
+			"episode": 34,
+			"title": "Best of Friends Best of Duelists, Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2000-12-12"
+		},
+		{
+			"episode": 35,
+			"title": "Yugi Vs. Pegasus Match of the Millennium, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2000-12-19"
+		},
+		{
+			"episode": 36,
+			"title": "Yugi Vs. Pegasus Match of the Millennium, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2000-12-26"
+		},
+		{
+			"episode": 37,
+			"title": "Yugi Vs. Pegasus Match of the Millennium, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2001-01-09"
+		},
+		{
+			"episode": 38,
+			"title": "Yugi Vs. Pegasus Match of the Millennium, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2001-01-16"
+		},
+		{
+			"episode": 39,
+			"title": "Yugi Vs. Pegasus Match of the Millennium, Part 5",
+			"type": "manga-canon",
+			"aired_date": "2001-01-23"
+		},
+		{
+			"episode": 40,
+			"title": "Aftermath",
+			"type": "manga-canon",
+			"aired_date": "2001-01-30"
+		},
+		{
+			"episode": 41,
+			"title": "The Wrath of Rebecca",
+			"type": "filler",
+			"aired_date": "2001-02-06"
+		},
+		{
+			"episode": 42,
+			"title": "Ties of Friendship",
+			"type": "filler",
+			"aired_date": "2001-02-13"
+		},
+		{
+			"episode": 43,
+			"title": "Legendary Heroes, Part 1",
+			"type": "filler",
+			"aired_date": "2001-02-20"
+		},
+		{
+			"episode": 44,
+			"title": "Legendary Heroes, Part 2",
+			"type": "filler",
+			"aired_date": "2001-02-27"
+		},
+		{
+			"episode": 45,
+			"title": "Legendary Heroes, Part 3",
+			"type": "filler",
+			"aired_date": "2001-03-06"
+		},
+		{
+			"episode": 46,
+			"title": "Dungeon Dice Monsters, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-03-13"
+		},
+		{
+			"episode": 47,
+			"title": "Dungeon Dice Monsters, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-03-20"
+		},
+		{
+			"episode": 48,
+			"title": "Dungeon Dice Monsters, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2001-03-27"
+		},
+		{
+			"episode": 49,
+			"title": "Dungeon Dice Monsters, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2001-04-03"
+		},
+		{
+			"episode": 50,
+			"title": "The Mystery Duelist, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-04-10"
+		},
+		{
+			"episode": 51,
+			"title": "The Mystery Duelist, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-04-17"
+		},
+		{
+			"episode": 52,
+			"title": "The Past Is Present",
+			"type": "manga-canon",
+			"aired_date": "2001-04-24"
+		},
+		{
+			"episode": 53,
+			"title": "Steppin' Out",
+			"type": "mixed-manga",
+			"aired_date": "2001-05-01"
+		},
+		{
+			"episode": 54,
+			"title": "Obelisk the Tormentor",
+			"type": "manga-canon",
+			"aired_date": "2001-05-08"
+		},
+		{
+			"episode": 55,
+			"title": "Stalked by the Rare Hunters",
+			"type": "manga-canon",
+			"aired_date": "2001-05-08"
+		},
+		{
+			"episode": 56,
+			"title": "Yugi Vs. Rare Hunter, Part 1: Battle City Begins",
+			"type": "manga-canon",
+			"aired_date": "2001-05-15"
+		},
+		{
+			"episode": 57,
+			"title": "Yugi Vs. Rare Hunter, Part 2: Up Against Exodia",
+			"type": "manga-canon",
+			"aired_date": "2001-05-22"
+		},
+		{
+			"episode": 58,
+			"title": "The ESP Duelist, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-05-29"
+		},
+		{
+			"episode": 59,
+			"title": "The ESP Duelist, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-06-05"
+		},
+		{
+			"episode": 60,
+			"title": "The Master of Magicians, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-06-19"
+		},
+		{
+			"episode": 61,
+			"title": "The Master of Magicians, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-06-26"
+		},
+		{
+			"episode": 62,
+			"title": "The Master of Magicians, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2001-07-03"
+		},
+		{
+			"episode": 63,
+			"title": "Playing With a Parasite, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-07-10"
+		},
+		{
+			"episode": 64,
+			"title": "Playing With a Parasite, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-07-17"
+		},
+		{
+			"episode": 65,
+			"title": "Mime Control, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-07-24"
+		},
+		{
+			"episode": 66,
+			"title": "Mime Control, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-07-31"
+		},
+		{
+			"episode": 67,
+			"title": "Mime Control, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2001-08-07"
+		},
+		{
+			"episode": 68,
+			"title": "Legendary Fisherman, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-08-14"
+		},
+		{
+			"episode": 69,
+			"title": "Legendary Fisherman, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-08-21"
+		},
+		{
+			"episode": 70,
+			"title": "Double Duel, Part 1: Yugi and Kaiba Vs. Lumis and Umbra",
+			"type": "mixed-manga",
+			"aired_date": "2001-08-28"
+		},
+		{
+			"episode": 71,
+			"title": "Double Duel, Part 2: Yugi and Kaiba Vs. Lumis and Umbra",
+			"type": "manga-canon",
+			"aired_date": "2001-09-04"
+		},
+		{
+			"episode": 72,
+			"title": "Double Duel, Part 3: Yugi and Kaiba Vs. Lumis and Umbra",
+			"type": "manga-canon",
+			"aired_date": "2001-09-11"
+		},
+		{
+			"episode": 73,
+			"title": "Double Duel, Part 4: Yugi and Kaiba Vs. Lumis and Umbra",
+			"type": "manga-canon",
+			"aired_date": "2001-09-18"
+		},
+		{
+			"episode": 74,
+			"title": "The Rescue",
+			"type": "filler",
+			"aired_date": "2001-09-25"
+		},
+		{
+			"episode": 75,
+			"title": "Friends 'Til the End, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-10-02"
+		},
+		{
+			"episode": 76,
+			"title": "Friends 'Til the End, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-10-09"
+		},
+		{
+			"episode": 77,
+			"title": "Friends 'Til the End, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2001-10-16"
+		},
+		{
+			"episode": 78,
+			"title": "Friends 'Til the End, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2001-10-23"
+		},
+		{
+			"episode": 79,
+			"title": "Shadow of a Duel",
+			"type": "mixed-manga",
+			"aired_date": "2001-10-30"
+		},
+		{
+			"episode": 80,
+			"title": "Lights, Camera, Duel!",
+			"type": "filler",
+			"aired_date": "2001-11-06"
+		},
+		{
+			"episode": 81,
+			"title": "Let the Finals Begin!",
+			"type": "manga-canon",
+			"aired_date": "2001-11-13"
+		},
+		{
+			"episode": 82,
+			"title": "The Dark Spirit Revealed: Yugi Vs. Bakura, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-11-27"
+		},
+		{
+			"episode": 83,
+			"title": "The Dark Spirit Revealed: Yugi Vs. Bakura, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-11-27"
+		},
+		{
+			"episode": 84,
+			"title": "The Dark Spirit Revealed: Yugi Vs. Bakura, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2001-11-27"
+		},
+		{
+			"episode": 85,
+			"title": "Rage of the Egyptian Gods",
+			"type": "manga-canon",
+			"aired_date": "2001-12-04"
+		},
+		{
+			"episode": 86,
+			"title": "Awakening of Evil, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-12-11"
+		},
+		{
+			"episode": 87,
+			"title": "Awakening of Evil, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-12-18"
+		},
+		{
+			"episode": 88,
+			"title": "Awakening of Evil, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2001-12-25"
+		},
+		{
+			"episode": 89,
+			"title": "Awakening of Evil, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2002-01-08"
+		},
+		{
+			"episode": 90,
+			"title": "Mind Game: Mai Vs. Marik, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-01-15"
+		},
+		{
+			"episode": 91,
+			"title": "Mind Game: Mai Vs. Marik, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-01-22"
+		},
+		{
+			"episode": 92,
+			"title": "Mind Game: Mai Vs. Marik, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-01-29"
+		},
+		{
+			"episode": 93,
+			"title": "A Duel With Destiny: Kaiba Vs. Ishizu, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-02-05"
+		},
+		{
+			"episode": 94,
+			"title": "A Duel With Destiny: Kaiba Vs. Ishizu, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-02-12"
+		},
+		{
+			"episode": 95,
+			"title": "The Tomb-Keepers' Secret",
+			"type": "manga-canon",
+			"aired_date": "2002-02-19"
+		},
+		{
+			"episode": 96,
+			"title": "Showdown in the Shadows: Marik Vs. Bakura, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-02-26"
+		},
+		{
+			"episode": 97,
+			"title": "Showdown in the Shadows: Marik Vs. Bakura, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-03-05"
+		},
+		{
+			"episode": 98,
+			"title": "A Virtual Nightmare!",
+			"type": "filler",
+			"aired_date": "2002-03-12"
+		},
+		{
+			"episode": 99,
+			"title": "Isolated in Cyberspace, Part 1",
+			"type": "filler",
+			"aired_date": "2002-03-19"
+		},
+		{
+			"episode": 100,
+			"title": "Isolated in Cyberspace, Part 2",
+			"type": "filler",
+			"aired_date": "2002-03-26"
+		},
+		{
+			"episode": 101,
+			"title": "Isolated in Cyberspace, Part 3",
+			"type": "filler",
+			"aired_date": "2002-04-09"
+		},
+		{
+			"episode": 102,
+			"title": "Freeze Play, Part 1",
+			"type": "filler",
+			"aired_date": "2002-04-16"
+		},
+		{
+			"episode": 103,
+			"title": "Freeze Play, Part 2",
+			"type": "filler",
+			"aired_date": "2002-04-23"
+		},
+		{
+			"episode": 104,
+			"title": "Courtroom Chaos, Part 1",
+			"type": "filler",
+			"aired_date": "2002-04-30"
+		},
+		{
+			"episode": 105,
+			"title": "Courtroom Chaos, Part 2",
+			"type": "filler",
+			"aired_date": "2002-05-07"
+		},
+		{
+			"episode": 106,
+			"title": "Mechanical Mayhem, Part 1",
+			"type": "filler",
+			"aired_date": "2002-05-14"
+		},
+		{
+			"episode": 107,
+			"title": "Mechanical Mayhem, Part 2",
+			"type": "filler",
+			"aired_date": "2002-05-21"
+		},
+		{
+			"episode": 108,
+			"title": "Settling the Score, Part 1",
+			"type": "filler",
+			"aired_date": "2002-05-28"
+		},
+		{
+			"episode": 109,
+			"title": "Settling the Score, Part 2",
+			"type": "filler",
+			"aired_date": "2002-06-04"
+		},
+		{
+			"episode": 110,
+			"title": "Noah's Secret",
+			"type": "filler",
+			"aired_date": "2002-06-11"
+		},
+		{
+			"episode": 111,
+			"title": "Merger of the Big Five, Part 1",
+			"type": "filler",
+			"aired_date": "2002-06-18"
+		},
+		{
+			"episode": 112,
+			"title": "Merger of the Big Five, Part 2",
+			"type": "filler",
+			"aired_date": "2002-06-25"
+		},
+		{
+			"episode": 113,
+			"title": "Merger of the Big Five, Part 3",
+			"type": "filler",
+			"aired_date": "2002-07-02"
+		},
+		{
+			"episode": 114,
+			"title": "Brothers in Arms, Part 1",
+			"type": "filler",
+			"aired_date": "2002-07-16"
+		},
+		{
+			"episode": 115,
+			"title": "Brothers in Arms, Part 2",
+			"type": "filler",
+			"aired_date": "2002-07-23"
+		},
+		{
+			"episode": 116,
+			"title": "Brothers in Arms, Part 3",
+			"type": "filler",
+			"aired_date": "2002-07-30"
+		},
+		{
+			"episode": 117,
+			"title": "Noah's Final Threat, Part 1",
+			"type": "filler",
+			"aired_date": "2002-08-06"
+		},
+		{
+			"episode": 118,
+			"title": "Noah's Final Threat, Part 2",
+			"type": "filler",
+			"aired_date": "2002-08-18"
+		},
+		{
+			"episode": 119,
+			"title": "So Close Yet So Far",
+			"type": "filler",
+			"aired_date": "2002-08-20"
+		},
+		{
+			"episode": 120,
+			"title": "Burying the Past, Part 1",
+			"type": "filler",
+			"aired_date": "2002-08-27"
+		},
+		{
+			"episode": 121,
+			"title": "Burying the Past, Part 2",
+			"type": "filler",
+			"aired_date": "2002-08-27"
+		},
+		{
+			"episode": 122,
+			"title": "Back to Battle City, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-08-27"
+		},
+		{
+			"episode": 123,
+			"title": "Back to Battle City, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-09-03"
+		},
+		{
+			"episode": 124,
+			"title": "Back to Battle City, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-09-03"
+		},
+		{
+			"episode": 125,
+			"title": "The Darkness Returns, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-09-10"
+		},
+		{
+			"episode": 126,
+			"title": "The Darkness Returns, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-09-17"
+		},
+		{
+			"episode": 127,
+			"title": "The Darkness Returns, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-09-24"
+		},
+		{
+			"episode": 128,
+			"title": "The Darkness Returns, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2002-10-08"
+		},
+		{
+			"episode": 129,
+			"title": "Clash in the Coliseum, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-10-15"
+		},
+		{
+			"episode": 130,
+			"title": "Clash in the Coliseum, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-10-22"
+		},
+		{
+			"episode": 131,
+			"title": "Clash in the Coliseum, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-10-29"
+		},
+		{
+			"episode": 132,
+			"title": "Clash in the Coliseum, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2002-11-05"
+		},
+		{
+			"episode": 133,
+			"title": "Clash in the Coliseum, Part 5",
+			"type": "manga-canon",
+			"aired_date": "2002-11-12"
+		},
+		{
+			"episode": 134,
+			"title": "Clash in the Coliseum, Part 6",
+			"type": "manga-canon",
+			"aired_date": "2002-11-19"
+		},
+		{
+			"episode": 135,
+			"title": "Battle for the Bronze, Part 1",
+			"type": "mixed-manga",
+			"aired_date": "2002-12-03"
+		},
+		{
+			"episode": 136,
+			"title": "Battle for the Bronze, Part 2",
+			"type": "filler",
+			"aired_date": "2002-12-10"
+		},
+		{
+			"episode": 137,
+			"title": "Battle for the Bronze, Part 3",
+			"type": "mixed-manga",
+			"aired_date": "2002-12-17"
+		},
+		{
+			"episode": 138,
+			"title": "The Final Face-Off, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-12-24"
+		},
+		{
+			"episode": 139,
+			"title": "The Final Face-Off, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2003-01-07"
+		},
+		{
+			"episode": 140,
+			"title": "The Final Face-Off, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2003-01-14"
+		},
+		{
+			"episode": 141,
+			"title": "The Final Face-Off, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2003-01-21"
+		},
+		{
+			"episode": 142,
+			"title": "The Final Face-Off, Part 5",
+			"type": "manga-canon",
+			"aired_date": "2003-01-28"
+		},
+		{
+			"episode": 143,
+			"title": "Alcatraz Goes Up in Flames",
+			"type": "manga-canon",
+			"aired_date": "2003-02-04"
+		},
+		{
+			"episode": 144,
+			"title": "Looking Back and Moving Ahead",
+			"type": "filler",
+			"aired_date": "2003-02-11"
+		},
+		{
+			"episode": 145,
+			"title": "A New Evil, Part 1",
+			"type": "filler",
+			"aired_date": "2003-02-18"
+		},
+		{
+			"episode": 146,
+			"title": "A New Evil, Part 2",
+			"type": "filler",
+			"aired_date": "2003-02-25"
+		},
+		{
+			"episode": 147,
+			"title": "Legend of the Dragons",
+			"type": "filler",
+			"aired_date": "2003-03-04"
+		},
+		{
+			"episode": 148,
+			"title": "The Creator Returns",
+			"type": "filler",
+			"aired_date": "2003-03-11"
+		},
+		{
+			"episode": 149,
+			"title": "Deja Duel!, Part 1",
+			"type": "filler",
+			"aired_date": "2003-03-18"
+		},
+		{
+			"episode": 150,
+			"title": "Deja Duel!, Part 2",
+			"type": "filler",
+			"aired_date": "2003-04-08"
+		},
+		{
+			"episode": 151,
+			"title": "An Unexpected Enemy",
+			"type": "filler",
+			"aired_date": "2003-04-15"
+		},
+		{
+			"episode": 152,
+			"title": "My Freaky Valentine, Part 1",
+			"type": "filler",
+			"aired_date": "2003-04-22"
+		},
+		{
+			"episode": 153,
+			"title": "My Freaky Valentine, Part 2",
+			"type": "filler",
+			"aired_date": "2003-04-29"
+		},
+		{
+			"episode": 154,
+			"title": "My Freaky Valentine, Part 3",
+			"type": "filler",
+			"aired_date": "2003-05-06"
+		},
+		{
+			"episode": 155,
+			"title": "The Challenge",
+			"type": "filler",
+			"aired_date": "2003-05-13"
+		},
+		{
+			"episode": 156,
+			"title": "Fate of the Pharaoh, Part 1",
+			"type": "filler",
+			"aired_date": "2003-05-20"
+		},
+		{
+			"episode": 157,
+			"title": "Fate of the Pharaoh, Part 2",
+			"type": "filler",
+			"aired_date": "2003-05-27"
+		},
+		{
+			"episode": 158,
+			"title": "Fate of the Pharaoh, Part 3",
+			"type": "filler",
+			"aired_date": "2003-06-03"
+		},
+		{
+			"episode": 159,
+			"title": "Trial by Stone",
+			"type": "filler",
+			"aired_date": "2003-06-10"
+		},
+		{
+			"episode": 160,
+			"title": "On the Wrong Track, Part 1",
+			"type": "filler",
+			"aired_date": "2003-06-24"
+		},
+		{
+			"episode": 161,
+			"title": "On the Wrong Track, Part 2",
+			"type": "filler",
+			"aired_date": "2003-06-24"
+		},
+		{
+			"episode": 162,
+			"title": "On the Wrong Track, Part 3",
+			"type": "filler",
+			"aired_date": "2003-07-01"
+		},
+		{
+			"episode": 163,
+			"title": "Self Destruction",
+			"type": "filler",
+			"aired_date": "2003-07-08"
+		},
+		{
+			"episode": 164,
+			"title": "Reliving the Past",
+			"type": "filler",
+			"aired_date": "2003-07-22"
+		},
+		{
+			"episode": 165,
+			"title": "Deck of Armor",
+			"type": "filler",
+			"aired_date": "2003-07-29"
+		},
+		{
+			"episode": 166,
+			"title": "Flight of Fear, Part 1",
+			"type": "filler",
+			"aired_date": "2003-08-12"
+		},
+		{
+			"episode": 167,
+			"title": "Flight of Fear, Part 2",
+			"type": "filler",
+			"aired_date": "2003-08-19"
+		},
+		{
+			"episode": 168,
+			"title": "Paradise Found",
+			"type": "filler",
+			"aired_date": "2003-08-19"
+		},
+		{
+			"episode": 169,
+			"title": "Fighting for a Friend, Part 1",
+			"type": "filler",
+			"aired_date": "2003-09-02"
+		},
+		{
+			"episode": 170,
+			"title": "Fighting for a Friend, Part 2",
+			"type": "filler",
+			"aired_date": "2003-09-09"
+		},
+		{
+			"episode": 171,
+			"title": "Fighting for a Friend, Part 3",
+			"type": "filler",
+			"aired_date": "2003-09-16"
+		},
+		{
+			"episode": 172,
+			"title": "Fighting for a Friend, Part 4",
+			"type": "filler",
+			"aired_date": "2003-09-23"
+		},
+		{
+			"episode": 173,
+			"title": "Fighting for a Friend, Part 5",
+			"type": "filler",
+			"aired_date": "2003-10-01"
+		},
+		{
+			"episode": 174,
+			"title": "Grappling with a Guardian, Part 1",
+			"type": "filler",
+			"aired_date": "2003-10-08"
+		},
+		{
+			"episode": 175,
+			"title": "Grappling With a Guardian, Part 2",
+			"type": "filler",
+			"aired_date": "2003-10-15"
+		},
+		{
+			"episode": 176,
+			"title": "Grappling With a Guardian, Part 3",
+			"type": "filler",
+			"aired_date": "2003-10-22"
+		},
+		{
+			"episode": 177,
+			"title": "A Duel With Dartz!, Part 1",
+			"type": "filler",
+			"aired_date": "2003-10-29"
+		},
+		{
+			"episode": 178,
+			"title": "A Duel With Dartz!, Part 2",
+			"type": "filler",
+			"aired_date": "2003-11-05"
+		},
+		{
+			"episode": 179,
+			"title": "A Duel With Dartz!, Part 3",
+			"type": "filler",
+			"aired_date": "2003-11-12"
+		},
+		{
+			"episode": 180,
+			"title": "A Duel With Dartz!, Part 4",
+			"type": "filler",
+			"aired_date": "2003-11-19"
+		},
+		{
+			"episode": 181,
+			"title": "A Duel With Dartz!, Part 5",
+			"type": "filler",
+			"aired_date": "2003-11-26"
+		},
+		{
+			"episode": 182,
+			"title": "A Duel With Dartz!, Part 6",
+			"type": "filler",
+			"aired_date": "2003-12-03"
+		},
+		{
+			"episode": 183,
+			"title": "Rise of the Great Beast, Part 1",
+			"type": "filler",
+			"aired_date": "2003-12-10"
+		},
+		{
+			"episode": 184,
+			"title": "Rise of the Great Beast, Part 2",
+			"type": "filler",
+			"aired_date": "2003-12-17"
+		},
+		{
+			"episode": 185,
+			"title": "Unwanted Guest, Part 1",
+			"type": "filler",
+			"aired_date": "2003-12-24"
+		},
+		{
+			"episode": 186,
+			"title": "Unwanted Guest, Part 2",
+			"type": "filler",
+			"aired_date": "2004-01-07"
+		},
+		{
+			"episode": 187,
+			"title": "Let the Games Begin!, Part 1",
+			"type": "filler",
+			"aired_date": "2004-01-14"
+		},
+		{
+			"episode": 188,
+			"title": "Let the Games Begin!, Part 2",
+			"type": "filler",
+			"aired_date": "2004-01-21"
+		},
+		{
+			"episode": 189,
+			"title": "Child's Play",
+			"type": "filler",
+			"aired_date": "2004-01-28"
+		},
+		{
+			"episode": 190,
+			"title": "Down in Flames, Part 1",
+			"type": "filler",
+			"aired_date": "2004-02-04"
+		},
+		{
+			"episode": 191,
+			"title": "Down in Flames, Part 2",
+			"type": "filler",
+			"aired_date": "2004-02-11"
+		},
+		{
+			"episode": 192,
+			"title": "A Brawl in a Small Town, Part 1",
+			"type": "filler",
+			"aired_date": "2004-02-18"
+		},
+		{
+			"episode": 193,
+			"title": "A Brawl in a Small Town, Part 2",
+			"type": "filler",
+			"aired_date": "2004-02-25"
+		},
+		{
+			"episode": 194,
+			"title": "One Step Ahead, Part 1",
+			"type": "filler",
+			"aired_date": "2004-03-03"
+		},
+		{
+			"episode": 195,
+			"title": "One Step Ahead, Part 2",
+			"type": "filler",
+			"aired_date": "2004-03-10"
+		},
+		{
+			"episode": 196,
+			"title": "Sinister Secrets, Part 1",
+			"type": "filler",
+			"aired_date": "2004-03-17"
+		},
+		{
+			"episode": 197,
+			"title": "Sinister Secrets, Part 2",
+			"type": "filler",
+			"aired_date": "2004-03-24"
+		},
+		{
+			"episode": 198,
+			"title": "Sinister Secrets, Part 3",
+			"type": "filler",
+			"aired_date": "2004-03-31"
+		},
+		{
+			"episode": 199,
+			"title": "Tomb of the Nameless Pharaoh",
+			"type": "manga-canon",
+			"aired_date": "2004-04-07"
+		},
+		{
+			"episode": 200,
+			"title": "Spiritual Awakening",
+			"type": "manga-canon",
+			"aired_date": "2004-04-14"
+		},
+		{
+			"episode": 201,
+			"title": "Memoirs of a Pharaoh",
+			"type": "manga-canon",
+			"aired_date": "2004-04-21"
+		},
+		{
+			"episode": 202,
+			"title": "The Intruder, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2004-04-28"
+		},
+		{
+			"episode": 203,
+			"title": "The Intruder, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2004-05-05"
+		},
+		{
+			"episode": 204,
+			"title": "Makings of a Magician",
+			"type": "manga-canon",
+			"aired_date": "2004-05-12"
+		},
+		{
+			"episode": 205,
+			"title": "Birth of the Blue-Eyes",
+			"type": "manga-canon",
+			"aired_date": "2004-05-19"
+		},
+		{
+			"episode": 206,
+			"title": "Village of Lost Souls",
+			"type": "manga-canon",
+			"aired_date": "2004-05-26"
+		},
+		{
+			"episode": 207,
+			"title": "A Reversal of Fortune",
+			"type": "manga-canon",
+			"aired_date": "2004-06-02"
+		},
+		{
+			"episode": 208,
+			"title": "In Search of a King",
+			"type": "manga-canon",
+			"aired_date": "2004-06-09"
+		},
+		{
+			"episode": 209,
+			"title": "Village of Vengeance, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2004-06-16"
+		},
+		{
+			"episode": 210,
+			"title": "Village of Vengeance, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2004-06-23"
+		},
+		{
+			"episode": 211,
+			"title": "Village of Vengeance, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2004-06-30"
+		},
+		{
+			"episode": 212,
+			"title": "Village of Vengeance, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2004-07-07"
+		},
+		{
+			"episode": 213,
+			"title": "Village of Vengeance, Part 5",
+			"type": "manga-canon",
+			"aired_date": "2004-07-14"
+		},
+		{
+			"episode": 214,
+			"title": "Name of the Game",
+			"type": "manga-canon",
+			"aired_date": "2004-07-21"
+		},
+		{
+			"episode": 215,
+			"title": "The Dark One Cometh, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2004-07-28"
+		},
+		{
+			"episode": 216,
+			"title": "The Dark One Cometh, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2004-08-04"
+		},
+		{
+			"episode": 217,
+			"title": "The Dark One Cometh, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2004-08-11"
+		},
+		{
+			"episode": 218,
+			"title": "The Dark One Cometh, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2004-08-18"
+		},
+		{
+			"episode": 219,
+			"title": "In the Name of the Pharaoh",
+			"type": "manga-canon",
+			"aired_date": "2004-08-25"
+		},
+		{
+			"episode": 220,
+			"title": "The Final Journey",
+			"type": "manga-canon",
+			"aired_date": "2004-09-01"
+		},
+		{
+			"episode": 221,
+			"title": "The Final Duel, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2004-09-08"
+		},
+		{
+			"episode": 222,
+			"title": "The Final Duel, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2004-09-15"
+		},
+		{
+			"episode": 223,
+			"title": "The Final Duel, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2004-09-22"
+		},
+		{
+			"episode": 224,
+			"title": "The Final Duel, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2004-09-29"
+		},
+		{
+			"episode": 225,
+			"title": "The Pyramid of Light",
+			"type": "filler",
+			"aired_date": "2004-11-03"
+		}
+	]
+}

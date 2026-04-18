@@ -1,0 +1,76 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Silver Spoon",
+	"mappings": {
+		"anilist_id": 16918,
+		"mal_id": 16918
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Welcome to Ezonoo",
+			"type": "manga-canon",
+			"aired_date": "2013-07-11"
+		},
+		{
+			"episode": 2,
+			"title": "Hachiken Rides a Horse",
+			"type": "manga-canon",
+			"aired_date": "2013-07-18"
+		},
+		{
+			"episode": 3,
+			"title": "Hachiken Meets Pork Bowl",
+			"type": "manga-canon",
+			"aired_date": "2013-07-25"
+		},
+		{
+			"episode": 4,
+			"title": "Hachiken Bakes Pizza",
+			"type": "manga-canon",
+			"aired_date": "2013-08-01"
+		},
+		{
+			"episode": 5,
+			"title": "Hachiken Runs Off",
+			"type": "mixed-manga",
+			"aired_date": "2013-08-08"
+		},
+		{
+			"episode": 6,
+			"title": "Hachiken Goes to Stay with the Mikages",
+			"type": "manga-canon",
+			"aired_date": "2013-08-15"
+		},
+		{
+			"episode": 7,
+			"title": "Hachiken Goes to Giga Farm",
+			"type": "manga-canon",
+			"aired_date": "2013-08-22"
+		},
+		{
+			"episode": 8,
+			"title": "Hachiken Makes a Huge Mistake",
+			"type": "manga-canon",
+			"aired_date": "2013-08-29"
+		},
+		{
+			"episode": 9,
+			"title": "Hachiken Hesitates Over Pork Bowl",
+			"type": "manga-canon",
+			"aired_date": "2013-09-05"
+		},
+		{
+			"episode": 10,
+			"title": "Hachiken Says Goodbye to Pork Bowl",
+			"type": "manga-canon",
+			"aired_date": "2013-09-12"
+		},
+		{
+			"episode": 11,
+			"title": "Take Off Running, Hachiken",
+			"type": "manga-canon",
+			"aired_date": "2013-09-19"
+		}
+	]
+}

@@ -1,0 +1,460 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Hikaru no Go",
+	"mappings": {
+		"anilist_id": 135,
+		"mal_id": 135
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Eternal Rivals",
+			"type": "manga-canon",
+			"aired_date": "2001-10-10"
+		},
+		{
+			"episode": 2,
+			"title": "The Key Point",
+			"type": "manga-canon",
+			"aired_date": "2001-10-17"
+		},
+		{
+			"episode": 3,
+			"title": "Akira Bares His Fangs",
+			"type": "manga-canon",
+			"aired_date": "2001-10-24"
+		},
+		{
+			"episode": 4,
+			"title": "Kaga of the Shogi Club",
+			"type": "manga-canon",
+			"aired_date": "2001-10-31"
+		},
+		{
+			"episode": 5,
+			"title": "An Inkling of an Awakening",
+			"type": "manga-canon",
+			"aired_date": "2001-11-07"
+		},
+		{
+			"episode": 6,
+			"title": "A Game of Beauty",
+			"type": "manga-canon",
+			"aired_date": "2001-11-14"
+		},
+		{
+			"episode": 7,
+			"title": "I'm Not Going to Play You",
+			"type": "manga-canon",
+			"aired_date": "2001-11-21"
+		},
+		{
+			"episode": 8,
+			"title": "Rainy Day Strategy",
+			"type": "manga-canon",
+			"aired_date": "2001-11-28"
+		},
+		{
+			"episode": 9,
+			"title": "Eyesore",
+			"type": "manga-canon",
+			"aired_date": "2001-12-05"
+		},
+		{
+			"episode": 10,
+			"title": "The Third Player",
+			"type": "manga-canon",
+			"aired_date": "2001-12-12"
+		},
+		{
+			"episode": 11,
+			"title": "A Very Despicable Act",
+			"type": "manga-canon",
+			"aired_date": "2001-12-19"
+		},
+		{
+			"episode": 12,
+			"title": "No Cheating Allowed",
+			"type": "manga-canon",
+			"aired_date": "2002-01-02"
+		},
+		{
+			"episode": 13,
+			"title": "A Personal Resolve",
+			"type": "manga-canon",
+			"aired_date": "2002-01-09"
+		},
+		{
+			"episode": 14,
+			"title": "The Third Match",
+			"type": "manga-canon",
+			"aired_date": "2002-01-16"
+		},
+		{
+			"episode": 15,
+			"title": "The Ghost in the Net",
+			"type": "manga-canon",
+			"aired_date": "2002-01-23"
+		},
+		{
+			"episode": 16,
+			"title": "Who Is Sai?",
+			"type": "manga-canon",
+			"aired_date": "2002-01-30"
+		},
+		{
+			"episode": 17,
+			"title": "Déjà Vu",
+			"type": "manga-canon",
+			"aired_date": "2002-02-06"
+		},
+		{
+			"episode": 18,
+			"title": "Akira vs. Sai",
+			"type": "manga-canon",
+			"aired_date": "2002-02-13"
+		},
+		{
+			"episode": 19,
+			"title": "Hikaru's True Strength",
+			"type": "manga-canon",
+			"aired_date": "2002-02-20"
+		},
+		{
+			"episode": 20,
+			"title": "The Road to Turning Pro",
+			"type": "manga-canon",
+			"aired_date": "2002-02-27"
+		},
+		{
+			"episode": 21,
+			"title": "The Haze Middle School Go Club",
+			"type": "manga-canon",
+			"aired_date": "2002-03-06"
+		},
+		{
+			"episode": 22,
+			"title": "The Insei Test",
+			"type": "manga-canon",
+			"aired_date": "2002-03-13"
+		},
+		{
+			"episode": 23,
+			"title": "The Championship Room",
+			"type": "manga-canon",
+			"aired_date": "2002-03-20"
+		},
+		{
+			"episode": 24,
+			"title": "Akira vs. The Oza",
+			"type": "manga-canon",
+			"aired_date": "2002-03-27"
+		},
+		{
+			"episode": 25,
+			"title": "Fear and Impatience",
+			"type": "manga-canon",
+			"aired_date": "2002-04-03"
+		},
+		{
+			"episode": 26,
+			"title": "Welcome to the A-League",
+			"type": "manga-canon",
+			"aired_date": "2002-04-10"
+		},
+		{
+			"episode": 27,
+			"title": "A Place to Return",
+			"type": "manga-canon",
+			"aired_date": "2002-04-17"
+		},
+		{
+			"episode": 28,
+			"title": "The Young Lion's Tournament",
+			"type": "manga-canon",
+			"aired_date": "2002-04-24"
+		},
+		{
+			"episode": 29,
+			"title": "Kuwabara Hon'inbo",
+			"type": "manga-canon",
+			"aired_date": "2002-05-01"
+		},
+		{
+			"episode": 30,
+			"title": "Ogata vs. The Hon'inbo",
+			"type": "manga-canon",
+			"aired_date": "2002-05-08"
+		},
+		{
+			"episode": 31,
+			"title": "The Awful Opponent",
+			"type": "manga-canon",
+			"aired_date": "2002-05-15"
+		},
+		{
+			"episode": 32,
+			"title": "The Last Day of the Prelims",
+			"type": "manga-canon",
+			"aired_date": "2002-05-22"
+		},
+		{
+			"episode": 33,
+			"title": "We're A Team",
+			"type": "manga-canon",
+			"aired_date": "2002-05-29"
+		},
+		{
+			"episode": 34,
+			"title": "No Winning Allowed",
+			"type": "manga-canon",
+			"aired_date": "2002-06-05"
+		},
+		{
+			"episode": 35,
+			"title": "Only One Can Win",
+			"type": "manga-canon",
+			"aired_date": "2002-06-12"
+		},
+		{
+			"episode": 36,
+			"title": "My Name Is...",
+			"type": "manga-canon",
+			"aired_date": "2002-06-19"
+		},
+		{
+			"episode": 37,
+			"title": "The Pro Exam Begins",
+			"type": "manga-canon",
+			"aired_date": "2002-06-26"
+		},
+		{
+			"episode": 38,
+			"title": "The Challengers",
+			"type": "manga-canon",
+			"aired_date": "2002-07-03"
+		},
+		{
+			"episode": 39,
+			"title": "An Ill-Fated Moment",
+			"type": "manga-canon",
+			"aired_date": "2002-07-10"
+		},
+		{
+			"episode": 40,
+			"title": "Where Are The Victories?",
+			"type": "manga-canon",
+			"aired_date": "2002-07-17"
+		},
+		{
+			"episode": 41,
+			"title": "Three Weeks isn't Enough!",
+			"type": "manga-canon",
+			"aired_date": "2002-07-24"
+		},
+		{
+			"episode": 42,
+			"title": "The First to Pass",
+			"type": "manga-canon",
+			"aired_date": "2002-07-31"
+		},
+		{
+			"episode": 43,
+			"title": "Hikaru vs. Waya",
+			"type": "manga-canon",
+			"aired_date": "2002-08-07"
+		},
+		{
+			"episode": 44,
+			"title": "Comeback From the Brink",
+			"type": "manga-canon",
+			"aired_date": "2002-08-14"
+		},
+		{
+			"episode": 45,
+			"title": "Hikaru vs. Ochi",
+			"type": "manga-canon",
+			"aired_date": "2002-08-21"
+		},
+		{
+			"episode": 46,
+			"title": "The Final Day of the Pro Exam",
+			"type": "manga-canon",
+			"aired_date": "2002-08-28"
+		},
+		{
+			"episode": 47,
+			"title": "Into The World Of the Pros",
+			"type": "manga-canon",
+			"aired_date": "2002-09-04"
+		},
+		{
+			"episode": 48,
+			"title": "Sai Vs. Meijin",
+			"type": "manga-canon",
+			"aired_date": "2002-09-11"
+		},
+		{
+			"episode": 49,
+			"title": "A Game of Desperate Measures",
+			"type": "manga-canon",
+			"aired_date": "2002-09-18"
+		},
+		{
+			"episode": 50,
+			"title": "Fujiwara-No-Sai",
+			"type": "manga-canon",
+			"aired_date": "2002-09-25"
+		},
+		{
+			"episode": 51,
+			"title": "Kurata 6-Dan",
+			"type": "manga-canon",
+			"aired_date": "2002-10-02"
+		},
+		{
+			"episode": 52,
+			"title": "Hikaru Vs. Akira",
+			"type": "manga-canon",
+			"aired_date": "2002-10-09"
+		},
+		{
+			"episode": 53,
+			"title": "The Acknowledgment of Sai",
+			"type": "manga-canon",
+			"aired_date": "2002-10-16"
+		},
+		{
+			"episode": 54,
+			"title": "The Excitement Mounts",
+			"type": "manga-canon",
+			"aired_date": "2002-10-23"
+		},
+		{
+			"episode": 55,
+			"title": "Sai Vs. Koyo Toya",
+			"type": "manga-canon",
+			"aired_date": "2002-10-30"
+		},
+		{
+			"episode": 56,
+			"title": "After A Millennium Comes The Answer!",
+			"type": "manga-canon",
+			"aired_date": "2002-11-06"
+		},
+		{
+			"episode": 57,
+			"title": "Let Me Play Sai!",
+			"type": "manga-canon",
+			"aired_date": "2002-11-13"
+		},
+		{
+			"episode": 58,
+			"title": "One-Color Go",
+			"type": "manga-canon",
+			"aired_date": "2002-11-20"
+		},
+		{
+			"episode": 59,
+			"title": "Koyo Toya Retires!",
+			"type": "manga-canon",
+			"aired_date": "2002-11-27"
+		},
+		{
+			"episode": 60,
+			"title": "Farewell Hikaru",
+			"type": "manga-canon",
+			"aired_date": "2002-12-04"
+		},
+		{
+			"episode": 61,
+			"title": "Is Sai Really Gone?",
+			"type": "manga-canon",
+			"aired_date": "2002-12-11"
+		},
+		{
+			"episode": 62,
+			"title": "Hiroshima's Top Player",
+			"type": "manga-canon",
+			"aired_date": "2002-12-18"
+		},
+		{
+			"episode": 63,
+			"title": "I'm Never Gonna Play Again!",
+			"type": "manga-canon",
+			"aired_date": "2002-12-25"
+		},
+		{
+			"episode": 64,
+			"title": "Keicho Flower Bowls",
+			"type": "filler",
+			"aired_date": "2003-01-08"
+		},
+		{
+			"episode": 65,
+			"title": "Isumi no Go",
+			"type": "mixed-manga",
+			"aired_date": "2003-01-15"
+		},
+		{
+			"episode": 66,
+			"title": "Fateful Encounter",
+			"type": "filler",
+			"aired_date": "2003-01-22"
+		},
+		{
+			"episode": 67,
+			"title": "Isumi's Test",
+			"type": "mixed-manga",
+			"aired_date": "2003-01-29"
+		},
+		{
+			"episode": 68,
+			"title": "Losing By Default",
+			"type": "manga-canon",
+			"aired_date": "2003-02-05"
+		},
+		{
+			"episode": 69,
+			"title": "A Determined Visitor",
+			"type": "manga-canon",
+			"aired_date": "2003-02-12"
+		},
+		{
+			"episode": 70,
+			"title": "Sai Was Here",
+			"type": "manga-canon",
+			"aired_date": "2003-02-19"
+		},
+		{
+			"episode": 71,
+			"title": "Making A Comeback",
+			"type": "manga-canon",
+			"aired_date": "2003-02-26"
+		},
+		{
+			"episode": 72,
+			"title": "The Race is On",
+			"type": "manga-canon",
+			"aired_date": "2003-03-05"
+		},
+		{
+			"episode": 73,
+			"title": "Shindo vs. Toya",
+			"type": "manga-canon",
+			"aired_date": "2003-03-12"
+		},
+		{
+			"episode": 74,
+			"title": "The Power Within",
+			"type": "manga-canon",
+			"aired_date": "2003-03-19"
+		},
+		{
+			"episode": 75,
+			"title": "A Nostalgic Smile",
+			"type": "manga-canon",
+			"aired_date": "2003-03-26"
+		}
+	]
+}

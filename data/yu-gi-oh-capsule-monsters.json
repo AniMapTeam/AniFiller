@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Yu-Gi-Oh! Capsule Monsters",
+	"comments": [
+		"its said to be a filler arc between seasons 4 and 5 of duel monsters, but its more of a spin off series that just happens to be set in the same universe. it was made to promote the capsule monsters game, and is generally considered non canon by fans. its also pretty bad, so...",
+		"im saying this all because mal just decided this doesnt deserve to exist on its own",
+		"and they've also excluded it from the main series, which is just... why?",
+		"hence the null"
+	],
+	"mappings": {
+		"anilist_id": 123074,
+		"mal_id": null
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Getting Played",
+			"type": "filler",
+			"aired_date": "2006-09-09"
+		},
+		{
+			"episode": 2,
+			"title": "Divide and Conquer",
+			"type": "filler",
+			"aired_date": "2006-09-16"
+		},
+		{
+			"episode": 3,
+			"title": "Reunited at Last",
+			"type": "filler",
+			"aired_date": "2006-09-23"
+		},
+		{
+			"episode": 4,
+			"title": "Fortress of Fear",
+			"type": "filler",
+			"aired_date": "2006-09-30"
+		},
+		{
+			"episode": 5,
+			"title": "Eye of the Storm",
+			"type": "filler",
+			"aired_date": "2006-10-07"
+		},
+		{
+			"episode": 6,
+			"title": "Trial of Light and Shadow",
+			"type": "filler",
+			"aired_date": "2006-10-14"
+		},
+		{
+			"episode": 7,
+			"title": "Red-Eyes Black Curse",
+			"type": "filler",
+			"aired_date": "2006-10-21"
+		},
+		{
+			"episode": 8,
+			"title": "Fruits of Evolution",
+			"type": "filler",
+			"aired_date": "2006-10-28"
+		},
+		{
+			"episode": 9,
+			"title": "The Fiendish Five, Part 1",
+			"type": "filler",
+			"aired_date": "2006-11-04"
+		},
+		{
+			"episode": 10,
+			"title": "The Fiendish Five, Part 2",
+			"type": "filler",
+			"aired_date": "2006-11-11"
+		},
+		{
+			"episode": 11,
+			"title": "The True King, Part 1",
+			"type": "filler",
+			"aired_date": "2006-11-18"
+		},
+		{
+			"episode": 12,
+			"title": "The True King, Part 2",
+			"type": "filler",
+			"aired_date": "2006-11-25"
+		}
+	]
+}

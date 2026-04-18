@@ -1,0 +1,394 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Dragon Ball GT",
+	"mappings": {
+		"anilist_id": 225,
+		"mal_id": 225
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "A Devastating Wish",
+			"type": "filler",
+			"aired_date": "1996-02-07"
+		},
+		{
+			"episode": 2,
+			"title": "Pan Blasts Off",
+			"type": "filler",
+			"aired_date": "1996-02-14"
+		},
+		{
+			"episode": 3,
+			"title": "Terror on Imecka",
+			"type": "filler",
+			"aired_date": "1996-02-21"
+		},
+		{
+			"episode": 4,
+			"title": "The Most Wanted List",
+			"type": "filler",
+			"aired_date": "1996-02-28"
+		},
+		{
+			"episode": 5,
+			"title": "Goku vs. Ledgic",
+			"type": "filler",
+			"aired_date": "1996-03-06"
+		},
+		{
+			"episode": 6,
+			"title": "Like Pulling Teeth",
+			"type": "filler",
+			"aired_date": "1996-03-13"
+		},
+		{
+			"episode": 7,
+			"title": "Trunks, the Bride",
+			"type": "filler",
+			"aired_date": "1996-03-20"
+		},
+		{
+			"episode": 8,
+			"title": "Whisker Power",
+			"type": "filler",
+			"aired_date": "1996-04-17"
+		},
+		{
+			"episode": 9,
+			"title": "Lord Luud",
+			"type": "filler",
+			"aired_date": "1996-04-24"
+		},
+		{
+			"episode": 10,
+			"title": "Dance and Attack",
+			"type": "filler",
+			"aired_date": "1996-05-01"
+		},
+		{
+			"episode": 11,
+			"title": "Lord Luud's Curse",
+			"type": "filler",
+			"aired_date": "1996-05-08"
+		},
+		{
+			"episode": 12,
+			"title": "The Last Oracle of Luud",
+			"type": "filler",
+			"aired_date": "1996-05-15"
+		},
+		{
+			"episode": 13,
+			"title": "The Man Behind the Curtain",
+			"type": "filler",
+			"aired_date": "1996-05-22"
+		},
+		{
+			"episode": 14,
+			"title": "The Battle Within",
+			"type": "filler",
+			"aired_date": "1996-06-05"
+		},
+		{
+			"episode": 15,
+			"title": "Beginning of the End",
+			"type": "filler",
+			"aired_date": "1996-06-12"
+		},
+		{
+			"episode": 16,
+			"title": "Giru's Checkered Past",
+			"type": "filler",
+			"aired_date": "1996-06-19"
+		},
+		{
+			"episode": 17,
+			"title": "Pan's Gambit",
+			"type": "filler",
+			"aired_date": "1996-06-26"
+		},
+		{
+			"episode": 18,
+			"title": "Unexpected Power",
+			"type": "filler",
+			"aired_date": "1996-07-10"
+		},
+		{
+			"episode": 19,
+			"title": "A General Uprising",
+			"type": "filler",
+			"aired_date": "1996-07-17"
+		},
+		{
+			"episode": 20,
+			"title": "The Source of Rilldo's Power",
+			"type": "filler",
+			"aired_date": "1996-07-24"
+		},
+		{
+			"episode": 21,
+			"title": "A Secret Revealed",
+			"type": "filler",
+			"aired_date": "1996-08-14"
+		},
+		{
+			"episode": 22,
+			"title": "The Baby Secret",
+			"type": "filler",
+			"aired_date": "1996-08-21"
+		},
+		{
+			"episode": 23,
+			"title": "Hidden Danger",
+			"type": "filler",
+			"aired_date": "1996-08-26"
+		},
+		{
+			"episode": 24,
+			"title": "Discovering the Truth",
+			"type": "filler",
+			"aired_date": "1996-09-04"
+		},
+		{
+			"episode": 25,
+			"title": "Baby's Arrival",
+			"type": "filler",
+			"aired_date": "1996-10-16"
+		},
+		{
+			"episode": 26,
+			"title": "Saiyan Hunting",
+			"type": "filler",
+			"aired_date": "1996-10-30"
+		},
+		{
+			"episode": 27,
+			"title": "The Attack on Vegeta",
+			"type": "filler",
+			"aired_date": "1996-11-06"
+		},
+		{
+			"episode": 28,
+			"title": "A Worldwide Problem",
+			"type": "filler",
+			"aired_date": "1996-11-13"
+		},
+		{
+			"episode": 29,
+			"title": "The Fall of The Saiyans",
+			"type": "filler",
+			"aired_date": "1996-11-27"
+		},
+		{
+			"episode": 30,
+			"title": "The Game After Life",
+			"type": "filler",
+			"aired_date": "1996-12-04"
+		},
+		{
+			"episode": 31,
+			"title": "Collapse From Within",
+			"type": "filler",
+			"aired_date": "1996-12-11"
+		},
+		{
+			"episode": 32,
+			"title": "The Return of Uub",
+			"type": "filler",
+			"aired_date": "1997-01-08"
+		},
+		{
+			"episode": 33,
+			"title": "The Tail's Tale",
+			"type": "filler",
+			"aired_date": "1997-01-15"
+		},
+		{
+			"episode": 34,
+			"title": "Back in the Game",
+			"type": "filler",
+			"aired_date": "1997-01-22"
+		},
+		{
+			"episode": 35,
+			"title": "Goku's Ascension",
+			"type": "filler",
+			"aired_date": "1997-01-29"
+		},
+		{
+			"episode": 36,
+			"title": "The Tuffle Gorilla Attacks!",
+			"type": "filler",
+			"aired_date": "1997-02-05"
+		},
+		{
+			"episode": 37,
+			"title": "Old Kai's Last Stand",
+			"type": "filler",
+			"aired_date": "1997-02-12"
+		},
+		{
+			"episode": 38,
+			"title": "Family Bonds",
+			"type": "filler",
+			"aired_date": "1997-02-19"
+		},
+		{
+			"episode": 39,
+			"title": "Baby Put to Rest",
+			"type": "filler",
+			"aired_date": "1997-02-26"
+		},
+		{
+			"episode": 40,
+			"title": "Piccolo's Decision",
+			"type": "filler",
+			"aired_date": "1997-03-05"
+		},
+		{
+			"episode": 41,
+			"title": "Curtain Call",
+			"type": "filler",
+			"aired_date": "1997-03-12"
+		},
+		{
+			"episode": 42,
+			"title": "A Dangerous Union",
+			"type": "filler",
+			"aired_date": "1997-04-16"
+		},
+		{
+			"episode": 43,
+			"title": "The Resurrection of Cell and Frieza",
+			"type": "filler",
+			"aired_date": "1997-04-23"
+		},
+		{
+			"episode": 44,
+			"title": "17 Times 2",
+			"type": "filler",
+			"aired_date": "1997-04-30"
+		},
+		{
+			"episode": 45,
+			"title": "Piccolo's Best Bet",
+			"type": "filler",
+			"aired_date": "1997-05-14"
+		},
+		{
+			"episode": 46,
+			"title": "Raising the Stakes",
+			"type": "filler",
+			"aired_date": "1997-05-28"
+		},
+		{
+			"episode": 47,
+			"title": "The Greatest Surprise",
+			"type": "filler",
+			"aired_date": "1997-06-04"
+		},
+		{
+			"episode": 48,
+			"title": "The Shadow Dragons",
+			"type": "filler",
+			"aired_date": "1997-06-11"
+		},
+		{
+			"episode": 49,
+			"title": "The Two-Star Dragon",
+			"type": "filler",
+			"aired_date": "1997-06-18"
+		},
+		{
+			"episode": 50,
+			"title": "The Five-Star Dragon",
+			"type": "filler",
+			"aired_date": "1997-06-25"
+		},
+		{
+			"episode": 51,
+			"title": "The Six-Star Dragon",
+			"type": "filler",
+			"aired_date": "1997-07-09"
+		},
+		{
+			"episode": 52,
+			"title": "The Seven-Star Dragon",
+			"type": "filler",
+			"aired_date": "1997-07-09"
+		},
+		{
+			"episode": 53,
+			"title": "Saying Goodbye",
+			"type": "filler",
+			"aired_date": "1997-07-16"
+		},
+		{
+			"episode": 54,
+			"title": "The Four-Star Dragon",
+			"type": "filler",
+			"aired_date": "1997-07-20"
+		},
+		{
+			"episode": 55,
+			"title": "The Heart of the Prince",
+			"type": "filler",
+			"aired_date": "1997-07-30"
+		},
+		{
+			"episode": 56,
+			"title": "The Three-Star Dragon",
+			"type": "filler",
+			"aired_date": "1997-08-06"
+		},
+		{
+			"episode": 57,
+			"title": "The One-Star Dragon",
+			"type": "filler",
+			"aired_date": "1997-08-13"
+		},
+		{
+			"episode": 58,
+			"title": "Shadow Dragons Unite",
+			"type": "filler",
+			"aired_date": "1997-09-24"
+		},
+		{
+			"episode": 59,
+			"title": "Super Saiyan 4 Vegeta",
+			"type": "filler",
+			"aired_date": "1997-10-01"
+		},
+		{
+			"episode": 60,
+			"title": "Super Saiyan 4 Fusion",
+			"type": "filler",
+			"aired_date": "1997-10-08"
+		},
+		{
+			"episode": 61,
+			"title": "The Limits of Power",
+			"type": "filler",
+			"aired_date": "1997-10-15"
+		},
+		{
+			"episode": 62,
+			"title": "Rescue Goku",
+			"type": "filler",
+			"aired_date": "1997-10-22"
+		},
+		{
+			"episode": 63,
+			"title": "Universal Allies",
+			"type": "filler",
+			"aired_date": "1997-11-12"
+		},
+		{
+			"episode": 64,
+			"title": "Until We Meet Again?",
+			"type": "filler",
+			"aired_date": "1997-11-19"
+		}
+	]
+}

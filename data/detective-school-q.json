@@ -1,0 +1,166 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Detective School Q",
+	"mappings": {
+		"anilist_id": 407,
+		"mal_id": 407
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Awaken! The Best Detective in the World!!",
+			"type": "mixed-manga",
+			"aired_date": "2003-04-15"
+		},
+		{
+			"episode": 2,
+			"title": "A First Step to Dreams - The Entrance Exam Trap",
+			"type": "mixed-manga",
+			"aired_date": "2003-04-22"
+		},
+		{
+			"episode": 3,
+			"title": "Final Exam! The Stretched-Around Trap",
+			"type": "mixed-manga",
+			"aired_date": "2003-04-29"
+		},
+		{
+			"episode": 4,
+			"title": "An Intent to Kill at the School Entrance Ceremony! School Bomb Threat",
+			"type": "filler",
+			"aired_date": "2003-05-06"
+		},
+		{
+			"episode": 5,
+			"title": "Crack the Code!? A Message from the Deceased",
+			"type": "filler",
+			"aired_date": "2003-05-13"
+		},
+		{
+			"episode": 6,
+			"title": "The Perfect 1000-Witness Alibi",
+			"type": "filler",
+			"aired_date": "2003-05-20"
+		},
+		{
+			"episode": 7,
+			"title": "The Jigsaw-Puzzle Will",
+			"type": "filler",
+			"aired_date": "2003-05-27"
+		},
+		{
+			"episode": 8,
+			"title": "The Pretty-Boy Detective! He Appears at Last!!",
+			"type": "manga-canon",
+			"aired_date": "2003-06-03"
+		},
+		{
+			"episode": 9,
+			"title": "Showdown! The Cutthroat Who Crossed Through Time!!",
+			"type": "manga-canon",
+			"aired_date": "2003-06-10"
+		},
+		{
+			"episode": 10,
+			"title": "The Beautiful Boy Genius - Exposing the Perfect Mystery Room",
+			"type": "manga-canon",
+			"aired_date": "2003-06-17"
+		},
+		{
+			"episode": 11,
+			"title": "The Final Deciding Match! The Truth about Q Class!!",
+			"type": "manga-canon",
+			"aired_date": "2003-06-24"
+		},
+		{
+			"episode": 12,
+			"title": "A Curse Breaks Out!? The Séance Murder Case",
+			"type": "manga-canon",
+			"aired_date": "2003-07-01"
+		},
+		{
+			"episode": 13,
+			"title": "Evil Spirit in the Locked Room! The Unstoppable Murders",
+			"type": "manga-canon",
+			"aired_date": "2003-07-08"
+		},
+		{
+			"episode": 14,
+			"title": "An Announcement From the Spiritual World! The Forbidden Truth!!",
+			"type": "manga-canon",
+			"aired_date": "2003-07-15"
+		},
+		{
+			"episode": 15,
+			"title": "30 Meters Underwater. The Case of the Underwater Locked Room Murder",
+			"type": "filler",
+			"aired_date": "2003-07-22"
+		},
+		{
+			"episode": 16,
+			"title": "Class Rivalry! Battle of the Vanishing Person",
+			"type": "manga-canon",
+			"aired_date": "2003-07-29"
+		},
+		{
+			"episode": 17,
+			"title": "Uncharted Waters that Lead to Death! The Legend of Spirited Away Village",
+			"type": "manga-canon",
+			"aired_date": "2003-08-05"
+		},
+		{
+			"episode": 18,
+			"title": "The Conclusive Moment! The Corpse that Disappears into the Sky",
+			"type": "manga-canon",
+			"aired_date": "2003-08-12"
+		},
+		{
+			"episode": 19,
+			"title": "",
+			"type": "manga-canon",
+			"aired_date": "2003-08-26"
+		},
+		{
+			"episode": 20,
+			"title": "It Comes to Light! The Masked High Priest - Crimes and Lies!!",
+			"type": "manga-canon",
+			"aired_date": "2003-09-02"
+		},
+		{
+			"episode": 21,
+			"title": "The Last Mysterious Disappearance! There's Only One Answer",
+			"type": "manga-canon",
+			"aired_date": "2003-09-09"
+		},
+		{
+			"episode": 22,
+			"title": "Dinner of the Dead",
+			"type": "mixed-manga",
+			"aired_date": "2003-10-04"
+		},
+		{
+			"episode": 23,
+			"title": "Train Alibi",
+			"type": "manga-canon",
+			"aired_date": "2003-10-11"
+		},
+		{
+			"episode": 24,
+			"title": "The Cursed Idol",
+			"type": "mixed-manga",
+			"aired_date": "2003-10-18"
+		},
+		{
+			"episode": 25,
+			"title": "An Old Enemy! Pluto",
+			"type": "manga-canon",
+			"aired_date": "2003-10-25"
+		},
+		{
+			"episode": 26,
+			"title": "Megumi is Being Targeted",
+			"type": "mixed-manga",
+			"aired_date": "2003-11-01"
+		}
+	]
+}

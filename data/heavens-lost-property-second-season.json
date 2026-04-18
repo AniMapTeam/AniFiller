@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Heaven's Lost Property: Forte",
+	"mappings": {
+		"anilist_id": 8407,
+		"mal_id": 8407
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "You Strip, Too! The Return of the Full-frontal Hero",
+			"type": "mixed-manga",
+			"aired_date": "2010-10-01"
+		},
+		{
+			"episode": 2,
+			"title": "Bombshell! The Angel is a Big Boob",
+			"type": "mixed-manga",
+			"aired_date": "2010-10-08"
+		},
+		{
+			"episode": 3,
+			"title": "A Proud-fought Battle!",
+			"type": "mixed-manga",
+			"aired_date": "2010-10-15"
+		},
+		{
+			"episode": 4,
+			"title": "Mortal Combat! Hot Spring Snowball Fight at 1.4° Below",
+			"type": "mixed-manga",
+			"aired_date": "2010-10-22"
+		},
+		{
+			"episode": 5,
+			"title": "The Brother Who Came From Heaven",
+			"type": "mixed-manga",
+			"aired_date": "2010-10-29"
+		},
+		{
+			"episode": 6,
+			"title": "Reach a Decision! The Up and Down of Heaven and Hell",
+			"type": "mixed-manga",
+			"aired_date": "2010-11-05"
+		},
+		{
+			"episode": 7,
+			"title": "Eating Watermelon Tomoki",
+			"type": "mixed-manga",
+			"aired_date": "2010-11-12"
+		},
+		{
+			"episode": 8,
+			"title": "The Song of the Angels Echoes in the Sky",
+			"type": "mixed-manga",
+			"aired_date": "2010-11-19"
+		},
+		{
+			"episode": 9,
+			"title": "Shoot Out! Fishing At the Jumbo Carnival of Dreams",
+			"type": "mixed-manga",
+			"aired_date": "2010-11-26"
+		},
+		{
+			"episode": 10,
+			"title": "Peek Into the Fantasy Field",
+			"type": "mixed-manga",
+			"aired_date": "2010-12-03"
+		},
+		{
+			"episode": 11,
+			"title": "The Edge of an Indiscriminate Requiem",
+			"type": "mixed-manga",
+			"aired_date": "2010-12-10"
+		},
+		{
+			"episode": 12,
+			"title": "Forte Wings Soaring for Tomorrow",
+			"type": "mixed-manga",
+			"aired_date": "2010-12-17"
+		}
+	]
+}

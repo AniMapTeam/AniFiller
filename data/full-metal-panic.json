@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Full Metal Panic!",
+	"mappings": {
+		"anilist_id": 71,
+		"mal_id": 71
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Guy I Kinda Like is a Sergeant",
+			"type": "mixed-manga",
+			"aired_date": "2002-01-08"
+		},
+		{
+			"episode": 2,
+			"title": "I Want to Protect You",
+			"type": "mixed-manga",
+			"aired_date": "2002-01-15"
+		},
+		{
+			"episode": 3,
+			"title": "Lingerie Panic",
+			"type": "mixed-manga",
+			"aired_date": "2002-01-22"
+		},
+		{
+			"episode": 4,
+			"title": "Kidnap",
+			"type": "mixed-manga",
+			"aired_date": "2002-01-29"
+		},
+		{
+			"episode": 5,
+			"title": "Whispered",
+			"type": "mixed-manga",
+			"aired_date": "2002-02-05"
+		},
+		{
+			"episode": 6,
+			"title": "Still Alive",
+			"type": "mixed-manga",
+			"aired_date": "2002-02-12"
+		},
+		{
+			"episode": 7,
+			"title": "Boy Meets Girl",
+			"type": "mixed-manga",
+			"aired_date": "2002-02-19"
+		},
+		{
+			"episode": 8,
+			"title": "Part Time Steady",
+			"type": "mixed-manga",
+			"aired_date": "2002-02-26"
+		},
+		{
+			"episode": 9,
+			"title": "Dangerous Safe House",
+			"type": "mixed-manga",
+			"aired_date": "2002-03-05"
+		},
+		{
+			"episode": 10,
+			"title": "Run, Running, Ran",
+			"type": "mixed-manga",
+			"aired_date": "2002-03-12"
+		},
+		{
+			"episode": 11,
+			"title": "Behemoth Awakening",
+			"type": "mixed-manga",
+			"aired_date": "2002-03-19"
+		},
+		{
+			"episode": 12,
+			"title": "One Night Stand",
+			"type": "mixed-manga",
+			"aired_date": "2002-03-26"
+		},
+		{
+			"episode": 13,
+			"title": "A Cat and a Kitten's Rock & Roll",
+			"type": "filler",
+			"aired_date": "2002-04-02"
+		},
+		{
+			"episode": 14,
+			"title": "Is Narashino Burning?",
+			"type": "filler",
+			"aired_date": "2002-04-09"
+		},
+		{
+			"episode": 15,
+			"title": "The Wind Blows at Home, Part 1",
+			"type": "filler",
+			"aired_date": "2002-04-16"
+		},
+		{
+			"episode": 16,
+			"title": "The Wind Blows at Home, Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2002-04-23"
+		},
+		{
+			"episode": 17,
+			"title": "The Wind Blows at Home, Part 3",
+			"type": "mixed-manga",
+			"aired_date": "2002-04-30"
+		},
+		{
+			"episode": 18,
+			"title": "Deep Sea Party",
+			"type": "mixed-manga",
+			"aired_date": "2002-05-07"
+		},
+		{
+			"episode": 19,
+			"title": "Engaging Six and Seven",
+			"type": "filler",
+			"aired_date": "2002-05-14"
+		},
+		{
+			"episode": 20,
+			"title": "Venom's Flame",
+			"type": "mixed-manga",
+			"aired_date": "2002-05-21"
+		},
+		{
+			"episode": 21,
+			"title": "Deep Trap",
+			"type": "manga-canon",
+			"aired_date": "2002-05-28"
+		},
+		{
+			"episode": 22,
+			"title": "Jack in the Box",
+			"type": "mixed-manga",
+			"aired_date": "2002-06-04"
+		},
+		{
+			"episode": 23,
+			"title": "Field of Giants",
+			"type": "mixed-manga",
+			"aired_date": "2002-06-11"
+		},
+		{
+			"episode": 24,
+			"title": "Into the Blue",
+			"type": "mixed-manga",
+			"aired_date": "2002-06-18"
+		}
+	]
+}

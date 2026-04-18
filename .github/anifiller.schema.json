@@ -16,7 +16,8 @@
 					},
 					"episode": {
 						"type": "number",
-						"description": "The episode number."
+						"description": "The episode number.",
+						"minimum": 1
 					},
 					"title": {
 						"type": "string",
@@ -41,6 +42,10 @@
 								"description": "The episode is based on the manga, but also contains filler content."
 							}
 						]
+					},
+					"override_date": {
+						"const": true,
+						"description": "Whether to ignore the aired_date when validating sorting of dates."
 					}
 				},
 				"required": [
@@ -61,9 +66,18 @@
 					"minimum": 1
 				},
 				"mal_id": {
-					"type": "number",
-					"description": "The show's MyAnimeList ID.",
-					"minimum": 1
+					"anyOf": [
+						{
+							"type": "number",
+							"description": "The show's MyAnimeList ID.",
+							"minimum": 1
+						},
+						{
+							"type": "null",
+							"description": "The show's MyAnimeList ID."
+						}
+					],
+					"description": "The show's MyAnimeList ID."
 				}
 			},
 			"required": ["anilist_id", "mal_id"]
@@ -71,6 +85,13 @@
 		"title": {
 			"type": "string",
 			"description": "The show title."
+		},
+		"comments": {
+			"type": "array",
+			"description": "Leave some notes about the show, for editorial purposes. This field is not required, and will not be included in the output.",
+			"items": {
+				"type": "string"
+			}
 		}
 	},
 	"required": ["episodes", "mappings", "title"]

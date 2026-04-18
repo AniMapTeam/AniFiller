@@ -1,0 +1,316 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Fairy Tail Final Season",
+	"mappings": {
+		"anilist_id": 99749,
+		"mal_id": 35972
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Lamia Scale Thanksgiving Festival",
+			"type": "manga-canon",
+			"aired_date": "2018-10-07"
+		},
+		{
+			"episode": 2,
+			"title": "Because of Love",
+			"type": "manga-canon",
+			"aired_date": "2018-10-14"
+		},
+		{
+			"episode": 3,
+			"title": "Avatar",
+			"type": "manga-canon",
+			"aired_date": "2018-10-21"
+		},
+		{
+			"episode": 4,
+			"title": "Underground Clash",
+			"type": "manga-canon",
+			"aired_date": "2018-10-28"
+		},
+		{
+			"episode": 5,
+			"title": "The Purification Plan",
+			"type": "manga-canon",
+			"aired_date": "2018-11-04"
+		},
+		{
+			"episode": 6,
+			"title": "Ikusatsunagi",
+			"type": "manga-canon",
+			"aired_date": "2018-11-11"
+		},
+		{
+			"episode": 7,
+			"title": "Memoirs",
+			"type": "manga-canon",
+			"aired_date": "2018-11-18"
+		},
+		{
+			"episode": 8,
+			"title": "The 7th Guild Master",
+			"type": "manga-canon",
+			"aired_date": "2018-11-25"
+		},
+		{
+			"episode": 9,
+			"title": "Law of Space",
+			"type": "manga-canon",
+			"aired_date": "2018-12-02"
+		},
+		{
+			"episode": 10,
+			"title": "Emperor Spriggan",
+			"type": "manga-canon",
+			"aired_date": "2018-12-09"
+		},
+		{
+			"episode": 11,
+			"title": "To the God-Forsaken Land",
+			"type": "manga-canon",
+			"aired_date": "2018-12-16"
+		},
+		{
+			"episode": 12,
+			"title": "Mavis and Zeref",
+			"type": "manga-canon",
+			"aired_date": "2018-12-23"
+		},
+		{
+			"episode": 13,
+			"title": "Fairy Heart",
+			"type": "manga-canon",
+			"aired_date": "2019-01-06"
+		},
+		{
+			"episode": 14,
+			"title": "The Magnolia Defensive War",
+			"type": "manga-canon",
+			"aired_date": "2019-01-13"
+		},
+		{
+			"episode": 15,
+			"title": "Morning Star",
+			"type": "manga-canon",
+			"aired_date": "2019-01-20"
+		},
+		{
+			"episode": 16,
+			"title": "For Whom the Parfum Flows",
+			"type": "manga-canon",
+			"aired_date": "2019-01-27"
+		},
+		{
+			"episode": 17,
+			"title": "Natsu vs. Zeref",
+			"type": "manga-canon",
+			"aired_date": "2019-02-03"
+		},
+		{
+			"episode": 18,
+			"title": "Across 400 Years",
+			"type": "manga-canon",
+			"aired_date": "2019-02-10"
+		},
+		{
+			"episode": 19,
+			"title": "What I Want to Do",
+			"type": "manga-canon",
+			"aired_date": "2019-02-17"
+		},
+		{
+			"episode": 20,
+			"title": "Not Until the Battle is Over",
+			"type": "manga-canon",
+			"aired_date": "2019-02-24"
+		},
+		{
+			"episode": 21,
+			"title": "In a Silent Time",
+			"type": "manga-canon",
+			"aired_date": "2019-03-03"
+		},
+		{
+			"episode": 22,
+			"title": "Natsu, Revived!!",
+			"type": "manga-canon",
+			"aired_date": "2019-03-10"
+		},
+		{
+			"episode": 23,
+			"title": "Historia of Corpses",
+			"type": "manga-canon",
+			"aired_date": "2019-03-17"
+		},
+		{
+			"episode": 24,
+			"title": "Mettle",
+			"type": "manga-canon",
+			"aired_date": "2019-03-24"
+		},
+		{
+			"episode": 25,
+			"title": "The Third Seal",
+			"type": "manga-canon",
+			"aired_date": "2019-03-31"
+		},
+		{
+			"episode": 26,
+			"title": "Together, Always",
+			"type": "manga-canon",
+			"aired_date": "2019-04-07"
+		},
+		{
+			"episode": 27,
+			"title": "Fairy Tail Zero",
+			"type": "manga-canon",
+			"aired_date": "2019-04-14"
+		},
+		{
+			"episode": 28,
+			"title": "White Dragneel",
+			"type": "manga-canon",
+			"aired_date": "2019-04-21"
+		},
+		{
+			"episode": 29,
+			"title": "The Winter Wizard",
+			"type": "manga-canon",
+			"aired_date": "2019-04-28"
+		},
+		{
+			"episode": 30,
+			"title": "Gray and Juvia",
+			"type": "manga-canon",
+			"aired_date": "2019-05-05"
+		},
+		{
+			"episode": 31,
+			"title": "The Mightiest Demon of the Book of Zeref",
+			"type": "manga-canon",
+			"aired_date": "2019-05-12"
+		},
+		{
+			"episode": 32,
+			"title": "Broken Bonds",
+			"type": "manga-canon",
+			"aired_date": "2019-05-19"
+		},
+		{
+			"episode": 33,
+			"title": "Pleasure and Pain",
+			"type": "manga-canon",
+			"aired_date": "2019-05-26"
+		},
+		{
+			"episode": 34,
+			"title": "Natsu's Heart",
+			"type": "manga-canon",
+			"aired_date": "2019-06-02"
+		},
+		{
+			"episode": 35,
+			"title": "Sting, the White Shadow Dragon",
+			"type": "mixed-manga",
+			"aired_date": "2019-06-09"
+		},
+		{
+			"episode": 36,
+			"title": "Dragon Seed",
+			"type": "manga-canon",
+			"aired_date": "2019-06-16"
+		},
+		{
+			"episode": 37,
+			"title": "Master Enchant",
+			"type": "manga-canon",
+			"aired_date": "2019-06-23"
+		},
+		{
+			"episode": 38,
+			"title": "Dragon or Demon",
+			"type": "manga-canon",
+			"aired_date": "2019-06-30"
+		},
+		{
+			"episode": 39,
+			"title": "Gray's Trump Card",
+			"type": "manga-canon",
+			"aired_date": "2019-07-07"
+		},
+		{
+			"episode": 40,
+			"title": "Dark Future",
+			"type": "manga-canon",
+			"aired_date": "2019-07-14"
+		},
+		{
+			"episode": 41,
+			"title": "My Name Is...",
+			"type": "manga-canon",
+			"aired_date": "2019-07-21"
+		},
+		{
+			"episode": 42,
+			"title": "Feelings",
+			"type": "manga-canon",
+			"aired_date": "2019-07-28"
+		},
+		{
+			"episode": 43,
+			"title": "Neo Eclipse",
+			"type": "manga-canon",
+			"aired_date": "2019-08-04"
+		},
+		{
+			"episode": 44,
+			"title": "Blind to Love",
+			"type": "manga-canon",
+			"aired_date": "2019-08-11"
+		},
+		{
+			"episode": 45,
+			"title": "The Gate of Vows",
+			"type": "manga-canon",
+			"aired_date": "2019-08-18"
+		},
+		{
+			"episode": 46,
+			"title": "Raging Fire of the Dragon",
+			"type": "manga-canon",
+			"aired_date": "2019-08-25"
+		},
+		{
+			"episode": 47,
+			"title": "When the Fire Dies",
+			"type": "manga-canon",
+			"aired_date": "2019-09-01"
+		},
+		{
+			"episode": 48,
+			"title": "World Destruction",
+			"type": "manga-canon",
+			"aired_date": "2019-09-08"
+		},
+		{
+			"episode": 49,
+			"title": "Magic of Hope",
+			"type": "manga-canon",
+			"aired_date": "2019-09-15"
+		},
+		{
+			"episode": 50,
+			"title": "Hearts Connected",
+			"type": "manga-canon",
+			"aired_date": "2019-09-22"
+		},
+		{
+			"episode": 51,
+			"title": "Dearest Friends",
+			"type": "manga-canon",
+			"aired_date": "2019-09-29"
+		}
+	]
+}

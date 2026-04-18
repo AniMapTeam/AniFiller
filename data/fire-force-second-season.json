@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Fire Force Season 2",
+	"mappings": {
+		"anilist_id": 114236,
+		"mal_id": 40956
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "A Fire Soldier's Fight / A Man’s Fight",
+			"type": "mixed-manga",
+			"aired_date": "2020-07-03"
+		},
+		{
+			"episode": 2,
+			"title": "Flames of Madness",
+			"type": "manga-canon",
+			"aired_date": "2020-07-10"
+		},
+		{
+			"episode": 3,
+			"title": "A New Flashpoint",
+			"type": "manga-canon",
+			"aired_date": "2020-07-17"
+		},
+		{
+			"episode": 4,
+			"title": "Groping Through the Fire",
+			"type": "manga-canon",
+			"aired_date": "2020-07-24"
+		},
+		{
+			"episode": 5,
+			"title": "Corna (Sign of the Devil) / A Secret Plan",
+			"type": "manga-canon",
+			"aired_date": "2020-07-31"
+		},
+		{
+			"episode": 6,
+			"title": "The Time to Choose",
+			"type": "manga-canon",
+			"aired_date": "2020-08-07"
+		},
+		{
+			"episode": 7,
+			"title": "Road to the Oasis",
+			"type": "manga-canon",
+			"aired_date": "2020-08-14"
+		},
+		{
+			"episode": 8,
+			"title": "Smoldering Malevolence",
+			"type": "manga-canon",
+			"aired_date": "2020-08-21"
+		},
+		{
+			"episode": 9,
+			"title": "The Core",
+			"type": "manga-canon",
+			"aired_date": "2020-08-28"
+		},
+		{
+			"episode": 10,
+			"title": "The Woman in Black",
+			"type": "manga-canon",
+			"aired_date": "2020-09-04"
+		},
+		{
+			"episode": 11,
+			"title": "Dark Hero",
+			"type": "manga-canon",
+			"aired_date": "2020-09-11"
+		},
+		{
+			"episode": 12,
+			"title": "Shadows Cast by Divine Light",
+			"type": "manga-canon",
+			"aired_date": "2020-09-18"
+		},
+		{
+			"episode": 13,
+			"title": "A Pair of One-Eyes",
+			"type": "manga-canon",
+			"aired_date": "2020-09-25"
+		},
+		{
+			"episode": 14,
+			"title": "The Ashen Reaper",
+			"type": "manga-canon",
+			"aired_date": "2020-10-03"
+		},
+		{
+			"episode": 15,
+			"title": "A Three-Way Melee",
+			"type": "manga-canon",
+			"aired_date": "2020-10-10"
+		},
+		{
+			"episode": 16,
+			"title": "Mind Blown",
+			"type": "manga-canon",
+			"aired_date": "2020-10-17"
+		},
+		{
+			"episode": 17,
+			"title": "Boys, Be Weak",
+			"type": "manga-canon",
+			"aired_date": "2020-10-24"
+		},
+		{
+			"episode": 18,
+			"title": "The Holy Woman’s Anguish / The Man Assault",
+			"type": "manga-canon",
+			"aired_date": "2020-10-31"
+		},
+		{
+			"episode": 19,
+			"title": "The Oze Family",
+			"type": "manga-canon",
+			"aired_date": "2020-11-07"
+		},
+		{
+			"episode": 20,
+			"title": "Weapons of Destruction",
+			"type": "manga-canon",
+			"aired_date": "2020-11-14"
+		},
+		{
+			"episode": 21,
+			"title": "Enemy Contact",
+			"type": "manga-canon",
+			"aired_date": "2020-11-21"
+		},
+		{
+			"episode": 22,
+			"title": "Plot for Extinction",
+			"type": "manga-canon",
+			"aired_date": "2020-11-28"
+		},
+		{
+			"episode": 23,
+			"title": "Firecat",
+			"type": "manga-canon",
+			"aired_date": "2020-12-05"
+		},
+		{
+			"episode": 24,
+			"title": "Signs of Upheaval",
+			"type": "manga-canon",
+			"aired_date": "2020-12-12"
+		}
+	]
+}

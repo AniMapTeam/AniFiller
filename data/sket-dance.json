@@ -1,0 +1,334 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "SKET Dance",
+	"mappings": {
+		"anilist_id": 9863,
+		"mal_id": 9863
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Academy SKETs",
+			"type": "manga-canon",
+			"aired_date": "2011-04-07"
+		},
+		{
+			"episode": 2,
+			"title": "Peppermint Samurai",
+			"type": "manga-canon",
+			"aired_date": "2011-04-14"
+		},
+		{
+			"episode": 3,
+			"title": "The Legendary Onihime",
+			"type": "manga-canon",
+			"aired_date": "2011-04-21"
+		},
+		{
+			"episode": 4,
+			"title": "Romantic! Finding the Hilltop Pelolin!",
+			"type": "manga-canon",
+			"aired_date": "2011-04-28"
+		},
+		{
+			"episode": 5,
+			"title": "The Ghost of the Incinerator",
+			"type": "manga-canon",
+			"aired_date": "2011-05-04"
+		},
+		{
+			"episode": 6,
+			"title": "Even Onihime Has Tears in Her Eyes (Devil Princess May Cry)",
+			"type": "manga-canon",
+			"aired_date": "2011-05-12"
+		},
+		{
+			"episode": 7,
+			"title": "Summer Sakura",
+			"type": "manga-canon",
+			"aired_date": "2011-05-19"
+		},
+		{
+			"episode": 8,
+			"title": "Nervous & Genesis",
+			"type": "manga-canon",
+			"aired_date": "2011-05-26"
+		},
+		{
+			"episode": 9,
+			"title": "Enta'll Do It!",
+			"type": "manga-canon",
+			"aired_date": "2011-06-02"
+		},
+		{
+			"episode": 10,
+			"title": "You Mustn't Watch",
+			"type": "manga-canon",
+			"aired_date": "2011-06-09"
+		},
+		{
+			"episode": 11,
+			"title": "Real-deal Bibage Battle",
+			"type": "manga-canon",
+			"aired_date": "2011-06-16"
+		},
+		{
+			"episode": 12,
+			"title": "Shooting Gang Star Etc...",
+			"type": "manga-canon",
+			"aired_date": "2011-06-23"
+		},
+		{
+			"episode": 13,
+			"title": "Pixie's Garden",
+			"type": "manga-canon",
+			"aired_date": "2011-06-30"
+		},
+		{
+			"episode": 14,
+			"title": "Producing Uchida",
+			"type": "manga-canon",
+			"aired_date": "2011-07-07"
+		},
+		{
+			"episode": 15,
+			"title": "Mistaken Angel the 13th",
+			"type": "manga-canon",
+			"aired_date": "2011-07-14"
+		},
+		{
+			"episode": 16,
+			"title": "Kaimei Rock Festival",
+			"type": "manga-canon",
+			"aired_date": "2011-07-21"
+		},
+		{
+			"episode": 17,
+			"title": "Sketchbook",
+			"type": "manga-canon",
+			"aired_date": "2011-07-28"
+		},
+		{
+			"episode": 18,
+			"title": "This is How a Man Plays Hyperion",
+			"type": "manga-canon",
+			"aired_date": "2011-08-04"
+		},
+		{
+			"episode": 19,
+			"title": "Panic and 100 Haircuts in the Principal's Office and Club Room",
+			"type": "manga-canon",
+			"aired_date": "2011-08-11"
+		},
+		{
+			"episode": 20,
+			"title": "Group Blind Date Tsukkomi",
+			"type": "manga-canon",
+			"aired_date": "2011-08-18"
+		},
+		{
+			"episode": 21,
+			"title": "Otaku & Occult",
+			"type": "manga-canon",
+			"aired_date": "2011-08-25"
+		},
+		{
+			"episode": 22,
+			"title": "In the Park Homerun (Revised)",
+			"type": "manga-canon",
+			"aired_date": "2011-09-01"
+		},
+		{
+			"episode": 23,
+			"title": "It Feels Great to Be a Little Princess!",
+			"type": "manga-canon",
+			"aired_date": "2011-09-08"
+		},
+		{
+			"episode": 24,
+			"title": "Older Brother, Younger Brother",
+			"type": "manga-canon",
+			"aired_date": "2011-09-15"
+		},
+		{
+			"episode": 25,
+			"title": "Switch Off",
+			"type": "manga-canon",
+			"aired_date": "2011-09-22"
+		},
+		{
+			"episode": 26,
+			"title": "Spirit Dance",
+			"type": "filler",
+			"aired_date": "2011-09-29"
+		},
+		{
+			"episode": 27,
+			"title": "Together With Onee-san and Bad Scientist",
+			"type": "manga-canon",
+			"aired_date": "2011-10-06"
+		},
+		{
+			"episode": 28,
+			"title": "Shinba Michiru's Elegant Cooking",
+			"type": "manga-canon",
+			"aired_date": "2011-10-13"
+		},
+		{
+			"episode": 29,
+			"title": "The Second Coming of the Mistaken Angel",
+			"type": "manga-canon",
+			"aired_date": "2011-10-20"
+		},
+		{
+			"episode": 30,
+			"title": "Turn the Crank-nyora!",
+			"type": "manga-canon",
+			"aired_date": "2011-10-27"
+		},
+		{
+			"episode": 31,
+			"title": "Samurai and clothes",
+			"type": "manga-canon",
+			"aired_date": "2011-11-03"
+		},
+		{
+			"episode": 32,
+			"title": "Thief Dance, Plus",
+			"type": "filler",
+			"aired_date": "2011-11-09"
+		},
+		{
+			"episode": 33,
+			"title": "The Glass Man",
+			"type": "manga-canon",
+			"aired_date": "2011-11-16"
+		},
+		{
+			"episode": 34,
+			"title": "Onee-san Romantic Laboratory",
+			"type": "manga-canon",
+			"aired_date": "2011-11-23"
+		},
+		{
+			"episode": 35,
+			"title": "Quiz Warrior Enigman",
+			"type": "manga-canon",
+			"aired_date": "2011-11-30"
+		},
+		{
+			"episode": 36,
+			"title": "Ogress",
+			"type": "manga-canon",
+			"aired_date": "2011-12-07"
+		},
+		{
+			"episode": 37,
+			"title": "Kunpuu, Pleasant Breeze",
+			"type": "manga-canon",
+			"aired_date": "2011-12-14"
+		},
+		{
+			"episode": 38,
+			"title": "Kigurumi Break",
+			"type": "manga-canon",
+			"aired_date": "2011-12-21"
+		},
+		{
+			"episode": 39,
+			"title": "One Broken, Special... New Year's",
+			"type": "manga-canon",
+			"aired_date": "2011-12-28"
+		},
+		{
+			"episode": 40,
+			"title": "Stakeout Blues",
+			"type": "manga-canon",
+			"aired_date": "2012-01-12"
+		},
+		{
+			"episode": 41,
+			"title": "Vs. Student Council! The Rare Man who Needlessly Fears the Battle Q!",
+			"type": "manga-canon",
+			"aired_date": "2012-01-19"
+		},
+		{
+			"episode": 42,
+			"title": "Momoka's Sudden Road to Stage Actress",
+			"type": "manga-canon",
+			"aired_date": "2012-01-26"
+		},
+		{
+			"episode": 43,
+			"title": "Bashful Girl",
+			"type": "manga-canon",
+			"aired_date": "2012-02-05"
+		},
+		{
+			"episode": 44,
+			"title": "Drop",
+			"type": "manga-canon",
+			"aired_date": "2012-02-09"
+		},
+		{
+			"episode": 45,
+			"title": "Whispering Onee-san's Instruct-son",
+			"type": "manga-canon",
+			"aired_date": "2012-02-16"
+		},
+		{
+			"episode": 46,
+			"title": "Happy Birthday Part 1",
+			"type": "manga-canon",
+			"aired_date": "2012-02-23"
+		},
+		{
+			"episode": 47,
+			"title": "Happy Birthday Part 2",
+			"type": "manga-canon",
+			"aired_date": "2012-03-01"
+		},
+		{
+			"episode": 48,
+			"title": "Happy Rebirthday",
+			"type": "manga-canon",
+			"aired_date": "2012-03-08"
+		},
+		{
+			"episode": 49,
+			"title": "Genesis World Grand Prix",
+			"type": "manga-canon",
+			"aired_date": "2012-03-15"
+		},
+		{
+			"episode": 50,
+			"title": "I'll Do Anything, Master",
+			"type": "manga-canon",
+			"aired_date": "2012-03-22"
+		},
+		{
+			"episode": 51,
+			"title": "Happy to Meet You",
+			"type": "manga-canon",
+			"aired_date": "2012-03-29"
+		},
+		{
+			"episode": 52,
+			"title": "Twin Tail Tsundere Girl",
+			"type": "manga-canon",
+			"aired_date": "2012-04-05"
+		},
+		{
+			"episode": 53,
+			"title": "A Graceful Melody for Koma-chan",
+			"type": "manga-canon",
+			"aired_date": "2012-04-12"
+		},
+		{
+			"episode": 54,
+			"title": "Get the Fortune Teller!",
+			"type": "manga-canon",
+			"aired_date": "2012-04-19"
+		}
+	]
+}

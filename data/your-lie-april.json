@@ -1,0 +1,142 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Your lie in April",
+	"mappings": {
+		"anilist_id": 20665,
+		"mal_id": 23273
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Monotone/Colorful",
+			"type": "mixed-manga",
+			"aired_date": "2014-10-09"
+		},
+		{
+			"episode": 2,
+			"title": "Friend A",
+			"type": "mixed-manga",
+			"aired_date": "2014-10-16"
+		},
+		{
+			"episode": 3,
+			"title": "Inside Spring",
+			"type": "manga-canon",
+			"aired_date": "2014-10-23"
+		},
+		{
+			"episode": 4,
+			"title": "The Journey",
+			"type": "manga-canon",
+			"aired_date": "2014-10-30"
+		},
+		{
+			"episode": 5,
+			"title": "Gray Skies",
+			"type": "manga-canon",
+			"aired_date": "2014-11-06"
+		},
+		{
+			"episode": 6,
+			"title": "On the Way Home",
+			"type": "manga-canon",
+			"aired_date": "2014-11-13"
+		},
+		{
+			"episode": 7,
+			"title": "The Shadows Whisper",
+			"type": "manga-canon",
+			"aired_date": "2014-11-20"
+		},
+		{
+			"episode": 8,
+			"title": "Let it Ring",
+			"type": "manga-canon",
+			"aired_date": "2014-11-27"
+		},
+		{
+			"episode": 9,
+			"title": "Resonance",
+			"type": "manga-canon",
+			"aired_date": "2014-12-04"
+		},
+		{
+			"episode": 10,
+			"title": "The Scenery I Shared With You",
+			"type": "manga-canon",
+			"aired_date": "2014-12-11"
+		},
+		{
+			"episode": 11,
+			"title": "Light of Life",
+			"type": "manga-canon",
+			"aired_date": "2014-12-18"
+		},
+		{
+			"episode": 12,
+			"title": "Twinkle Little Star",
+			"type": "mixed-manga",
+			"aired_date": "2015-01-08"
+		},
+		{
+			"episode": 13,
+			"title": "Love's Sorrow",
+			"type": "manga-canon",
+			"aired_date": "2015-01-15"
+		},
+		{
+			"episode": 14,
+			"title": "Footsteps",
+			"type": "manga-canon",
+			"aired_date": "2015-01-22"
+		},
+		{
+			"episode": 15,
+			"title": "Liar",
+			"type": "manga-canon",
+			"aired_date": "2015-01-29"
+		},
+		{
+			"episode": 16,
+			"title": "Two of a Kind",
+			"type": "manga-canon",
+			"aired_date": "2015-02-05"
+		},
+		{
+			"episode": 17,
+			"title": "Twilight",
+			"type": "manga-canon",
+			"aired_date": "2015-02-12"
+		},
+		{
+			"episode": 18,
+			"title": "Hearts Come Together",
+			"type": "manga-canon",
+			"aired_date": "2015-02-19"
+		},
+		{
+			"episode": 19,
+			"title": "Goodbye, Hero",
+			"type": "manga-canon",
+			"aired_date": "2015-02-26"
+		},
+		{
+			"episode": 20,
+			"title": "Hand in Hand",
+			"type": "manga-canon",
+			"aired_date": "2015-03-05"
+		},
+		{
+			"episode": 21,
+			"title": "Snow",
+			"type": "manga-canon",
+			"aired_date": "2015-03-12"
+		},
+		{
+			"episode": 22,
+			"title": "Spring Wind",
+			"type": "mixed-manga",
+			"aired_date": "2015-03-19"
+		}
+	]
+}

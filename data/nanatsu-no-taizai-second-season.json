@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "The Seven Deadly Sins: Revival of the Commandments",
+	"mappings": {
+		"anilist_id": 99539,
+		"mal_id": 34577
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Revival of The Demon Clan",
+			"type": "mixed-manga",
+			"aired_date": "2018-01-13"
+		},
+		{
+			"episode": 2,
+			"title": "Existence and Proof",
+			"type": "mixed-manga",
+			"aired_date": "2018-01-20"
+		},
+		{
+			"episode": 3,
+			"title": "Sacred Treasure Lostvayne",
+			"type": "manga-canon",
+			"aired_date": "2018-01-27"
+		},
+		{
+			"episode": 4,
+			"title": "The Ten Commandments on the Move",
+			"type": "manga-canon",
+			"aired_date": "2018-02-03"
+		},
+		{
+			"episode": 5,
+			"title": "Overwhelming Violence",
+			"type": "manga-canon",
+			"aired_date": "2018-02-10"
+		},
+		{
+			"episode": 6,
+			"title": "The Great Holy Knight Atones For His Sins",
+			"type": "manga-canon",
+			"aired_date": "2018-02-17"
+		},
+		{
+			"episode": 7,
+			"title": "Where Memories Lead",
+			"type": "manga-canon",
+			"aired_date": "2018-02-24"
+		},
+		{
+			"episode": 8,
+			"title": "The Druids' Holy Land",
+			"type": "manga-canon",
+			"aired_date": "2018-03-03"
+		},
+		{
+			"episode": 9,
+			"title": "A Promise To A Loved One",
+			"type": "manga-canon",
+			"aired_date": "2018-03-10"
+		},
+		{
+			"episode": 10,
+			"title": "What We Lacked",
+			"type": "manga-canon",
+			"aired_date": "2018-03-17"
+		},
+		{
+			"episode": 11,
+			"title": "Father and Son",
+			"type": "manga-canon",
+			"aired_date": "2018-03-24"
+		},
+		{
+			"episode": 12,
+			"title": "Where Love is Found",
+			"type": "manga-canon",
+			"aired_date": "2018-03-31"
+		},
+		{
+			"episode": 13,
+			"title": "Farewell, Beloved Thief",
+			"type": "manga-canon",
+			"aired_date": "2018-04-14"
+		},
+		{
+			"episode": 14,
+			"title": "Master of the Sun",
+			"type": "manga-canon",
+			"aired_date": "2018-04-21"
+		},
+		{
+			"episode": 15,
+			"title": "A Bloodcurdling Confession",
+			"type": "manga-canon",
+			"aired_date": "2018-04-28"
+		},
+		{
+			"episode": 16,
+			"title": "Death-Trap Maze",
+			"type": "manga-canon",
+			"aired_date": "2018-05-05"
+		},
+		{
+			"episode": 17,
+			"title": "Legendary Figures",
+			"type": "manga-canon",
+			"aired_date": "2018-05-12"
+		},
+		{
+			"episode": 18,
+			"title": "For Whom Does That Light Shine?",
+			"type": "manga-canon",
+			"aired_date": "2018-05-19"
+		},
+		{
+			"episode": 19,
+			"title": "Meliodas vs the Ten Commandments",
+			"type": "manga-canon",
+			"aired_date": "2018-05-26"
+		},
+		{
+			"episode": 20,
+			"title": "Pursuit of Hope",
+			"type": "manga-canon",
+			"aired_date": "2018-06-02"
+		},
+		{
+			"episode": 21,
+			"title": "Certain Warmth",
+			"type": "manga-canon",
+			"aired_date": "2018-06-09"
+		},
+		{
+			"episode": 22,
+			"title": "Return of the Sins",
+			"type": "manga-canon",
+			"aired_date": "2018-06-16"
+		},
+		{
+			"episode": 23,
+			"title": "The Hero Rises!",
+			"type": "manga-canon",
+			"aired_date": "2018-06-23"
+		},
+		{
+			"episode": 24,
+			"title": "As Long As You Are Here",
+			"type": "manga-canon",
+			"aired_date": "2018-06-30"
+		}
+	]
+}

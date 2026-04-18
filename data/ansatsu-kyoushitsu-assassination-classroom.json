@@ -7,12 +7,6 @@
 	},
 	"episodes": [
 		{
-			"episode": 0,
-			"title": "Meeting Time",
-			"type": "anime-canon",
-			"aired_date": "2014-11-09"
-		},
-		{
 			"episode": 1,
 			"title": "Assassination Time",
 			"type": "manga-canon",

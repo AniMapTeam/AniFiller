@@ -1,0 +1,928 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Dragon Ball",
+	"mappings": {
+		"anilist_id": 223,
+		"mal_id": 223
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Secret of the Dragon Balls",
+			"type": "manga-canon",
+			"aired_date": "1986-02-26"
+		},
+		{
+			"episode": 2,
+			"title": "The Emperor's Quest",
+			"type": "manga-canon",
+			"aired_date": "1986-03-05"
+		},
+		{
+			"episode": 3,
+			"title": "The Nimbus Cloud of Roshi",
+			"type": "manga-canon",
+			"aired_date": "1986-03-12"
+		},
+		{
+			"episode": 4,
+			"title": "Oolong the Terrible",
+			"type": "manga-canon",
+			"aired_date": "1986-03-19"
+		},
+		{
+			"episode": 5,
+			"title": "Yamcha the Desert Bandit",
+			"type": "manga-canon",
+			"aired_date": "1986-03-26"
+		},
+		{
+			"episode": 6,
+			"title": "Keep an Eye on the Dragon Balls",
+			"type": "manga-canon",
+			"aired_date": "1986-04-02"
+		},
+		{
+			"episode": 7,
+			"title": "The Ox King on Fire Mountain",
+			"type": "manga-canon",
+			"aired_date": "1986-04-09"
+		},
+		{
+			"episode": 8,
+			"title": "The Kamehameha Wave",
+			"type": "manga-canon",
+			"aired_date": "1986-04-16"
+		},
+		{
+			"episode": 9,
+			"title": "Boss Rabbit’s Magic Touch",
+			"type": "manga-canon",
+			"aired_date": "1986-04-23"
+		},
+		{
+			"episode": 10,
+			"title": "The Dragon Balls are Stolen!",
+			"type": "manga-canon",
+			"aired_date": "1986-04-30"
+		},
+		{
+			"episode": 11,
+			"title": "The Penalty is Pinball",
+			"type": "manga-canon",
+			"aired_date": "1986-05-07"
+		},
+		{
+			"episode": 12,
+			"title": "A Wish to the Eternal Dragon",
+			"type": "manga-canon",
+			"aired_date": "1986-05-14"
+		},
+		{
+			"episode": 13,
+			"title": "The Legend of Goku",
+			"type": "manga-canon",
+			"aired_date": "1986-05-21"
+		},
+		{
+			"episode": 14,
+			"title": "Goku's Rival",
+			"type": "manga-canon",
+			"aired_date": "1986-05-28"
+		},
+		{
+			"episode": 15,
+			"title": "Look Out for Launch",
+			"type": "manga-canon",
+			"aired_date": "1986-06-04"
+		},
+		{
+			"episode": 16,
+			"title": "Find That Stone!",
+			"type": "manga-canon",
+			"aired_date": "1986-06-11"
+		},
+		{
+			"episode": 17,
+			"title": "Milk Delivery",
+			"type": "manga-canon",
+			"aired_date": "1986-06-18"
+		},
+		{
+			"episode": 18,
+			"title": "The Turtle Hermit Way",
+			"type": "manga-canon",
+			"aired_date": "1986-06-25"
+		},
+		{
+			"episode": 19,
+			"title": "The Tournament Begins",
+			"type": "manga-canon",
+			"aired_date": "1986-07-02"
+		},
+		{
+			"episode": 20,
+			"title": "Elimination Round",
+			"type": "manga-canon",
+			"aired_date": "1986-07-09"
+		},
+		{
+			"episode": 21,
+			"title": "Smells Like Trouble",
+			"type": "manga-canon",
+			"aired_date": "1986-07-16"
+		},
+		{
+			"episode": 22,
+			"title": "Quarterfinals Begin",
+			"type": "manga-canon",
+			"aired_date": "1986-07-23"
+		},
+		{
+			"episode": 23,
+			"title": "Monster Beast Giran",
+			"type": "manga-canon",
+			"aired_date": "1986-07-30"
+		},
+		{
+			"episode": 24,
+			"title": "Krillin's Frantic Attack!",
+			"type": "manga-canon",
+			"aired_date": "1986-08-06"
+		},
+		{
+			"episode": 25,
+			"title": "Danger From Above",
+			"type": "manga-canon",
+			"aired_date": "1986-08-13"
+		},
+		{
+			"episode": 26,
+			"title": "The Grand Finals",
+			"type": "manga-canon",
+			"aired_date": "1986-08-20"
+		},
+		{
+			"episode": 27,
+			"title": "Number One Under the Moon?",
+			"type": "manga-canon",
+			"aired_date": "1986-08-27"
+		},
+		{
+			"episode": 28,
+			"title": "The Final Blow",
+			"type": "manga-canon",
+			"aired_date": "1986-09-03"
+		},
+		{
+			"episode": 29,
+			"title": "The Roaming Lake",
+			"type": "mixed-manga",
+			"aired_date": "1986-09-10"
+		},
+		{
+			"episode": 30,
+			"title": "Pilaf and the Mystery Force",
+			"type": "filler",
+			"aired_date": "1986-09-17"
+		},
+		{
+			"episode": 31,
+			"title": "Wedding Plans?",
+			"type": "filler",
+			"aired_date": "1986-09-24"
+		},
+		{
+			"episode": 32,
+			"title": "The Flying Fortress - Vanished!",
+			"type": "filler",
+			"aired_date": "1986-10-01"
+		},
+		{
+			"episode": 33,
+			"title": "The Legend of a Dragon",
+			"type": "filler",
+			"aired_date": "1986-10-08"
+		},
+		{
+			"episode": 34,
+			"title": "Cruel General Red",
+			"type": "manga-canon",
+			"aired_date": "1986-10-15"
+		},
+		{
+			"episode": 35,
+			"title": "Cold Reception",
+			"type": "manga-canon",
+			"aired_date": "1986-10-22"
+		},
+		{
+			"episode": 36,
+			"title": "Major Metallitron",
+			"type": "manga-canon",
+			"aired_date": "1986-10-29"
+		},
+		{
+			"episode": 37,
+			"title": "Ninja Murasaki is Coming!",
+			"type": "manga-canon",
+			"aired_date": "1986-11-05"
+		},
+		{
+			"episode": 38,
+			"title": "Five Murasakis",
+			"type": "manga-canon",
+			"aired_date": "1986-11-12"
+		},
+		{
+			"episode": 39,
+			"title": "Mysterious Android No. 8",
+			"type": "manga-canon",
+			"aired_date": "1986-11-19"
+		},
+		{
+			"episode": 40,
+			"title": "Horrifying Buyon",
+			"type": "manga-canon",
+			"aired_date": "1986-11-26"
+		},
+		{
+			"episode": 41,
+			"title": "The Fall of Muscle Tower",
+			"type": "manga-canon",
+			"aired_date": "1986-12-03"
+		},
+		{
+			"episode": 42,
+			"title": "The Secret of Dr. Flappe",
+			"type": "mixed-manga",
+			"aired_date": "1986-12-10"
+		},
+		{
+			"episode": 43,
+			"title": "A Trip to the City",
+			"type": "manga-canon",
+			"aired_date": "1986-12-17"
+		},
+		{
+			"episode": 44,
+			"title": "Master Thief, Hasky",
+			"type": "mixed-manga",
+			"aired_date": "1986-12-24"
+		},
+		{
+			"episode": 45,
+			"title": "Danger in the Air",
+			"type": "filler",
+			"aired_date": "1987-01-07"
+		},
+		{
+			"episode": 46,
+			"title": "Bulma's Bad Day",
+			"type": "manga-canon",
+			"aired_date": "1987-01-14"
+		},
+		{
+			"episode": 47,
+			"title": "Kame House - Found!",
+			"type": "manga-canon",
+			"aired_date": "1987-01-21"
+		},
+		{
+			"episode": 48,
+			"title": "Deep Blue Sea",
+			"type": "manga-canon",
+			"aired_date": "1987-01-28"
+		},
+		{
+			"episode": 49,
+			"title": "Roshi Surprise",
+			"type": "manga-canon",
+			"aired_date": "1987-02-04"
+		},
+		{
+			"episode": 50,
+			"title": "The Trap is Sprung!",
+			"type": "manga-canon",
+			"aired_date": "1987-02-11"
+		},
+		{
+			"episode": 51,
+			"title": "Beware of Robot",
+			"type": "manga-canon",
+			"aired_date": "1987-02-18"
+		},
+		{
+			"episode": 52,
+			"title": "The Pirate Treasure",
+			"type": "manga-canon",
+			"aired_date": "1987-02-25"
+		},
+		{
+			"episode": 53,
+			"title": "Blue, Black and Blue",
+			"type": "manga-canon",
+			"aired_date": "1987-03-04"
+		},
+		{
+			"episode": 54,
+			"title": "Escape From Pirate Cave",
+			"type": "manga-canon",
+			"aired_date": "1987-03-11"
+		},
+		{
+			"episode": 55,
+			"title": "Penguin Village",
+			"type": "manga-canon",
+			"aired_date": "1987-03-18"
+		},
+		{
+			"episode": 56,
+			"title": "Strange Visitor",
+			"type": "manga-canon",
+			"aired_date": "1987-03-25"
+		},
+		{
+			"episode": 57,
+			"title": "Arale vs. Blue",
+			"type": "manga-canon",
+			"aired_date": "1987-04-08"
+		},
+		{
+			"episode": 58,
+			"title": "The Land of Korin",
+			"type": "manga-canon",
+			"aired_date": "1987-04-15"
+		},
+		{
+			"episode": 59,
+			"title": "The Notorious Mercenary",
+			"type": "manga-canon",
+			"aired_date": "1987-04-22"
+		},
+		{
+			"episode": 60,
+			"title": "Tao Attacks!",
+			"type": "manga-canon",
+			"aired_date": "1987-04-29"
+		},
+		{
+			"episode": 61,
+			"title": "Korin Tower",
+			"type": "manga-canon",
+			"aired_date": "1987-05-06"
+		},
+		{
+			"episode": 62,
+			"title": "Sacred Water",
+			"type": "manga-canon",
+			"aired_date": "1987-05-13"
+		},
+		{
+			"episode": 63,
+			"title": "The Return of Goku",
+			"type": "manga-canon",
+			"aired_date": "1987-05-20"
+		},
+		{
+			"episode": 64,
+			"title": "The Last of Mercenary Tao",
+			"type": "manga-canon",
+			"aired_date": "1987-05-27"
+		},
+		{
+			"episode": 65,
+			"title": "Confront the Red Ribbon Army",
+			"type": "manga-canon",
+			"aired_date": "1987-06-10"
+		},
+		{
+			"episode": 66,
+			"title": "A Real Bind",
+			"type": "manga-canon",
+			"aired_date": "1987-06-17"
+		},
+		{
+			"episode": 67,
+			"title": "The End of Commander Red",
+			"type": "manga-canon",
+			"aired_date": "1987-06-24"
+		},
+		{
+			"episode": 68,
+			"title": "The Last Dragon Ball",
+			"type": "manga-canon",
+			"aired_date": "1987-07-01"
+		},
+		{
+			"episode": 69,
+			"title": "Who is Fortuneteller Baba?",
+			"type": "manga-canon",
+			"aired_date": "1987-07-08"
+		},
+		{
+			"episode": 70,
+			"title": "We Are the Five Warriors",
+			"type": "manga-canon",
+			"aired_date": "1987-07-15"
+		},
+		{
+			"episode": 71,
+			"title": "Deadly Battle",
+			"type": "manga-canon",
+			"aired_date": "1987-07-22"
+		},
+		{
+			"episode": 72,
+			"title": "Goku's Turn",
+			"type": "manga-canon",
+			"aired_date": "1987-07-29"
+		},
+		{
+			"episode": 73,
+			"title": "The Devilmite Beam",
+			"type": "manga-canon",
+			"aired_date": "1987-08-05"
+		},
+		{
+			"episode": 74,
+			"title": "The Mysterious Fifth Man",
+			"type": "manga-canon",
+			"aired_date": "1987-08-12"
+		},
+		{
+			"episode": 75,
+			"title": "The Strong Ones",
+			"type": "manga-canon",
+			"aired_date": "1987-08-19"
+		},
+		{
+			"episode": 76,
+			"title": "True Colors of the Masked Man",
+			"type": "manga-canon",
+			"aired_date": "1987-08-26"
+		},
+		{
+			"episode": 77,
+			"title": "Pilaf's Tactics",
+			"type": "manga-canon",
+			"aired_date": "1987-09-02"
+		},
+		{
+			"episode": 78,
+			"title": "The Eternal Dragon Rises",
+			"type": "manga-canon",
+			"aired_date": "1987-09-09"
+		},
+		{
+			"episode": 79,
+			"title": "Terror and Plague",
+			"type": "filler",
+			"aired_date": "1987-09-16"
+		},
+		{
+			"episode": 80,
+			"title": "Goku vs. Sky Dragon",
+			"type": "filler",
+			"aired_date": "1987-09-23"
+		},
+		{
+			"episode": 81,
+			"title": "Goku Goes to Demon Land",
+			"type": "filler",
+			"aired_date": "1987-09-30"
+		},
+		{
+			"episode": 82,
+			"title": "The Rampage of InoShikaCho",
+			"type": "filler",
+			"aired_date": "1987-10-07"
+		},
+		{
+			"episode": 83,
+			"title": "Which Way To Papaya Island?",
+			"type": "filler",
+			"aired_date": "1987-10-14"
+		},
+		{
+			"episode": 84,
+			"title": "Rivals and Arrivals",
+			"type": "manga-canon",
+			"aired_date": "1987-10-21"
+		},
+		{
+			"episode": 85,
+			"title": "Preliminary Peril",
+			"type": "manga-canon",
+			"aired_date": "1987-10-28"
+		},
+		{
+			"episode": 86,
+			"title": "Then There Were Eight",
+			"type": "manga-canon",
+			"aired_date": "1987-11-04"
+		},
+		{
+			"episode": 87,
+			"title": "Yamcha vs. Tien",
+			"type": "manga-canon",
+			"aired_date": "1987-11-11"
+		},
+		{
+			"episode": 88,
+			"title": "Yamcha's Big Break",
+			"type": "manga-canon",
+			"aired_date": "1987-11-18"
+		},
+		{
+			"episode": 89,
+			"title": "Full-Moon Vengeance",
+			"type": "manga-canon",
+			"aired_date": "1987-11-25"
+		},
+		{
+			"episode": 90,
+			"title": "The Dodon Wave",
+			"type": "manga-canon",
+			"aired_date": "1987-12-02"
+		},
+		{
+			"episode": 91,
+			"title": "Counting Controversy!!",
+			"type": "manga-canon",
+			"aired_date": "1987-12-09"
+		},
+		{
+			"episode": 92,
+			"title": "Goku Enters the Ring",
+			"type": "manga-canon",
+			"aired_date": "1987-12-16"
+		},
+		{
+			"episode": 93,
+			"title": "Tien Shinhan vs. Jackie Chun",
+			"type": "manga-canon",
+			"aired_date": "1987-12-23"
+		},
+		{
+			"episode": 94,
+			"title": "Stepping Down",
+			"type": "manga-canon",
+			"aired_date": "1987-12-30"
+		},
+		{
+			"episode": 95,
+			"title": "Goku vs. Krillin",
+			"type": "manga-canon",
+			"aired_date": "1988-01-06"
+		},
+		{
+			"episode": 96,
+			"title": "Tail's Tale",
+			"type": "manga-canon",
+			"aired_date": "1988-01-13"
+		},
+		{
+			"episode": 97,
+			"title": "Final Match: Goku vs. Tien",
+			"type": "manga-canon",
+			"aired_date": "1988-01-20"
+		},
+		{
+			"episode": 98,
+			"title": "Victory's Edge",
+			"type": "manga-canon",
+			"aired_date": "1988-01-27"
+		},
+		{
+			"episode": 99,
+			"title": "Tien's Insurrection",
+			"type": "manga-canon",
+			"aired_date": "1988-02-03"
+		},
+		{
+			"episode": 100,
+			"title": "The Spirit Cannon",
+			"type": "manga-canon",
+			"aired_date": "1988-02-10"
+		},
+		{
+			"episode": 101,
+			"title": "The Fallen",
+			"type": "manga-canon",
+			"aired_date": "1988-02-17"
+		},
+		{
+			"episode": 102,
+			"title": "Enter King Piccolo",
+			"type": "manga-canon",
+			"aired_date": "1988-02-24"
+		},
+		{
+			"episode": 103,
+			"title": "Tambourine Attacks!",
+			"type": "manga-canon",
+			"aired_date": "1988-03-02"
+		},
+		{
+			"episode": 104,
+			"title": "Mark of the Demon",
+			"type": "manga-canon",
+			"aired_date": "1988-03-09"
+		},
+		{
+			"episode": 105,
+			"title": "Here Comes Yajirobe",
+			"type": "manga-canon",
+			"aired_date": "1988-03-16"
+		},
+		{
+			"episode": 106,
+			"title": "Terrible Tambourine",
+			"type": "manga-canon",
+			"aired_date": "1988-03-23"
+		},
+		{
+			"episode": 107,
+			"title": "Tien's Atonement",
+			"type": "manga-canon",
+			"aired_date": "1988-04-06"
+		},
+		{
+			"episode": 108,
+			"title": "Goku's Revenge",
+			"type": "manga-canon",
+			"aired_date": "1988-04-13"
+		},
+		{
+			"episode": 109,
+			"title": "Goku vs. King Piccolo",
+			"type": "manga-canon",
+			"aired_date": "1988-04-20"
+		},
+		{
+			"episode": 110,
+			"title": "Piccolo Closes In",
+			"type": "manga-canon",
+			"aired_date": "1988-05-04"
+		},
+		{
+			"episode": 111,
+			"title": "Roshi's Gambit",
+			"type": "manga-canon",
+			"aired_date": "1988-05-11"
+		},
+		{
+			"episode": 112,
+			"title": "King Piccolo's Wish",
+			"type": "manga-canon",
+			"aired_date": "1988-05-18"
+		},
+		{
+			"episode": 113,
+			"title": "Siege on Chow Castle",
+			"type": "manga-canon",
+			"aired_date": "1988-05-25"
+		},
+		{
+			"episode": 114,
+			"title": "Conquest and Power",
+			"type": "manga-canon",
+			"aired_date": "1988-06-01"
+		},
+		{
+			"episode": 115,
+			"title": "Awaken Darkness",
+			"type": "manga-canon",
+			"aired_date": "1988-06-08"
+		},
+		{
+			"episode": 116,
+			"title": "A Taste of Destiny",
+			"type": "manga-canon",
+			"aired_date": "1988-06-22"
+		},
+		{
+			"episode": 117,
+			"title": "The Ultimate Sacrifice",
+			"type": "manga-canon",
+			"aired_date": "1988-06-29"
+		},
+		{
+			"episode": 118,
+			"title": "Prelude to Vengeance",
+			"type": "manga-canon",
+			"aired_date": "1988-07-06"
+		},
+		{
+			"episode": 119,
+			"title": "Battle Cry",
+			"type": "manga-canon",
+			"aired_date": "1988-07-20"
+		},
+		{
+			"episode": 120,
+			"title": "Goku Strikes Back",
+			"type": "manga-canon",
+			"aired_date": "1988-07-27"
+		},
+		{
+			"episode": 121,
+			"title": "The Biggest Crisis",
+			"type": "manga-canon",
+			"aired_date": "1988-08-03"
+		},
+		{
+			"episode": 122,
+			"title": "Final Showdown",
+			"type": "manga-canon",
+			"aired_date": "1988-08-10"
+		},
+		{
+			"episode": 123,
+			"title": "Lost and Found",
+			"type": "manga-canon",
+			"aired_date": "1988-08-17"
+		},
+		{
+			"episode": 124,
+			"title": "Temple Above the Clouds",
+			"type": "manga-canon",
+			"aired_date": "1988-08-24"
+		},
+		{
+			"episode": 125,
+			"title": "Earth's Guardian Emerges",
+			"type": "manga-canon",
+			"aired_date": "1988-08-31"
+		},
+		{
+			"episode": 126,
+			"title": "Eternal Dragon Resurrected",
+			"type": "manga-canon",
+			"aired_date": "1988-09-14"
+		},
+		{
+			"episode": 127,
+			"title": "Quicker than Lightning",
+			"type": "filler",
+			"aired_date": "1988-09-21"
+		},
+		{
+			"episode": 128,
+			"title": "Secret of the Woods",
+			"type": "filler",
+			"aired_date": "1988-09-28"
+		},
+		{
+			"episode": 129,
+			"title": "The Time Room",
+			"type": "filler",
+			"aired_date": "1988-10-12"
+		},
+		{
+			"episode": 130,
+			"title": "Goku's Doll",
+			"type": "filler",
+			"aired_date": "1988-10-19"
+		},
+		{
+			"episode": 131,
+			"title": "Walking Their Own Ways",
+			"type": "filler",
+			"aired_date": "1988-10-26"
+		},
+		{
+			"episode": 132,
+			"title": "Hotter than Lava",
+			"type": "filler",
+			"aired_date": "1988-11-02"
+		},
+		{
+			"episode": 133,
+			"title": "Changes",
+			"type": "manga-canon",
+			"aired_date": "1988-11-09"
+		},
+		{
+			"episode": 134,
+			"title": "Preliminary Peril",
+			"type": "manga-canon",
+			"aired_date": "1988-11-16"
+		},
+		{
+			"episode": 135,
+			"title": "Battle of the Eight",
+			"type": "manga-canon",
+			"aired_date": "1988-11-23"
+		},
+		{
+			"episode": 136,
+			"title": "Tien Shinhan vs. Mercenary Tao",
+			"type": "manga-canon",
+			"aired_date": "1988-11-30"
+		},
+		{
+			"episode": 137,
+			"title": "Anonymous Proposal",
+			"type": "manga-canon",
+			"aired_date": "1988-12-07"
+		},
+		{
+			"episode": 138,
+			"title": "The Mysterious Hero",
+			"type": "manga-canon",
+			"aired_date": "1988-12-14"
+		},
+		{
+			"episode": 139,
+			"title": "Rematch",
+			"type": "manga-canon",
+			"aired_date": "1988-12-21"
+		},
+		{
+			"episode": 140,
+			"title": "Goku Gains Speed",
+			"type": "manga-canon",
+			"aired_date": "1989-01-11"
+		},
+		{
+			"episode": 141,
+			"title": "The Four Faces of Tien",
+			"type": "manga-canon",
+			"aired_date": "1989-01-18"
+		},
+		{
+			"episode": 142,
+			"title": "Kami vs. Piccolo",
+			"type": "manga-canon",
+			"aired_date": "1989-01-25"
+		},
+		{
+			"episode": 143,
+			"title": "Battle for the Future",
+			"type": "manga-canon",
+			"aired_date": "1989-02-01"
+		},
+		{
+			"episode": 144,
+			"title": "Super Kamehameha",
+			"type": "manga-canon",
+			"aired_date": "1989-02-08"
+		},
+		{
+			"episode": 145,
+			"title": "Junior No More",
+			"type": "manga-canon",
+			"aired_date": "1989-02-15"
+		},
+		{
+			"episode": 146,
+			"title": "Goku's Trap",
+			"type": "manga-canon",
+			"aired_date": "1989-02-22"
+		},
+		{
+			"episode": 147,
+			"title": "Goku Hangs On",
+			"type": "manga-canon",
+			"aired_date": "1989-03-01"
+		},
+		{
+			"episode": 148,
+			"title": "The Victor",
+			"type": "manga-canon",
+			"aired_date": "1989-03-08"
+		},
+		{
+			"episode": 149,
+			"title": "Dress in Flames",
+			"type": "filler",
+			"aired_date": "1989-03-15"
+		},
+		{
+			"episode": 150,
+			"title": "The Fire-Eater",
+			"type": "filler",
+			"aired_date": "1989-03-22"
+		},
+		{
+			"episode": 151,
+			"title": "Outrageous Octagon",
+			"type": "filler",
+			"aired_date": "1989-04-05"
+		},
+		{
+			"episode": 152,
+			"title": "Mystery of the Dark World",
+			"type": "filler",
+			"aired_date": "1989-04-12"
+		},
+		{
+			"episode": 153,
+			"title": "The End, The Beginning",
+			"type": "filler",
+			"aired_date": "1989-04-19"
+		}
+	]
+}

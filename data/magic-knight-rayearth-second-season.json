@@ -1,0 +1,184 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Magic Knight Rayearth",
+	"mappings": {
+		"anilist_id": 1563,
+		"mal_id": 1563
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "A Departure and New Ties",
+			"type": "manga-canon",
+			"aired_date": "1995-04-10"
+		},
+		{
+			"episode": 2,
+			"title": "Cephiro and the Three Countries",
+			"type": "manga-canon",
+			"aired_date": "1995-04-17"
+		},
+		{
+			"episode": 3,
+			"title": "Autozam's Invasion and Lantis",
+			"type": "manga-canon",
+			"aired_date": "1995-04-24"
+		},
+		{
+			"episode": 4,
+			"title": "Magic Knights and the Battleship NSX",
+			"type": "filler",
+			"aired_date": "1995-05-01"
+		},
+		{
+			"episode": 5,
+			"title": "Hikaru and Nova in the Dream",
+			"type": "filler",
+			"aired_date": "1995-05-08"
+		},
+		{
+			"episode": 6,
+			"title": "The Magic Knights and Aska of Fahren",
+			"type": "manga-canon",
+			"aired_date": "1995-05-22"
+		},
+		{
+			"episode": 7,
+			"title": "The Secret of the Pillar of Cephiro",
+			"type": "mixed-manga",
+			"aired_date": "1995-06-05"
+		},
+		{
+			"episode": 8,
+			"title": "Hikaru and Lantis's Dangerous Journey",
+			"type": "filler",
+			"aired_date": "1995-06-12"
+		},
+		{
+			"episode": 9,
+			"title": "Eagle and a Captive Hikaru",
+			"type": "filler",
+			"aired_date": "1995-06-19"
+		},
+		{
+			"episode": 10,
+			"title": "Nova and Regalia, Rune-God of the Devil",
+			"type": "filler",
+			"aired_date": "1995-06-26"
+		},
+		{
+			"episode": 11,
+			"title": "Chizeta's Mobile Fortress and a Powerless Hikaru",
+			"type": "filler",
+			"aired_date": "1995-07-03"
+		},
+		{
+			"episode": 12,
+			"title": "Umi and Fuu and Fahren and Chizeta",
+			"type": "mixed-manga",
+			"aired_date": "1995-07-10"
+		},
+		{
+			"episode": 13,
+			"title": "Hikaru's Wish and Presea's Secret",
+			"type": "filler",
+			"aired_date": "1995-07-17"
+		},
+		{
+			"episode": 14,
+			"title": "Hikaru and Friendships Torn Apart",
+			"type": "filler",
+			"aired_date": "1995-07-24"
+		},
+		{
+			"episode": 15,
+			"title": "Umi and the Ambition of Tetra and Tatra",
+			"type": "filler",
+			"aired_date": "1995-07-31"
+		},
+		{
+			"episode": 16,
+			"title": "Fuu Versus Aska! The Life and Death Archery Match",
+			"type": "filler",
+			"aired_date": "1995-08-07"
+		},
+		{
+			"episode": 17,
+			"title": "Revive! Hikaru's Sword",
+			"type": "filler",
+			"aired_date": "1995-08-15"
+		},
+		{
+			"episode": 18,
+			"title": "Eagle's All-Out Attack on Cephiro Castle",
+			"type": "manga-canon",
+			"aired_date": "1995-08-22"
+		},
+		{
+			"episode": 19,
+			"title": "Chaotic War at Cephiro Castle!",
+			"type": "mixed-manga",
+			"aired_date": "1995-08-29"
+		},
+		{
+			"episode": 20,
+			"title": "The Magic Knights and the Calm After the Storm",
+			"type": "manga-canon",
+			"aired_date": "1995-09-04"
+		},
+		{
+			"episode": 21,
+			"title": "Nova's Battle and the Monster's Identity",
+			"type": "filler",
+			"aired_date": "1995-09-11"
+		},
+		{
+			"episode": 22,
+			"title": "Giant Sang Yung Versus the NSX!",
+			"type": "manga-canon",
+			"aired_date": "1995-09-18"
+		},
+		{
+			"episode": 23,
+			"title": "The Crown Room and the Pillar's Memory",
+			"type": "mixed-manga",
+			"aired_date": "1995-10-16"
+		},
+		{
+			"episode": 24,
+			"title": "A Serious Match - Umi vs. Tarta and Tatra",
+			"type": "manga-canon",
+			"aired_date": "1995-10-23"
+		},
+		{
+			"episode": 25,
+			"title": "Desperate Situation: Crisis Upon Lantis",
+			"type": "mixed-manga",
+			"aired_date": "1995-10-30"
+		},
+		{
+			"episode": 26,
+			"title": "Hikaru in Shock: The Truth About Nova",
+			"type": "filler",
+			"aired_date": "1995-11-06"
+		},
+		{
+			"episode": 27,
+			"title": "The True Pillar is: Hikaru or Eagle!?",
+			"type": "manga-canon",
+			"aired_date": "1995-11-13"
+		},
+		{
+			"episode": 28,
+			"title": "An Endless Battle!",
+			"type": "filler",
+			"aired_date": "1995-11-20"
+		},
+		{
+			"episode": 29,
+			"title": "The Road to Victory: The Tomorrow that the Believing Heart Opens!",
+			"type": "mixed-manga",
+			"aired_date": "1995-11-27"
+		}
+	]
+}

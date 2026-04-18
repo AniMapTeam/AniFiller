@@ -1,0 +1,3010 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Naruto Shippuden",
+	"mappings": {
+		"anilist_id": 1735,
+		"mal_id": 1735
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Homecoming",
+			"type": "mixed-manga",
+			"aired_date": "2007-02-15"
+		},
+		{
+			"episode": 2,
+			"title": "The Akatsuki Makes Its Move",
+			"type": "mixed-manga",
+			"aired_date": "2007-02-15"
+		},
+		{
+			"episode": 3,
+			"title": "The Results of Training",
+			"type": "mixed-manga",
+			"aired_date": "2007-02-22"
+		},
+		{
+			"episode": 4,
+			"title": "The Jinchuriki of the Sand",
+			"type": "mixed-manga",
+			"aired_date": "2007-03-01"
+		},
+		{
+			"episode": 5,
+			"title": "The Kazekage Stands Tall",
+			"type": "mixed-manga",
+			"aired_date": "2007-03-15"
+		},
+		{
+			"episode": 6,
+			"title": "Mission Cleared",
+			"type": "mixed-manga",
+			"aired_date": "2007-03-29"
+		},
+		{
+			"episode": 7,
+			"title": "Run, Kankuro",
+			"type": "mixed-manga",
+			"aired_date": "2007-03-29"
+		},
+		{
+			"episode": 8,
+			"title": "Team Kakashi, Deployed",
+			"type": "mixed-manga",
+			"aired_date": "2007-04-12"
+		},
+		{
+			"episode": 9,
+			"title": "The Jinchuriki's Tears",
+			"type": "mixed-manga",
+			"aired_date": "2007-04-12"
+		},
+		{
+			"episode": 10,
+			"title": "Sealing Jutsu: Nine Phantom Dragons",
+			"type": "mixed-manga",
+			"aired_date": "2007-04-19"
+		},
+		{
+			"episode": 11,
+			"title": "The Medical Ninja's Student",
+			"type": "mixed-manga",
+			"aired_date": "2007-04-26"
+		},
+		{
+			"episode": 12,
+			"title": "The Retired Granny's Determination",
+			"type": "mixed-manga",
+			"aired_date": "2007-05-03"
+		},
+		{
+			"episode": 13,
+			"title": "A Meeting With Destiny",
+			"type": "mixed-manga",
+			"aired_date": "2007-05-10"
+		},
+		{
+			"episode": 14,
+			"title": "Naruto's Growth",
+			"type": "mixed-manga",
+			"aired_date": "2007-05-17"
+		},
+		{
+			"episode": 15,
+			"title": "The Secret Weapon is Called....",
+			"type": "mixed-manga",
+			"aired_date": "2007-05-24"
+		},
+		{
+			"episode": 16,
+			"title": "The Secret of Jinchuriki",
+			"type": "mixed-manga",
+			"aired_date": "2007-05-31"
+		},
+		{
+			"episode": 17,
+			"title": "The Death of Gaara!",
+			"type": "mixed-manga",
+			"aired_date": "2007-06-07"
+		},
+		{
+			"episode": 18,
+			"title": "Charge Tactic! Button Hook Entry!!",
+			"type": "mixed-manga",
+			"aired_date": "2007-06-21"
+		},
+		{
+			"episode": 19,
+			"title": "Traps Activate! Team Guy's Enemies",
+			"type": "mixed-manga",
+			"aired_date": "2007-07-05"
+		},
+		{
+			"episode": 20,
+			"title": "Hiruko vs. Two Kunoichi!",
+			"type": "manga-canon",
+			"aired_date": "2007-07-19"
+		},
+		{
+			"episode": 21,
+			"title": "Sasori's Real Face",
+			"type": "manga-canon",
+			"aired_date": "2007-07-26"
+		},
+		{
+			"episode": 22,
+			"title": "Chiyo's Secret Skills",
+			"type": "manga-canon",
+			"aired_date": "2007-08-02"
+		},
+		{
+			"episode": 23,
+			"title": "Father and Mother",
+			"type": "manga-canon",
+			"aired_date": "2007-08-02"
+		},
+		{
+			"episode": 24,
+			"title": "The Third Kazekage",
+			"type": "mixed-manga",
+			"aired_date": "2007-08-09"
+		},
+		{
+			"episode": 25,
+			"title": "Three Minutes Between Life and Death",
+			"type": "mixed-manga",
+			"aired_date": "2007-08-16"
+		},
+		{
+			"episode": 26,
+			"title": "Puppet Fight: 10 vs. 100!",
+			"type": "manga-canon",
+			"aired_date": "2007-08-23"
+		},
+		{
+			"episode": 27,
+			"title": "Impossible Dream",
+			"type": "manga-canon",
+			"aired_date": "2007-08-30"
+		},
+		{
+			"episode": 28,
+			"title": "Beasts! Alive Again!",
+			"type": "anime-canon",
+			"aired_date": "2007-09-13"
+		},
+		{
+			"episode": 29,
+			"title": "Kakashi Enlightened!",
+			"type": "manga-canon",
+			"aired_date": "2007-09-27"
+		},
+		{
+			"episode": 30,
+			"title": "Aesthetics of an Instant",
+			"type": "manga-canon",
+			"aired_date": "2007-09-27"
+		},
+		{
+			"episode": 31,
+			"title": "The Legacy!",
+			"type": "manga-canon",
+			"aired_date": "2007-10-18"
+		},
+		{
+			"episode": 32,
+			"title": "Return of the Kazekage",
+			"type": "manga-canon",
+			"aired_date": "2007-10-25"
+		},
+		{
+			"episode": 33,
+			"title": "The New Target",
+			"type": "manga-canon",
+			"aired_date": "2007-11-08"
+		},
+		{
+			"episode": 34,
+			"title": "Formation! New Team Kakashi!",
+			"type": "manga-canon",
+			"aired_date": "2007-11-15"
+		},
+		{
+			"episode": 35,
+			"title": "An Unnecessary Addition",
+			"type": "manga-canon",
+			"aired_date": "2007-11-22"
+		},
+		{
+			"episode": 36,
+			"title": "The Fake Smile",
+			"type": "manga-canon",
+			"aired_date": "2007-11-29"
+		},
+		{
+			"episode": 37,
+			"title": "Untitled",
+			"type": "manga-canon",
+			"aired_date": "2007-11-29"
+		},
+		{
+			"episode": 38,
+			"title": "Simulation",
+			"type": "manga-canon",
+			"aired_date": "2007-12-06"
+		},
+		{
+			"episode": 39,
+			"title": "The Tenchi Bridge",
+			"type": "manga-canon",
+			"aired_date": "2007-12-13"
+		},
+		{
+			"episode": 40,
+			"title": "Nine-Tails Unleashed",
+			"type": "manga-canon",
+			"aired_date": "2007-12-20"
+		},
+		{
+			"episode": 41,
+			"title": "The Top-Secret Mission Begins",
+			"type": "manga-canon",
+			"aired_date": "2007-12-20"
+		},
+		{
+			"episode": 42,
+			"title": "Orochimaru vs. Jinchuriki",
+			"type": "manga-canon",
+			"aired_date": "2008-01-10"
+		},
+		{
+			"episode": 43,
+			"title": "Sakura's Tears",
+			"type": "manga-canon",
+			"aired_date": "2008-01-17"
+		},
+		{
+			"episode": 44,
+			"title": "The Secret of the Battle!",
+			"type": "manga-canon",
+			"aired_date": "2008-01-24"
+		},
+		{
+			"episode": 45,
+			"title": "The Consequences of Betrayal",
+			"type": "mixed-manga",
+			"aired_date": "2008-01-31"
+		},
+		{
+			"episode": 46,
+			"title": "The Unfinished Page",
+			"type": "manga-canon",
+			"aired_date": "2008-02-07"
+		},
+		{
+			"episode": 47,
+			"title": "Infiltration: The Den of the Snake!",
+			"type": "manga-canon",
+			"aired_date": "2008-02-14"
+		},
+		{
+			"episode": 48,
+			"title": "Bonds",
+			"type": "manga-canon",
+			"aired_date": "2008-02-28"
+		},
+		{
+			"episode": 49,
+			"title": "Something Important...",
+			"type": "mixed-manga",
+			"aired_date": "2008-03-06"
+		},
+		{
+			"episode": 50,
+			"title": "The Picture Book's Story",
+			"type": "mixed-manga",
+			"aired_date": "2008-03-13"
+		},
+		{
+			"episode": 51,
+			"title": "Reunion",
+			"type": "manga-canon",
+			"aired_date": "2008-03-20"
+		},
+		{
+			"episode": 52,
+			"title": "The Power of the Uchiha",
+			"type": "manga-canon",
+			"aired_date": "2008-03-20"
+		},
+		{
+			"episode": 53,
+			"title": "Title",
+			"type": "manga-canon",
+			"aired_date": "2008-04-03"
+		},
+		{
+			"episode": 54,
+			"title": "Nightmare",
+			"type": "mixed-manga",
+			"aired_date": "2008-04-03"
+		},
+		{
+			"episode": 55,
+			"title": "Wind",
+			"type": "manga-canon",
+			"aired_date": "2008-04-17"
+		},
+		{
+			"episode": 56,
+			"title": "Squirming",
+			"type": "mixed-manga",
+			"aired_date": "2008-04-24"
+		},
+		{
+			"episode": 57,
+			"title": "Robbed of Sleep",
+			"type": "filler",
+			"aired_date": "2008-05-08"
+		},
+		{
+			"episode": 58,
+			"title": "Loneliness",
+			"type": "filler",
+			"aired_date": "2008-05-08"
+		},
+		{
+			"episode": 59,
+			"title": "A New Enemy",
+			"type": "filler",
+			"aired_date": "2008-05-15"
+		},
+		{
+			"episode": 60,
+			"title": "Impermanence",
+			"type": "filler",
+			"aired_date": "2008-05-22"
+		},
+		{
+			"episode": 61,
+			"title": "Contact",
+			"type": "filler",
+			"aired_date": "2008-05-29"
+		},
+		{
+			"episode": 62,
+			"title": "Teammate",
+			"type": "filler",
+			"aired_date": "2008-06-05"
+		},
+		{
+			"episode": 63,
+			"title": "The Two Kings",
+			"type": "filler",
+			"aired_date": "2008-06-19"
+		},
+		{
+			"episode": 64,
+			"title": "The Jet-Black Signal Fire",
+			"type": "filler",
+			"aired_date": "2008-07-03"
+		},
+		{
+			"episode": 65,
+			"title": "Lockdown of Darkness",
+			"type": "filler",
+			"aired_date": "2008-07-03"
+		},
+		{
+			"episode": 66,
+			"title": "Revived Souls",
+			"type": "filler",
+			"aired_date": "2008-07-10"
+		},
+		{
+			"episode": 67,
+			"title": "Everyone's Struggle to the Death",
+			"type": "filler",
+			"aired_date": "2008-07-24"
+		},
+		{
+			"episode": 68,
+			"title": "Moment of Awakening",
+			"type": "filler",
+			"aired_date": "2008-07-31"
+		},
+		{
+			"episode": 69,
+			"title": "Despair",
+			"type": "filler",
+			"aired_date": "2008-07-31"
+		},
+		{
+			"episode": 70,
+			"title": "Resonance",
+			"type": "filler",
+			"aired_date": "2008-08-07"
+		},
+		{
+			"episode": 71,
+			"title": "My Friend",
+			"type": "filler",
+			"aired_date": "2008-08-14"
+		},
+		{
+			"episode": 72,
+			"title": "The Quietly Approaching Threat",
+			"type": "manga-canon",
+			"aired_date": "2008-08-21"
+		},
+		{
+			"episode": 73,
+			"title": "Akatsuki's Invasion",
+			"type": "manga-canon",
+			"aired_date": "2008-08-28"
+		},
+		{
+			"episode": 74,
+			"title": "Under the Starry Sky",
+			"type": "manga-canon",
+			"aired_date": "2008-09-04"
+		},
+		{
+			"episode": 75,
+			"title": "The Old Monk's Prayer",
+			"type": "manga-canon",
+			"aired_date": "2008-09-11"
+		},
+		{
+			"episode": 76,
+			"title": "The Next Step",
+			"type": "manga-canon",
+			"aired_date": "2008-09-25"
+		},
+		{
+			"episode": 77,
+			"title": "Climbing Silver",
+			"type": "manga-canon",
+			"aired_date": "2008-09-25"
+		},
+		{
+			"episode": 78,
+			"title": "The Judgment",
+			"type": "manga-canon",
+			"aired_date": "2008-10-02"
+		},
+		{
+			"episode": 79,
+			"title": "Unfulfilled Scream",
+			"type": "manga-canon",
+			"aired_date": "2008-10-02"
+		},
+		{
+			"episode": 80,
+			"title": "Last Words",
+			"type": "manga-canon",
+			"aired_date": "2008-10-16"
+		},
+		{
+			"episode": 81,
+			"title": "Sad News",
+			"type": "manga-canon",
+			"aired_date": "2008-10-23"
+		},
+		{
+			"episode": 82,
+			"title": "Team Ten",
+			"type": "manga-canon",
+			"aired_date": "2008-10-30"
+		},
+		{
+			"episode": 83,
+			"title": "Target: Locked On",
+			"type": "manga-canon",
+			"aired_date": "2008-11-06"
+		},
+		{
+			"episode": 84,
+			"title": "Kakuzu's Abilities",
+			"type": "manga-canon",
+			"aired_date": "2008-11-13"
+		},
+		{
+			"episode": 85,
+			"title": "Terrifying Secret",
+			"type": "manga-canon",
+			"aired_date": "2008-11-20"
+		},
+		{
+			"episode": 86,
+			"title": "Shikamaru's Genius",
+			"type": "manga-canon",
+			"aired_date": "2008-12-04"
+		},
+		{
+			"episode": 87,
+			"title": "When You Curse Someone, You Dig Your Own Grave",
+			"type": "manga-canon",
+			"aired_date": "2008-12-04"
+		},
+		{
+			"episode": 88,
+			"title": "Wind Style: Rasen Shuriken!",
+			"type": "manga-canon",
+			"aired_date": "2008-12-11"
+		},
+		{
+			"episode": 89,
+			"title": "The Price of Power",
+			"type": "mixed-manga",
+			"aired_date": "2008-12-18"
+		},
+		{
+			"episode": 90,
+			"title": "A Shinobi's Determination",
+			"type": "mixed-manga",
+			"aired_date": "2008-12-25"
+		},
+		{
+			"episode": 91,
+			"title": "Orochimaru's Hideout Discovered",
+			"type": "filler",
+			"aired_date": "2009-01-08"
+		},
+		{
+			"episode": 92,
+			"title": "Encounter",
+			"type": "filler",
+			"aired_date": "2009-01-15"
+		},
+		{
+			"episode": 93,
+			"title": "Connecting Hearts",
+			"type": "filler",
+			"aired_date": "2009-01-22"
+		},
+		{
+			"episode": 94,
+			"title": "A Night of Rain",
+			"type": "filler",
+			"aired_date": "2009-01-29"
+		},
+		{
+			"episode": 95,
+			"title": "The Two Charms",
+			"type": "filler",
+			"aired_date": "2009-02-05"
+		},
+		{
+			"episode": 96,
+			"title": "The Unseeing Enemy",
+			"type": "filler",
+			"aired_date": "2009-02-12"
+		},
+		{
+			"episode": 97,
+			"title": "The Labyrinth of Distorted Reflection",
+			"type": "filler",
+			"aired_date": "2009-02-19"
+		},
+		{
+			"episode": 98,
+			"title": "The Target Appears",
+			"type": "filler",
+			"aired_date": "2009-02-26"
+		},
+		{
+			"episode": 99,
+			"title": "The Rampaging Tailed Beast",
+			"type": "filler",
+			"aired_date": "2009-03-05"
+		},
+		{
+			"episode": 100,
+			"title": "Inside the Mist",
+			"type": "filler",
+			"aired_date": "2009-03-12"
+		},
+		{
+			"episode": 101,
+			"title": "Everyone's Feelings",
+			"type": "filler",
+			"aired_date": "2009-03-26"
+		},
+		{
+			"episode": 102,
+			"title": "Regroup!",
+			"type": "filler",
+			"aired_date": "2009-03-26"
+		},
+		{
+			"episode": 103,
+			"title": "The Four-Corner Sealing Barrier",
+			"type": "filler",
+			"aired_date": "2009-04-09"
+		},
+		{
+			"episode": 104,
+			"title": "Breaking the Crystal Style",
+			"type": "filler",
+			"aired_date": "2009-04-09"
+		},
+		{
+			"episode": 105,
+			"title": "The Battle Over the Barrier",
+			"type": "filler",
+			"aired_date": "2009-04-16"
+		},
+		{
+			"episode": 106,
+			"title": "Red Camellia",
+			"type": "filler",
+			"aired_date": "2009-04-23"
+		},
+		{
+			"episode": 107,
+			"title": "Strange Bedfellows",
+			"type": "filler",
+			"aired_date": "2009-04-30"
+		},
+		{
+			"episode": 108,
+			"title": "Guidepost of the Camellia",
+			"type": "filler",
+			"aired_date": "2009-05-07"
+		},
+		{
+			"episode": 109,
+			"title": "Cursed Seal Counterattack",
+			"type": "filler",
+			"aired_date": "2009-05-14"
+		},
+		{
+			"episode": 110,
+			"title": "Memory of Guilt",
+			"type": "filler",
+			"aired_date": "2009-05-21"
+		},
+		{
+			"episode": 111,
+			"title": "Shattered Promise",
+			"type": "filler",
+			"aired_date": "2009-05-28"
+		},
+		{
+			"episode": 112,
+			"title": "A Place to Return To",
+			"type": "filler",
+			"aired_date": "2009-06-04"
+		},
+		{
+			"episode": 113,
+			"title": "The Serpent's Pupil",
+			"type": "mixed-manga",
+			"aired_date": "2009-06-11"
+		},
+		{
+			"episode": 114,
+			"title": "Eye of a Hawk",
+			"type": "manga-canon",
+			"aired_date": "2009-06-18"
+		},
+		{
+			"episode": 115,
+			"title": "Zabuza's Blade",
+			"type": "mixed-manga",
+			"aired_date": "2009-06-25"
+		},
+		{
+			"episode": 116,
+			"title": "Guardian of the Iron Wall",
+			"type": "manga-canon",
+			"aired_date": "2009-07-02"
+		},
+		{
+			"episode": 117,
+			"title": "Jugo of the Northern Hideout",
+			"type": "manga-canon",
+			"aired_date": "2009-07-09"
+		},
+		{
+			"episode": 118,
+			"title": "Formation!",
+			"type": "manga-canon",
+			"aired_date": "2009-07-23"
+		},
+		{
+			"episode": 119,
+			"title": "Kakashi Chronicles: A Boy's Life on the Battlefield, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-07-30"
+		},
+		{
+			"episode": 120,
+			"title": "Kakashi Chronicles: A Boy's Life on the Battlefield, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-07-30"
+		},
+		{
+			"episode": 121,
+			"title": "Assemble",
+			"type": "manga-canon",
+			"aired_date": "2009-08-06"
+		},
+		{
+			"episode": 122,
+			"title": "The Hunt",
+			"type": "manga-canon",
+			"aired_date": "2009-08-13"
+		},
+		{
+			"episode": 123,
+			"title": "Clash!",
+			"type": "manga-canon",
+			"aired_date": "2009-08-20"
+		},
+		{
+			"episode": 124,
+			"title": "Art",
+			"type": "manga-canon",
+			"aired_date": "2009-08-27"
+		},
+		{
+			"episode": 125,
+			"title": "Disappearance",
+			"type": "manga-canon",
+			"aired_date": "2009-09-03"
+		},
+		{
+			"episode": 126,
+			"title": "Twilight",
+			"type": "manga-canon",
+			"aired_date": "2009-09-10"
+		},
+		{
+			"episode": 127,
+			"title": "Tales of a Gutsy Ninja ~Jiraiya Ninja Scroll~ Part 1",
+			"type": "mixed-manga",
+			"aired_date": "2009-09-24"
+		},
+		{
+			"episode": 128,
+			"title": "Tales of a Gutsy Ninja ~Jiraiya Ninja Scroll~ Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2009-09-24"
+		},
+		{
+			"episode": 129,
+			"title": "Infiltrate! The Village Hidden in the Rain",
+			"type": "manga-canon",
+			"aired_date": "2009-10-08"
+		},
+		{
+			"episode": 130,
+			"title": "The Man Who Became God",
+			"type": "manga-canon",
+			"aired_date": "2009-10-08"
+		},
+		{
+			"episode": 131,
+			"title": "Honored Sage Mode!",
+			"type": "manga-canon",
+			"aired_date": "2009-10-15"
+		},
+		{
+			"episode": 132,
+			"title": "In Attendance, the Six Paths of Pain",
+			"type": "manga-canon",
+			"aired_date": "2009-10-22"
+		},
+		{
+			"episode": 133,
+			"title": "The Tale of Jiraiya the Gallant",
+			"type": "manga-canon",
+			"aired_date": "2009-10-29"
+		},
+		{
+			"episode": 134,
+			"title": "Banquet Invitation",
+			"type": "manga-canon",
+			"aired_date": "2009-11-05"
+		},
+		{
+			"episode": 135,
+			"title": "The Longest Moment...",
+			"type": "manga-canon",
+			"aired_date": "2009-11-19"
+		},
+		{
+			"episode": 136,
+			"title": "The Light & Dark of the Mangekyo Sharingan",
+			"type": "manga-canon",
+			"aired_date": "2009-11-19"
+		},
+		{
+			"episode": 137,
+			"title": "Amaterasu!",
+			"type": "manga-canon",
+			"aired_date": "2009-11-26"
+		},
+		{
+			"episode": 138,
+			"title": "The End",
+			"type": "manga-canon",
+			"aired_date": "2009-12-03"
+		},
+		{
+			"episode": 139,
+			"title": "The Mystery of Tobi",
+			"type": "manga-canon",
+			"aired_date": "2009-12-10"
+		},
+		{
+			"episode": 140,
+			"title": "Fate",
+			"type": "manga-canon",
+			"aired_date": "2009-12-17"
+		},
+		{
+			"episode": 141,
+			"title": "Truth",
+			"type": "manga-canon",
+			"aired_date": "2009-12-24"
+		},
+		{
+			"episode": 142,
+			"title": "Battle of Unraikyo",
+			"type": "manga-canon",
+			"aired_date": "2010-01-07"
+		},
+		{
+			"episode": 143,
+			"title": "The Eight Tails Vs. Sasuke",
+			"type": "manga-canon",
+			"aired_date": "2010-01-14"
+		},
+		{
+			"episode": 144,
+			"title": "Wanderer",
+			"type": "filler",
+			"aired_date": "2010-01-21"
+		},
+		{
+			"episode": 145,
+			"title": "Successor of the Forbidden Jutsu",
+			"type": "filler",
+			"aired_date": "2010-01-28"
+		},
+		{
+			"episode": 146,
+			"title": "The Successor's Wish",
+			"type": "filler",
+			"aired_date": "2010-02-04"
+		},
+		{
+			"episode": 147,
+			"title": "Rogue Ninja's Past",
+			"type": "filler",
+			"aired_date": "2010-02-11"
+		},
+		{
+			"episode": 148,
+			"title": "Heir to Darkness",
+			"type": "filler",
+			"aired_date": "2010-02-18"
+		},
+		{
+			"episode": 149,
+			"title": "Separation",
+			"type": "filler",
+			"aired_date": "2010-02-25"
+		},
+		{
+			"episode": 150,
+			"title": "The Forbidden Jutsu Released",
+			"type": "filler",
+			"aired_date": "2010-03-04"
+		},
+		{
+			"episode": 151,
+			"title": "Master and Student",
+			"type": "filler",
+			"aired_date": "2010-03-11"
+		},
+		{
+			"episode": 152,
+			"title": "Somber News",
+			"type": "manga-canon",
+			"aired_date": "2010-03-25"
+		},
+		{
+			"episode": 153,
+			"title": "Following the Master's Shadow",
+			"type": "manga-canon",
+			"aired_date": "2010-03-25"
+		},
+		{
+			"episode": 154,
+			"title": "Decryption",
+			"type": "manga-canon",
+			"aired_date": "2010-04-08"
+		},
+		{
+			"episode": 155,
+			"title": "The First Challenge",
+			"type": "manga-canon",
+			"aired_date": "2010-04-08"
+		},
+		{
+			"episode": 156,
+			"title": "Surpassing the Master",
+			"type": "manga-canon",
+			"aired_date": "2010-04-15"
+		},
+		{
+			"episode": 157,
+			"title": "Assault On the Leaf Village!",
+			"type": "manga-canon",
+			"aired_date": "2010-04-22"
+		},
+		{
+			"episode": 158,
+			"title": "Power to Believe",
+			"type": "manga-canon",
+			"aired_date": "2010-04-29"
+		},
+		{
+			"episode": 159,
+			"title": "Pain Vs. Kakashi",
+			"type": "manga-canon",
+			"aired_date": "2010-05-06"
+		},
+		{
+			"episode": 160,
+			"title": "Mystery of Pain",
+			"type": "manga-canon",
+			"aired_date": "2010-05-13"
+		},
+		{
+			"episode": 161,
+			"title": "Surname Is Sarutobi! Given Name, Konohamaru!",
+			"type": "manga-canon",
+			"aired_date": "2010-05-20"
+		},
+		{
+			"episode": 162,
+			"title": "Pain to the World",
+			"type": "manga-canon",
+			"aired_date": "2010-05-27"
+		},
+		{
+			"episode": 163,
+			"title": "Explosion! Sage Mode",
+			"type": "manga-canon",
+			"aired_date": "2010-06-03"
+		},
+		{
+			"episode": 164,
+			"title": "Danger! Sage Mode Limit Reached",
+			"type": "manga-canon",
+			"aired_date": "2010-06-10"
+		},
+		{
+			"episode": 165,
+			"title": "Nine Tails, Captured!",
+			"type": "manga-canon",
+			"aired_date": "2010-06-17"
+		},
+		{
+			"episode": 166,
+			"title": "Confessions",
+			"type": "manga-canon",
+			"aired_date": "2010-06-24"
+		},
+		{
+			"episode": 167,
+			"title": "Planetary Devastation",
+			"type": "manga-canon",
+			"aired_date": "2010-07-01"
+		},
+		{
+			"episode": 168,
+			"title": "Fourth Hokage",
+			"type": "manga-canon",
+			"aired_date": "2010-07-15"
+		},
+		{
+			"episode": 169,
+			"title": "The Two Students",
+			"type": "manga-canon",
+			"aired_date": "2010-07-22"
+		},
+		{
+			"episode": 170,
+			"title": "Big Adventure! The Quest for the Fourth Hokage's Legacy, Part 1",
+			"type": "filler",
+			"aired_date": "2010-07-29"
+		},
+		{
+			"episode": 171,
+			"title": "Big Adventure! The Quest for the Fourth Hokage's Legacy, Part 2",
+			"type": "filler",
+			"aired_date": "2010-07-29"
+		},
+		{
+			"episode": 172,
+			"title": "Meeting",
+			"type": "manga-canon",
+			"aired_date": "2010-08-05"
+		},
+		{
+			"episode": 173,
+			"title": "Origin of Pain",
+			"type": "manga-canon",
+			"aired_date": "2010-08-12"
+		},
+		{
+			"episode": 174,
+			"title": "Tale of Naruto Uzumaki",
+			"type": "manga-canon",
+			"aired_date": "2010-08-19"
+		},
+		{
+			"episode": 175,
+			"title": "Hero of the Hidden Leaf",
+			"type": "manga-canon",
+			"aired_date": "2010-08-26"
+		},
+		{
+			"episode": 176,
+			"title": "Rookie Instructor Iruka",
+			"type": "filler",
+			"aired_date": "2010-09-02"
+		},
+		{
+			"episode": 177,
+			"title": "Iruka's Ordeal",
+			"type": "filler",
+			"aired_date": "2010-09-09"
+		},
+		{
+			"episode": 178,
+			"title": "Iruka's Decision",
+			"type": "filler",
+			"aired_date": "2010-09-16"
+		},
+		{
+			"episode": 179,
+			"title": "Kakashi Hatake, the Jonin in Charge",
+			"type": "filler",
+			"aired_date": "2010-09-30"
+		},
+		{
+			"episode": 180,
+			"title": "Inari's Courage Put to the Test",
+			"type": "filler",
+			"aired_date": "2010-10-07"
+		},
+		{
+			"episode": 181,
+			"title": "Naruto's School of Revenge",
+			"type": "filler",
+			"aired_date": "2010-10-14"
+		},
+		{
+			"episode": 182,
+			"title": "Gaara's Bond",
+			"type": "filler",
+			"aired_date": "2010-10-21"
+		},
+		{
+			"episode": 183,
+			"title": "Naruto: Outbreak",
+			"type": "filler",
+			"aired_date": "2010-10-28"
+		},
+		{
+			"episode": 184,
+			"title": "Deploy! Team Tenten",
+			"type": "filler",
+			"aired_date": "2010-11-04"
+		},
+		{
+			"episode": 185,
+			"title": "Animal District",
+			"type": "filler",
+			"aired_date": "2010-11-11"
+		},
+		{
+			"episode": 186,
+			"title": "Ah, the Medicine of Youth",
+			"type": "filler",
+			"aired_date": "2010-11-18"
+		},
+		{
+			"episode": 187,
+			"title": "Gutsy Master and Student: The Training",
+			"type": "filler",
+			"aired_date": "2010-11-25"
+		},
+		{
+			"episode": 188,
+			"title": "Record of the Gutsy Ninja Master and Student",
+			"type": "filler",
+			"aired_date": "2010-11-25"
+		},
+		{
+			"episode": 189,
+			"title": "Sasuke's Paw Encyclopedia",
+			"type": "filler",
+			"aired_date": "2010-12-02"
+		},
+		{
+			"episode": 190,
+			"title": "Naruto and the Old Soldier",
+			"type": "filler",
+			"aired_date": "2010-12-09"
+		},
+		{
+			"episode": 191,
+			"title": "Kakashi Love Song",
+			"type": "filler",
+			"aired_date": "2010-12-16"
+		},
+		{
+			"episode": 192,
+			"title": "Neji Chronicles",
+			"type": "filler",
+			"aired_date": "2010-12-23"
+		},
+		{
+			"episode": 193,
+			"title": "The Man Who Died Twice",
+			"type": "filler",
+			"aired_date": "2011-01-06"
+		},
+		{
+			"episode": 194,
+			"title": "The Worst Three-Legged Race",
+			"type": "filler",
+			"aired_date": "2011-01-13"
+		},
+		{
+			"episode": 195,
+			"title": "Team 10's Teamwork",
+			"type": "filler",
+			"aired_date": "2011-01-20"
+		},
+		{
+			"episode": 196,
+			"title": "Drive Towards Darkness",
+			"type": "filler",
+			"aired_date": "2011-01-27"
+		},
+		{
+			"episode": 197,
+			"title": "The Sixth Hokage Danzo",
+			"type": "manga-canon",
+			"aired_date": "2011-02-10"
+		},
+		{
+			"episode": 198,
+			"title": "Five Kage Summit's Eve",
+			"type": "manga-canon",
+			"aired_date": "2011-02-10"
+		},
+		{
+			"episode": 199,
+			"title": "Enter the Five Kage!",
+			"type": "manga-canon",
+			"aired_date": "2011-02-17"
+		},
+		{
+			"episode": 200,
+			"title": "Naruto's Plea",
+			"type": "manga-canon",
+			"aired_date": "2011-02-24"
+		},
+		{
+			"episode": 201,
+			"title": "Painful Decision",
+			"type": "manga-canon",
+			"aired_date": "2011-03-03"
+		},
+		{
+			"episode": 202,
+			"title": "Racing Lightning",
+			"type": "manga-canon",
+			"aired_date": "2011-03-10"
+		},
+		{
+			"episode": 203,
+			"title": "Sasuke's Ninja Way",
+			"type": "manga-canon",
+			"aired_date": "2011-03-17"
+		},
+		{
+			"episode": 204,
+			"title": "Power of the Five Kage",
+			"type": "manga-canon",
+			"aired_date": "2011-03-24"
+		},
+		{
+			"episode": 205,
+			"title": "Declaration of War",
+			"type": "manga-canon",
+			"aired_date": "2011-03-31"
+		},
+		{
+			"episode": 206,
+			"title": "Sakura's Feelings",
+			"type": "manga-canon",
+			"aired_date": "2011-04-07"
+		},
+		{
+			"episode": 207,
+			"title": "The Tailed Beast vs. The Tailless Tailed Beast",
+			"type": "manga-canon",
+			"aired_date": "2011-04-14"
+		},
+		{
+			"episode": 208,
+			"title": "As One's Friend",
+			"type": "manga-canon",
+			"aired_date": "2011-04-21"
+		},
+		{
+			"episode": 209,
+			"title": "Danzo's Right Arm",
+			"type": "manga-canon",
+			"aired_date": "2011-04-28"
+		},
+		{
+			"episode": 210,
+			"title": "The Forbidden Visual Jutsu",
+			"type": "manga-canon",
+			"aired_date": "2011-05-05"
+		},
+		{
+			"episode": 211,
+			"title": "Danzo Shimura",
+			"type": "manga-canon",
+			"aired_date": "2011-05-12"
+		},
+		{
+			"episode": 212,
+			"title": "Sakura's Resolve",
+			"type": "manga-canon",
+			"aired_date": "2011-05-19"
+		},
+		{
+			"episode": 213,
+			"title": "Lost Bonds",
+			"type": "mixed-manga",
+			"aired_date": "2011-05-26"
+		},
+		{
+			"episode": 214,
+			"title": "The Burden",
+			"type": "manga-canon",
+			"aired_date": "2011-06-02"
+		},
+		{
+			"episode": 215,
+			"title": "Two Fates",
+			"type": "manga-canon",
+			"aired_date": "2011-06-09"
+		},
+		{
+			"episode": 216,
+			"title": "High-Level Shinobi",
+			"type": "manga-canon",
+			"aired_date": "2011-06-16"
+		},
+		{
+			"episode": 217,
+			"title": "The Infiltrator",
+			"type": "manga-canon",
+			"aired_date": "2011-06-23"
+		},
+		{
+			"episode": 218,
+			"title": "The Five Great Nations Mobilize",
+			"type": "manga-canon",
+			"aired_date": "2011-06-30"
+		},
+		{
+			"episode": 219,
+			"title": "Kakashi Hatake, The Hokage",
+			"type": "manga-canon",
+			"aired_date": "2011-07-07"
+		},
+		{
+			"episode": 220,
+			"title": "Prophecy of the Great Lord Elder",
+			"type": "manga-canon",
+			"aired_date": "2011-07-21"
+		},
+		{
+			"episode": 221,
+			"title": "Storage",
+			"type": "manga-canon",
+			"aired_date": "2011-07-28"
+		},
+		{
+			"episode": 222,
+			"title": "The Five Kage's Decision",
+			"type": "manga-canon",
+			"aired_date": "2011-07-28"
+		},
+		{
+			"episode": 223,
+			"title": "The Young Man and the Sea",
+			"type": "filler",
+			"aired_date": "2011-08-04"
+		},
+		{
+			"episode": 224,
+			"title": "The Ninja of Benisu",
+			"type": "filler",
+			"aired_date": "2011-08-11"
+		},
+		{
+			"episode": 225,
+			"title": "The Cursed Ghost Ship",
+			"type": "filler",
+			"aired_date": "2011-08-18"
+		},
+		{
+			"episode": 226,
+			"title": "Battleship Island",
+			"type": "filler",
+			"aired_date": "2011-08-25"
+		},
+		{
+			"episode": 227,
+			"title": "The Forgotten Island",
+			"type": "filler",
+			"aired_date": "2011-09-01"
+		},
+		{
+			"episode": 228,
+			"title": "Fight! Rock Lee!",
+			"type": "filler",
+			"aired_date": "2011-09-08"
+		},
+		{
+			"episode": 229,
+			"title": "Eat or Die! Mushrooms from Hell",
+			"type": "filler",
+			"aired_date": "2011-09-22"
+		},
+		{
+			"episode": 230,
+			"title": "Revenge of the Shadow Clones",
+			"type": "filler",
+			"aired_date": "2011-09-29"
+		},
+		{
+			"episode": 231,
+			"title": "The Closed Route",
+			"type": "filler",
+			"aired_date": "2011-10-06"
+		},
+		{
+			"episode": 232,
+			"title": "The Girls Get-Together",
+			"type": "filler",
+			"aired_date": "2011-10-13"
+		},
+		{
+			"episode": 233,
+			"title": "Naruto's Imposter",
+			"type": "filler",
+			"aired_date": "2011-10-20"
+		},
+		{
+			"episode": 234,
+			"title": "Naruto's Favorite Student",
+			"type": "filler",
+			"aired_date": "2011-10-27"
+		},
+		{
+			"episode": 235,
+			"title": "The Kunoichi of Nadeshiko Village",
+			"type": "filler",
+			"aired_date": "2011-11-03"
+		},
+		{
+			"episode": 236,
+			"title": "Friends You Can Count On",
+			"type": "filler",
+			"aired_date": "2011-11-10"
+		},
+		{
+			"episode": 237,
+			"title": "Ah, My Hero Lady Tsunade!",
+			"type": "filler",
+			"aired_date": "2011-11-24"
+		},
+		{
+			"episode": 238,
+			"title": "Sai's Day Off",
+			"type": "filler",
+			"aired_date": "2011-12-01"
+		},
+		{
+			"episode": 239,
+			"title": "The Legendary Ino-Shika-Cho Trio",
+			"type": "filler",
+			"aired_date": "2011-12-08"
+		},
+		{
+			"episode": 240,
+			"title": "Kiba's Determination",
+			"type": "filler",
+			"aired_date": "2011-12-15"
+		},
+		{
+			"episode": 241,
+			"title": "Kakashi, My Eternal Rival!",
+			"type": "filler",
+			"aired_date": "2011-12-22"
+		},
+		{
+			"episode": 242,
+			"title": "Naruto's Vow",
+			"type": "filler",
+			"aired_date": "2011-12-28"
+		},
+		{
+			"episode": 243,
+			"title": "Land Ahoy! Is This the Island of Paradise?",
+			"type": "manga-canon",
+			"aired_date": "2012-01-05"
+		},
+		{
+			"episode": 244,
+			"title": "Killer Bee and Motoi",
+			"type": "manga-canon",
+			"aired_date": "2012-01-12"
+		},
+		{
+			"episode": 245,
+			"title": "The Next Challenge! Naruto vs. The Nine Tails!!",
+			"type": "manga-canon",
+			"aired_date": "2012-01-19"
+		},
+		{
+			"episode": 246,
+			"title": "The Orange Spark",
+			"type": "manga-canon",
+			"aired_date": "2012-01-26"
+		},
+		{
+			"episode": 247,
+			"title": "Target: Nine Tails",
+			"type": "manga-canon",
+			"aired_date": "2012-02-02"
+		},
+		{
+			"episode": 248,
+			"title": "The Fourth Hokage's Death Match",
+			"type": "manga-canon",
+			"aired_date": "2012-02-09"
+		},
+		{
+			"episode": 249,
+			"title": "Thank You",
+			"type": "manga-canon",
+			"aired_date": "2012-02-09"
+		},
+		{
+			"episode": 250,
+			"title": "Battle in Paradise! the Odd Beast vs. the Monster!",
+			"type": "manga-canon",
+			"aired_date": "2012-02-16"
+		},
+		{
+			"episode": 251,
+			"title": "The Man Named Kisame",
+			"type": "manga-canon",
+			"aired_date": "2012-02-23"
+		},
+		{
+			"episode": 252,
+			"title": "The Angelic Herald of Death",
+			"type": "manga-canon",
+			"aired_date": "2012-03-01"
+		},
+		{
+			"episode": 253,
+			"title": "The Bridge to Peace",
+			"type": "manga-canon",
+			"aired_date": "2012-03-08"
+		},
+		{
+			"episode": 254,
+			"title": "The Super Secret S-Rank Mission",
+			"type": "mixed-manga",
+			"aired_date": "2012-03-15"
+		},
+		{
+			"episode": 255,
+			"title": "The Artist Returns",
+			"type": "manga-canon",
+			"aired_date": "2012-03-22"
+		},
+		{
+			"episode": 256,
+			"title": "Assemble! Allied Shinobi Forces!",
+			"type": "manga-canon",
+			"aired_date": "2012-03-29"
+		},
+		{
+			"episode": 257,
+			"title": "Meeting",
+			"type": "filler",
+			"aired_date": "2012-04-05"
+		},
+		{
+			"episode": 258,
+			"title": "Rivals",
+			"type": "filler",
+			"aired_date": "2012-04-12"
+		},
+		{
+			"episode": 259,
+			"title": "Rift",
+			"type": "filler",
+			"aired_date": "2012-04-19"
+		},
+		{
+			"episode": 260,
+			"title": "Parting",
+			"type": "filler",
+			"aired_date": "2012-04-26"
+		},
+		{
+			"episode": 261,
+			"title": "For My Friend",
+			"type": "manga-canon",
+			"aired_date": "2012-05-03"
+		},
+		{
+			"episode": 262,
+			"title": "War Begins!",
+			"type": "manga-canon",
+			"aired_date": "2012-05-10"
+		},
+		{
+			"episode": 263,
+			"title": "Sai and Shin",
+			"type": "manga-canon",
+			"aired_date": "2012-05-17"
+		},
+		{
+			"episode": 264,
+			"title": "Secrets of the Reanimation Jutsu",
+			"type": "manga-canon",
+			"aired_date": "2012-05-24"
+		},
+		{
+			"episode": 265,
+			"title": "An Old Nemesis Returns",
+			"type": "manga-canon",
+			"aired_date": "2012-05-31"
+		},
+		{
+			"episode": 266,
+			"title": "The First and Last Opponent",
+			"type": "manga-canon",
+			"aired_date": "2012-06-07"
+		},
+		{
+			"episode": 267,
+			"title": "The Brilliant Military Advisor of the Hidden Leaf",
+			"type": "manga-canon",
+			"aired_date": "2012-06-21"
+		},
+		{
+			"episode": 268,
+			"title": "Battleground!",
+			"type": "manga-canon",
+			"aired_date": "2012-06-28"
+		},
+		{
+			"episode": 269,
+			"title": "Forbidden Words",
+			"type": "manga-canon",
+			"aired_date": "2012-07-05"
+		},
+		{
+			"episode": 270,
+			"title": "Golden Bonds",
+			"type": "manga-canon",
+			"aired_date": "2012-07-19"
+		},
+		{
+			"episode": 271,
+			"title": "Road to Sakura",
+			"type": "filler",
+			"aired_date": "2012-07-26"
+		},
+		{
+			"episode": 272,
+			"title": "Mifune vs. Hanzo",
+			"type": "manga-canon",
+			"aired_date": "2012-08-02"
+		},
+		{
+			"episode": 273,
+			"title": "True Kindness",
+			"type": "manga-canon",
+			"aired_date": "2012-08-09"
+		},
+		{
+			"episode": 274,
+			"title": "The Complete Ino-Shika-Cho Formation!",
+			"type": "manga-canon",
+			"aired_date": "2012-08-09"
+		},
+		{
+			"episode": 275,
+			"title": "A Message from the Heart",
+			"type": "manga-canon",
+			"aired_date": "2012-08-16"
+		},
+		{
+			"episode": 276,
+			"title": "Attack of the Gedo Statue",
+			"type": "manga-canon",
+			"aired_date": "2012-08-23"
+		},
+		{
+			"episode": 277,
+			"title": "Unison Sign",
+			"type": "manga-canon",
+			"aired_date": "2012-08-30"
+		},
+		{
+			"episode": 278,
+			"title": "Medic Ninja in Danger",
+			"type": "manga-canon",
+			"aired_date": "2012-09-06"
+		},
+		{
+			"episode": 279,
+			"title": "White Zetsu's Trap",
+			"type": "filler",
+			"aired_date": "2012-09-13"
+		},
+		{
+			"episode": 280,
+			"title": "Aesthetics of an Artist",
+			"type": "filler",
+			"aired_date": "2012-09-20"
+		},
+		{
+			"episode": 281,
+			"title": "The Allied Mom Force!",
+			"type": "filler",
+			"aired_date": "2012-09-27"
+		},
+		{
+			"episode": 282,
+			"title": "The Secret Origin of the Ultimate Tag Team!",
+			"type": "manga-canon",
+			"aired_date": "2012-10-04"
+		},
+		{
+			"episode": 283,
+			"title": "Two Suns",
+			"type": "manga-canon",
+			"aired_date": "2012-10-11"
+		},
+		{
+			"episode": 284,
+			"title": "Helmet Splitter: Jinin Akebino!",
+			"type": "filler",
+			"aired_date": "2012-10-18"
+		},
+		{
+			"episode": 285,
+			"title": "User of the Scorch Style: Pakura of the Sand!",
+			"type": "filler",
+			"aired_date": "2012-10-25"
+		},
+		{
+			"episode": 286,
+			"title": "Things You Can't Get Back",
+			"type": "filler",
+			"aired_date": "2012-11-01"
+		},
+		{
+			"episode": 287,
+			"title": "One Worth Betting On",
+			"type": "filler",
+			"aired_date": "2012-11-01"
+		},
+		{
+			"episode": 288,
+			"title": "Danger: Jinpachi and Kushimaru!",
+			"type": "filler",
+			"aired_date": "2012-11-08"
+		},
+		{
+			"episode": 289,
+			"title": "The Lightning Blade: Ameyuri Ringo!",
+			"type": "filler",
+			"aired_date": "2012-11-15"
+		},
+		{
+			"episode": 290,
+			"title": "Power: Episode 1",
+			"type": "filler",
+			"aired_date": "2012-11-22"
+		},
+		{
+			"episode": 291,
+			"title": "Power: Episode 2",
+			"type": "filler",
+			"aired_date": "2012-11-29"
+		},
+		{
+			"episode": 292,
+			"title": "Power: Episode 3",
+			"type": "filler",
+			"aired_date": "2012-12-06"
+		},
+		{
+			"episode": 293,
+			"title": "Power: Episode 4",
+			"type": "filler",
+			"aired_date": "2012-12-13"
+		},
+		{
+			"episode": 294,
+			"title": "Power: Episode 5",
+			"type": "filler",
+			"aired_date": "2012-12-20"
+		},
+		{
+			"episode": 295,
+			"title": "Power: Episode Final",
+			"type": "filler",
+			"aired_date": "2013-01-10"
+		},
+		{
+			"episode": 296,
+			"title": "Naruto Enters the Battle",
+			"type": "mixed-manga",
+			"aired_date": "2013-01-17"
+		},
+		{
+			"episode": 297,
+			"title": "A Father's Hope, a Mother's Love",
+			"type": "manga-canon",
+			"aired_date": "2013-01-24"
+		},
+		{
+			"episode": 298,
+			"title": "Contact! Naruto vs. Itachi",
+			"type": "manga-canon",
+			"aired_date": "2013-01-31"
+		},
+		{
+			"episode": 299,
+			"title": "The Acknowledged One",
+			"type": "manga-canon",
+			"aired_date": "2013-02-07"
+		},
+		{
+			"episode": 300,
+			"title": "The Mizukage, the Giant Clam, and the Mirage",
+			"type": "manga-canon",
+			"aired_date": "2013-02-14"
+		},
+		{
+			"episode": 301,
+			"title": "Paradox",
+			"type": "manga-canon",
+			"aired_date": "2013-02-21"
+		},
+		{
+			"episode": 302,
+			"title": "Terror! the Steam Imp",
+			"type": "manga-canon",
+			"aired_date": "2013-02-28"
+		},
+		{
+			"episode": 303,
+			"title": "Ghosts from the Past",
+			"type": "filler",
+			"aired_date": "2013-03-07"
+		},
+		{
+			"episode": 304,
+			"title": "The Underworld Transfer Jutsu",
+			"type": "filler",
+			"aired_date": "2013-03-14"
+		},
+		{
+			"episode": 305,
+			"title": "The Vengeful",
+			"type": "filler",
+			"aired_date": "2013-03-21"
+		},
+		{
+			"episode": 306,
+			"title": "The Heart's Eye",
+			"type": "filler",
+			"aired_date": "2013-03-28"
+		},
+		{
+			"episode": 307,
+			"title": "Fade Into the Moonlight",
+			"type": "filler",
+			"aired_date": "2013-04-04"
+		},
+		{
+			"episode": 308,
+			"title": "Crescent Moon Night",
+			"type": "filler",
+			"aired_date": "2013-04-11"
+		},
+		{
+			"episode": 309,
+			"title": "The A-Rank Mission: Food Fight!",
+			"type": "filler",
+			"aired_date": "2013-04-18"
+		},
+		{
+			"episode": 310,
+			"title": "The Fallen Castle",
+			"type": "filler",
+			"aired_date": "2013-04-25"
+		},
+		{
+			"episode": 311,
+			"title": "Prologue of Road to Ninja",
+			"type": "filler",
+			"aired_date": "2013-05-02"
+		},
+		{
+			"episode": 312,
+			"title": "The Old Master and the Dragon's Eye",
+			"type": "filler",
+			"aired_date": "2013-05-09"
+		},
+		{
+			"episode": 313,
+			"title": "Rain Followed by Snow, with Some Lightning",
+			"type": "filler",
+			"aired_date": "2013-05-16"
+		},
+		{
+			"episode": 314,
+			"title": "The Sad Sun Shower",
+			"type": "filler",
+			"aired_date": "2013-05-23"
+		},
+		{
+			"episode": 315,
+			"title": "Lingering Snow",
+			"type": "filler",
+			"aired_date": "2013-05-30"
+		},
+		{
+			"episode": 316,
+			"title": "The Reanimated Allied Forces",
+			"type": "filler",
+			"aired_date": "2013-06-06"
+		},
+		{
+			"episode": 317,
+			"title": "Shino vs. Torune",
+			"type": "filler",
+			"aired_date": "2013-06-13"
+		},
+		{
+			"episode": 318,
+			"title": "A Hole in the Heart: the Other Jinchuriki",
+			"type": "filler",
+			"aired_date": "2013-06-20"
+		},
+		{
+			"episode": 319,
+			"title": "The Soul Living Inside the Puppet",
+			"type": "filler",
+			"aired_date": "2013-06-27"
+		},
+		{
+			"episode": 320,
+			"title": "Run, Omoi!",
+			"type": "filler",
+			"aired_date": "2013-07-04"
+		},
+		{
+			"episode": 321,
+			"title": "Reinforcements Arrive",
+			"type": "manga-canon",
+			"aired_date": "2013-07-18"
+		},
+		{
+			"episode": 322,
+			"title": "Madara Uchiha",
+			"type": "manga-canon",
+			"aired_date": "2013-07-25"
+		},
+		{
+			"episode": 323,
+			"title": "The Five Kage Assemble",
+			"type": "manga-canon",
+			"aired_date": "2013-08-01"
+		},
+		{
+			"episode": 324,
+			"title": "The Unbreakable Mask and the Shattered Bubble",
+			"type": "mixed-manga",
+			"aired_date": "2013-08-08"
+		},
+		{
+			"episode": 325,
+			"title": "Jinchuriki vs. Jinchuriki!",
+			"type": "manga-canon",
+			"aired_date": "2013-08-15"
+		},
+		{
+			"episode": 326,
+			"title": "Four Tails, the King of Sage Monkeys",
+			"type": "manga-canon",
+			"aired_date": "2013-08-22"
+		},
+		{
+			"episode": 327,
+			"title": "Nine Tails",
+			"type": "mixed-manga",
+			"aired_date": "2013-08-29"
+		},
+		{
+			"episode": 328,
+			"title": "Kurama",
+			"type": "mixed-manga",
+			"aired_date": "2013-08-29"
+		},
+		{
+			"episode": 329,
+			"title": "Two-Man Team",
+			"type": "manga-canon",
+			"aired_date": "2013-09-05"
+		},
+		{
+			"episode": 330,
+			"title": "Promise of Victory",
+			"type": "mixed-manga",
+			"aired_date": "2013-09-12"
+		},
+		{
+			"episode": 331,
+			"title": "Eyes That See in the Dark",
+			"type": "mixed-manga",
+			"aired_date": "2013-09-19"
+		},
+		{
+			"episode": 332,
+			"title": "The Will of Stone",
+			"type": "manga-canon",
+			"aired_date": "2013-09-26"
+		},
+		{
+			"episode": 333,
+			"title": "The Risks of the Reanimation Jutsu",
+			"type": "manga-canon",
+			"aired_date": "2013-10-03"
+		},
+		{
+			"episode": 334,
+			"title": "Sibling Tag Team",
+			"type": "manga-canon",
+			"aired_date": "2013-10-10"
+		},
+		{
+			"episode": 335,
+			"title": "To Each Their Own Leaf",
+			"type": "manga-canon",
+			"aired_date": "2013-10-24"
+		},
+		{
+			"episode": 336,
+			"title": "Kabuto Yakushi",
+			"type": "manga-canon",
+			"aired_date": "2013-10-31"
+		},
+		{
+			"episode": 337,
+			"title": "The Izanami Activated",
+			"type": "manga-canon",
+			"aired_date": "2013-11-07"
+		},
+		{
+			"episode": 338,
+			"title": "Izanagi and Izanami",
+			"type": "mixed-manga",
+			"aired_date": "2013-11-14"
+		},
+		{
+			"episode": 339,
+			"title": "I Will Love You Always",
+			"type": "manga-canon",
+			"aired_date": "2013-11-21"
+		},
+		{
+			"episode": 340,
+			"title": "Reanimation Jutsu, Release!",
+			"type": "manga-canon",
+			"aired_date": "2013-11-28"
+		},
+		{
+			"episode": 341,
+			"title": "Orochimaru's Return",
+			"type": "manga-canon",
+			"aired_date": "2013-12-05"
+		},
+		{
+			"episode": 342,
+			"title": "Secret of the Transportation Technique",
+			"type": "manga-canon",
+			"aired_date": "2013-12-12"
+		},
+		{
+			"episode": 343,
+			"title": "Who Are You?",
+			"type": "manga-canon",
+			"aired_date": "2013-12-19"
+		},
+		{
+			"episode": 344,
+			"title": "Obito and Madara",
+			"type": "manga-canon",
+			"aired_date": "2014-01-09"
+		},
+		{
+			"episode": 345,
+			"title": "I'm in Hell",
+			"type": "manga-canon",
+			"aired_date": "2014-01-16"
+		},
+		{
+			"episode": 346,
+			"title": "World of Dreams",
+			"type": "mixed-manga",
+			"aired_date": "2014-01-23"
+		},
+		{
+			"episode": 347,
+			"title": "Creeping Shadow",
+			"type": "filler",
+			"aired_date": "2014-01-23"
+		},
+		{
+			"episode": 348,
+			"title": "The New Akatsuki",
+			"type": "filler",
+			"aired_date": "2014-01-30"
+		},
+		{
+			"episode": 349,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – A Mask That Hides the Heart",
+			"type": "filler",
+			"aired_date": "2014-02-06"
+		},
+		{
+			"episode": 350,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – Minato's Death",
+			"type": "filler",
+			"aired_date": "2014-02-13"
+		},
+		{
+			"episode": 351,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – Hashirama's Cells",
+			"type": "filler",
+			"aired_date": "2014-02-20"
+		},
+		{
+			"episode": 352,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – The Rogue Ninja Orochimaru",
+			"type": "filler",
+			"aired_date": "2014-02-27"
+		},
+		{
+			"episode": 353,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – Orochimaru's Test Subjects",
+			"type": "filler",
+			"aired_date": "2014-03-06"
+		},
+		{
+			"episode": 354,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – Their Own Paths",
+			"type": "filler",
+			"aired_date": "2014-03-06"
+		},
+		{
+			"episode": 355,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – The Targeted Sharingan",
+			"type": "filler",
+			"aired_date": "2014-03-13"
+		},
+		{
+			"episode": 356,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – A Shinobi of the Leaf",
+			"type": "filler",
+			"aired_date": "2014-03-20"
+		},
+		{
+			"episode": 357,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – An Uchiha ANBU",
+			"type": "filler",
+			"aired_date": "2014-04-03"
+		},
+		{
+			"episode": 358,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – Coup D'État",
+			"type": "filler",
+			"aired_date": "2014-04-10"
+		},
+		{
+			"episode": 359,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – The Night of the Tragedy",
+			"type": "filler",
+			"aired_date": "2014-04-17"
+		},
+		{
+			"episode": 360,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – Jonin Leader",
+			"type": "filler",
+			"aired_date": "2014-04-24"
+		},
+		{
+			"episode": 361,
+			"title": "Kakashi: Shadow of the ANBU Black Ops – Squad Seven",
+			"type": "filler",
+			"aired_date": "2014-05-08"
+		},
+		{
+			"episode": 362,
+			"title": "Kakashi's Resolve",
+			"type": "mixed-manga",
+			"aired_date": "2014-05-15"
+		},
+		{
+			"episode": 363,
+			"title": "The Allied Shinobi Forces Jutsu",
+			"type": "manga-canon",
+			"aired_date": "2014-05-22"
+		},
+		{
+			"episode": 364,
+			"title": "The Ties That Bind",
+			"type": "manga-canon",
+			"aired_date": "2014-06-05"
+		},
+		{
+			"episode": 365,
+			"title": "Those Who Dance in the Shadows",
+			"type": "manga-canon",
+			"aired_date": "2014-06-12"
+		},
+		{
+			"episode": 366,
+			"title": "The All-Knowing",
+			"type": "manga-canon",
+			"aired_date": "2014-06-19"
+		},
+		{
+			"episode": 367,
+			"title": "Hashirama and Madara",
+			"type": "manga-canon",
+			"aired_date": "2014-07-03"
+		},
+		{
+			"episode": 368,
+			"title": "Era of Warring States",
+			"type": "manga-canon",
+			"aired_date": "2014-07-10"
+		},
+		{
+			"episode": 369,
+			"title": "My True Dream",
+			"type": "manga-canon",
+			"aired_date": "2014-07-24"
+		},
+		{
+			"episode": 370,
+			"title": "Sasuke's Answer",
+			"type": "manga-canon",
+			"aired_date": "2014-07-31"
+		},
+		{
+			"episode": 371,
+			"title": "Hole",
+			"type": "manga-canon",
+			"aired_date": "2014-08-07"
+		},
+		{
+			"episode": 372,
+			"title": "Something to Fill the Hole",
+			"type": "manga-canon",
+			"aired_date": "2014-08-14"
+		},
+		{
+			"episode": 373,
+			"title": "Team 7, Assemble!",
+			"type": "manga-canon",
+			"aired_date": "2014-08-21"
+		},
+		{
+			"episode": 374,
+			"title": "The New Three-Way Deadlock",
+			"type": "manga-canon",
+			"aired_date": "2014-08-28"
+		},
+		{
+			"episode": 375,
+			"title": "Kakashi vs. Obito",
+			"type": "manga-canon",
+			"aired_date": "2014-09-04"
+		},
+		{
+			"episode": 376,
+			"title": "The Directive to Take the Nine Tails",
+			"type": "filler",
+			"aired_date": "2014-09-11"
+		},
+		{
+			"episode": 377,
+			"title": "Naruto vs. Mecha Naruto",
+			"type": "filler",
+			"aired_date": "2014-09-11"
+		},
+		{
+			"episode": 378,
+			"title": "The Ten Tails' Jinchuriki",
+			"type": "manga-canon",
+			"aired_date": "2014-09-18"
+		},
+		{
+			"episode": 379,
+			"title": "An Opening",
+			"type": "manga-canon",
+			"aired_date": "2014-09-25"
+		},
+		{
+			"episode": 380,
+			"title": "The Day Naruto Was Born",
+			"type": "manga-canon",
+			"aired_date": "2014-10-02"
+		},
+		{
+			"episode": 381,
+			"title": "The Divine Tree",
+			"type": "manga-canon",
+			"aired_date": "2014-10-09"
+		},
+		{
+			"episode": 382,
+			"title": "A Shinobi's Dream",
+			"type": "manga-canon",
+			"aired_date": "2014-10-16"
+		},
+		{
+			"episode": 383,
+			"title": "Pursuing Hope",
+			"type": "manga-canon",
+			"aired_date": "2014-10-23"
+		},
+		{
+			"episode": 384,
+			"title": "A Heart Filled With Comrades",
+			"type": "manga-canon",
+			"aired_date": "2014-10-30"
+		},
+		{
+			"episode": 385,
+			"title": "Obito Uchiha",
+			"type": "mixed-manga",
+			"aired_date": "2014-11-06"
+		},
+		{
+			"episode": 386,
+			"title": "I'm Always Watching",
+			"type": "mixed-manga",
+			"aired_date": "2014-11-13"
+		},
+		{
+			"episode": 387,
+			"title": "The Promise That Was Kept",
+			"type": "manga-canon",
+			"aired_date": "2014-11-20"
+		},
+		{
+			"episode": 388,
+			"title": "My First Friend",
+			"type": "filler",
+			"aired_date": "2014-11-27"
+		},
+		{
+			"episode": 389,
+			"title": "The Adored Elder Sister",
+			"type": "filler",
+			"aired_date": "2014-12-04"
+		},
+		{
+			"episode": 390,
+			"title": "Hanabi's Decision",
+			"type": "filler",
+			"aired_date": "2014-12-04"
+		},
+		{
+			"episode": 391,
+			"title": "Madara Uchiha Arises",
+			"type": "manga-canon",
+			"aired_date": "2014-12-11"
+		},
+		{
+			"episode": 392,
+			"title": "The Hidden Heart",
+			"type": "manga-canon",
+			"aired_date": "2014-12-18"
+		},
+		{
+			"episode": 393,
+			"title": "A True Ending",
+			"type": "manga-canon",
+			"aired_date": "2014-12-25"
+		},
+		{
+			"episode": 394,
+			"title": "The New Chunin Exams",
+			"type": "filler",
+			"aired_date": "2015-01-08"
+		},
+		{
+			"episode": 395,
+			"title": "The Chunin Exams Begin!",
+			"type": "filler",
+			"aired_date": "2015-01-15"
+		},
+		{
+			"episode": 396,
+			"title": "The Three Questions",
+			"type": "filler",
+			"aired_date": "2015-01-22"
+		},
+		{
+			"episode": 397,
+			"title": "One Worthy As A Leader",
+			"type": "filler",
+			"aired_date": "2015-01-29"
+		},
+		{
+			"episode": 398,
+			"title": "The Night Before the Second Exam",
+			"type": "filler",
+			"aired_date": "2015-02-05"
+		},
+		{
+			"episode": 399,
+			"title": "Demon Desert Survival",
+			"type": "filler",
+			"aired_date": "2015-02-12"
+		},
+		{
+			"episode": 400,
+			"title": "As a Taijutsu User",
+			"type": "filler",
+			"aired_date": "2015-02-19"
+		},
+		{
+			"episode": 401,
+			"title": "The Ultimate",
+			"type": "filler",
+			"aired_date": "2015-02-26"
+		},
+		{
+			"episode": 402,
+			"title": "Escape vs. Pursuit",
+			"type": "filler",
+			"aired_date": "2015-03-05"
+		},
+		{
+			"episode": 403,
+			"title": "Unwavering Gutsiness",
+			"type": "filler",
+			"aired_date": "2015-03-12"
+		},
+		{
+			"episode": 404,
+			"title": "Tenten's Troubles",
+			"type": "filler",
+			"aired_date": "2015-03-19"
+		},
+		{
+			"episode": 405,
+			"title": "The Imprisoned Pair",
+			"type": "filler",
+			"aired_date": "2015-03-26"
+		},
+		{
+			"episode": 406,
+			"title": "The Place Where I Belong",
+			"type": "filler",
+			"aired_date": "2015-04-02"
+		},
+		{
+			"episode": 407,
+			"title": "The Yamanaka Clan: Secret Ninjutsu",
+			"type": "filler",
+			"aired_date": "2015-04-09"
+		},
+		{
+			"episode": 408,
+			"title": "The Cursed Puppet",
+			"type": "filler",
+			"aired_date": "2015-04-16"
+		},
+		{
+			"episode": 409,
+			"title": "Their Backs",
+			"type": "filler",
+			"aired_date": "2015-04-23"
+		},
+		{
+			"episode": 410,
+			"title": "The Hidden Plot Set Into Motion",
+			"type": "filler",
+			"aired_date": "2015-04-30"
+		},
+		{
+			"episode": 411,
+			"title": "The Targeted Tailed Beast",
+			"type": "filler",
+			"aired_date": "2015-05-07"
+		},
+		{
+			"episode": 412,
+			"title": "Neji’s Judgement",
+			"type": "filler",
+			"aired_date": "2015-05-14"
+		},
+		{
+			"episode": 413,
+			"title": "Hopes Entrusted to the Future",
+			"type": "filler",
+			"aired_date": "2015-05-21"
+		},
+		{
+			"episode": 414,
+			"title": "On the Brink of Death",
+			"type": "manga-canon",
+			"aired_date": "2015-05-28"
+		},
+		{
+			"episode": 415,
+			"title": "The Two Mangekyo",
+			"type": "mixed-manga",
+			"aired_date": "2015-06-04"
+		},
+		{
+			"episode": 416,
+			"title": "The Formation of Team Minato",
+			"type": "filler",
+			"aired_date": "2015-06-11"
+		},
+		{
+			"episode": 417,
+			"title": "You’ll Be My Backup",
+			"type": "filler",
+			"aired_date": "2015-06-25"
+		},
+		{
+			"episode": 418,
+			"title": "The Blue Beast vs Six Paths Madara",
+			"type": "manga-canon",
+			"aired_date": "2015-07-02"
+		},
+		{
+			"episode": 419,
+			"title": "Papa's Youth",
+			"type": "mixed-manga",
+			"aired_date": "2015-07-09"
+		},
+		{
+			"episode": 420,
+			"title": "The Eight Inner Gates Formation",
+			"type": "manga-canon",
+			"aired_date": "2015-07-23"
+		},
+		{
+			"episode": 421,
+			"title": "The Sage of the Six Paths",
+			"type": "manga-canon",
+			"aired_date": "2015-07-30"
+		},
+		{
+			"episode": 422,
+			"title": "The One Who Will Inherit",
+			"type": "filler",
+			"aired_date": "2015-08-06"
+		},
+		{
+			"episode": 423,
+			"title": "Naruto's Rival",
+			"type": "filler",
+			"aired_date": "2015-08-06"
+		},
+		{
+			"episode": 424,
+			"title": "To Rise Up",
+			"type": "manga-canon",
+			"aired_date": "2015-08-13"
+		},
+		{
+			"episode": 425,
+			"title": "The Infinite Dream",
+			"type": "manga-canon",
+			"aired_date": "2015-08-20"
+		},
+		{
+			"episode": 426,
+			"title": "The Infinite Tsukuyomi",
+			"type": "mixed-manga",
+			"aired_date": "2015-08-27"
+		},
+		{
+			"episode": 427,
+			"title": "To the Dream World",
+			"type": "filler",
+			"aired_date": "2015-09-03"
+		},
+		{
+			"episode": 428,
+			"title": "Where Tenten Belongs",
+			"type": "filler",
+			"aired_date": "2015-09-03"
+		},
+		{
+			"episode": 429,
+			"title": "Killer Bee Rappuden, Part 1",
+			"type": "filler",
+			"aired_date": "2015-09-10"
+		},
+		{
+			"episode": 430,
+			"title": "Killer Bee Rappuden, Part 2",
+			"type": "filler",
+			"aired_date": "2015-09-17"
+		},
+		{
+			"episode": 431,
+			"title": "To See That Smile, Just One More Time",
+			"type": "filler",
+			"aired_date": "2015-09-24"
+		},
+		{
+			"episode": 432,
+			"title": "The Loser Ninja",
+			"type": "filler",
+			"aired_date": "2015-10-01"
+		},
+		{
+			"episode": 433,
+			"title": "The Search Mission",
+			"type": "filler",
+			"aired_date": "2015-10-08"
+		},
+		{
+			"episode": 434,
+			"title": "Team Jiraiya",
+			"type": "filler",
+			"aired_date": "2015-10-15"
+		},
+		{
+			"episode": 435,
+			"title": "Order of Priority",
+			"type": "filler",
+			"aired_date": "2015-10-22"
+		},
+		{
+			"episode": 436,
+			"title": "The Masked Man",
+			"type": "filler",
+			"aired_date": "2015-11-05"
+		},
+		{
+			"episode": 437,
+			"title": "The Sealed Power",
+			"type": "filler",
+			"aired_date": "2015-11-12"
+		},
+		{
+			"episode": 438,
+			"title": "The Rules or a Comrade",
+			"type": "filler",
+			"aired_date": "2015-11-19"
+		},
+		{
+			"episode": 439,
+			"title": "The Child of Prophecy",
+			"type": "filler",
+			"aired_date": "2015-11-26"
+		},
+		{
+			"episode": 440,
+			"title": "The Caged Bird",
+			"type": "filler",
+			"aired_date": "2015-12-03"
+		},
+		{
+			"episode": 441,
+			"title": "Returning Home",
+			"type": "filler",
+			"aired_date": "2015-12-10"
+		},
+		{
+			"episode": 442,
+			"title": "The Mutual Path",
+			"type": "filler",
+			"aired_date": "2015-12-17"
+		},
+		{
+			"episode": 443,
+			"title": "The Difference in Power",
+			"type": "filler",
+			"aired_date": "2015-12-24"
+		},
+		{
+			"episode": 444,
+			"title": "Leaving the Village",
+			"type": "filler",
+			"aired_date": "2016-01-14"
+		},
+		{
+			"episode": 445,
+			"title": "Pursuers",
+			"type": "filler",
+			"aired_date": "2016-01-21"
+		},
+		{
+			"episode": 446,
+			"title": "Collision",
+			"type": "filler",
+			"aired_date": "2016-01-28"
+		},
+		{
+			"episode": 447,
+			"title": "Another Moon",
+			"type": "filler",
+			"aired_date": "2016-02-04"
+		},
+		{
+			"episode": 448,
+			"title": "Comrade",
+			"type": "filler",
+			"aired_date": "2016-02-11"
+		},
+		{
+			"episode": 449,
+			"title": "The Shinobi Unite",
+			"type": "filler",
+			"aired_date": "2016-02-18"
+		},
+		{
+			"episode": 450,
+			"title": "Rival",
+			"type": "filler",
+			"aired_date": "2016-02-25"
+		},
+		{
+			"episode": 451,
+			"title": "Itachi's Story - Light and Darkness: Birth and Death",
+			"type": "mixed-manga",
+			"aired_date": "2016-03-03"
+		},
+		{
+			"episode": 452,
+			"title": "Itachi's Story - Light and Darkness: The Genius",
+			"type": "mixed-manga",
+			"aired_date": "2016-03-10"
+		},
+		{
+			"episode": 453,
+			"title": "Itachi's Story - Light and Darkness: The Pain of Living",
+			"type": "mixed-manga",
+			"aired_date": "2016-03-17"
+		},
+		{
+			"episode": 454,
+			"title": "Itachi's Story - Light and Darkness: Shisui's Request",
+			"type": "mixed-manga",
+			"aired_date": "2016-03-24"
+		},
+		{
+			"episode": 455,
+			"title": "Itachi's Story - Light and Darkness: Moonlit Night",
+			"type": "mixed-manga",
+			"aired_date": "2016-04-07"
+		},
+		{
+			"episode": 456,
+			"title": "Itachi's Story - Light and Darkness: The Darkness of the Akatsuki",
+			"type": "mixed-manga",
+			"aired_date": "2016-04-14"
+		},
+		{
+			"episode": 457,
+			"title": "Itachi's Story - Light and Darkness: Partner",
+			"type": "mixed-manga",
+			"aired_date": "2016-04-21"
+		},
+		{
+			"episode": 458,
+			"title": "Itachi's Story - Light and Darkness: Truth",
+			"type": "mixed-manga",
+			"aired_date": "2016-04-28"
+		},
+		{
+			"episode": 459,
+			"title": "She of the Beginning",
+			"type": "manga-canon",
+			"aired_date": "2016-05-05"
+		},
+		{
+			"episode": 460,
+			"title": "Kaguya Otsutsuki",
+			"type": "mixed-manga",
+			"aired_date": "2016-05-12"
+		},
+		{
+			"episode": 461,
+			"title": "Hagoromo and Hamura",
+			"type": "mixed-manga",
+			"aired_date": "2016-05-19"
+		},
+		{
+			"episode": 462,
+			"title": "A Fabricated Past",
+			"type": "mixed-manga",
+			"aired_date": "2016-05-26"
+		},
+		{
+			"episode": 463,
+			"title": "The No. 1 Most Unpredictable Ninja",
+			"type": "manga-canon",
+			"aired_date": "2016-06-02"
+		},
+		{
+			"episode": 464,
+			"title": "Ninshū: The Ninja Creed",
+			"type": "filler",
+			"aired_date": "2016-06-09"
+		},
+		{
+			"episode": 465,
+			"title": "Ashura and Indra",
+			"type": "filler",
+			"aired_date": "2016-06-16"
+		},
+		{
+			"episode": 466,
+			"title": "The Tumultuous Journey",
+			"type": "filler",
+			"aired_date": "2016-06-30"
+		},
+		{
+			"episode": 467,
+			"title": "Ashura's Decision",
+			"type": "filler",
+			"aired_date": "2016-07-07"
+		},
+		{
+			"episode": 468,
+			"title": "The Successor",
+			"type": "filler",
+			"aired_date": "2016-07-21"
+		},
+		{
+			"episode": 469,
+			"title": "A Special Mission",
+			"type": "mixed-manga",
+			"aired_date": "2016-07-28"
+		},
+		{
+			"episode": 470,
+			"title": "Connecting Thoughts",
+			"type": "manga-canon",
+			"aired_date": "2016-08-04"
+		},
+		{
+			"episode": 471,
+			"title": "The Two of Them...Always",
+			"type": "mixed-manga",
+			"aired_date": "2016-08-11"
+		},
+		{
+			"episode": 472,
+			"title": "You Better...",
+			"type": "mixed-manga",
+			"aired_date": "2016-08-18"
+		},
+		{
+			"episode": 473,
+			"title": "The Sharingan Revived",
+			"type": "manga-canon",
+			"aired_date": "2016-08-25"
+		},
+		{
+			"episode": 474,
+			"title": "Congratulations",
+			"type": "manga-canon",
+			"aired_date": "2016-09-01"
+		},
+		{
+			"episode": 475,
+			"title": "The Final Valley",
+			"type": "manga-canon",
+			"aired_date": "2016-09-08"
+		},
+		{
+			"episode": 476,
+			"title": "The Final Battle",
+			"type": "manga-canon",
+			"aired_date": "2016-09-29"
+		},
+		{
+			"episode": 477,
+			"title": "Naruto and Sasuke",
+			"type": "manga-canon",
+			"aired_date": "2016-09-29"
+		},
+		{
+			"episode": 478,
+			"title": "The Unison Sign",
+			"type": "mixed-manga",
+			"aired_date": "2016-10-06"
+		},
+		{
+			"episode": 479,
+			"title": "Naruto Uzumaki!!",
+			"type": "mixed-manga",
+			"aired_date": "2016-10-13"
+		},
+		{
+			"episode": 480,
+			"title": "Naruto and Hinata",
+			"type": "filler",
+			"aired_date": "2016-10-20"
+		},
+		{
+			"episode": 481,
+			"title": "Sasuke and Sakura",
+			"type": "filler",
+			"aired_date": "2016-10-27"
+		},
+		{
+			"episode": 482,
+			"title": "Gaara and Shikamaru",
+			"type": "filler",
+			"aired_date": "2016-11-03"
+		},
+		{
+			"episode": 483,
+			"title": "Jiraiya and Kakashi",
+			"type": "filler",
+			"aired_date": "2016-11-10"
+		},
+		{
+			"episode": 484,
+			"title": "Sasuke’s Story: Sunrise, Part 1: The Exploding Human",
+			"type": "manga-canon",
+			"aired_date": "2016-12-01"
+		},
+		{
+			"episode": 485,
+			"title": "Sasuke’s Story: Sunrise, Part 2: Coliseum",
+			"type": "manga-canon",
+			"aired_date": "2016-12-08"
+		},
+		{
+			"episode": 486,
+			"title": "Sasuke’s Story: Sunrise, Part 3: Fuushin",
+			"type": "manga-canon",
+			"aired_date": "2016-12-15"
+		},
+		{
+			"episode": 487,
+			"title": "Sasuke’s Story: Sunrise, Part 4: The Ketsuryugan",
+			"type": "manga-canon",
+			"aired_date": "2016-12-22"
+		},
+		{
+			"episode": 488,
+			"title": "Sasuke’s Story: Sunrise, Part 5: The Last One",
+			"type": "manga-canon",
+			"aired_date": "2017-01-05"
+		},
+		{
+			"episode": 489,
+			"title": "Shikamaru’s Story, A Cloud Drifting in the Silent Dark, Part 1: The State of Affairs",
+			"type": "manga-canon",
+			"aired_date": "2017-01-12"
+		},
+		{
+			"episode": 490,
+			"title": "Shikamaru’s Story, A Cloud Drifting in the Silent Dark, Part 2: Dark Clouds",
+			"type": "manga-canon",
+			"aired_date": "2017-01-19"
+		},
+		{
+			"episode": 491,
+			"title": "Shikamaru’s Story, A Cloud Drifting in the Silent Dark, Part 3: Recklessness",
+			"type": "manga-canon",
+			"aired_date": "2017-01-26"
+		},
+		{
+			"episode": 492,
+			"title": "Shikamaru’s Story, A Cloud Drifting in the Silent Dark, Part 4: Cloud of Suspicion",
+			"type": "manga-canon",
+			"aired_date": "2017-02-02"
+		},
+		{
+			"episode": 493,
+			"title": "Shikamaru’s Story, A Cloud Drifting in the Silent Dark, Part 5: Dawn",
+			"type": "manga-canon",
+			"aired_date": "2017-02-09"
+		},
+		{
+			"episode": 494,
+			"title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 1: Naruto’s Wedding",
+			"type": "manga-canon",
+			"aired_date": "2017-02-16"
+		},
+		{
+			"episode": 495,
+			"title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 2: A Full-Powered Wedding Gift",
+			"type": "manga-canon",
+			"aired_date": "2017-02-16"
+		},
+		{
+			"episode": 496,
+			"title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 3: Steam and Food Pills",
+			"type": "manga-canon",
+			"aired_date": "2017-02-23"
+		},
+		{
+			"episode": 497,
+			"title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 4: The Kazekage’s Wedding Gift",
+			"type": "manga-canon",
+			"aired_date": "2017-03-02"
+		},
+		{
+			"episode": 498,
+			"title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 5: The Last Mission",
+			"type": "manga-canon",
+			"aired_date": "2017-03-09"
+		},
+		{
+			"episode": 499,
+			"title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 6: The Outcome of the Secret Mission",
+			"type": "manga-canon",
+			"aired_date": "2017-03-16"
+		},
+		{
+			"episode": 500,
+			"title": "Hidden Leaf Story, The Perfect Day for a Wedding, Part 7: The Message",
+			"type": "manga-canon",
+			"aired_date": "2017-03-23"
+		}
+	]
+}

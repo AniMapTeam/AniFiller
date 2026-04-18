@@ -1,0 +1,46 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "JoJo's Bizarre Adventure",
+	"mappings": {
+		"anilist_id": 666,
+		"mal_id": 666
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Iggi \"The Fool\" and N'Dool \"The GEB\" (Part I)",
+			"type": "mixed-manga",
+			"aired_date": "1993-09-19"
+		},
+		{
+			"episode": 2,
+			"title": "Iggi \"The Fool\" and N'Dool \"The GEB\" (Part II)",
+			"type": "mixed-manga",
+			"aired_date": "1993-12-17"
+		},
+		{
+			"episode": 3,
+			"title": "D'Arby the Gambler",
+			"type": "mixed-manga",
+			"aired_date": "1994-07-21"
+		},
+		{
+			"episode": 4,
+			"title": "Dio's \"The World\" - The Warrior of the Void: Iced",
+			"type": "mixed-manga",
+			"aired_date": "1994-08-09"
+		},
+		{
+			"episode": 5,
+			"title": "Dio's \"The World\" - Kakyoin: Duel in the Barrier",
+			"type": "mixed-manga",
+			"aired_date": "1994-10-21"
+		},
+		{
+			"episode": 6,
+			"title": "Dio's \"The World\" - Farewell, My Friends",
+			"type": "mixed-manga",
+			"aired_date": "1994-11-18"
+		}
+	]
+}

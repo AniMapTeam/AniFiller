@@ -1,0 +1,166 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Excel Saga",
+	"mappings": {
+		"anilist_id": 379,
+		"mal_id": 379
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Koshi Rikdo Assassination Plot",
+			"type": "filler",
+			"aired_date": "1999-10-07"
+		},
+		{
+			"episode": 2,
+			"title": "The Woman from Mars",
+			"type": "filler",
+			"aired_date": "1999-10-14"
+		},
+		{
+			"episode": 3,
+			"title": "The Sacrificial Lamb of the Venomous Great Escape of Hell",
+			"type": "filler",
+			"aired_date": "1999-10-21"
+		},
+		{
+			"episode": 4,
+			"title": "Love Puny",
+			"type": "filler",
+			"aired_date": "1999-10-28"
+		},
+		{
+			"episode": 5,
+			"title": "The Interesting Giant Tower",
+			"type": "filler",
+			"aired_date": "1999-11-04"
+		},
+		{
+			"episode": 6,
+			"title": "The Cold is Winter! Snowed under Episode",
+			"type": "filler",
+			"aired_date": "1999-11-11"
+		},
+		{
+			"episode": 7,
+			"title": "Melody of the Underground Passage",
+			"type": "filler",
+			"aired_date": "1999-11-18"
+		},
+		{
+			"episode": 8,
+			"title": "Increase Ratings Week",
+			"type": "filler",
+			"aired_date": "1999-11-25"
+		},
+		{
+			"episode": 9,
+			"title": "Bowling Girls",
+			"type": "filler",
+			"aired_date": "1999-12-02"
+		},
+		{
+			"episode": 10,
+			"title": "Elegy to the Dogs (Menchi's Great Adventure)",
+			"type": "filler",
+			"aired_date": "1999-12-09"
+		},
+		{
+			"episode": 11,
+			"title": "Butt Out, Youth!",
+			"type": "filler",
+			"aired_date": "1999-12-16"
+		},
+		{
+			"episode": 12,
+			"title": "Big City Part II",
+			"type": "filler",
+			"aired_date": "1999-12-23"
+		},
+		{
+			"episode": 13,
+			"title": "The New Year's-End Party Hidden Talent Contest",
+			"type": "filler",
+			"aired_date": "2000-01-06"
+		},
+		{
+			"episode": 14,
+			"title": "Prop",
+			"type": "filler",
+			"aired_date": "2000-01-13"
+		},
+		{
+			"episode": 15,
+			"title": "More! Prop Memorial",
+			"type": "filler",
+			"aired_date": "2000-01-20"
+		},
+		{
+			"episode": 16,
+			"title": "Take Back Love!",
+			"type": "filler",
+			"aired_date": "2000-01-27"
+		},
+		{
+			"episode": 17,
+			"title": "Animation USA",
+			"type": "filler",
+			"aired_date": "2000-02-03"
+		},
+		{
+			"episode": 18,
+			"title": "Municipal Force Daitenzin",
+			"type": "filler",
+			"aired_date": "2000-02-10"
+		},
+		{
+			"episode": 19,
+			"title": "Menchi's Great Adventure 2: Around the World in 80 Hours",
+			"type": "filler",
+			"aired_date": "2000-02-17"
+		},
+		{
+			"episode": 20,
+			"title": "The Best of Mr. Pedro",
+			"type": "filler",
+			"aired_date": "2000-02-24"
+		},
+		{
+			"episode": 21,
+			"title": "Visually Appealing Type",
+			"type": "filler",
+			"aired_date": "2000-03-02"
+		},
+		{
+			"episode": 22,
+			"title": "Invasion, Mother",
+			"type": "filler",
+			"aired_date": "2000-03-09"
+		},
+		{
+			"episode": 23,
+			"title": "Legend of the End of the Century Conqueror",
+			"type": "filler",
+			"aired_date": "2000-03-16"
+		},
+		{
+			"episode": 24,
+			"title": "For You, I Could Die",
+			"type": "filler",
+			"aired_date": "2000-03-23"
+		},
+		{
+			"episode": 25,
+			"title": "We Will Not Be Held Responsible",
+			"type": "filler",
+			"aired_date": "2000-03-30"
+		},
+		{
+			"episode": 26,
+			"title": "Going Too Far",
+			"type": "filler",
+			"aired_date": "2001-01-24"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "High School DxD HERO",
+	"mappings": {
+		"anilist_id": 97767,
+		"mal_id": 34281
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "That's Right, Let's Go to Kyoto",
+			"type": "manga-canon",
+			"aired_date": "2018-04-17"
+		},
+		{
+			"episode": 2,
+			"title": "School Trip, an Abrupt Attack",
+			"type": "manga-canon",
+			"aired_date": "2018-04-24"
+		},
+		{
+			"episode": 3,
+			"title": "The Party of Heroes",
+			"type": "manga-canon",
+			"aired_date": "2018-05-01"
+		},
+		{
+			"episode": 4,
+			"title": "Showdown! Gremory Family vs. Hero Faction in Kyoto",
+			"type": "manga-canon",
+			"aired_date": "2018-05-08"
+		},
+		{
+			"episode": 5,
+			"title": "My Potential Released!",
+			"type": "manga-canon",
+			"aired_date": "2018-05-15"
+		},
+		{
+			"episode": 6,
+			"title": "The School Trip is in Pandemonium",
+			"type": "manga-canon",
+			"aired_date": "2018-05-22"
+		},
+		{
+			"episode": 7,
+			"title": "We are Preparing for the School Festival!",
+			"type": "manga-canon",
+			"aired_date": "2018-05-29"
+		},
+		{
+			"episode": 8,
+			"title": "A Girl's Heart is Complicated",
+			"type": "manga-canon",
+			"aired_date": "2018-06-05"
+		},
+		{
+			"episode": 9,
+			"title": "The Deciding Battle of the Strongest Youth, Begins!",
+			"type": "manga-canon",
+			"aired_date": "2018-06-12"
+		},
+		{
+			"episode": 10,
+			"title": "As a Family Member of Rias Gremory",
+			"type": "manga-canon",
+			"aired_date": "2018-06-19"
+		},
+		{
+			"episode": 11,
+			"title": "Man Against Man",
+			"type": "manga-canon",
+			"aired_date": "2018-06-26"
+		},
+		{
+			"episode": 12,
+			"title": "Lion Heart of the School Festival",
+			"type": "manga-canon",
+			"aired_date": "2018-07-03"
+		}
+	]
+}

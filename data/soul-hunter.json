@@ -1,0 +1,166 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Soul Hunter (Hoshin Engi)",
+	"mappings": {
+		"anilist_id": 1108,
+		"mal_id": 1108
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "An Incredible Mission",
+			"type": "manga-canon",
+			"aired_date": "1999-07-03"
+		},
+		{
+			"episode": 2,
+			"title": "First Hunt of a Soul",
+			"type": "manga-canon",
+			"aired_date": "1999-07-10"
+		},
+		{
+			"episode": 3,
+			"title": "An Android Called Naza",
+			"type": "manga-canon",
+			"aired_date": "1999-07-17"
+		},
+		{
+			"episode": 4,
+			"title": "An Astonishing Secret of Naza",
+			"type": "manga-canon",
+			"aired_date": "1999-07-24"
+		},
+		{
+			"episode": 5,
+			"title": "Lord Chi-Chan Escapes from the Capital",
+			"type": "manga-canon",
+			"aired_date": "1999-07-31"
+		},
+		{
+			"episode": 6,
+			"title": "A Thundering Warrior",
+			"type": "manga-canon",
+			"aired_date": "1999-08-07"
+		},
+		{
+			"episode": 7,
+			"title": "Queen Chiang is Arrested",
+			"type": "manga-canon",
+			"aired_date": "1999-08-14"
+		},
+		{
+			"episode": 8,
+			"title": "Challenge of Yang-Toe",
+			"type": "manga-canon",
+			"aired_date": "1999-08-21"
+		},
+		{
+			"episode": 9,
+			"title": "Rebel of General Fun-Faze",
+			"type": "manga-canon",
+			"aired_date": "1999-08-28"
+		},
+		{
+			"episode": 10,
+			"title": "A Braveheart at Lintow Barrier",
+			"type": "manga-canon",
+			"aired_date": "1999-09-04"
+		},
+		{
+			"episode": 11,
+			"title": "Dreadful Weapons",
+			"type": "manga-canon",
+			"aired_date": "1999-09-11"
+		},
+		{
+			"episode": 12,
+			"title": "General Fun-Faze vs Commander Wenzon",
+			"type": "manga-canon",
+			"aired_date": "1999-09-18"
+		},
+		{
+			"episode": 13,
+			"title": "Taikun meets Lord Chi-Chan",
+			"type": "manga-canon",
+			"aired_date": "1999-09-25"
+		},
+		{
+			"episode": 14,
+			"title": "The Seiki Army Marches North",
+			"type": "mixed-manga",
+			"aired_date": "1999-10-02"
+		},
+		{
+			"episode": 15,
+			"title": "The Shisei's Fierce Attack",
+			"type": "mixed-manga",
+			"aired_date": "1999-10-09"
+		},
+		{
+			"episode": 16,
+			"title": "The Houshined Shisei",
+			"type": "filler",
+			"aired_date": "1999-10-16"
+		},
+		{
+			"episode": 17,
+			"title": "The Melody of the Chinese Fiddle Drifts in Su Castle",
+			"type": "filler",
+			"aired_date": "1999-10-22"
+		},
+		{
+			"episode": 18,
+			"title": "The Brothers Return to the Wilderness",
+			"type": "filler",
+			"aired_date": "1999-10-29"
+		},
+		{
+			"episode": 19,
+			"title": "Chouka Goes Up In Flames",
+			"type": "filler",
+			"aired_date": "1999-11-05"
+		},
+		{
+			"episode": 20,
+			"title": "The Yin Dynasty Falls",
+			"type": "filler",
+			"aired_date": "1999-11-12"
+		},
+		{
+			"episode": 21,
+			"title": "Dakki is Houshined",
+			"type": "filler",
+			"aired_date": "1999-11-19"
+		},
+		{
+			"episode": 22,
+			"title": "Battle at Mount Kunlun",
+			"type": "filler",
+			"aired_date": "1999-11-26"
+		},
+		{
+			"episode": 23,
+			"title": "Taikoubou is Cornered in Gyokukyo Palace",
+			"type": "filler",
+			"aired_date": "1999-12-07"
+		},
+		{
+			"episode": 24,
+			"title": "Genshitenson Shows Taikoubou the Future",
+			"type": "filler",
+			"aired_date": "1999-12-14"
+		},
+		{
+			"episode": 25,
+			"title": "Taikoubou Lowers a Fishing Hook Into the River of Reminiscence",
+			"type": "filler",
+			"aired_date": "1999-12-21"
+		},
+		{
+			"episode": 26,
+			"title": "Taikoubou Shows the Way",
+			"type": "filler",
+			"aired_date": "1999-12-29"
+		}
+	]
+}

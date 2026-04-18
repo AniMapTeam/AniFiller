@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Rosario + Vampire Capu2",
+	"mappings": {
+		"anilist_id": 4214,
+		"mal_id": 4214
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Reunion and a Vampire",
+			"type": "mixed-manga",
+			"aired_date": "2008-10-01"
+		},
+		{
+			"episode": 2,
+			"title": "Little Sister and a Vampire",
+			"type": "filler",
+			"aired_date": "2008-10-08"
+		},
+		{
+			"episode": 3,
+			"title": "Mother and a Child and a Vampire",
+			"type": "filler",
+			"aired_date": "2008-10-15"
+		},
+		{
+			"episode": 4,
+			"title": "Body Measurements and a Vampire",
+			"type": "filler",
+			"aired_date": "2008-10-22"
+		},
+		{
+			"episode": 5,
+			"title": "Curry and a Vampire",
+			"type": "filler",
+			"aired_date": "2008-10-29"
+		},
+		{
+			"episode": 6,
+			"title": "School Trip and a Vampire",
+			"type": "filler",
+			"aired_date": "2008-11-05"
+		},
+		{
+			"episode": 7,
+			"title": "Bathroom and a Vampire",
+			"type": "mixed-manga",
+			"aired_date": "2008-11-12"
+		},
+		{
+			"episode": 8,
+			"title": "Youth and a Vampire",
+			"type": "filler",
+			"aired_date": "2008-11-19"
+		},
+		{
+			"episode": 9,
+			"title": "Skiing and a Vampire",
+			"type": "filler",
+			"aired_date": "2008-11-26"
+		},
+		{
+			"episode": 10,
+			"title": "Pretty Boy and a Vampire",
+			"type": "filler",
+			"aired_date": "2008-12-03"
+		},
+		{
+			"episode": 11,
+			"title": "Lilith's Mirror and a Vampire",
+			"type": "mixed-manga",
+			"aired_date": "2008-12-10"
+		},
+		{
+			"episode": 12,
+			"title": "Holy Seal and a Vampire",
+			"type": "filler",
+			"aired_date": "2008-12-17"
+		},
+		{
+			"episode": 13,
+			"title": "Cross and Family and a Vampire",
+			"type": "filler",
+			"aired_date": "2008-12-24"
+		}
+	]
+}

@@ -1,0 +1,448 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Yu-Gi-Oh! Zexal",
+	"mappings": {
+		"anilist_id": 10015,
+		"mal_id": 10015
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Go With the Flow, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2011-04-11"
+		},
+		{
+			"episode": 2,
+			"title": "Go With the Flow, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2011-04-18"
+		},
+		{
+			"episode": 3,
+			"title": "In the End, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2011-04-25"
+		},
+		{
+			"episode": 4,
+			"title": "In the End, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2011-05-02"
+		},
+		{
+			"episode": 5,
+			"title": "Flipping Out, Part 1",
+			"type": "mixed-manga",
+			"aired_date": "2011-05-09"
+		},
+		{
+			"episode": 6,
+			"title": "Flipping Out, Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2011-05-16"
+		},
+		{
+			"episode": 7,
+			"title": "The Sparrow, Part 1",
+			"type": "mixed-manga",
+			"aired_date": "2011-05-23"
+		},
+		{
+			"episode": 8,
+			"title": "The Sparrow, Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2011-05-30"
+		},
+		{
+			"episode": 9,
+			"title": "Feline Frenzy",
+			"type": "manga-canon",
+			"aired_date": "2011-06-06"
+		},
+		{
+			"episode": 10,
+			"title": "Shark Attack",
+			"type": "manga-canon",
+			"aired_date": "2011-06-13"
+		},
+		{
+			"episode": 11,
+			"title": "The Pack, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2011-06-20"
+		},
+		{
+			"episode": 12,
+			"title": "The Pack, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2011-06-27"
+		},
+		{
+			"episode": 13,
+			"title": "The Number Hunter, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2011-07-04"
+		},
+		{
+			"episode": 14,
+			"title": "The Number Hunter, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2011-07-11"
+		},
+		{
+			"episode": 15,
+			"title": "Training Days, Part 1",
+			"type": "filler",
+			"aired_date": "2011-07-18"
+		},
+		{
+			"episode": 16,
+			"title": "Training Days, Part 2",
+			"type": "filler",
+			"aired_date": "2011-07-25"
+		},
+		{
+			"episode": 17,
+			"title": "It's in the Cards, Part 1",
+			"type": "mixed-manga",
+			"aired_date": "2011-08-01"
+		},
+		{
+			"episode": 18,
+			"title": "It's in the Cards, Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2011-08-08"
+		},
+		{
+			"episode": 19,
+			"title": "The Edge of the World",
+			"type": "manga-canon",
+			"aired_date": "2011-08-15"
+		},
+		{
+			"episode": 20,
+			"title": "Roots of the Problem",
+			"type": "manga-canon",
+			"aired_date": "2011-08-22"
+		},
+		{
+			"episode": 21,
+			"title": "Battle with the Bot",
+			"type": "filler",
+			"aired_date": "2011-08-29"
+		},
+		{
+			"episode": 22,
+			"title": "The Shark Hunter",
+			"type": "manga-canon",
+			"aired_date": "2011-09-05"
+		},
+		{
+			"episode": 23,
+			"title": "Hunting Down The Hunter, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2011-09-12"
+		},
+		{
+			"episode": 24,
+			"title": "Hunting Down The Hunter, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2011-09-19"
+		},
+		{
+			"episode": 25,
+			"title": "Frozen in Time",
+			"type": "manga-canon",
+			"aired_date": "2011-10-03"
+		},
+		{
+			"episode": 26,
+			"title": "Let the Duels Begin",
+			"type": "mixed-manga",
+			"aired_date": "2011-10-10"
+		},
+		{
+			"episode": 27,
+			"title": "A Team Performance",
+			"type": "mixed-manga",
+			"aired_date": "2011-10-17"
+		},
+		{
+			"episode": 28,
+			"title": "Heavy Metal",
+			"type": "mixed-manga",
+			"aired_date": "2011-10-24"
+		},
+		{
+			"episode": 29,
+			"title": "Love Hurts",
+			"type": "mixed-manga",
+			"aired_date": "2011-10-31"
+		},
+		{
+			"episode": 30,
+			"title": "No Tomato",
+			"type": "mixed-manga",
+			"aired_date": "2011-11-07"
+		},
+		{
+			"episode": 31,
+			"title": "Life Is a Carnival, Part 1",
+			"type": "mixed-manga",
+			"aired_date": "2011-11-14"
+		},
+		{
+			"episode": 32,
+			"title": "Life Is a Carnival, Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2011-11-21"
+		},
+		{
+			"episode": 33,
+			"title": "Foolish Fans",
+			"type": "manga-canon",
+			"aired_date": "2011-11-28"
+		},
+		{
+			"episode": 34,
+			"title": "Shark Bait",
+			"type": "manga-canon",
+			"aired_date": "2011-12-05"
+		},
+		{
+			"episode": 35,
+			"title": "Bad Developments, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2011-12-12"
+		},
+		{
+			"episode": 36,
+			"title": "Bad Developments, Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2011-12-19"
+		},
+		{
+			"episode": 37,
+			"title": "Double Jeopardy, Part 1",
+			"type": "mixed-manga",
+			"aired_date": "2011-12-26"
+		},
+		{
+			"episode": 38,
+			"title": "Double Jeopardy, Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2012-01-09"
+		},
+		{
+			"episode": 39,
+			"title": "Pets Peeved",
+			"type": "mixed-manga",
+			"aired_date": "2012-01-16"
+		},
+		{
+			"episode": 40,
+			"title": "About Hart",
+			"type": "manga-canon",
+			"aired_date": "2012-01-23"
+		},
+		{
+			"episode": 41,
+			"title": "Losing Hart",
+			"type": "manga-canon",
+			"aired_date": "2012-01-30"
+		},
+		{
+			"episode": 42,
+			"title": "A Dubious Duo",
+			"type": "manga-canon",
+			"aired_date": "2012-02-06"
+		},
+		{
+			"episode": 43,
+			"title": "The Dragon Awakens",
+			"type": "manga-canon",
+			"aired_date": "2012-02-13"
+		},
+		{
+			"episode": 44,
+			"title": "Rock and a Hard Place",
+			"type": "filler",
+			"aired_date": "2012-02-20"
+		},
+		{
+			"episode": 45,
+			"title": "Ruffled Feathers",
+			"type": "filler",
+			"aired_date": "2012-02-27"
+		},
+		{
+			"episode": 46,
+			"title": "Family Leave",
+			"type": "manga-canon",
+			"aired_date": "2012-03-12"
+		},
+		{
+			"episode": 47,
+			"title": "Sky's the Limit",
+			"type": "manga-canon",
+			"aired_date": "2012-03-12"
+		},
+		{
+			"episode": 48,
+			"title": "Exit: Astral",
+			"type": "manga-canon",
+			"aired_date": "2012-03-19"
+		},
+		{
+			"episode": 49,
+			"title": "Crestfallen",
+			"type": "manga-canon",
+			"aired_date": "2012-03-26"
+		},
+		{
+			"episode": 50,
+			"title": "Party Panic",
+			"type": "mixed-manga",
+			"aired_date": "2012-04-09"
+		},
+		{
+			"episode": 51,
+			"title": "Roller Duel",
+			"type": "mixed-manga",
+			"aired_date": "2012-04-16"
+		},
+		{
+			"episode": 52,
+			"title": "Roller Coaster Rampage!",
+			"type": "mixed-manga",
+			"aired_date": "2012-04-23"
+		},
+		{
+			"episode": 53,
+			"title": "Test Your Luck!",
+			"type": "mixed-manga",
+			"aired_date": "2012-04-30"
+		},
+		{
+			"episode": 54,
+			"title": "Welcome to the Jungle",
+			"type": "manga-canon",
+			"aired_date": "2012-05-07"
+		},
+		{
+			"episode": 55,
+			"title": "Portal of Doom",
+			"type": "manga-canon",
+			"aired_date": "2012-05-14"
+		},
+		{
+			"episode": 56,
+			"title": "Cosmic Chaos",
+			"type": "manga-canon",
+			"aired_date": "2012-05-21"
+		},
+		{
+			"episode": 57,
+			"title": "Depths of Darkness",
+			"type": "manga-canon",
+			"aired_date": "2012-05-28"
+		},
+		{
+			"episode": 58,
+			"title": "Swimming With Sharks",
+			"type": "manga-canon",
+			"aired_date": "2012-05-28"
+		},
+		{
+			"episode": 59,
+			"title": "Rockin' and Rollin'",
+			"type": "manga-canon",
+			"aired_date": "2012-06-11"
+		},
+		{
+			"episode": 60,
+			"title": "Doctor Visit",
+			"type": "manga-canon",
+			"aired_date": "2012-06-18"
+		},
+		{
+			"episode": 61,
+			"title": "Duel of Destiny, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2012-06-25"
+		},
+		{
+			"episode": 62,
+			"title": "Duel of Destiny, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2012-07-02"
+		},
+		{
+			"episode": 63,
+			"title": "The Hart of the Matter",
+			"type": "manga-canon",
+			"aired_date": "2012-07-09"
+		},
+		{
+			"episode": 64,
+			"title": "Change of Hart",
+			"type": "manga-canon",
+			"aired_date": "2012-07-16"
+		},
+		{
+			"episode": 65,
+			"title": "Sphere of Fear, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2012-07-23"
+		},
+		{
+			"episode": 66,
+			"title": "Sphere of Fear, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2012-07-30"
+		},
+		{
+			"episode": 67,
+			"title": "Sphere of Fear, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2012-08-13"
+		},
+		{
+			"episode": 68,
+			"title": "The Countdown Begins",
+			"type": "manga-canon",
+			"aired_date": "2012-08-20"
+		},
+		{
+			"episode": 69,
+			"title": "A Trio's Challenge, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2012-08-27"
+		},
+		{
+			"episode": 70,
+			"title": "A Trio's Challenge, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2012-09-03"
+		},
+		{
+			"episode": 71,
+			"title": "A Trio's Challenge, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2012-09-10"
+		},
+		{
+			"episode": 72,
+			"title": "Kite's Plight, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2012-09-17"
+		},
+		{
+			"episode": 73,
+			"title": "Kite's Plight, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2012-09-24"
+		}
+	]
+}

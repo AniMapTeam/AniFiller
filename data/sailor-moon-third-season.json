@@ -1,0 +1,238 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Sailor Moon S",
+	"mappings": {
+		"anilist_id": 532,
+		"mal_id": 532
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Premonition of World's End? The Appearance of Mysterious New Guardians",
+			"type": "manga-canon",
+			"aired_date": "1994-03-19"
+		},
+		{
+			"episode": 2,
+			"title": "The Rod of Love is Born Again: Usagi's New Transformation",
+			"type": "mixed-manga",
+			"aired_date": "1994-03-26"
+		},
+		{
+			"episode": 3,
+			"title": "A Beautiful Boy: The Secret of Haruka Tenou",
+			"type": "manga-canon",
+			"aired_date": "1994-04-16"
+		},
+		{
+			"episode": 4,
+			"title": "Usagi's Idol: The Graceful Genius Michiru",
+			"type": "mixed-manga",
+			"aired_date": "1994-04-23"
+		},
+		{
+			"episode": 5,
+			"title": "Protect the Pure Heart: A Three-Way Battle",
+			"type": "filler",
+			"aired_date": "1994-04-30"
+		},
+		{
+			"episode": 6,
+			"title": "Leave it to the Moon for Love Aid",
+			"type": "filler",
+			"aired_date": "1994-05-07"
+		},
+		{
+			"episode": 7,
+			"title": "Cold-Hearted Uranus: Makoto in Trouble",
+			"type": "filler",
+			"aired_date": "1994-05-14"
+		},
+		{
+			"episode": 8,
+			"title": "The Labyrinth of Water: Ami the Targeted",
+			"type": "filler",
+			"aired_date": "1994-05-21"
+		},
+		{
+			"episode": 9,
+			"title": "Save Friends: Moon and Uranus Join Forces",
+			"type": "filler",
+			"aired_date": "1994-05-28"
+		},
+		{
+			"episode": 10,
+			"title": "The Kindness of a Man: Yuichiro, Heartbroken by Rei?",
+			"type": "filler",
+			"aired_date": "1994-06-18"
+		},
+		{
+			"episode": 11,
+			"title": "Retire from the Sailor Guardians? Minako's Concerns",
+			"type": "filler",
+			"aired_date": "1994-06-25"
+		},
+		{
+			"episode": 12,
+			"title": "Usagi in Tears! Glass Slippers for Her Birthday",
+			"type": "mixed-manga",
+			"aired_date": "1994-07-02"
+		},
+		{
+			"episode": 13,
+			"title": "The Pure Heart Stolen: Usagi's Biggest Crisis",
+			"type": "mixed-manga",
+			"aired_date": "1994-07-16"
+		},
+		{
+			"episode": 14,
+			"title": "The Arrival of the Tiny Pretty Guardian",
+			"type": "manga-canon",
+			"aired_date": "1994-08-06"
+		},
+		{
+			"episode": 15,
+			"title": "Seeking Friends: Chibi Moon's Actions",
+			"type": "filler",
+			"aired_date": "1994-08-20"
+		},
+		{
+			"episode": 16,
+			"title": "Wanting More Power: Mako's Lost Path",
+			"type": "manga-canon",
+			"aired_date": "1994-08-27"
+		},
+		{
+			"episode": 17,
+			"title": "The Bond of Destiny: The Distant Days of Uranus",
+			"type": "manga-canon",
+			"aired_date": "1994-09-03"
+		},
+		{
+			"episode": 18,
+			"title": "Art is an Explosion of Love: Chibiusa's First Love",
+			"type": "filler",
+			"aired_date": "1994-09-10"
+		},
+		{
+			"episode": 19,
+			"title": "Usagi's Dance, in Time to Waltz",
+			"type": "filler",
+			"aired_date": "1994-09-17"
+		},
+		{
+			"episode": 20,
+			"title": "A Time of Shock: True Identities Revealed to One Another",
+			"type": "mixed-manga",
+			"aired_date": "1994-09-24"
+		},
+		{
+			"episode": 21,
+			"title": "Death of Uranus and Neptune?! The Talismans Appear",
+			"type": "manga-canon",
+			"aired_date": "1994-10-15"
+		},
+		{
+			"episode": 22,
+			"title": "The Grail's Divine Power! Moon's Double Transformation",
+			"type": "manga-canon",
+			"aired_date": "1994-10-22"
+		},
+		{
+			"episode": 23,
+			"title": "Who is the True Messiah? Chaos of Light and Darkness",
+			"type": "manga-canon",
+			"aired_date": "1994-11-05"
+		},
+		{
+			"episode": 24,
+			"title": "A House Full of Evil Presence: The Secret of the Beautiful Girl, Hotaru",
+			"type": "manga-canon",
+			"aired_date": "1994-11-12"
+		},
+		{
+			"episode": 25,
+			"title": "Crazy for Celebrities: Mimete in Doubt",
+			"type": "filler",
+			"aired_date": "1994-11-19"
+		},
+		{
+			"episode": 26,
+			"title": "The Shadow of Silence: The Pale Glimmer of a Firefly",
+			"type": "mixed-manga",
+			"aired_date": "1994-11-26"
+		},
+		{
+			"episode": 27,
+			"title": "Sunny Skies After a Storm: A Friendship Dedicated to Hotaru",
+			"type": "filler",
+			"aired_date": "1994-12-03"
+		},
+		{
+			"episode": 28,
+			"title": "Higher, Stronger! Cheers by Usagi",
+			"type": "filler",
+			"aired_date": "1994-12-10"
+		},
+		{
+			"episode": 29,
+			"title": "The Battle in a Demonic Dimension: The Sailor Guardians' Bet",
+			"type": "filler",
+			"aired_date": "1994-12-17"
+		},
+		{
+			"episode": 30,
+			"title": "Awakening of the Messiah of Silence? Stars of Destiny",
+			"type": "manga-canon",
+			"aired_date": "1994-12-24"
+		},
+		{
+			"episode": 31,
+			"title": "Invasion from an Alternate Dimension: The Mystery of Mugen Academy",
+			"type": "manga-canon",
+			"aired_date": "1995-01-07"
+		},
+		{
+			"episode": 32,
+			"title": "A Mystic Flower that Steals Hearts: The Third Witch, Telulu",
+			"type": "manga-canon",
+			"aired_date": "1995-01-14"
+		},
+		{
+			"episode": 33,
+			"title": "Believe in Love: Ami, a Kind-Hearted Guardian",
+			"type": "manga-canon",
+			"aired_date": "1995-01-21"
+		},
+		{
+			"episode": 34,
+			"title": "Shadows of Destruction: The Awakening of the Messiah of Silence",
+			"type": "manga-canon",
+			"aired_date": "1995-01-28"
+		},
+		{
+			"episode": 35,
+			"title": "The Horror of the Approaching Shadow: Eight Guardians in a Tough Battle",
+			"type": "manga-canon",
+			"aired_date": "1995-02-04"
+		},
+		{
+			"episode": 36,
+			"title": "A Bright Shooting Star: Saturn, and the Messiah",
+			"type": "manga-canon",
+			"aired_date": "1995-02-11"
+		},
+		{
+			"episode": 37,
+			"title": "A New Life! Time for Separation of the Destined Stars",
+			"type": "manga-canon",
+			"aired_date": "1995-02-18"
+		},
+		{
+			"episode": 38,
+			"title": "Self-Awareness as a Guardian: Strength Lies in the Pure Heart",
+			"type": "filler",
+			"aired_date": "1995-02-25"
+		}
+	]
+}

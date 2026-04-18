@@ -1,0 +1,70 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Devilman Crybaby",
+	"mappings": {
+		"anilist_id": 98460,
+		"mal_id": 35120
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "I Need You",
+			"type": "mixed-manga",
+			"aired_date": "2018-01-05"
+		},
+		{
+			"episode": 2,
+			"title": "One Hand Is Enough",
+			"type": "mixed-manga",
+			"aired_date": "2018-01-05"
+		},
+		{
+			"episode": 3,
+			"title": "Believe Me!",
+			"type": "filler",
+			"aired_date": "2018-01-05"
+		},
+		{
+			"episode": 4,
+			"title": "Come, Akira",
+			"type": "filler",
+			"aired_date": "2018-01-05"
+		},
+		{
+			"episode": 5,
+			"title": "Beautiful Silene",
+			"type": "filler",
+			"aired_date": "2018-01-05"
+		},
+		{
+			"episode": 6,
+			"title": "Neither Demon Nor Human",
+			"type": "filler",
+			"aired_date": "2018-01-05"
+		},
+		{
+			"episode": 7,
+			"title": "Weak Humans, Wise Demons",
+			"type": "mixed-manga",
+			"aired_date": "2018-01-05"
+		},
+		{
+			"episode": 8,
+			"title": "I Must Know Myself",
+			"type": "mixed-manga",
+			"aired_date": "2018-01-05"
+		},
+		{
+			"episode": 9,
+			"title": "Go to Hell, You Mortals",
+			"type": "mixed-manga",
+			"aired_date": "2018-01-05"
+		},
+		{
+			"episode": 10,
+			"title": "Crybaby",
+			"type": "mixed-manga",
+			"aired_date": "2018-01-05"
+		}
+	]
+}

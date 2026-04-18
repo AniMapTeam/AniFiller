@@ -1,0 +1,58 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+	"mappings": {
+		"anilist_id": 166240,
+		"mal_id": 55701
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "To Defeat Muzan Kibutsuji",
+			"type": "manga-canon",
+			"aired_date": "2024-05-12"
+		},
+		{
+			"episode": 2,
+			"title": "Water Hashira Giyu Tomioka's Pain",
+			"type": "manga-canon",
+			"aired_date": "2024-05-19"
+		},
+		{
+			"episode": 3,
+			"title": "Fully Recovered Tanjiro Joins the Hashira Training!!",
+			"type": "mixed-manga",
+			"aired_date": "2024-05-26"
+		},
+		{
+			"episode": 4,
+			"title": "To Bring a Smile to One's Face",
+			"type": "mixed-manga",
+			"aired_date": "2024-06-02"
+		},
+		{
+			"episode": 5,
+			"title": "I Even Ate Demons",
+			"type": "manga-canon",
+			"aired_date": "2024-06-09"
+		},
+		{
+			"episode": 6,
+			"title": "The Strongest of the Demon Slayer Corps",
+			"type": "manga-canon",
+			"aired_date": "2024-06-16"
+		},
+		{
+			"episode": 7,
+			"title": "Stone Hashira Gyomei Himejima",
+			"type": "manga-canon",
+			"aired_date": "2024-06-23"
+		},
+		{
+			"episode": 8,
+			"title": "The Hashira Unite",
+			"type": "manga-canon",
+			"aired_date": "2024-06-30"
+		}
+	]
+}

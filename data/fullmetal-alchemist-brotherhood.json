@@ -1,0 +1,394 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Fullmetal Alchemist: Brotherhood",
+	"mappings": {
+		"anilist_id": 5114,
+		"mal_id": 5114
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Fullmetal Alchemist",
+			"type": "anime-canon",
+			"aired_date": "2009-04-05"
+		},
+		{
+			"episode": 2,
+			"title": "The First Day",
+			"type": "manga-canon",
+			"aired_date": "2009-04-12"
+		},
+		{
+			"episode": 3,
+			"title": "City of Heresy",
+			"type": "manga-canon",
+			"aired_date": "2009-04-19"
+		},
+		{
+			"episode": 4,
+			"title": "An Alchemist's Anguish",
+			"type": "mixed-manga",
+			"aired_date": "2009-04-26"
+		},
+		{
+			"episode": 5,
+			"title": "Rain of Sorrows",
+			"type": "manga-canon",
+			"aired_date": "2009-05-03"
+		},
+		{
+			"episode": 6,
+			"title": "Road of Hope",
+			"type": "manga-canon",
+			"aired_date": "2009-05-10"
+		},
+		{
+			"episode": 7,
+			"title": "Hidden Truths",
+			"type": "manga-canon",
+			"aired_date": "2009-05-17"
+		},
+		{
+			"episode": 8,
+			"title": "The Fifth Laboratory",
+			"type": "manga-canon",
+			"aired_date": "2009-05-24"
+		},
+		{
+			"episode": 9,
+			"title": "Created Feelings",
+			"type": "mixed-manga",
+			"aired_date": "2009-05-31"
+		},
+		{
+			"episode": 10,
+			"title": "Separate Destinations",
+			"type": "manga-canon",
+			"aired_date": "2009-06-07"
+		},
+		{
+			"episode": 11,
+			"title": "Miracle at Rush Valley",
+			"type": "manga-canon",
+			"aired_date": "2009-06-14"
+		},
+		{
+			"episode": 12,
+			"title": "One is All, All is One",
+			"type": "manga-canon",
+			"aired_date": "2009-06-21"
+		},
+		{
+			"episode": 13,
+			"title": "Beasts of Dublith",
+			"type": "mixed-manga",
+			"aired_date": "2009-06-28"
+		},
+		{
+			"episode": 14,
+			"title": "Those Who Lurk Underground",
+			"type": "mixed-manga",
+			"aired_date": "2009-07-05"
+		},
+		{
+			"episode": 15,
+			"title": "Envoy From the East",
+			"type": "manga-canon",
+			"aired_date": "2009-07-12"
+		},
+		{
+			"episode": 16,
+			"title": "Footsteps of a Comrade-in-Arms",
+			"type": "manga-canon",
+			"aired_date": "2009-07-19"
+		},
+		{
+			"episode": 17,
+			"title": "Cold Flame",
+			"type": "manga-canon",
+			"aired_date": "2009-07-26"
+		},
+		{
+			"episode": 18,
+			"title": "The Arrogant Palm of a Small Human",
+			"type": "manga-canon",
+			"aired_date": "2009-08-02"
+		},
+		{
+			"episode": 19,
+			"title": "Death of the Undying",
+			"type": "manga-canon",
+			"aired_date": "2009-08-09"
+		},
+		{
+			"episode": 20,
+			"title": "Father Before the Grave",
+			"type": "manga-canon",
+			"aired_date": "2009-08-16"
+		},
+		{
+			"episode": 21,
+			"title": "Advance of the Fool",
+			"type": "manga-canon",
+			"aired_date": "2009-08-30"
+		},
+		{
+			"episode": 22,
+			"title": "Backs in the Distance",
+			"type": "manga-canon",
+			"aired_date": "2009-09-06"
+		},
+		{
+			"episode": 23,
+			"title": "Girl on the Battlefield",
+			"type": "manga-canon",
+			"aired_date": "2009-09-13"
+		},
+		{
+			"episode": 24,
+			"title": "Inside the Belly",
+			"type": "manga-canon",
+			"aired_date": "2009-09-20"
+		},
+		{
+			"episode": 25,
+			"title": "Doorway of Darkness",
+			"type": "manga-canon",
+			"aired_date": "2009-09-27"
+		},
+		{
+			"episode": 26,
+			"title": "Reunion",
+			"type": "manga-canon",
+			"aired_date": "2009-10-04"
+		},
+		{
+			"episode": 27,
+			"title": "Interlude Party",
+			"type": "filler",
+			"aired_date": "2009-10-11"
+		},
+		{
+			"episode": 28,
+			"title": "Father",
+			"type": "manga-canon",
+			"aired_date": "2009-10-18"
+		},
+		{
+			"episode": 29,
+			"title": "Struggle of the Fool",
+			"type": "manga-canon",
+			"aired_date": "2009-10-25"
+		},
+		{
+			"episode": 30,
+			"title": "The Ishvalan War of Extermination",
+			"type": "manga-canon",
+			"aired_date": "2009-11-01"
+		},
+		{
+			"episode": 31,
+			"title": "The 520 Cens Promise",
+			"type": "manga-canon",
+			"aired_date": "2009-11-08"
+		},
+		{
+			"episode": 32,
+			"title": "The Fuhrer's Son",
+			"type": "manga-canon",
+			"aired_date": "2009-11-15"
+		},
+		{
+			"episode": 33,
+			"title": "The Northern Wall of Briggs",
+			"type": "manga-canon",
+			"aired_date": "2009-11-22"
+		},
+		{
+			"episode": 34,
+			"title": "Ice Queen",
+			"type": "manga-canon",
+			"aired_date": "2009-11-29"
+		},
+		{
+			"episode": 35,
+			"title": "The Shape of This Country",
+			"type": "manga-canon",
+			"aired_date": "2009-12-06"
+		},
+		{
+			"episode": 36,
+			"title": "Family Portrait",
+			"type": "manga-canon",
+			"aired_date": "2009-12-13"
+		},
+		{
+			"episode": 37,
+			"title": "The First Homunculus",
+			"type": "manga-canon",
+			"aired_date": "2009-12-20"
+		},
+		{
+			"episode": 38,
+			"title": "Conflict at Baschool",
+			"type": "manga-canon",
+			"aired_date": "2009-12-27"
+		},
+		{
+			"episode": 39,
+			"title": "Daydream",
+			"type": "manga-canon",
+			"aired_date": "2010-01-10"
+		},
+		{
+			"episode": 40,
+			"title": "Homunculus (The Dwarf in the Flask)",
+			"type": "manga-canon",
+			"aired_date": "2010-01-17"
+		},
+		{
+			"episode": 41,
+			"title": "The Abyss",
+			"type": "manga-canon",
+			"aired_date": "2010-01-24"
+		},
+		{
+			"episode": 42,
+			"title": "Signs of a Counteroffensive",
+			"type": "manga-canon",
+			"aired_date": "2010-01-31"
+		},
+		{
+			"episode": 43,
+			"title": "Bite of the Ant",
+			"type": "manga-canon",
+			"aired_date": "2010-02-07"
+		},
+		{
+			"episode": 44,
+			"title": "Revving at Full Throttle",
+			"type": "manga-canon",
+			"aired_date": "2010-02-14"
+		},
+		{
+			"episode": 45,
+			"title": "The Promised Day",
+			"type": "manga-canon",
+			"aired_date": "2010-02-21"
+		},
+		{
+			"episode": 46,
+			"title": "Looming Shadows",
+			"type": "manga-canon",
+			"aired_date": "2010-02-28"
+		},
+		{
+			"episode": 47,
+			"title": "Emissary of Darkness",
+			"type": "manga-canon",
+			"aired_date": "2010-03-07"
+		},
+		{
+			"episode": 48,
+			"title": "The Oath in the Tunnel",
+			"type": "manga-canon",
+			"aired_date": "2010-03-14"
+		},
+		{
+			"episode": 49,
+			"title": "Filial Affection",
+			"type": "manga-canon",
+			"aired_date": "2010-03-21"
+		},
+		{
+			"episode": 50,
+			"title": "Upheaval in Central",
+			"type": "manga-canon",
+			"aired_date": "2010-03-28"
+		},
+		{
+			"episode": 51,
+			"title": "The Immortal Legion",
+			"type": "manga-canon",
+			"aired_date": "2010-04-04"
+		},
+		{
+			"episode": 52,
+			"title": "Combined Strength",
+			"type": "manga-canon",
+			"aired_date": "2010-04-11"
+		},
+		{
+			"episode": 53,
+			"title": "Flame of Vengeance",
+			"type": "manga-canon",
+			"aired_date": "2010-04-18"
+		},
+		{
+			"episode": 54,
+			"title": "Beyond the Inferno",
+			"type": "manga-canon",
+			"aired_date": "2010-04-25"
+		},
+		{
+			"episode": 55,
+			"title": "The Adults' Way of Life",
+			"type": "manga-canon",
+			"aired_date": "2010-05-02"
+		},
+		{
+			"episode": 56,
+			"title": "The Return of the Fuhrer",
+			"type": "manga-canon",
+			"aired_date": "2010-05-09"
+		},
+		{
+			"episode": 57,
+			"title": "Eternal Leave",
+			"type": "manga-canon",
+			"aired_date": "2010-05-16"
+		},
+		{
+			"episode": 58,
+			"title": "Sacrifices",
+			"type": "manga-canon",
+			"aired_date": "2010-05-23"
+		},
+		{
+			"episode": 59,
+			"title": "Lost Light",
+			"type": "manga-canon",
+			"aired_date": "2010-05-30"
+		},
+		{
+			"episode": 60,
+			"title": "Eye of Heaven, Gateway of Earth",
+			"type": "manga-canon",
+			"aired_date": "2010-06-06"
+		},
+		{
+			"episode": 61,
+			"title": "He Who Would Swallow God",
+			"type": "manga-canon",
+			"aired_date": "2010-06-13"
+		},
+		{
+			"episode": 62,
+			"title": "A Fierce Counterattack",
+			"type": "manga-canon",
+			"aired_date": "2010-06-20"
+		},
+		{
+			"episode": 63,
+			"title": "The Other Side of the Gateway",
+			"type": "manga-canon",
+			"aired_date": "2010-06-27"
+		},
+		{
+			"episode": 64,
+			"title": "Journey's End",
+			"type": "manga-canon",
+			"aired_date": "2010-07-04"
+		}
+	]
+}

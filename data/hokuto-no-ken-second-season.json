@@ -1,0 +1,268 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Fist of the North Star 2",
+	"mappings": {
+		"anilist_id": 1356,
+		"mal_id": 1356
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Past is Gone. The Dawn of the New Age!!",
+			"type": "manga-canon",
+			"aired_date": "1987-03-12"
+		},
+		{
+			"episode": 2,
+			"title": "When Will He Awaken?!",
+			"type": "filler",
+			"aired_date": "1987-03-19"
+		},
+		{
+			"episode": 3,
+			"title": "The Savior Comes From the North!!",
+			"type": "manga-canon",
+			"aired_date": "1987-03-26"
+		},
+		{
+			"episode": 4,
+			"title": "The Mysterious Bounty Hunter, Ein! Kenshiro's Head is Mine!!",
+			"type": "manga-canon",
+			"aired_date": "1987-04-02"
+		},
+		{
+			"episode": 5,
+			"title": "Another Art of Assassination! The Imperial Fist of the Source Star is the Name!!",
+			"type": "manga-canon",
+			"aired_date": "1987-04-09"
+		},
+		{
+			"episode": 6,
+			"title": "Rage of the Celestial Emperor! Falco, Obliterate the North Star from Earth!!",
+			"type": "manga-canon",
+			"aired_date": "1987-04-23"
+		},
+		{
+			"episode": 7,
+			"title": "The Wrath of the South Star! The Illustrious Harn Brothers!",
+			"type": "manga-canon",
+			"aired_date": "1987-05-07"
+		},
+		{
+			"episode": 8,
+			"title": "Ein in Danger! Hands of Evil Reach for His Love!!",
+			"type": "manga-canon",
+			"aired_date": "1987-05-14"
+		},
+		{
+			"episode": 9,
+			"title": "Falco, the Brave General of the Source Star! There Lies the Shadow of Raoh...",
+			"type": "manga-canon",
+			"aired_date": "1987-05-28"
+		},
+		{
+			"episode": 10,
+			"title": "The Emperor's Cries Echoes Through the Imperial Capital. Falco, Where Have You Gone?",
+			"type": "manga-canon",
+			"aired_date": "1987-06-04"
+		},
+		{
+			"episode": 11,
+			"title": "The Celestial Emperor is Finally Revealed",
+			"type": "manga-canon",
+			"aired_date": "1987-06-11"
+		},
+		{
+			"episode": 12,
+			"title": "An Elegy for Ein! Die Bravely Than Live Without Honor!",
+			"type": "manga-canon",
+			"aired_date": "1987-06-25"
+		},
+		{
+			"episode": 13,
+			"title": "The Fall of the Imperial Capital! Jakoh, You Can Dream in Hell!!",
+			"type": "manga-canon",
+			"aired_date": "1987-07-09"
+		},
+		{
+			"episode": 14,
+			"title": "The Ordeal Never Ends! Kenshiro Crosses the Ocean!!",
+			"type": "manga-canon",
+			"aired_date": "1987-07-16"
+		},
+		{
+			"episode": 15,
+			"title": "What Awaits on the Continent of Darkness? There Lies the Legendary Land of Asura!!",
+			"type": "manga-canon",
+			"aired_date": "1987-07-23"
+		},
+		{
+			"episode": 16,
+			"title": "Good or Evil? The Mysterious North Star Lapis Lazuli Fist Appears!!",
+			"type": "manga-canon",
+			"aired_date": "1987-07-30"
+		},
+		{
+			"episode": 17,
+			"title": "Love is Preached in the Century's End! Her Name is Leia!!",
+			"type": "manga-canon",
+			"aired_date": "1987-08-03"
+		},
+		{
+			"episode": 18,
+			"title": "The General of Asura, Han! The Man Who Stains White Snow into Crimson!!",
+			"type": "manga-canon",
+			"aired_date": "1987-08-20"
+		},
+		{
+			"episode": 19,
+			"title": "The Legend of the Savior of Asura! His Name is Raoh!!",
+			"type": "manga-canon",
+			"aired_date": "1987-08-27"
+		},
+		{
+			"episode": 20,
+			"title": "Kenshiro's Secret is Revealed! The Land of Asura is His Motherland!!",
+			"type": "manga-canon",
+			"aired_date": "1987-09-03"
+		},
+		{
+			"episode": 21,
+			"title": "A Cruel Prophecy! Kenshiro, You Cannot Be the Savior!",
+			"type": "manga-canon",
+			"aired_date": "1987-09-10"
+		},
+		{
+			"episode": 22,
+			"title": "Rock, The Hero on Horseback! I Don't Believe in Kenshiro!!",
+			"type": "manga-canon",
+			"aired_date": "1987-09-17"
+		},
+		{
+			"episode": 23,
+			"title": "Men Beyond Reasons! The Band of Seven Attacks Kenshiro!!",
+			"type": "manga-canon",
+			"aired_date": "1987-09-24"
+		},
+		{
+			"episode": 24,
+			"title": "Rock's Message of Death! Kenshiro, Hang on to Your Friend's Life!!",
+			"type": "manga-canon",
+			"aired_date": "1987-10-01"
+		},
+		{
+			"episode": 25,
+			"title": "Announcing the Creator of the New Century! My Name is Demon Kaioh!!",
+			"type": "manga-canon",
+			"aired_date": "1987-10-08"
+		},
+		{
+			"episode": 26,
+			"title": "The Seal of the Devil! 2000 Year Tragedy of the North Star Clan is Revealed!!",
+			"type": "manga-canon",
+			"aired_date": "1987-10-15"
+		},
+		{
+			"episode": 27,
+			"title": "Little Brother Ken in Danger! Hyoh, Open Up Your Kind Soul!",
+			"type": "manga-canon",
+			"aired_date": "1987-10-22"
+		},
+		{
+			"episode": 28,
+			"title": "Kenshiro on the Execution Stand! The Heavens Unleash the God of the Sea!",
+			"type": "manga-canon",
+			"aired_date": "1987-10-29"
+		},
+		{
+			"episode": 29,
+			"title": "Kaioh's Declaration of Victory! The Phantom of the North Star Attacks!!",
+			"type": "manga-canon",
+			"aired_date": "1987-11-05"
+		},
+		{
+			"episode": 30,
+			"title": "A Destined Encounter of Hyoh and Ken! Both Are Yet to Know Their Secrets!!",
+			"type": "manga-canon",
+			"aired_date": "1987-11-12"
+		},
+		{
+			"episode": 31,
+			"title": "Kaioh's Evil Decision! Cold Blood Runs Through My Body!!",
+			"type": "manga-canon",
+			"aired_date": "1987-11-19"
+		},
+		{
+			"episode": 32,
+			"title": "Kenshiro's Challenge! Never Be Defeated Twice!!",
+			"type": "manga-canon",
+			"aired_date": "1987-11-26"
+		},
+		{
+			"episode": 33,
+			"title": "The Tyrant Hyoh and His Sorrowful Aide! Who Will Stop Him Now?!",
+			"type": "manga-canon",
+			"aired_date": "1987-12-03"
+		},
+		{
+			"episode": 34,
+			"title": "The Battle Of The Blood Brothers! Tears Will Never Return To Hyoh",
+			"type": "manga-canon",
+			"aired_date": "1987-12-10"
+		},
+		{
+			"episode": 35,
+			"title": "The North Star on the Brink of Death! Kaioh Reaches Out for the Celestial Emperor!!",
+			"type": "manga-canon",
+			"aired_date": "1987-12-17"
+		},
+		{
+			"episode": 36,
+			"title": "Tearful Reunion of the Brothers! Kenshiro, I've Been Waiting for You!!",
+			"type": "manga-canon",
+			"aired_date": "1987-12-24"
+		},
+		{
+			"episode": 37,
+			"title": "Shachi's Battle for Love! Kaioh Will Ridicule With Laughter",
+			"type": "manga-canon",
+			"aired_date": "1988-01-07"
+		},
+		{
+			"episode": 38,
+			"title": "The Fall of Shachi, Warrior of Love! Love is Everything, My Friends!!",
+			"type": "manga-canon",
+			"aired_date": "1988-01-14"
+		},
+		{
+			"episode": 39,
+			"title": "Tragic Victim of Love! Kaioh's Foundation of Evil!!",
+			"type": "manga-canon",
+			"aired_date": "1988-01-21"
+		},
+		{
+			"episode": 40,
+			"title": "Kaioh's Disgraceful Past! The Heavens Recreate Lin's Destiny!!",
+			"type": "manga-canon",
+			"aired_date": "1988-01-28"
+		},
+		{
+			"episode": 41,
+			"title": "The Final Chapter: Three Episodes Remaining! Here is the 2,000 Year-old History of the North Star Clan!!",
+			"type": "manga-canon",
+			"aired_date": "1988-02-04"
+		},
+		{
+			"episode": 42,
+			"title": "Prologue to the Final Episode! A Third Man Appears to Determine Lin's Fate!!",
+			"type": "manga-canon",
+			"aired_date": "1988-02-11"
+		},
+		{
+			"episode": 43,
+			"title": "The Final Episode: Farewell, Kenshiro! Farewell, the Divine Fist of the North Star!!",
+			"type": "manga-canon",
+			"aired_date": "1988-02-18"
+		}
+	]
+}

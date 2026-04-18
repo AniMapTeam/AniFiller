@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Handa-kun",
+	"mappings": {
+		"anilist_id": 21626,
+		"mal_id": 32648
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Handa-kun and a Girl's Friendship",
+			"type": "manga-canon",
+			"aired_date": "2016-07-08"
+		},
+		{
+			"episode": 2,
+			"title": "Handa-kun and the Continuation of Episode 1 / Handa-kun and the Chairperson / Handa-kun and the Model",
+			"type": "manga-canon",
+			"aired_date": "2016-07-15"
+		},
+		{
+			"episode": 3,
+			"title": "Handa-kun and the Truant / Handa-kun and Cooking Class / Handa-kun and his friend",
+			"type": "manga-canon",
+			"aired_date": "2016-07-22"
+		},
+		{
+			"episode": 4,
+			"title": "Handa-kun and Handa-kun? / Handa-kun and a Girl's Jealousy / Handa-kun and Sociability",
+			"type": "manga-canon",
+			"aired_date": "2016-07-29"
+		},
+		{
+			"episode": 5,
+			"title": "Handa-kun and Student Council / Handa-kun and Memory Loss",
+			"type": "manga-canon",
+			"aired_date": "2016-08-05"
+		},
+		{
+			"episode": 6,
+			"title": "Handa-kun and Friend of a Friend / Handa-kun and Dash Higashino / Handa-kun and Palm Reading",
+			"type": "manga-canon",
+			"aired_date": "2016-08-12"
+		},
+		{
+			"episode": 7,
+			"title": "Handa-kun and the Supplementary Exam / Handa-kun and the Library",
+			"type": "manga-canon",
+			"aired_date": "2016-08-19"
+		},
+		{
+			"episode": 8,
+			"title": "Handa-kun and the School Trip",
+			"type": "mixed-manga",
+			"aired_date": "2016-08-26"
+		},
+		{
+			"episode": 9,
+			"title": "Handa-kun and the Frog / Handa-kun and the Stalker",
+			"type": "filler",
+			"aired_date": "2016-09-02"
+		},
+		{
+			"episode": 10,
+			"title": "Handa-kun and the Average Guy / Handa-kun and the Bishoujo\"",
+			"type": "manga-canon",
+			"aired_date": "2016-09-09"
+		},
+		{
+			"episode": 11,
+			"title": "Handa-kun and the Cultural Festival Preparations",
+			"type": "manga-canon",
+			"aired_date": "2016-09-16"
+		},
+		{
+			"episode": 12,
+			"title": "Handa-kun and the Cultural Festival",
+			"type": "manga-canon",
+			"aired_date": "2016-09-23"
+		}
+	]
+}

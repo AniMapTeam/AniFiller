@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Elfen Lied",
+	"mappings": {
+		"anilist_id": 226,
+		"mal_id": 226
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "A Chance Encounter: Begegnung",
+			"type": "manga-canon",
+			"aired_date": "2004-07-25"
+		},
+		{
+			"episode": 2,
+			"title": "Annihilation: Vernichtung",
+			"type": "manga-canon",
+			"aired_date": "2004-08-01"
+		},
+		{
+			"episode": 3,
+			"title": "Deep Feelings: Im Innersten",
+			"type": "manga-canon",
+			"aired_date": "2004-08-08"
+		},
+		{
+			"episode": 4,
+			"title": "Attack: Aufeinandertreffen",
+			"type": "manga-canon",
+			"aired_date": "2004-08-15"
+		},
+		{
+			"episode": 5,
+			"title": "Receipt: Empfang",
+			"type": "manga-canon",
+			"aired_date": "2004-08-22"
+		},
+		{
+			"episode": 6,
+			"title": "Innermost Feelings: Herzenswaerme",
+			"type": "manga-canon",
+			"aired_date": "2004-08-29"
+		},
+		{
+			"episode": 7,
+			"title": "Confrontation: Zufaellige Begegnung",
+			"type": "manga-canon",
+			"aired_date": "2004-09-05"
+		},
+		{
+			"episode": 8,
+			"title": "The Beginning: Beginn",
+			"type": "manga-canon",
+			"aired_date": "2004-09-12"
+		},
+		{
+			"episode": 9,
+			"title": "Reminiscence: Schoene Erinnerung",
+			"type": "manga-canon",
+			"aired_date": "2004-09-19"
+		},
+		{
+			"episode": 10,
+			"title": "Infant: Saeugling",
+			"type": "manga-canon",
+			"aired_date": "2004-09-26"
+		},
+		{
+			"episode": 11,
+			"title": "Complication: Vermischung",
+			"type": "manga-canon",
+			"aired_date": "2004-10-03"
+		},
+		{
+			"episode": 12,
+			"title": "Quagmire: Taumeln",
+			"type": "manga-canon",
+			"aired_date": "2004-10-10"
+		},
+		{
+			"episode": 13,
+			"title": "No Return: Erleuchtung",
+			"type": "mixed-manga",
+			"aired_date": "2004-10-17"
+		}
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Hellsing",
+	"mappings": {
+		"anilist_id": 270,
+		"mal_id": 270
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Undead",
+			"type": "manga-canon",
+			"aired_date": "2001-10-01"
+		},
+		{
+			"episode": 2,
+			"title": "Club M",
+			"type": "manga-canon",
+			"aired_date": "2001-10-17"
+		},
+		{
+			"episode": 3,
+			"title": "Sword Dancer",
+			"type": "manga-canon",
+			"aired_date": "2001-10-24"
+		},
+		{
+			"episode": 4,
+			"title": "Innocent as a Human",
+			"type": "filler",
+			"aired_date": "2001-10-31"
+		},
+		{
+			"episode": 5,
+			"title": "Brotherhood",
+			"type": "manga-canon",
+			"aired_date": "2001-11-07"
+		},
+		{
+			"episode": 6,
+			"title": "Dead Zone",
+			"type": "manga-canon",
+			"aired_date": "2001-11-14"
+		},
+		{
+			"episode": 7,
+			"title": "Duel",
+			"type": "manga-canon",
+			"aired_date": "2001-11-21"
+		},
+		{
+			"episode": 8,
+			"title": "Kill House",
+			"type": "filler",
+			"aired_date": "2001-11-28"
+		},
+		{
+			"episode": 9,
+			"title": "Red Rose Vertigo",
+			"type": "filler",
+			"aired_date": "2001-12-01"
+		},
+		{
+			"episode": 10,
+			"title": "Master of Monster",
+			"type": "manga-canon",
+			"aired_date": "2001-12-12"
+		},
+		{
+			"episode": 11,
+			"title": "Transcend Force",
+			"type": "filler",
+			"aired_date": "2001-12-19"
+		},
+		{
+			"episode": 12,
+			"title": "Total Destruction",
+			"type": "filler",
+			"aired_date": "2002-01-09"
+		},
+		{
+			"episode": 13,
+			"title": "Hellfire",
+			"type": "filler",
+			"aired_date": "2002-01-16"
+		}
+	]
+}

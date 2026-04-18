@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "GANTZ",
+	"mappings": {
+		"anilist_id": 395,
+		"mal_id": 395
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Goodbye...",
+			"type": "manga-canon",
+			"aired_date": "2004-08-26"
+		},
+		{
+			"episode": 2,
+			"title": "Go Fast!",
+			"type": "manga-canon",
+			"aired_date": "2004-09-02"
+		},
+		{
+			"episode": 3,
+			"title": "It's Me!",
+			"type": "manga-canon",
+			"aired_date": "2004-09-09"
+		},
+		{
+			"episode": 4,
+			"title": "Is It OK to Shoot Them?",
+			"type": "mixed-manga",
+			"aired_date": "2004-09-16"
+		},
+		{
+			"episode": 5,
+			"title": "Welcome Back",
+			"type": "manga-canon",
+			"aired_date": "2004-09-23"
+		},
+		{
+			"episode": 6,
+			"title": "What the Hell is This?",
+			"type": "manga-canon",
+			"aired_date": "2004-09-30"
+		},
+		{
+			"episode": 7,
+			"title": "Shoot Me!",
+			"type": "manga-canon",
+			"aired_date": "2004-10-07"
+		},
+		{
+			"episode": 8,
+			"title": "Brother?",
+			"type": "manga-canon",
+			"aired_date": "2004-10-14"
+		},
+		{
+			"episode": 9,
+			"title": "Don't Ever Say That Again!",
+			"type": "filler",
+			"aired_date": "2004-10-22"
+		},
+		{
+			"episode": 10,
+			"title": "Kurono Alien",
+			"type": "filler",
+			"aired_date": "2004-10-28"
+		},
+		{
+			"episode": 11,
+			"title": "There's No Labyrinth I Can't Get Out Of!!",
+			"type": "filler",
+			"aired_date": "2004-11-04"
+		},
+		{
+			"episode": 12,
+			"title": "Let's Go Back Alive",
+			"type": "filler",
+			"aired_date": "2004-11-10"
+		},
+		{
+			"episode": 13,
+			"title": "Please Live!",
+			"type": "filler",
+			"aired_date": "2004-11-18"
+		}
+	]
+}

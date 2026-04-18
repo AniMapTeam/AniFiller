@@ -1,0 +1,160 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Fate/Zero",
+	"mappings": {
+		"anilist_id": 10087,
+		"mal_id": 10087
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Summoning Ancient Heroes",
+			"type": "manga-canon",
+			"aired_date": "2011-10-01"
+		},
+		{
+			"episode": 2,
+			"title": "False Start",
+			"type": "manga-canon",
+			"aired_date": "2011-10-08"
+		},
+		{
+			"episode": 3,
+			"title": "Land of Fuyuki",
+			"type": "manga-canon",
+			"aired_date": "2011-10-15"
+		},
+		{
+			"episode": 4,
+			"title": "Blade of the Demonic Spear",
+			"type": "manga-canon",
+			"aired_date": "2011-10-22"
+		},
+		{
+			"episode": 5,
+			"title": "The Vicious Beast Roars",
+			"type": "manga-canon",
+			"aired_date": "2011-10-29"
+		},
+		{
+			"episode": 6,
+			"title": "Night of Schemes",
+			"type": "manga-canon",
+			"aired_date": "2011-11-05"
+		},
+		{
+			"episode": 7,
+			"title": "The Evil Forest",
+			"type": "manga-canon",
+			"aired_date": "2011-11-12"
+		},
+		{
+			"episode": 8,
+			"title": "The Magus Killer",
+			"type": "manga-canon",
+			"aired_date": "2011-11-19"
+		},
+		{
+			"episode": 9,
+			"title": "Master and Servant",
+			"type": "manga-canon",
+			"aired_date": "2011-11-26"
+		},
+		{
+			"episode": 10,
+			"title": "Rin's Adventure",
+			"type": "mixed-manga",
+			"aired_date": "2011-12-03"
+		},
+		{
+			"episode": 11,
+			"title": "The Grail Dialogue",
+			"type": "manga-canon",
+			"aired_date": "2011-12-10"
+		},
+		{
+			"episode": 12,
+			"title": "The Grail's Invitation",
+			"type": "manga-canon",
+			"aired_date": "2011-12-17"
+		},
+		{
+			"episode": 13,
+			"title": "Forbidden Banquet",
+			"type": "manga-canon",
+			"aired_date": "2011-12-24"
+		},
+		{
+			"episode": 14,
+			"title": "The Bloody Battle of Mion River",
+			"type": "manga-canon",
+			"aired_date": "2012-04-07"
+		},
+		{
+			"episode": 15,
+			"title": "Golden Radiance",
+			"type": "manga-canon",
+			"aired_date": "2012-04-14"
+		},
+		{
+			"episode": 16,
+			"title": "The Terminus of Honor",
+			"type": "manga-canon",
+			"aired_date": "2012-04-21"
+		},
+		{
+			"episode": 17,
+			"title": "The Eighth Contract",
+			"type": "manga-canon",
+			"aired_date": "2012-04-28"
+		},
+		{
+			"episode": 18,
+			"title": "Distant Memories",
+			"type": "mixed-manga",
+			"aired_date": "2012-05-05"
+		},
+		{
+			"episode": 19,
+			"title": "Where Justice is Found",
+			"type": "mixed-manga",
+			"aired_date": "2012-05-12"
+		},
+		{
+			"episode": 20,
+			"title": "Return of the Assassin",
+			"type": "manga-canon",
+			"aired_date": "2012-05-19"
+		},
+		{
+			"episode": 21,
+			"title": "Knight on Two Wheels",
+			"type": "manga-canon",
+			"aired_date": "2012-05-26"
+		},
+		{
+			"episode": 22,
+			"title": "All the World's Evils",
+			"type": "manga-canon",
+			"aired_date": "2012-06-02"
+		},
+		{
+			"episode": 23,
+			"title": "The Sea at the End of the World",
+			"type": "manga-canon",
+			"aired_date": "2012-06-09"
+		},
+		{
+			"episode": 24,
+			"title": "The Last Command Spell",
+			"type": "manga-canon",
+			"aired_date": "2012-06-16"
+		},
+		{
+			"episode": 25,
+			"title": "Fate/Zero",
+			"type": "manga-canon",
+			"aired_date": "2012-06-23"
+		}
+	]
+}

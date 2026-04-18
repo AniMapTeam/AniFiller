@@ -1,0 +1,286 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Sailor Moon",
+	"mappings": {
+		"anilist_id": 530,
+		"mal_id": 530
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Crybaby: Usagi's Beautiful Transformation",
+			"type": "manga-canon",
+			"aired_date": "1992-03-07"
+		},
+		{
+			"episode": 2,
+			"title": "Punsihment Awaits: the House of Fortune is the Monster Mansion",
+			"type": "filler",
+			"aired_date": "1992-03-14"
+		},
+		{
+			"episode": 3,
+			"title": "A Mysterious Sleeping Illness: Protect the Girls in Love",
+			"type": "filler",
+			"aired_date": "1992-03-21"
+		},
+		{
+			"episode": 4,
+			"title": "Learn How to Be Skinny from Usagi",
+			"type": "filler",
+			"aired_date": "1992-03-28"
+		},
+		{
+			"episode": 5,
+			"title": "Scent of a Monster: Chanela Will Steal Your Love",
+			"type": "filler",
+			"aired_date": "1992-04-11"
+		},
+		{
+			"episode": 6,
+			"title": "Protect the Melody of Love: Usagi Plays Cupid",
+			"type": "filler",
+			"aired_date": "1992-04-18"
+		},
+		{
+			"episode": 7,
+			"title": "Usagi Learns Her Lesson: Becoming a Star is Hard Work",
+			"type": "filler",
+			"aired_date": "1992-04-25"
+		},
+		{
+			"episode": 8,
+			"title": "The Girl Genius is a Monster: The Brainwashing Cram School of Horror",
+			"type": "manga-canon",
+			"aired_date": "1992-05-02"
+		},
+		{
+			"episode": 9,
+			"title": "Usagi's Disaster: Beware the Clock of Confusion",
+			"type": "filler",
+			"aired_date": "1992-05-09"
+		},
+		{
+			"episode": 10,
+			"title": "The Cursed Bus: Enter Mars, the Guardian of Fire",
+			"type": "manga-canon",
+			"aired_date": "1992-05-16"
+		},
+		{
+			"episode": 11,
+			"title": "Usagi vs. Rei: Nightmare in Dream Land",
+			"type": "filler",
+			"aired_date": "1992-05-23"
+		},
+		{
+			"episode": 12,
+			"title": "I Want a Boyfriend: The Luxury Cruise Ship is a Trap",
+			"type": "filler",
+			"aired_date": "1992-05-30"
+		},
+		{
+			"episode": 13,
+			"title": "Girls Unite: The End of Jadeite",
+			"type": "mixed-manga",
+			"aired_date": "1992-06-06"
+		},
+		{
+			"episode": 14,
+			"title": "A New Enemy Appears: Nephrite's Evil Crest",
+			"type": "mixed-manga",
+			"aired_date": "1992-06-13"
+		},
+		{
+			"episode": 15,
+			"title": "Usagi's Panic: Rei's First Date",
+			"type": "filler",
+			"aired_date": "1992-06-20"
+		},
+		{
+			"episode": 16,
+			"title": "A Girl's Dream: Usagi Becomes a Bride",
+			"type": "filler",
+			"aired_date": "1992-06-27"
+		},
+		{
+			"episode": 17,
+			"title": "Usagi's a Model: The Flash of the Monster Camera",
+			"type": "filler",
+			"aired_date": "1992-07-04"
+		},
+		{
+			"episode": 18,
+			"title": "Shingo's Love: The Grieving Doll",
+			"type": "filler",
+			"aired_date": "1992-07-11"
+		},
+		{
+			"episode": 19,
+			"title": "Usagi's Joy: A Love Letter from Tuxedo Mask",
+			"type": "manga-canon",
+			"aired_date": "1992-07-25"
+		},
+		{
+			"episode": 20,
+			"title": "The Summer, the Beach, Youth, and Ghosts",
+			"type": "filler",
+			"aired_date": "1992-08-01"
+		},
+		{
+			"episode": 21,
+			"title": "Protect the Children's Dreams: Friendship Through Anime",
+			"type": "filler",
+			"aired_date": "1992-08-08"
+		},
+		{
+			"episode": 22,
+			"title": "Romance Under the Moon: Usagi's First Kiss",
+			"type": "manga-canon",
+			"aired_date": "1992-08-15"
+		},
+		{
+			"episode": 23,
+			"title": "Wish Upon a Star: Naru's First Love",
+			"type": "mixed-manga",
+			"aired_date": "1992-08-22"
+		},
+		{
+			"episode": 24,
+			"title": "Naru's Tears: Nephrite Dies for Love",
+			"type": "mixed-manga",
+			"aired_date": "1992-08-29"
+		},
+		{
+			"episode": 25,
+			"title": "Jupiter, the Powerful Girl in Love",
+			"type": "manga-canon",
+			"aired_date": "1992-09-05"
+		},
+		{
+			"episode": 26,
+			"title": "Restore Naru's Smile: Usagi's Friendship",
+			"type": "filler",
+			"aired_date": "1992-09-12"
+		},
+		{
+			"episode": 27,
+			"title": "Crushing on Ami: The Boy Who Can See the Future",
+			"type": "filler",
+			"aired_date": "1992-10-10"
+		},
+		{
+			"episode": 28,
+			"title": "The Painting of Love: Usagi and Mamoru Get Closer",
+			"type": "filler",
+			"aired_date": "1992-10-17"
+		},
+		{
+			"episode": 29,
+			"title": "Total Chaos: The Messy Love Rectangle",
+			"type": "filler",
+			"aired_date": "1992-10-24"
+		},
+		{
+			"episode": 30,
+			"title": "Grandpa Loses Control: Rei in Danger",
+			"type": "filler",
+			"aired_date": "1992-10-31"
+		},
+		{
+			"episode": 31,
+			"title": "Love and Chased: Luna's Worst Day Ever",
+			"type": "filler",
+			"aired_date": "1992-11-07"
+		},
+		{
+			"episode": 32,
+			"title": "Umino's Resolve: I'll Protect Naru",
+			"type": "filler",
+			"aired_date": "1992-11-14"
+		},
+		{
+			"episode": 33,
+			"title": "Enter Venus, the Last Guardian",
+			"type": "manga-canon",
+			"aired_date": "1992-11-21"
+		},
+		{
+			"episode": 34,
+			"title": "The Shining Silver Crystal: The Moon Princess Appears",
+			"type": "manga-canon",
+			"aired_date": "1992-11-28"
+		},
+		{
+			"episode": 35,
+			"title": "Returning Memories: Usagi and Mamoru's Past",
+			"type": "manga-canon",
+			"aired_date": "1992-12-05"
+		},
+		{
+			"episode": 36,
+			"title": "Usagi's Confusion: Is Tuxedo Mask Evil?",
+			"type": "mixed-manga",
+			"aired_date": "1992-12-12"
+		},
+		{
+			"episode": 37,
+			"title": "Let's Become a Princess: Usagi's Bizarre Training",
+			"type": "filler",
+			"aired_date": "1992-12-19"
+		},
+		{
+			"episode": 38,
+			"title": "The Snow, the Mountains, Friendship, and Monsters",
+			"type": "filler",
+			"aired_date": "1992-12-26"
+		},
+		{
+			"episode": 39,
+			"title": "Paired with a Monster: Mako, the Ice-Skating Queen",
+			"type": "filler",
+			"aired_date": "1993-01-09"
+		},
+		{
+			"episode": 40,
+			"title": "The Legendary Lake Yokai: The Bond of Usagi's Family",
+			"type": "filler",
+			"aired_date": "1993-01-16"
+		},
+		{
+			"episode": 41,
+			"title": "I Won't Run Away from Love Anymore: Ami vs. Mamoru",
+			"type": "filler",
+			"aired_date": "1993-01-23"
+		},
+		{
+			"episode": 42,
+			"title": "Sailor Venus's Past: Minako's Tragic Past",
+			"type": "mixed-manga",
+			"aired_date": "1993-01-30"
+		},
+		{
+			"episode": 43,
+			"title": "Usagi Abandoned: The Falling-Out of the Sailor Guardians",
+			"type": "filler",
+			"aired_date": "1993-02-06"
+		},
+		{
+			"episode": 44,
+			"title": "Usagi's Awakening: A Message from the Distant Past",
+			"type": "manga-canon",
+			"aired_date": "1993-02-13"
+		},
+		{
+			"episode": 45,
+			"title": "Death of the Sailor Guardians: The Tragic Final Battle",
+			"type": "manga-canon",
+			"aired_date": "1993-02-20"
+		},
+		{
+			"episode": 46,
+			"title": "Usagi's Eternal Wish: A Brand New Life",
+			"type": "manga-canon",
+			"aired_date": "1993-02-27"
+		}
+	]
+}

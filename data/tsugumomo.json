@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Tsugumomo",
+	"mappings": {
+		"anilist_id": 97625,
+		"mal_id": 34019
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Scent of Cherry Blossoms",
+			"type": "manga-canon",
+			"aired_date": "2017-04-02"
+		},
+		{
+			"episode": 2,
+			"title": "The Library and the Childhood Friend",
+			"type": "manga-canon",
+			"aired_date": "2017-04-09"
+		},
+		{
+			"episode": 3,
+			"title": "Kukuri-hime",
+			"type": "manga-canon",
+			"aired_date": "2017-04-16"
+		},
+		{
+			"episode": 4,
+			"title": "Trials of the Local God",
+			"type": "mixed-manga",
+			"aired_date": "2017-04-23"
+		},
+		{
+			"episode": 5,
+			"title": "Training",
+			"type": "manga-canon",
+			"aired_date": "2017-04-30"
+		},
+		{
+			"episode": 6,
+			"title": "Memories and Childhood Friends",
+			"type": "manga-canon",
+			"aired_date": "2017-05-07"
+		},
+		{
+			"episode": 7,
+			"title": "Kanayama-san",
+			"type": "manga-canon",
+			"aired_date": "2017-05-14"
+		},
+		{
+			"episode": 8,
+			"title": "A Certain Day in the Kagami Household / The Super Popular Fragrance",
+			"type": "manga-canon",
+			"aired_date": "2017-05-21"
+		},
+		{
+			"episode": 9,
+			"title": "Letter",
+			"type": "manga-canon",
+			"aired_date": "2017-05-28"
+		},
+		{
+			"episode": 10,
+			"title": "Naked in the Futon",
+			"type": "manga-canon",
+			"aired_date": "2017-06-04"
+		},
+		{
+			"episode": 11,
+			"title": "Duel",
+			"type": "manga-canon",
+			"aired_date": "2017-06-11"
+		},
+		{
+			"episode": 12,
+			"title": "Partner",
+			"type": "manga-canon",
+			"aired_date": "2017-06-18"
+		}
+	]
+}

@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "VINLAND SAGA",
+	"mappings": {
+		"anilist_id": 101348,
+		"mal_id": 37521
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Somewhere Not Here",
+			"type": "manga-canon",
+			"aired_date": "2019-07-07"
+		},
+		{
+			"episode": 2,
+			"title": "Sword",
+			"type": "manga-canon",
+			"aired_date": "2019-07-07"
+		},
+		{
+			"episode": 3,
+			"title": "Troll",
+			"type": "manga-canon",
+			"aired_date": "2019-07-07"
+		},
+		{
+			"episode": 4,
+			"title": "A True Warrior",
+			"type": "manga-canon",
+			"aired_date": "2019-07-28"
+		},
+		{
+			"episode": 5,
+			"title": "The Troll's Son",
+			"type": "anime-canon",
+			"aired_date": "2019-08-04"
+		},
+		{
+			"episode": 6,
+			"title": "The Journey Begins",
+			"type": "mixed-manga",
+			"aired_date": "2019-08-11"
+		},
+		{
+			"episode": 7,
+			"title": "Normanni",
+			"type": "manga-canon",
+			"aired_date": "2019-08-18"
+		},
+		{
+			"episode": 8,
+			"title": "Beyond The Edge of The Sea",
+			"type": "manga-canon",
+			"aired_date": "2019-08-25"
+		},
+		{
+			"episode": 9,
+			"title": "The Battle of London Bridge",
+			"type": "manga-canon",
+			"aired_date": "2019-09-01"
+		},
+		{
+			"episode": 10,
+			"title": "Ragnarok",
+			"type": "manga-canon",
+			"aired_date": "2019-09-15"
+		},
+		{
+			"episode": 11,
+			"title": "A Gamble",
+			"type": "manga-canon",
+			"aired_date": "2019-09-22"
+		},
+		{
+			"episode": 12,
+			"title": "The Land on The Far Bank",
+			"type": "manga-canon",
+			"aired_date": "2019-09-29"
+		},
+		{
+			"episode": 13,
+			"title": "Child of a Hero",
+			"type": "manga-canon",
+			"aired_date": "2019-10-06"
+		},
+		{
+			"episode": 14,
+			"title": "The Light of Dawn",
+			"type": "manga-canon",
+			"aired_date": "2019-10-13"
+		},
+		{
+			"episode": 15,
+			"title": "After Yule",
+			"type": "manga-canon",
+			"aired_date": "2019-10-20"
+		},
+		{
+			"episode": 16,
+			"title": "History of Beasts",
+			"type": "manga-canon",
+			"aired_date": "2019-10-27"
+		},
+		{
+			"episode": 17,
+			"title": "Servant",
+			"type": "manga-canon",
+			"aired_date": "2019-11-03"
+		},
+		{
+			"episode": 18,
+			"title": "Out of the Cradle",
+			"type": "manga-canon",
+			"aired_date": "2019-11-17"
+		},
+		{
+			"episode": 19,
+			"title": "United Front",
+			"type": "manga-canon",
+			"aired_date": "2019-11-24"
+		},
+		{
+			"episode": 20,
+			"title": "Crown",
+			"type": "manga-canon",
+			"aired_date": "2019-12-01"
+		},
+		{
+			"episode": 21,
+			"title": "Reunion",
+			"type": "manga-canon",
+			"aired_date": "2019-12-08"
+		},
+		{
+			"episode": 22,
+			"title": "Lone Wolf",
+			"type": "manga-canon",
+			"aired_date": "2019-12-15"
+		},
+		{
+			"episode": 23,
+			"title": "Miscalculation",
+			"type": "manga-canon",
+			"aired_date": "2019-12-22"
+		},
+		{
+			"episode": 24,
+			"title": "END OF THE PROLOGUE",
+			"type": "manga-canon",
+			"aired_date": "2019-12-29"
+		}
+	]
+}

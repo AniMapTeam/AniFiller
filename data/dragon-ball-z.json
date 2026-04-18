@@ -1,0 +1,1756 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Dragon Ball Z",
+	"mappings": {
+		"anilist_id": 813,
+		"mal_id": 813
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The New Threat",
+			"type": "manga-canon",
+			"aired_date": "1989-04-26"
+		},
+		{
+			"episode": 2,
+			"title": "Reunions",
+			"type": "manga-canon",
+			"aired_date": "1989-05-09"
+		},
+		{
+			"episode": 3,
+			"title": "Unlikely Alliance",
+			"type": "manga-canon",
+			"aired_date": "1989-05-10"
+		},
+		{
+			"episode": 4,
+			"title": "Piccolo’s Plan",
+			"type": "manga-canon",
+			"aired_date": "1989-05-17"
+		},
+		{
+			"episode": 5,
+			"title": "Gohan's Rage",
+			"type": "manga-canon",
+			"aired_date": "1989-05-24"
+		},
+		{
+			"episode": 6,
+			"title": "No Time Like the Present",
+			"type": "manga-canon",
+			"aired_date": "1989-06-07"
+		},
+		{
+			"episode": 7,
+			"title": "Day 1",
+			"type": "manga-canon",
+			"aired_date": "1989-06-14"
+		},
+		{
+			"episode": 8,
+			"title": "Gohan Goes Bananas!",
+			"type": "manga-canon",
+			"aired_date": "1989-06-21"
+		},
+		{
+			"episode": 9,
+			"title": "The Strangest Robot",
+			"type": "filler",
+			"aired_date": "1989-06-28"
+		},
+		{
+			"episode": 10,
+			"title": "A New Friend",
+			"type": "filler",
+			"aired_date": "1989-07-05"
+		},
+		{
+			"episode": 11,
+			"title": "Terror on Arlia",
+			"type": "mixed-manga",
+			"aired_date": "1989-07-12"
+		},
+		{
+			"episode": 12,
+			"title": "Global Training",
+			"type": "filler",
+			"aired_date": "1989-07-19"
+		},
+		{
+			"episode": 13,
+			"title": "Goz and Mez",
+			"type": "filler",
+			"aired_date": "1989-07-26"
+		},
+		{
+			"episode": 14,
+			"title": "Princess Snake",
+			"type": "filler",
+			"aired_date": "1989-08-02"
+		},
+		{
+			"episode": 15,
+			"title": "Dueling Piccolos",
+			"type": "filler",
+			"aired_date": "1989-08-09"
+		},
+		{
+			"episode": 16,
+			"title": "Plight of the Children",
+			"type": "filler",
+			"aired_date": "1989-08-16"
+		},
+		{
+			"episode": 17,
+			"title": "Pendulum Room Peril",
+			"type": "mixed-manga",
+			"aired_date": "1989-08-30"
+		},
+		{
+			"episode": 18,
+			"title": "The End of Snake Way",
+			"type": "mixed-manga",
+			"aired_date": "1989-09-06"
+		},
+		{
+			"episode": 19,
+			"title": "Defying Gravity",
+			"type": "manga-canon",
+			"aired_date": "1989-09-13"
+		},
+		{
+			"episode": 20,
+			"title": "Goku’s Ancestors",
+			"type": "mixed-manga",
+			"aired_date": "1989-09-20"
+		},
+		{
+			"episode": 21,
+			"title": "Counting Down",
+			"type": "manga-canon",
+			"aired_date": "1989-09-27"
+		},
+		{
+			"episode": 22,
+			"title": "The Darkest Day",
+			"type": "manga-canon",
+			"aired_date": "1989-10-11"
+		},
+		{
+			"episode": 23,
+			"title": "Saibamen Attack!",
+			"type": "manga-canon",
+			"aired_date": "1989-10-18"
+		},
+		{
+			"episode": 24,
+			"title": "The Power of Nappa",
+			"type": "manga-canon",
+			"aired_date": "1989-10-25"
+		},
+		{
+			"episode": 25,
+			"title": "Sacrifice",
+			"type": "manga-canon",
+			"aired_date": "1989-10-31"
+		},
+		{
+			"episode": 26,
+			"title": "Nappa's Rampage",
+			"type": "manga-canon",
+			"aired_date": "1989-11-08"
+		},
+		{
+			"episode": 27,
+			"title": "Nimbus Speed",
+			"type": "manga-canon",
+			"aired_date": "1989-11-22"
+		},
+		{
+			"episode": 28,
+			"title": "Goku's Arrival",
+			"type": "manga-canon",
+			"aired_date": "1989-11-29"
+		},
+		{
+			"episode": 29,
+			"title": "Lesson Number One",
+			"type": "manga-canon",
+			"aired_date": "1989-12-06"
+		},
+		{
+			"episode": 30,
+			"title": "Goku vs. Vegeta",
+			"type": "manga-canon",
+			"aired_date": "1989-12-13"
+		},
+		{
+			"episode": 31,
+			"title": "Saiyan Sized Secret",
+			"type": "manga-canon",
+			"aired_date": "1989-12-20"
+		},
+		{
+			"episode": 32,
+			"title": "Spirit Bomb Away!",
+			"type": "manga-canon",
+			"aired_date": "1990-01-17"
+		},
+		{
+			"episode": 33,
+			"title": "Hero in the Shadows",
+			"type": "manga-canon",
+			"aired_date": "1990-01-24"
+		},
+		{
+			"episode": 34,
+			"title": "Krillin's Offensive",
+			"type": "manga-canon",
+			"aired_date": "1990-01-31"
+		},
+		{
+			"episode": 35,
+			"title": "Mercy",
+			"type": "manga-canon",
+			"aired_date": "1990-02-07"
+		},
+		{
+			"episode": 36,
+			"title": "Picking Up the Pieces",
+			"type": "manga-canon",
+			"aired_date": "1990-02-14"
+		},
+		{
+			"episode": 37,
+			"title": "Plans for Departure",
+			"type": "manga-canon",
+			"aired_date": "1990-02-21"
+		},
+		{
+			"episode": 38,
+			"title": "Nursing Wounds",
+			"type": "manga-canon",
+			"aired_date": "1990-02-28"
+		},
+		{
+			"episode": 39,
+			"title": "Friends or Foes?",
+			"type": "filler",
+			"aired_date": "1990-03-07"
+		},
+		{
+			"episode": 40,
+			"title": "Held Captive",
+			"type": "filler",
+			"aired_date": "1990-03-14"
+		},
+		{
+			"episode": 41,
+			"title": "Friends or Foes?",
+			"type": "filler",
+			"aired_date": "1990-03-21"
+		},
+		{
+			"episode": 42,
+			"title": "The Search Continues",
+			"type": "filler",
+			"aired_date": "1990-04-04"
+		},
+		{
+			"episode": 43,
+			"title": "A Friendly Surprise",
+			"type": "filler",
+			"aired_date": "1990-04-11"
+		},
+		{
+			"episode": 44,
+			"title": "Brood of Evil",
+			"type": "mixed-manga",
+			"aired_date": "1990-04-18"
+		},
+		{
+			"episode": 45,
+			"title": "Frieza Strikes!",
+			"type": "manga-canon",
+			"aired_date": "1990-04-25"
+		},
+		{
+			"episode": 46,
+			"title": "Defying Orders",
+			"type": "manga-canon",
+			"aired_date": "1990-05-02"
+		},
+		{
+			"episode": 47,
+			"title": "Namek's Defense",
+			"type": "manga-canon",
+			"aired_date": "1990-05-09"
+		},
+		{
+			"episode": 48,
+			"title": "The Hunted",
+			"type": "manga-canon",
+			"aired_date": "1990-05-16"
+		},
+		{
+			"episode": 49,
+			"title": "The Prince Fights Back",
+			"type": "manga-canon",
+			"aired_date": "1990-05-23"
+		},
+		{
+			"episode": 50,
+			"title": "Unexpected Problem",
+			"type": "manga-canon",
+			"aired_date": "1990-05-30"
+		},
+		{
+			"episode": 51,
+			"title": "Vegeta has a Ball",
+			"type": "manga-canon",
+			"aired_date": "1990-06-06"
+		},
+		{
+			"episode": 52,
+			"title": "The Past and Future",
+			"type": "manga-canon",
+			"aired_date": "1990-06-20"
+		},
+		{
+			"episode": 53,
+			"title": "Zarbon's Surprise",
+			"type": "manga-canon",
+			"aired_date": "1990-06-27"
+		},
+		{
+			"episode": 54,
+			"title": "Guru's Gift",
+			"type": "manga-canon",
+			"aired_date": "1990-07-04"
+		},
+		{
+			"episode": 55,
+			"title": "Piccolo vs. Everyone",
+			"type": "manga-canon",
+			"aired_date": "1990-07-18"
+		},
+		{
+			"episode": 56,
+			"title": "Zarbon's Mission",
+			"type": "manga-canon",
+			"aired_date": "1990-08-01"
+		},
+		{
+			"episode": 57,
+			"title": "Gohan, the Hunted",
+			"type": "manga-canon",
+			"aired_date": "1990-08-08"
+		},
+		{
+			"episode": 58,
+			"title": "Unknown Enemies",
+			"type": "manga-canon",
+			"aired_date": "1990-08-22"
+		},
+		{
+			"episode": 59,
+			"title": "Destination: Guru",
+			"type": "manga-canon",
+			"aired_date": "1990-08-29"
+		},
+		{
+			"episode": 60,
+			"title": "Bulma's Big Day",
+			"type": "manga-canon",
+			"aired_date": "1990-09-05"
+		},
+		{
+			"episode": 61,
+			"title": "Hidden Power",
+			"type": "manga-canon",
+			"aired_date": "1990-09-12"
+		},
+		{
+			"episode": 62,
+			"title": "New Ally, New Problem",
+			"type": "manga-canon",
+			"aired_date": "1990-09-19"
+		},
+		{
+			"episode": 63,
+			"title": "Guldo's Mind Binds",
+			"type": "manga-canon",
+			"aired_date": "1990-09-26"
+		},
+		{
+			"episode": 64,
+			"title": "Recoome Unleashed",
+			"type": "manga-canon",
+			"aired_date": "1990-10-24"
+		},
+		{
+			"episode": 65,
+			"title": "Let the Battle Begin",
+			"type": "manga-canon",
+			"aired_date": "1990-10-31"
+		},
+		{
+			"episode": 66,
+			"title": "Goku's New Power",
+			"type": "manga-canon",
+			"aired_date": "1990-11-07"
+		},
+		{
+			"episode": 67,
+			"title": "A Legend Revealed",
+			"type": "manga-canon",
+			"aired_date": "1990-11-14"
+		},
+		{
+			"episode": 68,
+			"title": "Ginyu Assault",
+			"type": "manga-canon",
+			"aired_date": "1990-11-21"
+		},
+		{
+			"episode": 69,
+			"title": "Incredible Force!",
+			"type": "manga-canon",
+			"aired_date": "1990-11-28"
+		},
+		{
+			"episode": 70,
+			"title": "Frieza Approaches",
+			"type": "manga-canon",
+			"aired_date": "1990-12-05"
+		},
+		{
+			"episode": 71,
+			"title": "Goku is Ginyu and Ginyu is Goku",
+			"type": "manga-canon",
+			"aired_date": "1990-12-12"
+		},
+		{
+			"episode": 72,
+			"title": "Calling the Eternal Dragon",
+			"type": "manga-canon",
+			"aired_date": "1990-12-19"
+		},
+		{
+			"episode": 73,
+			"title": "Gohan-Defeat Your Dad!",
+			"type": "manga-canon",
+			"aired_date": "1991-01-16"
+		},
+		{
+			"episode": 74,
+			"title": "Captain Ginyu... The Frog",
+			"type": "manga-canon",
+			"aired_date": "1991-01-23"
+		},
+		{
+			"episode": 75,
+			"title": "Password is Porunga",
+			"type": "manga-canon",
+			"aired_date": "1991-01-30"
+		},
+		{
+			"episode": 76,
+			"title": "Piccolo's Return",
+			"type": "manga-canon",
+			"aired_date": "1991-02-06"
+		},
+		{
+			"episode": 77,
+			"title": "The Fusion",
+			"type": "manga-canon",
+			"aired_date": "1991-02-13"
+		},
+		{
+			"episode": 78,
+			"title": "Fighting Power: One Million??",
+			"type": "manga-canon",
+			"aired_date": "1991-02-20"
+		},
+		{
+			"episode": 79,
+			"title": "Gohan Attacks",
+			"type": "manga-canon",
+			"aired_date": "1991-02-27"
+		},
+		{
+			"episode": 80,
+			"title": "Piccolo the Super-Namek",
+			"type": "manga-canon",
+			"aired_date": "1991-03-06"
+		},
+		{
+			"episode": 81,
+			"title": "Deja vu",
+			"type": "manga-canon",
+			"aired_date": "1991-03-13"
+		},
+		{
+			"episode": 82,
+			"title": "Frieza's Second Transformation",
+			"type": "manga-canon",
+			"aired_date": "1991-03-20"
+		},
+		{
+			"episode": 83,
+			"title": "Another Transformation?",
+			"type": "manga-canon",
+			"aired_date": "1991-03-27"
+		},
+		{
+			"episode": 84,
+			"title": "Dende's Demise",
+			"type": "manga-canon",
+			"aired_date": "1991-04-03"
+		},
+		{
+			"episode": 85,
+			"title": "The Renewed Goku",
+			"type": "manga-canon",
+			"aired_date": "1991-04-10"
+		},
+		{
+			"episode": 86,
+			"title": "The End of Vegeta",
+			"type": "manga-canon",
+			"aired_date": "1991-04-17"
+		},
+		{
+			"episode": 87,
+			"title": "The Ultimate Battle",
+			"type": "manga-canon",
+			"aired_date": "1991-04-24"
+		},
+		{
+			"episode": 88,
+			"title": "Clash of the Super Powers",
+			"type": "manga-canon",
+			"aired_date": "1991-05-01"
+		},
+		{
+			"episode": 89,
+			"title": "Frieza's Boast",
+			"type": "manga-canon",
+			"aired_date": "1991-05-08"
+		},
+		{
+			"episode": 90,
+			"title": "Bold and Fearless",
+			"type": "manga-canon",
+			"aired_date": "1991-05-15"
+		},
+		{
+			"episode": 91,
+			"title": "Embodiment of Fire",
+			"type": "manga-canon",
+			"aired_date": "1991-05-22"
+		},
+		{
+			"episode": 92,
+			"title": "Trump Card",
+			"type": "manga-canon",
+			"aired_date": "1991-05-29"
+		},
+		{
+			"episode": 93,
+			"title": "Keep the Chance Alive",
+			"type": "manga-canon",
+			"aired_date": "1991-06-05"
+		},
+		{
+			"episode": 94,
+			"title": "Power of the Spirit",
+			"type": "manga-canon",
+			"aired_date": "1991-06-12"
+		},
+		{
+			"episode": 95,
+			"title": "Transformed at Last",
+			"type": "manga-canon",
+			"aired_date": "1991-06-19"
+		},
+		{
+			"episode": 96,
+			"title": "Explosion of Anger",
+			"type": "manga-canon",
+			"aired_date": "1991-06-26"
+		},
+		{
+			"episode": 97,
+			"title": "Namek's Destruction",
+			"type": "manga-canon",
+			"aired_date": "1991-07-03"
+		},
+		{
+			"episode": 98,
+			"title": "A Final Attack",
+			"type": "manga-canon",
+			"aired_date": "1991-07-10"
+		},
+		{
+			"episode": 99,
+			"title": "Approaching Destruction",
+			"type": "manga-canon",
+			"aired_date": "1991-07-17"
+		},
+		{
+			"episode": 100,
+			"title": "Gohan Returns",
+			"type": "filler",
+			"aired_date": "1991-07-24"
+		},
+		{
+			"episode": 101,
+			"title": "The Last Wish",
+			"type": "manga-canon",
+			"aired_date": "1991-07-31"
+		},
+		{
+			"episode": 102,
+			"title": "Duel on a Vanishing Planet",
+			"type": "filler",
+			"aired_date": "1991-08-07"
+		},
+		{
+			"episode": 103,
+			"title": "Pathos of Frieza",
+			"type": "manga-canon",
+			"aired_date": "1991-08-14"
+		},
+		{
+			"episode": 104,
+			"title": "Frieza Defeated!!",
+			"type": "manga-canon",
+			"aired_date": "1991-08-21"
+		},
+		{
+			"episode": 105,
+			"title": "Mighty Blast of Rage",
+			"type": "manga-canon",
+			"aired_date": "1991-08-28"
+		},
+		{
+			"episode": 106,
+			"title": "Namek's Explosion... Goku's End?",
+			"type": "manga-canon",
+			"aired_date": "1991-09-04"
+		},
+		{
+			"episode": 107,
+			"title": "Goku's Alive!!",
+			"type": "manga-canon",
+			"aired_date": "1991-09-11"
+		},
+		{
+			"episode": 108,
+			"title": "The Heavens Tremble",
+			"type": "filler",
+			"aired_date": "1991-09-18"
+		},
+		{
+			"episode": 109,
+			"title": "Black Fog of Terror",
+			"type": "filler",
+			"aired_date": "1991-09-25"
+		},
+		{
+			"episode": 110,
+			"title": "Battle in Kami's Lookout",
+			"type": "filler",
+			"aired_date": "1991-10-02"
+		},
+		{
+			"episode": 111,
+			"title": "Fight With Piccolo",
+			"type": "filler",
+			"aired_date": "1991-10-09"
+		},
+		{
+			"episode": 112,
+			"title": "Call For Restoration",
+			"type": "filler",
+			"aired_date": "1991-10-16"
+		},
+		{
+			"episode": 113,
+			"title": "Suicidal Course",
+			"type": "filler",
+			"aired_date": "1991-10-23"
+		},
+		{
+			"episode": 114,
+			"title": "Extreme Measures",
+			"type": "filler",
+			"aired_date": "1991-10-30"
+		},
+		{
+			"episode": 115,
+			"title": "The World Awakens",
+			"type": "filler",
+			"aired_date": "1991-11-06"
+		},
+		{
+			"episode": 116,
+			"title": "Brief Chance for Victory",
+			"type": "filler",
+			"aired_date": "1991-11-13"
+		},
+		{
+			"episode": 117,
+			"title": "Krillin's Proposal",
+			"type": "filler",
+			"aired_date": "1991-11-20"
+		},
+		{
+			"episode": 118,
+			"title": "Frieza's Counterattack",
+			"type": "manga-canon",
+			"aired_date": "1991-11-27"
+		},
+		{
+			"episode": 119,
+			"title": "The Mysterious Youth",
+			"type": "manga-canon",
+			"aired_date": "1991-12-04"
+		},
+		{
+			"episode": 120,
+			"title": "Another Super Saiyan?",
+			"type": "manga-canon",
+			"aired_date": "1991-12-11"
+		},
+		{
+			"episode": 121,
+			"title": "Welcome Back Goku",
+			"type": "manga-canon",
+			"aired_date": "1991-12-18"
+		},
+		{
+			"episode": 122,
+			"title": "Mystery Revealed",
+			"type": "manga-canon",
+			"aired_date": "1992-01-15"
+		},
+		{
+			"episode": 123,
+			"title": "Goku's Special Technique",
+			"type": "manga-canon",
+			"aired_date": "1992-01-22"
+		},
+		{
+			"episode": 124,
+			"title": "Z Warriors Prepare",
+			"type": "filler",
+			"aired_date": "1992-01-29"
+		},
+		{
+			"episode": 125,
+			"title": "Goku's Ordeal",
+			"type": "filler",
+			"aired_date": "1992-02-05"
+		},
+		{
+			"episode": 126,
+			"title": "The Androids Appear",
+			"type": "manga-canon",
+			"aired_date": "1992-02-12"
+		},
+		{
+			"episode": 127,
+			"title": "A Handy Trick",
+			"type": "manga-canon",
+			"aired_date": "1992-02-19"
+		},
+		{
+			"episode": 128,
+			"title": "Double Trouble for Goku",
+			"type": "manga-canon",
+			"aired_date": "1992-02-26"
+		},
+		{
+			"episode": 129,
+			"title": "Upgrade to Super Saiyan",
+			"type": "manga-canon",
+			"aired_date": "1992-03-04"
+		},
+		{
+			"episode": 130,
+			"title": "The Secret of Dr. Gero",
+			"type": "manga-canon",
+			"aired_date": "1992-03-11"
+		},
+		{
+			"episode": 131,
+			"title": "More Androids?!",
+			"type": "manga-canon",
+			"aired_date": "1992-03-18"
+		},
+		{
+			"episode": 132,
+			"title": "Follow Dr. Gero",
+			"type": "manga-canon",
+			"aired_date": "1992-03-25"
+		},
+		{
+			"episode": 133,
+			"title": "Nightmare Comes True",
+			"type": "manga-canon",
+			"aired_date": "1992-04-01"
+		},
+		{
+			"episode": 134,
+			"title": "Goku's Assassin",
+			"type": "manga-canon",
+			"aired_date": "1992-04-08"
+		},
+		{
+			"episode": 135,
+			"title": "Deadly Beauty",
+			"type": "manga-canon",
+			"aired_date": "1992-04-15"
+		},
+		{
+			"episode": 136,
+			"title": "No Match for the Androids",
+			"type": "manga-canon",
+			"aired_date": "1992-04-22"
+		},
+		{
+			"episode": 137,
+			"title": "Last Ditch Effort",
+			"type": "manga-canon",
+			"aired_date": "1992-04-29"
+		},
+		{
+			"episode": 138,
+			"title": "Closing In",
+			"type": "manga-canon",
+			"aired_date": "1992-05-06"
+		},
+		{
+			"episode": 139,
+			"title": "Unwelcome Discovery",
+			"type": "manga-canon",
+			"aired_date": "1992-05-13"
+		},
+		{
+			"episode": 140,
+			"title": "Seized with Fear",
+			"type": "manga-canon",
+			"aired_date": "1992-05-20"
+		},
+		{
+			"episode": 141,
+			"title": "The Reunion",
+			"type": "manga-canon",
+			"aired_date": "1992-05-27"
+		},
+		{
+			"episode": 142,
+			"title": "Borrowed Powers",
+			"type": "manga-canon",
+			"aired_date": "1992-06-03"
+		},
+		{
+			"episode": 143,
+			"title": "His Name is Cell",
+			"type": "manga-canon",
+			"aired_date": "1992-06-10"
+		},
+		{
+			"episode": 144,
+			"title": "Piccolo's Folly",
+			"type": "manga-canon",
+			"aired_date": "1992-06-17"
+		},
+		{
+			"episode": 145,
+			"title": "Laboratory Basement",
+			"type": "manga-canon",
+			"aired_date": "1992-06-24"
+		},
+		{
+			"episode": 146,
+			"title": "Our Hero Awakes",
+			"type": "manga-canon",
+			"aired_date": "1992-07-01"
+		},
+		{
+			"episode": 147,
+			"title": "Time Chamber",
+			"type": "manga-canon",
+			"aired_date": "1992-07-08"
+		},
+		{
+			"episode": 148,
+			"title": "The Monster Is Coming",
+			"type": "manga-canon",
+			"aired_date": "1992-07-15"
+		},
+		{
+			"episode": 149,
+			"title": "He's Here",
+			"type": "manga-canon",
+			"aired_date": "1992-07-22"
+		},
+		{
+			"episode": 150,
+			"title": "Up to Piccolo",
+			"type": "manga-canon",
+			"aired_date": "1992-07-29"
+		},
+		{
+			"episode": 151,
+			"title": "Silent Warrior",
+			"type": "manga-canon",
+			"aired_date": "1992-08-05"
+		},
+		{
+			"episode": 152,
+			"title": "Say Goodbye, 17",
+			"type": "manga-canon",
+			"aired_date": "1992-08-12"
+		},
+		{
+			"episode": 153,
+			"title": "Sacrifice",
+			"type": "manga-canon",
+			"aired_date": "1992-08-19"
+		},
+		{
+			"episode": 154,
+			"title": "Saiyans Emerge",
+			"type": "manga-canon",
+			"aired_date": "1992-08-26"
+		},
+		{
+			"episode": 155,
+			"title": "Super Vegeta",
+			"type": "manga-canon",
+			"aired_date": "1992-09-02"
+		},
+		{
+			"episode": 156,
+			"title": "Bow to the Prince",
+			"type": "manga-canon",
+			"aired_date": "1992-09-09"
+		},
+		{
+			"episode": 157,
+			"title": "Hour of Temptation",
+			"type": "manga-canon",
+			"aired_date": "1992-09-16"
+		},
+		{
+			"episode": 158,
+			"title": "Krillin's Decision.",
+			"type": "manga-canon",
+			"aired_date": "1992-09-23"
+		},
+		{
+			"episode": 159,
+			"title": "The Last Defense",
+			"type": "manga-canon",
+			"aired_date": "1992-09-30"
+		},
+		{
+			"episode": 160,
+			"title": "Cell is Complete",
+			"type": "manga-canon",
+			"aired_date": "1992-10-14"
+		},
+		{
+			"episode": 161,
+			"title": "Vegeta Must Pay",
+			"type": "manga-canon",
+			"aired_date": "1992-10-21"
+		},
+		{
+			"episode": 162,
+			"title": "Trunks Ascends",
+			"type": "manga-canon",
+			"aired_date": "1992-10-28"
+		},
+		{
+			"episode": 163,
+			"title": "Saving Throw",
+			"type": "manga-canon",
+			"aired_date": "1992-11-04"
+		},
+		{
+			"episode": 164,
+			"title": "Ghosts from Tomorrow",
+			"type": "manga-canon",
+			"aired_date": "1992-11-11"
+		},
+		{
+			"episode": 165,
+			"title": "The Cell Games",
+			"type": "manga-canon",
+			"aired_date": "1992-11-18"
+		},
+		{
+			"episode": 166,
+			"title": "What is the Tournament?",
+			"type": "manga-canon",
+			"aired_date": "1992-11-25"
+		},
+		{
+			"episode": 167,
+			"title": "The Doomsday Broadcast",
+			"type": "manga-canon",
+			"aired_date": "1992-12-02"
+		},
+		{
+			"episode": 168,
+			"title": "Meet Me in the Ring",
+			"type": "manga-canon",
+			"aired_date": "1992-12-09"
+		},
+		{
+			"episode": 169,
+			"title": "No Worries Here",
+			"type": "manga-canon",
+			"aired_date": "1992-12-16"
+		},
+		{
+			"episode": 170,
+			"title": "A Girl Named Lime",
+			"type": "filler",
+			"aired_date": "1993-01-13"
+		},
+		{
+			"episode": 171,
+			"title": "Memories of Gohan",
+			"type": "filler",
+			"aired_date": "1993-01-20"
+		},
+		{
+			"episode": 172,
+			"title": "A New Guardian",
+			"type": "manga-canon",
+			"aired_date": "1993-01-27"
+		},
+		{
+			"episode": 173,
+			"title": "Dende's Dragon",
+			"type": "manga-canon",
+			"aired_date": "1993-02-03"
+		},
+		{
+			"episode": 174,
+			"title": "The Puzzle of General Tao",
+			"type": "filler",
+			"aired_date": "1993-02-10"
+		},
+		{
+			"episode": 175,
+			"title": "The Games Begin",
+			"type": "manga-canon",
+			"aired_date": "1993-02-17"
+		},
+		{
+			"episode": 176,
+			"title": "Losers Fight First",
+			"type": "manga-canon",
+			"aired_date": "1993-03-03"
+		},
+		{
+			"episode": 177,
+			"title": "Goku vs. Cell",
+			"type": "manga-canon",
+			"aired_date": "1993-03-10"
+		},
+		{
+			"episode": 178,
+			"title": "Cell's Bag of Tricks",
+			"type": "manga-canon",
+			"aired_date": "1993-03-17"
+		},
+		{
+			"episode": 179,
+			"title": "No More Rules",
+			"type": "manga-canon",
+			"aired_date": "1993-03-31"
+		},
+		{
+			"episode": 180,
+			"title": "The Fight is Over",
+			"type": "manga-canon",
+			"aired_date": "1993-04-07"
+		},
+		{
+			"episode": 181,
+			"title": "Faith in a Boy",
+			"type": "manga-canon",
+			"aired_date": "1993-04-14"
+		},
+		{
+			"episode": 182,
+			"title": "Gohan's Plea",
+			"type": "manga-canon",
+			"aired_date": "1993-04-21"
+		},
+		{
+			"episode": 183,
+			"title": "Android Explosion",
+			"type": "manga-canon",
+			"aired_date": "1993-04-28"
+		},
+		{
+			"episode": 184,
+			"title": "Cell Juniors Attack!",
+			"type": "manga-canon",
+			"aired_date": "1993-05-05"
+		},
+		{
+			"episode": 185,
+			"title": "Awakening",
+			"type": "manga-canon",
+			"aired_date": "1993-05-12"
+		},
+		{
+			"episode": 186,
+			"title": "The Unstoppable Gohan",
+			"type": "manga-canon",
+			"aired_date": "1993-05-19"
+		},
+		{
+			"episode": 187,
+			"title": "Cell's Break Down",
+			"type": "manga-canon",
+			"aired_date": "1993-05-26"
+		},
+		{
+			"episode": 188,
+			"title": "A Hero's Farewell",
+			"type": "manga-canon",
+			"aired_date": "1993-06-02"
+		},
+		{
+			"episode": 189,
+			"title": "Cell Returns!",
+			"type": "manga-canon",
+			"aired_date": "1993-06-16"
+		},
+		{
+			"episode": 190,
+			"title": "The Horror Won't End",
+			"type": "manga-canon",
+			"aired_date": "1993-06-23"
+		},
+		{
+			"episode": 191,
+			"title": "Save the World",
+			"type": "manga-canon",
+			"aired_date": "1993-06-30"
+		},
+		{
+			"episode": 192,
+			"title": "Goku's Decision",
+			"type": "manga-canon",
+			"aired_date": "1993-07-07"
+		},
+		{
+			"episode": 193,
+			"title": "One More Wish",
+			"type": "manga-canon",
+			"aired_date": "1993-07-14"
+		},
+		{
+			"episode": 194,
+			"title": "Free the Future",
+			"type": "manga-canon",
+			"aired_date": "1993-07-21"
+		},
+		{
+			"episode": 195,
+			"title": "Warriors of the Dead",
+			"type": "filler",
+			"aired_date": "1993-07-28"
+		},
+		{
+			"episode": 196,
+			"title": "Tournament Begins",
+			"type": "filler",
+			"aired_date": "1993-08-11"
+		},
+		{
+			"episode": 197,
+			"title": "Water Fight",
+			"type": "filler",
+			"aired_date": "1993-08-18"
+		},
+		{
+			"episode": 198,
+			"title": "Final Round",
+			"type": "filler",
+			"aired_date": "1993-08-25"
+		},
+		{
+			"episode": 199,
+			"title": "Goku vs. Pikkon",
+			"type": "filler",
+			"aired_date": "1993-09-01"
+		},
+		{
+			"episode": 200,
+			"title": "Gohan Goes to High School",
+			"type": "manga-canon",
+			"aired_date": "1993-09-08"
+		},
+		{
+			"episode": 201,
+			"title": "I am Saiyaman!",
+			"type": "manga-canon",
+			"aired_date": "1993-09-15"
+		},
+		{
+			"episode": 202,
+			"title": "Gohan's First Date",
+			"type": "filler",
+			"aired_date": "1993-09-29"
+		},
+		{
+			"episode": 203,
+			"title": "Rescue Videl",
+			"type": "filler",
+			"aired_date": "1993-10-20"
+		},
+		{
+			"episode": 204,
+			"title": "Blackmail",
+			"type": "mixed-manga",
+			"aired_date": "1993-10-27"
+		},
+		{
+			"episode": 205,
+			"title": "I'll Fight Too!",
+			"type": "manga-canon",
+			"aired_date": "1993-11-03"
+		},
+		{
+			"episode": 206,
+			"title": "The Newest Super Saiyan",
+			"type": "manga-canon",
+			"aired_date": "1993-11-10"
+		},
+		{
+			"episode": 207,
+			"title": "Take Flight, Videl",
+			"type": "manga-canon",
+			"aired_date": "1993-11-17"
+		},
+		{
+			"episode": 208,
+			"title": "Gather for the Tournament",
+			"type": "manga-canon",
+			"aired_date": "1993-11-24"
+		},
+		{
+			"episode": 209,
+			"title": "Camera Shy",
+			"type": "manga-canon",
+			"aired_date": "1993-12-08"
+		},
+		{
+			"episode": 210,
+			"title": "The World Tournament",
+			"type": "manga-canon",
+			"aired_date": "1993-12-15"
+		},
+		{
+			"episode": 211,
+			"title": "Trunks vs. Goten",
+			"type": "manga-canon",
+			"aired_date": "1993-12-22"
+		},
+		{
+			"episode": 212,
+			"title": "Best of the Boys",
+			"type": "manga-canon",
+			"aired_date": "1994-01-12"
+		},
+		{
+			"episode": 213,
+			"title": "Big Trouble, Little Trunks",
+			"type": "manga-canon",
+			"aired_date": "1994-01-19"
+		},
+		{
+			"episode": 214,
+			"title": "Who Will Fight Who?",
+			"type": "manga-canon",
+			"aired_date": "1994-01-26"
+		},
+		{
+			"episode": 215,
+			"title": "Forfeit of Piccolo",
+			"type": "manga-canon",
+			"aired_date": "1994-02-02"
+		},
+		{
+			"episode": 216,
+			"title": "A Dark and Secret Power",
+			"type": "manga-canon",
+			"aired_date": "1994-02-09"
+		},
+		{
+			"episode": 217,
+			"title": "Videl Is Crushed",
+			"type": "manga-canon",
+			"aired_date": "1994-02-16"
+		},
+		{
+			"episode": 218,
+			"title": "Identities Revealed",
+			"type": "manga-canon",
+			"aired_date": "1994-02-23"
+		},
+		{
+			"episode": 219,
+			"title": "Energy Drain",
+			"type": "manga-canon",
+			"aired_date": "1994-03-02"
+		},
+		{
+			"episode": 220,
+			"title": "The Wizard's Curse",
+			"type": "manga-canon",
+			"aired_date": "1994-03-09"
+		},
+		{
+			"episode": 221,
+			"title": "King of the Demons",
+			"type": "manga-canon",
+			"aired_date": "1994-03-16"
+		},
+		{
+			"episode": 222,
+			"title": "Vegeta Attacks",
+			"type": "manga-canon",
+			"aired_date": "1994-03-23"
+		},
+		{
+			"episode": 223,
+			"title": "Next Up, Goku",
+			"type": "manga-canon",
+			"aired_date": "1994-04-13"
+		},
+		{
+			"episode": 224,
+			"title": "Battle Supreme",
+			"type": "manga-canon",
+			"aired_date": "1994-04-20"
+		},
+		{
+			"episode": 225,
+			"title": "Eighteen Unmasks",
+			"type": "manga-canon",
+			"aired_date": "1994-04-27"
+		},
+		{
+			"episode": 226,
+			"title": "Pay to Win",
+			"type": "manga-canon",
+			"aired_date": "1994-05-04"
+		},
+		{
+			"episode": 227,
+			"title": "Heart of a Villain",
+			"type": "manga-canon",
+			"aired_date": "1994-05-18"
+		},
+		{
+			"episode": 228,
+			"title": "The Dark Prince Returns",
+			"type": "manga-canon",
+			"aired_date": "1994-05-25"
+		},
+		{
+			"episode": 229,
+			"title": "Vegeta's Pride",
+			"type": "mixed-manga",
+			"aired_date": "1994-06-15"
+		},
+		{
+			"episode": 230,
+			"title": "The Long Awaited Fight",
+			"type": "manga-canon",
+			"aired_date": "1994-06-22"
+		},
+		{
+			"episode": 231,
+			"title": "Magic Ball of Buu",
+			"type": "manga-canon",
+			"aired_date": "1994-06-29"
+		},
+		{
+			"episode": 232,
+			"title": "Buu is Hatched",
+			"type": "manga-canon",
+			"aired_date": "1994-07-06"
+		},
+		{
+			"episode": 233,
+			"title": "The Losses Begin",
+			"type": "manga-canon",
+			"aired_date": "1994-07-13"
+		},
+		{
+			"episode": 234,
+			"title": "The Terror of Mr. Buu",
+			"type": "manga-canon",
+			"aired_date": "1994-07-27"
+		},
+		{
+			"episode": 235,
+			"title": "Meal Time",
+			"type": "manga-canon",
+			"aired_date": "1994-08-03"
+		},
+		{
+			"episode": 236,
+			"title": "The Warrior's Decision",
+			"type": "manga-canon",
+			"aired_date": "1994-08-17"
+		},
+		{
+			"episode": 237,
+			"title": "Final   Atonement",
+			"type": "manga-canon",
+			"aired_date": "1994-08-24"
+		},
+		{
+			"episode": 238,
+			"title": "Evil Lives On",
+			"type": "manga-canon",
+			"aired_date": "1994-08-31"
+		},
+		{
+			"episode": 239,
+			"title": "Find the Dragon Balls",
+			"type": "manga-canon",
+			"aired_date": "1994-09-07"
+		},
+		{
+			"episode": 240,
+			"title": "Revival",
+			"type": "manga-canon",
+			"aired_date": "1994-09-21"
+		},
+		{
+			"episode": 241,
+			"title": "Global Announcement",
+			"type": "manga-canon",
+			"aired_date": "1994-09-28"
+		},
+		{
+			"episode": 242,
+			"title": "Learn to Fuse!",
+			"type": "manga-canon",
+			"aired_date": "1994-10-12"
+		},
+		{
+			"episode": 243,
+			"title": "The Z Sword",
+			"type": "manga-canon",
+			"aired_date": "1994-10-19"
+		},
+		{
+			"episode": 244,
+			"title": "Race to Capsule Corp.",
+			"type": "manga-canon",
+			"aired_date": "1994-11-02"
+		},
+		{
+			"episode": 245,
+			"title": "Super Saiyan 3?!",
+			"type": "manga-canon",
+			"aired_date": "1994-11-09"
+		},
+		{
+			"episode": 246,
+			"title": "Buu's Mutiny",
+			"type": "manga-canon",
+			"aired_date": "1994-11-16"
+		},
+		{
+			"episode": 247,
+			"title": "The Fusion Dance",
+			"type": "manga-canon",
+			"aired_date": "1994-11-23"
+		},
+		{
+			"episode": 248,
+			"title": "Goku's Time is Up",
+			"type": "manga-canon",
+			"aired_date": "1994-11-30"
+		},
+		{
+			"episode": 249,
+			"title": "Return to Other World",
+			"type": "manga-canon",
+			"aired_date": "1994-12-07"
+		},
+		{
+			"episode": 250,
+			"title": "Out from the Broken Sword",
+			"type": "manga-canon",
+			"aired_date": "1994-12-14"
+		},
+		{
+			"episode": 251,
+			"title": "Gotenks Is Born",
+			"type": "mixed-manga",
+			"aired_date": "1994-12-21"
+		},
+		{
+			"episode": 252,
+			"title": "Unlikely Friendship",
+			"type": "manga-canon",
+			"aired_date": "1995-01-11"
+		},
+		{
+			"episode": 253,
+			"title": "I Kill No More",
+			"type": "manga-canon",
+			"aired_date": "1995-01-25"
+		},
+		{
+			"episode": 254,
+			"title": "The Evil of Men",
+			"type": "manga-canon",
+			"aired_date": "1995-02-01"
+		},
+		{
+			"episode": 255,
+			"title": "Buu Against Buu",
+			"type": "manga-canon",
+			"aired_date": "1995-02-08"
+		},
+		{
+			"episode": 256,
+			"title": "Empty Planet",
+			"type": "manga-canon",
+			"aired_date": "1995-02-15"
+		},
+		{
+			"episode": 257,
+			"title": "Time Struggle",
+			"type": "manga-canon",
+			"aired_date": "1995-02-22"
+		},
+		{
+			"episode": 258,
+			"title": "Super Moves of Gotenks",
+			"type": "manga-canon",
+			"aired_date": "1995-03-01"
+		},
+		{
+			"episode": 259,
+			"title": "Trapped In Forever",
+			"type": "manga-canon",
+			"aired_date": "1995-03-08"
+		},
+		{
+			"episode": 260,
+			"title": "Feeding Frenzy",
+			"type": "manga-canon",
+			"aired_date": "1995-03-15"
+		},
+		{
+			"episode": 261,
+			"title": "Gotenks Is Awesome!",
+			"type": "manga-canon",
+			"aired_date": "1995-03-22"
+		},
+		{
+			"episode": 262,
+			"title": "Unlucky Break",
+			"type": "manga-canon",
+			"aired_date": "1995-04-26"
+		},
+		{
+			"episode": 263,
+			"title": "A Whole New Gohan",
+			"type": "manga-canon",
+			"aired_date": "1995-05-03"
+		},
+		{
+			"episode": 264,
+			"title": "Search for Survivors",
+			"type": "manga-canon",
+			"aired_date": "1995-05-17"
+		},
+		{
+			"episode": 265,
+			"title": "Majin-Buu Transforms",
+			"type": "manga-canon",
+			"aired_date": "1995-05-24"
+		},
+		{
+			"episode": 266,
+			"title": "The Old Kai's Weapon",
+			"type": "manga-canon",
+			"aired_date": "1995-05-31"
+		},
+		{
+			"episode": 267,
+			"title": "Ready to Fuse?",
+			"type": "manga-canon",
+			"aired_date": "1995-06-07"
+		},
+		{
+			"episode": 268,
+			"title": "Union of Rivals",
+			"type": "manga-canon",
+			"aired_date": "1995-06-28"
+		},
+		{
+			"episode": 269,
+			"title": "Meet Vegito",
+			"type": "manga-canon",
+			"aired_date": "1995-07-05"
+		},
+		{
+			"episode": 270,
+			"title": "Rip in the Universe",
+			"type": "manga-canon",
+			"aired_date": "1995-07-12"
+		},
+		{
+			"episode": 271,
+			"title": "Vegito... Downsized",
+			"type": "manga-canon",
+			"aired_date": "1995-07-19"
+		},
+		{
+			"episode": 272,
+			"title": "The Incredible Fighting Candy",
+			"type": "manga-canon",
+			"aired_date": "1995-07-26"
+		},
+		{
+			"episode": 273,
+			"title": "The Innards of Buu",
+			"type": "manga-canon",
+			"aired_date": "1995-08-02"
+		},
+		{
+			"episode": 274,
+			"title": "Mind Trap",
+			"type": "filler",
+			"aired_date": "1995-08-09"
+		},
+		{
+			"episode": 275,
+			"title": "Deadly Vision",
+			"type": "manga-canon",
+			"aired_date": "1995-08-16"
+		},
+		{
+			"episode": 276,
+			"title": "Evil Kid Buu!",
+			"type": "manga-canon",
+			"aired_date": "1995-08-23"
+		},
+		{
+			"episode": 277,
+			"title": "End of Earth",
+			"type": "manga-canon",
+			"aired_date": "1995-09-06"
+		},
+		{
+			"episode": 278,
+			"title": "True Saiyans Fight Alone",
+			"type": "manga-canon",
+			"aired_date": "1995-09-13"
+		},
+		{
+			"episode": 279,
+			"title": "Battle for the Universe Begins",
+			"type": "manga-canon",
+			"aired_date": "1995-09-20"
+		},
+		{
+			"episode": 280,
+			"title": "Vegeta's Respect",
+			"type": "manga-canon",
+			"aired_date": "1995-10-18"
+		},
+		{
+			"episode": 281,
+			"title": "Minute of Desperation",
+			"type": "manga-canon",
+			"aired_date": "1995-11-01"
+		},
+		{
+			"episode": 282,
+			"title": "Old Buu Emerges",
+			"type": "manga-canon",
+			"aired_date": "1995-11-08"
+		},
+		{
+			"episode": 283,
+			"title": "Earth Reborn",
+			"type": "manga-canon",
+			"aired_date": "1995-11-15"
+		},
+		{
+			"episode": 284,
+			"title": "Call to Action",
+			"type": "manga-canon",
+			"aired_date": "1995-11-22"
+		},
+		{
+			"episode": 285,
+			"title": "People of Earth Unite",
+			"type": "manga-canon",
+			"aired_date": "1995-11-29"
+		},
+		{
+			"episode": 286,
+			"title": "Spirit Bomb Triumphant",
+			"type": "manga-canon",
+			"aired_date": "1995-12-13"
+		},
+		{
+			"episode": 287,
+			"title": "Celebrations with Majin Buu",
+			"type": "mixed-manga",
+			"aired_date": "1995-12-20"
+		},
+		{
+			"episode": 288,
+			"title": "He's Always Late",
+			"type": "filler",
+			"aired_date": "1996-01-10"
+		},
+		{
+			"episode": 289,
+			"title": "Granddaughter Pan",
+			"type": "manga-canon",
+			"aired_date": "1996-01-17"
+		},
+		{
+			"episode": 290,
+			"title": "Buu's Reincarnation",
+			"type": "manga-canon",
+			"aired_date": "1996-01-24"
+		},
+		{
+			"episode": 291,
+			"title": "Goku's Next Journey",
+			"type": "manga-canon",
+			"aired_date": "1996-01-31"
+		}
+	]
+}

@@ -1,0 +1,988 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Ranma ½",
+	"comments": [
+		"AniList decided it would be a good idea to split Ranma ½ into two separate entries.",
+		"This file follows what MyAnimeList has done instead.",
+		"Anilist ID 210 is the first 18 episodes, and Anilist ID 149939 is the rest of the series.",
+		"Maybe in the future, AniFiller will support mapping AniList ids (and MAL ids) to specific episode ranges.",
+		"But for now, it'll just be noted here in the comments."
+	],
+	"mappings": {
+		"anilist_id": 210,
+		"mal_id": 210
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Strange Stranger from China",
+			"type": "manga-canon",
+			"aired_date": "1989-04-15"
+		},
+		{
+			"episode": 2,
+			"title": "School is No Place for Horsing Around",
+			"type": "manga-canon",
+			"aired_date": "1989-04-22"
+		},
+		{
+			"episode": 3,
+			"title": "A Sudden Storm of Love... Hey, Wait a Minute!",
+			"type": "manga-canon",
+			"aired_date": "1989-04-29"
+		},
+		{
+			"episode": 4,
+			"title": "Ranma and... Ranma? If It's Not One Thing, It's Another",
+			"type": "manga-canon",
+			"aired_date": "1989-05-06"
+		},
+		{
+			"episode": 5,
+			"title": "Love Me to the Bone! The Compound Fracture of Akane's Heart",
+			"type": "manga-canon",
+			"aired_date": "1989-05-13"
+		},
+		{
+			"episode": 6,
+			"title": "Akane's Lost Love... These Things Happen, You Know",
+			"type": "mixed-manga",
+			"aired_date": "1989-05-20"
+		},
+		{
+			"episode": 7,
+			"title": "Enter Ryoga! The Eternal \"Lost Boy\"",
+			"type": "manga-canon",
+			"aired_date": "1989-05-27"
+		},
+		{
+			"episode": 8,
+			"title": "School is a Battlefield! Ranma vs. Ryoga",
+			"type": "manga-canon",
+			"aired_date": "1989-06-03"
+		},
+		{
+			"episode": 9,
+			"title": "True Confessions! A Girl's Hair is Her Life",
+			"type": "manga-canon",
+			"aired_date": "1989-06-17"
+		},
+		{
+			"episode": 10,
+			"title": "P-P-P-Chan! He's Good for Nothin'",
+			"type": "manga-canon",
+			"aired_date": "1989-07-01"
+		},
+		{
+			"episode": 11,
+			"title": "Ranma Meets Love Head-On! The Delinquent Juvenile Gymnast",
+			"type": "manga-canon",
+			"aired_date": "1989-07-15"
+		},
+		{
+			"episode": 12,
+			"title": "A Woman's Love is War! The Martial Arts Rhythmic Gymnastic Challenge!",
+			"type": "manga-canon",
+			"aired_date": "1989-07-22"
+		},
+		{
+			"episode": 13,
+			"title": "A Tear in the Girl-Delinquent's Eye? The End of the Martial Arts Rhythmic Gymnastics Challenge!",
+			"type": "manga-canon",
+			"aired_date": "1989-07-29"
+		},
+
+		{
+			"episode": 14,
+			"title": "The Abduction of P-Chan",
+			"type": "manga-canon",
+			"aired_date": "1989-12-08",
+			"override_date": true
+		},
+		{
+			"episode": 15,
+			"title": "Close Call! The Dance of Death... on Ice!",
+			"type": "manga-canon",
+			"aired_date": "1989-12-15",
+			"override_date": true
+		},
+		{
+			"episode": 16,
+			"title": "P-Chan Explodes! The Icy Fountain of Love",
+			"type": "mixed-manga",
+			"aired_date": "1989-12-22",
+			"override_date": true
+		},
+		{
+			"episode": 17,
+			"title": "Pelvic Fortune-Telling? Ranma is the No. One Bride in Japan",
+			"type": "filler",
+			"aired_date": "1989-08-19"
+		},
+		{
+			"episode": 18,
+			"title": "Enter Shampoo, the Gung-Ho Girl! I Put Your Life in My Hands",
+			"type": "manga-canon",
+			"aired_date": "1989-08-26"
+		},
+		{
+			"episode": 19,
+			"title": "Shampoo's Revenge! The Shiatsu Technique That Steals Heart and Soul",
+			"type": "manga-canon",
+			"aired_date": "1989-09-02"
+		},
+		{
+			"episode": 20,
+			"title": "I Love You, Ranma! Please Don't Say Goodbye",
+			"type": "manga-canon",
+			"aired_date": "1989-09-09"
+		},
+		{
+			"episode": 21,
+			"title": "I Am a Man! Ranma's Going Back to China!?",
+			"type": "filler",
+			"aired_date": "1989-09-16"
+		},
+		{
+			"episode": 22,
+			"title": "Clash of the Delivery Girls! The Martial Arts Takeout Race",
+			"type": "mixed-manga",
+			"aired_date": "1989-10-20"
+		},
+		{
+			"episode": 23,
+			"title": "You Really Do Hate Cats!",
+			"type": "manga-canon",
+			"aired_date": "1989-11-03"
+		},
+		{
+			"episode": 24,
+			"title": "This Ol' Gal's the Leader of the Amazon Tribe!",
+			"type": "manga-canon",
+			"aired_date": "1989-11-10"
+		},
+		{
+			"episode": 25,
+			"title": "Behold! The \"Chestnuts Roasting on an Open Fire\" Technique!",
+			"type": "manga-canon",
+			"aired_date": "1989-11-17"
+		},
+		{
+			"episode": 26,
+			"title": "Enter Mousse! The Fist of the White Swan!",
+			"type": "manga-canon",
+			"aired_date": "1989-11-24"
+		},
+		{
+			"episode": 27,
+			"title": "Cool Runnings! The Race of the Snowmen",
+			"type": "mixed-manga",
+			"aired_date": "1989-12-01"
+		},
+		{
+			"episode": 28,
+			"title": "Danger at the Tendo Dojo!",
+			"type": "manga-canon",
+			"aired_date": "1990-01-12"
+		},
+		{
+			"episode": 29,
+			"title": "Ranma Trains on Mt. Terror",
+			"type": "manga-canon",
+			"aired_date": "1990-01-19"
+		},
+		{
+			"episode": 30,
+			"title": "The Breaking Point!? Ryoga's Great Revenge",
+			"type": "manga-canon",
+			"aired_date": "1990-01-26"
+		},
+		{
+			"episode": 31,
+			"title": "The Abduction of Akane!",
+			"type": "manga-canon",
+			"aired_date": "1990-02-02"
+		},
+		{
+			"episode": 32,
+			"title": "Ranma vs. Mousse! To Lose is to Win",
+			"type": "manga-canon",
+			"aired_date": "1990-02-09"
+		},
+		{
+			"episode": 33,
+			"title": "Enter Happosai, the Lustful Lecher!",
+			"type": "manga-canon",
+			"aired_date": "1990-02-16"
+		},
+		{
+			"episode": 34,
+			"title": "Assault on the Girls' Locker Room",
+			"type": "mixed-manga",
+			"aired_date": "1990-02-23"
+		},
+		{
+			"episode": 35,
+			"title": "Kuno's House of Gadgets! Guests Check In, But They Don't Check Out",
+			"type": "mixed-manga",
+			"aired_date": "1990-03-02"
+		},
+		{
+			"episode": 36,
+			"title": "Goodbye Girl-Type",
+			"type": "mixed-manga",
+			"aired_date": "1990-03-09"
+		},
+		{
+			"episode": 37,
+			"title": "It's a Fine Line Between Pleasure and Pain",
+			"type": "manga-canon",
+			"aired_date": "1990-03-16"
+		},
+		{
+			"episode": 38,
+			"title": "S.O.S.! The Wrath of Happosai",
+			"type": "manga-canon",
+			"aired_date": "1990-03-23"
+		},
+		{
+			"episode": 39,
+			"title": "Kissing is Such Sweet Sorrow! The Taking of Akane's Lips",
+			"type": "manga-canon",
+			"aired_date": "1990-04-06"
+		},
+		{
+			"episode": 40,
+			"title": "Bathhouse Battle! We're in Some Hot Water Now",
+			"type": "manga-canon",
+			"aired_date": "1990-04-13"
+		},
+		{
+			"episode": 41,
+			"title": "Ranma Gains Yet Another Suitor",
+			"type": "manga-canon",
+			"aired_date": "1990-04-20"
+		},
+		{
+			"episode": 42,
+			"title": "Ryoga and Akane: 2-Gether, 4-Ever",
+			"type": "manga-canon",
+			"aired_date": "1990-04-27"
+		},
+		{
+			"episode": 43,
+			"title": "Sneeze Me, Squeeze Me, Please Me! Shampoo's Recipe for Disaster",
+			"type": "manga-canon",
+			"aired_date": "1990-05-04"
+		},
+		{
+			"episode": 44,
+			"title": "Rub-a-Dub-Dub! There's a Pervert in the Tub",
+			"type": "manga-canon",
+			"aired_date": "1990-05-11"
+		},
+		{
+			"episode": 45,
+			"title": "I Love You! My Dear, Dear Ukyo",
+			"type": "manga-canon",
+			"aired_date": "1990-05-18"
+		},
+		{
+			"episode": 46,
+			"title": "The Witch Who Loved Me: A Japanese Ghost Story",
+			"type": "filler",
+			"aired_date": "1990-05-25"
+		},
+		{
+			"episode": 47,
+			"title": "Transform! Akane the Super-Duper Girl",
+			"type": "manga-canon",
+			"aired_date": "1990-06-02"
+		},
+		{
+			"episode": 48,
+			"title": "The Killer from Jusenkyo",
+			"type": "filler",
+			"aired_date": "1990-06-08"
+		},
+		{
+			"episode": 49,
+			"title": "Am I... Pretty? Ranma's Declaration of Womanhood",
+			"type": "filler",
+			"aired_date": "1990-06-15"
+		},
+		{
+			"episode": 50,
+			"title": "Final Facedown! Happosai vs. The Invisible Man",
+			"type": "filler",
+			"aired_date": "1990-06-22"
+		},
+		{
+			"episode": 51,
+			"title": "Les Misérables of the Kuno Estate",
+			"type": "filler",
+			"aired_date": "1990-06-29"
+		},
+		{
+			"episode": 52,
+			"title": "Ghost Story! Ranma and the Magic Sword",
+			"type": "filler",
+			"aired_date": "1990-07-06"
+		},
+		{
+			"episode": 53,
+			"title": "All It Takes is One! The Kiss of Love or the Kiss of Death",
+			"type": "manga-canon",
+			"aired_date": "1990-07-13"
+		},
+		{
+			"episode": 54,
+			"title": "The Ultimate Team-Up!? The Ryoga-Mousse Alliance",
+			"type": "filler",
+			"aired_date": "1990-07-20"
+		},
+		{
+			"episode": 55,
+			"title": "Back to the Happosai!",
+			"type": "mixed-manga",
+			"aired_date": "1990-07-27"
+		},
+		{
+			"episode": 56,
+			"title": "Kodachi the Black Rose! The Beeline to True Love",
+			"type": "filler",
+			"aired_date": "1990-08-03"
+		},
+		{
+			"episode": 57,
+			"title": "The Last Days of Happosai...?",
+			"type": "filler",
+			"aired_date": "1990-08-10"
+		},
+		{
+			"episode": 58,
+			"title": "Two, Too Violent Girls: Ling-Ling & Lung-Lung",
+			"type": "filler",
+			"aired_date": "1990-08-17"
+		},
+		{
+			"episode": 59,
+			"title": "Ranma and the Evil Within",
+			"type": "filler",
+			"aired_date": "1990-08-24"
+		},
+		{
+			"episode": 60,
+			"title": "Enter Ken and His Copycat Kerchief",
+			"type": "filler",
+			"aired_date": "1990-08-31"
+		},
+		{
+			"episode": 61,
+			"title": "Ryoga's Miracle Cure! Hand Over that Soap!",
+			"type": "manga-canon",
+			"aired_date": "1990-09-07"
+		},
+		{
+			"episode": 62,
+			"title": "Fight! The Anything-Goes Obstacle Course Race",
+			"type": "filler",
+			"aired_date": "1990-09-14"
+		},
+		{
+			"episode": 63,
+			"title": "Ranma Goes Back to Jusenkyo At Last",
+			"type": "filler",
+			"aired_date": "1990-09-21"
+		},
+		{
+			"episode": 64,
+			"title": "The Return of the Hawaiʻian Headmaster from Hell",
+			"type": "manga-canon",
+			"aired_date": "1990-10-05"
+		},
+		{
+			"episode": 65,
+			"title": "Enter Kuno, the Night-Prowling Knight",
+			"type": "filler",
+			"aired_date": "1990-10-12"
+		},
+		{
+			"episode": 66,
+			"title": "Ranma Gets Weak!",
+			"type": "manga-canon",
+			"aired_date": "1990-10-19"
+		},
+		{
+			"episode": 67,
+			"title": "Eureka! The Desperate Move of Desperation",
+			"type": "manga-canon",
+			"aired_date": "1990-10-26"
+		},
+
+		{
+			"episode": 68,
+			"title": "Showdown! Can Ranma Make a Comeback?",
+			"type": "manga-canon",
+			"aired_date": "1990-11-02"
+		},
+		{
+			"episode": 69,
+			"title": "Ukyo's Skirt! The Great Girly-Girl Gambit",
+			"type": "filler",
+			"aired_date": "1990-11-09"
+		},
+		{
+			"episode": 70,
+			"title": "Here Comes Ranma's Mom!",
+			"type": "filler",
+			"aired_date": "1990-11-16"
+		},
+		{
+			"episode": 71,
+			"title": "From Ryoga with Love",
+			"type": "filler",
+			"aired_date": "1990-11-23"
+		},
+		{
+			"episode": 72,
+			"title": "My Fiancé, the Cat",
+			"type": "manga-canon",
+			"aired_date": "1990-11-30"
+		},
+		{
+			"episode": 73,
+			"title": "Blow, Wind! To Be Young is to Go Gung-Ho",
+			"type": "filler",
+			"aired_date": "1990-12-07"
+		},
+		{
+			"episode": 74,
+			"title": "A Formidable New Disciple Appears",
+			"type": "filler",
+			"aired_date": "1990-12-14"
+		},
+		{
+			"episode": 75,
+			"title": "Step Outside!",
+			"type": "manga-canon",
+			"aired_date": "1990-12-14"
+		},
+		{
+			"episode": 76,
+			"title": "Ryoga's \"Tendo Dojo Houseguest\" Diary",
+			"type": "mixed-manga",
+			"aired_date": "1991-01-11"
+		},
+		{
+			"episode": 77,
+			"title": "Happosai's Happy Heart!",
+			"type": "filler",
+			"aired_date": "1991-01-18"
+		},
+		{
+			"episode": 78,
+			"title": "Extra, Extra! Kuno & Nabiki: Read All About It!",
+			"type": "filler",
+			"aired_date": "1991-01-25"
+		},
+		{
+			"episode": 79,
+			"title": "Ryoga the Strong... Too Strong",
+			"type": "manga-canon",
+			"aired_date": "1991-02-01"
+		},
+		{
+			"episode": 80,
+			"title": "Close Call! P-Chan's Secret",
+			"type": "manga-canon",
+			"aired_date": "1991-02-08"
+		},
+		{
+			"episode": 81,
+			"title": "The Egg-Catcher Man",
+			"type": "filler",
+			"aired_date": "1991-02-15"
+		},
+		{
+			"episode": 82,
+			"title": "Ranma and Kuno's... First Kiss",
+			"type": "manga-canon",
+			"aired_date": "1991-02-22"
+		},
+		{
+			"episode": 83,
+			"title": "Shampoo's Red Thread of Dread",
+			"type": "filler",
+			"aired_date": "1991-03-01"
+		},
+		{
+			"episode": 84,
+			"title": "Mousse Goes Home to the Country!",
+			"type": "filler",
+			"aired_date": "1991-03-08"
+		},
+		{
+			"episode": 85,
+			"title": "The Dumbest Bet in History!",
+			"type": "manga-canon",
+			"aired_date": "1991-03-15"
+		},
+		{
+			"episode": 86,
+			"title": "Kuno Becomes a Marianne!",
+			"type": "filler",
+			"aired_date": "1991-03-22"
+		},
+		{
+			"episode": 87,
+			"title": "Ranma, You Are Such A Jerk!",
+			"type": "filler",
+			"aired_date": "1991-03-29"
+		},
+		{
+			"episode": 88,
+			"title": "Gimme That Pigtail",
+			"type": "manga-canon",
+			"aired_date": "1991-04-05"
+		},
+		{
+			"episode": 89,
+			"title": "When a Guy's Pride and Joy is Gone",
+			"type": "manga-canon",
+			"aired_date": "1991-04-12"
+		},
+		{
+			"episode": 90,
+			"title": "Ling-Ling & Lung-Lung Strike Back!",
+			"type": "filler",
+			"aired_date": "1991-04-19"
+		},
+		{
+			"episode": 91,
+			"title": "Ryoga's Proposal",
+			"type": "filler",
+			"aired_date": "1991-04-26"
+		},
+		{
+			"episode": 92,
+			"title": "Genma Takes a Walk",
+			"type": "filler",
+			"aired_date": "1991-05-03"
+		},
+		{
+			"episode": 93,
+			"title": "The Gentle Art of Martial Tea Ceremony",
+			"type": "mixed-manga",
+			"aired_date": "1991-05-10"
+		},
+		{
+			"episode": 94,
+			"title": "And the Challenge is... a Girl?!",
+			"type": "filler",
+			"aired_date": "1991-05-17"
+		},
+		{
+			"episode": 95,
+			"title": "Hot Springs Battle Royale!",
+			"type": "manga-canon",
+			"aired_date": "1991-05-24"
+		},
+		{
+			"episode": 96,
+			"title": "Me is Kuno's Daddy, Me is",
+			"type": "manga-canon",
+			"aired_date": "1991-05-31"
+		},
+		{
+			"episode": 97,
+			"title": "The Matriarch Takes a Stand",
+			"type": "filler",
+			"aired_date": "1991-06-07"
+		},
+		{
+			"episode": 98,
+			"title": "A Leotard is a Girl's Burden",
+			"type": "filler",
+			"aired_date": "1991-06-14"
+		},
+		{
+			"episode": 99,
+			"title": "The Mixed-Bath Horror!",
+			"type": "filler",
+			"aired_date": "1991-06-21"
+		},
+		{
+			"episode": 100,
+			"title": "The Frogman's Curse!",
+			"type": "filler",
+			"aired_date": "1991-06-28"
+		},
+		{
+			"episode": 101,
+			"title": "Revenge! Raging Okonomiyaki...!",
+			"type": "filler",
+			"aired_date": "1991-07-05"
+		},
+		{
+			"episode": 102,
+			"title": "Ranma the Lady-Killer",
+			"type": "filler",
+			"aired_date": "1991-07-12"
+		},
+		{
+			"episode": 103,
+			"title": "Shogi Showdown",
+			"type": "filler",
+			"aired_date": "1991-07-26"
+		},
+		{
+			"episode": 104,
+			"title": "Sasuke's \"Mission: Improbable\"",
+			"type": "filler",
+			"aired_date": "1991-07-26"
+		},
+		{
+			"episode": 105,
+			"title": "Bonjour, Furinkan!",
+			"type": "manga-canon",
+			"aired_date": "1991-08-02"
+		},
+		{
+			"episode": 106,
+			"title": "Dinner at Ringside!",
+			"type": "manga-canon",
+			"aired_date": "1991-08-09"
+		},
+		{
+			"episode": 107,
+			"title": "Swimming with Psychos",
+			"type": "manga-canon",
+			"aired_date": "1991-08-16"
+		},
+		{
+			"episode": 108,
+			"title": "Ryoga, Run Into the Sunset",
+			"type": "filler",
+			"aired_date": "1991-08-23"
+		},
+		{
+			"episode": 109,
+			"title": "Into the Darkness",
+			"type": "filler",
+			"aired_date": "1991-08-30"
+		},
+		{
+			"episode": 110,
+			"title": "Nabiki, Ranma's New Fiancée!",
+			"type": "manga-canon",
+			"aired_date": "1991-09-06"
+		},
+		{
+			"episode": 111,
+			"title": "Case of the Missing Takoyaki!",
+			"type": "filler",
+			"aired_date": "1991-09-13"
+		},
+		{
+			"episode": 112,
+			"title": "Ranma Versus Shadow Ranma!",
+			"type": "filler",
+			"aired_date": "1991-09-20"
+		},
+		{
+			"episode": 113,
+			"title": "Dear Daddy... Love, Kodachi!",
+			"type": "filler",
+			"aired_date": "1991-09-27"
+		},
+		{
+			"episode": 114,
+			"title": "Enter Gosunkugi, The New Rival!?",
+			"type": "mixed-manga",
+			"aired_date": "1991-10-04"
+		},
+		{
+			"episode": 115,
+			"title": "Ranma's Calligraphy Challenge",
+			"type": "filler",
+			"aired_date": "1991-10-11"
+		},
+		{
+			"episode": 116,
+			"title": "The Secret Don of Furinkan High",
+			"type": "filler",
+			"aired_date": "1991-10-18"
+		},
+		{
+			"episode": 117,
+			"title": "Back to the Way We Were... Please!",
+			"type": "filler",
+			"aired_date": "1991-10-25"
+		},
+		{
+			"episode": 118,
+			"title": "Ryoga Inherits the Saotome School?",
+			"type": "filler",
+			"aired_date": "1991-11-01"
+		},
+		{
+			"episode": 119,
+			"title": "Tendo Family Goes to the Amusement Park!",
+			"type": "filler",
+			"aired_date": "1991-11-15"
+		},
+		{
+			"episode": 120,
+			"title": "The Case of the Furinkan Stalker!",
+			"type": "filler",
+			"aired_date": "1991-11-29"
+		},
+		{
+			"episode": 121,
+			"title": "The Demon from Jusenkyo, Part I",
+			"type": "manga-canon",
+			"aired_date": "1991-12-06"
+		},
+		{
+			"episode": 122,
+			"title": "The Demon from Jusenkyo, Part II",
+			"type": "manga-canon",
+			"aired_date": "1991-12-13"
+		},
+		{
+			"episode": 123,
+			"title": "A Xmas Without Ranma",
+			"type": "filler",
+			"aired_date": "1991-12-20"
+		},
+		{
+			"episode": 124,
+			"title": "A Cold Day in Furinkan",
+			"type": "filler",
+			"aired_date": "1992-01-10"
+		},
+		{
+			"episode": 125,
+			"title": "Curse of the Scribbled Panda",
+			"type": "manga-canon",
+			"aired_date": "1992-01-17"
+		},
+		{
+			"episode": 126,
+			"title": "The Date-Monster of Watermelon Island",
+			"type": "manga-canon",
+			"aired_date": "1992-01-24"
+		},
+		{
+			"episode": 127,
+			"title": "Legend of the Lucky Panda!",
+			"type": "filler",
+			"aired_date": "1992-01-31"
+		},
+		{
+			"episode": 128,
+			"title": "Ukyo's Secret Sauce, Part 1",
+			"type": "manga-canon",
+			"aired_date": "1992-02-07"
+		},
+		{
+			"episode": 129,
+			"title": "Ukyo's Secret Service, Part 2",
+			"type": "manga-canon",
+			"aired_date": "1992-02-14"
+		},
+		{
+			"episode": 130,
+			"title": "The Missing Matriarch of Martial Arts Tea!",
+			"type": "mixed-manga",
+			"aired_date": "1992-02-21"
+		},
+		{
+			"episode": 131,
+			"title": "Akane Goes to the Hospital!",
+			"type": "filler",
+			"aired_date": "1992-02-28"
+		},
+		{
+			"episode": 132,
+			"title": "Mystery of the Marauding Octopus Pot!",
+			"type": "manga-canon",
+			"aired_date": "1992-03-06"
+		},
+		{
+			"episode": 133,
+			"title": "Gosunkugi's Paper Dolls of Love",
+			"type": "manga-canon",
+			"aired_date": "1992-03-13"
+		},
+		{
+			"episode": 134,
+			"title": "Akane's Unfathomable Heart",
+			"type": "filler",
+			"aired_date": "1992-03-20"
+		},
+		{
+			"episode": 135,
+			"title": "A Teenage Ghost Story",
+			"type": "filler",
+			"aired_date": "1992-03-27"
+		},
+		{
+			"episode": 136,
+			"title": "Master and Student... Forever!?",
+			"type": "manga-canon",
+			"aired_date": "1992-03-27"
+		},
+		{
+			"episode": 137,
+			"title": "Tatewaki Kuno, Substitute Principal",
+			"type": "filler",
+			"aired_date": "1992-04-10"
+		},
+		{
+			"episode": 138,
+			"title": "Ranma's Greatest Challenge!",
+			"type": "filler",
+			"aired_date": "1992-04-17"
+		},
+		{
+			"episode": 139,
+			"title": "Nihao! Jusenkyo Guide",
+			"type": "filler",
+			"aired_date": "1992-04-24"
+		},
+		{
+			"episode": 140,
+			"title": "Pick-a-Peck o' Happosai",
+			"type": "filler",
+			"aired_date": "1992-05-01"
+		},
+		{
+			"episode": 141,
+			"title": "From the Depth of Despair, Part I",
+			"type": "manga-canon",
+			"aired_date": "1992-05-08"
+		},
+		{
+			"episode": 142,
+			"title": "From the Depth of Despair, Part II",
+			"type": "manga-canon",
+			"aired_date": "1992-05-15"
+		},
+		{
+			"episode": 143,
+			"title": "Shampoo's Curséd Kiss",
+			"type": "manga-canon",
+			"aired_date": "1992-05-22"
+		},
+		{
+			"episode": 144,
+			"title": "Run Away with Me, Ranma",
+			"type": "manga-canon",
+			"aired_date": "1992-05-29"
+		},
+		{
+			"episode": 145,
+			"title": "Let's Go to the Mushroom Temple",
+			"type": "filler",
+			"aired_date": "1992-06-05"
+		},
+		{
+			"episode": 146,
+			"title": "The Cradle from Hell",
+			"type": "manga-canon",
+			"aired_date": "1992-06-12"
+		},
+		{
+			"episode": 147,
+			"title": "Madame St. Paul's Cry for Help",
+			"type": "filler",
+			"aired_date": "1992-06-19"
+		},
+		{
+			"episode": 148,
+			"title": "Meet You in the Milky Way",
+			"type": "filler",
+			"aired_date": "1992-06-26"
+		},
+		{
+			"episode": 149,
+			"title": "Wretched Rice Cakes Of Love",
+			"type": "manga-canon",
+			"aired_date": "1992-07-03"
+		},
+		{
+			"episode": 150,
+			"title": "The Horrible Happo Mold-Burst!",
+			"type": "filler",
+			"aired_date": "1992-07-10"
+		},
+		{
+			"episode": 151,
+			"title": "The Kuno Sibling Scandal",
+			"type": "manga-canon",
+			"aired_date": "1992-07-17"
+		},
+		{
+			"episode": 152,
+			"title": "Battle for the Golden Tea Set",
+			"type": "filler",
+			"aired_date": "1992-07-24"
+		},
+		{
+			"episode": 153,
+			"title": "Gosunkugi's Summer Affair!",
+			"type": "filler",
+			"aired_date": "1992-07-31"
+		},
+		{
+			"episode": 154,
+			"title": "Bring it On! Love as a Cheerleader, Part 1",
+			"type": "manga-canon",
+			"aired_date": "1992-08-07"
+		},
+		{
+			"episode": 155,
+			"title": "Bring it On! Love as a Cheerleader, Part 2",
+			"type": "manga-canon",
+			"aired_date": "1992-08-14"
+		},
+		{
+			"episode": 156,
+			"title": "The Battle for Miss Beachside",
+			"type": "filler",
+			"aired_date": "1992-08-21"
+		},
+		{
+			"episode": 157,
+			"title": "The Musical Instruments of Destruction",
+			"type": "filler",
+			"aired_date": "1992-08-28"
+		},
+		{
+			"episode": 158,
+			"title": "A Ninja's Dog is Black and White",
+			"type": "mixed-manga",
+			"aired_date": "1992-09-04"
+		},
+		{
+			"episode": 159,
+			"title": "The Tendo Dragon Legend",
+			"type": "filler",
+			"aired_date": "1992-09-11"
+		},
+		{
+			"episode": 160,
+			"title": "Boy Meets Mom, Part 1",
+			"type": "manga-canon",
+			"aired_date": "1992-09-18"
+		},
+		{
+			"episode": 161,
+			"title": "Boy Meets Mom, Part 2 - Someday, Somehow...",
+			"type": "manga-canon",
+			"aired_date": "1992-09-25"
+		}
+	]
+}

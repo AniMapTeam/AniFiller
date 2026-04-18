@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "SHADOWS HOUSE",
+	"mappings": {
+		"anilist_id": 125038,
+		"mal_id": 43439
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Shadow and Her Doll",
+			"type": "manga-canon",
+			"aired_date": "2021-04-11"
+		},
+		{
+			"episode": 2,
+			"title": "Outside the Room",
+			"type": "manga-canon",
+			"aired_date": "2021-04-18"
+		},
+		{
+			"episode": 3,
+			"title": "The Soot Sickness",
+			"type": "manga-canon",
+			"aired_date": "2021-04-25"
+		},
+		{
+			"episode": 4,
+			"title": "Watchers in the Night",
+			"type": "manga-canon",
+			"aired_date": "2021-05-02"
+		},
+		{
+			"episode": 5,
+			"title": "The Debut",
+			"type": "manga-canon",
+			"aired_date": "2021-05-09"
+		},
+		{
+			"episode": 6,
+			"title": "The Garden Labyrinth",
+			"type": "manga-canon",
+			"aired_date": "2021-05-16"
+		},
+		{
+			"episode": 7,
+			"title": "An Incomplete Map",
+			"type": "manga-canon",
+			"aired_date": "2021-05-23"
+		},
+		{
+			"episode": 8,
+			"title": "In the Palm of His Hand",
+			"type": "manga-canon",
+			"aired_date": "2021-05-30"
+		},
+		{
+			"episode": 9,
+			"title": "A Birdcage and Flowers",
+			"type": "manga-canon",
+			"aired_date": "2021-06-06"
+		},
+		{
+			"episode": 10,
+			"title": "The Final Pair",
+			"type": "manga-canon",
+			"aired_date": "2021-06-13"
+		},
+		{
+			"episode": 11,
+			"title": "The Dark Drink",
+			"type": "mixed-manga",
+			"aired_date": "2021-06-20"
+		},
+		{
+			"episode": 12,
+			"title": "To Lord Grandfather's Wing",
+			"type": "filler",
+			"aired_date": "2021-06-27"
+		},
+		{
+			"episode": 13,
+			"title": "For the Sake of the Shadows Family",
+			"type": "filler",
+			"aired_date": "2021-07-04"
+		}
+	]
+}

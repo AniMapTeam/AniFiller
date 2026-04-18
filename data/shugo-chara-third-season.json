@@ -1,0 +1,160 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Shugo Chara! Party!",
+	"mappings": {
+		"anilist_id": 7082,
+		"mal_id": 7082
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Super-Peppy Transfer Student!",
+			"type": "filler",
+			"aired_date": "2009-10-03"
+		},
+		{
+			"episode": 2,
+			"title": "Enter the Guardian Apprentice!?",
+			"type": "filler",
+			"aired_date": "2009-10-10"
+		},
+		{
+			"episode": 3,
+			"title": "Sparkle my Heart! The Power of Song!",
+			"type": "filler",
+			"aired_date": "2009-10-17"
+		},
+		{
+			"episode": 4,
+			"title": "Hikaru vs. Bunny?",
+			"type": "filler",
+			"aired_date": "2009-10-24"
+		},
+		{
+			"episode": 5,
+			"title": "The Place Eggs Return To",
+			"type": "filler",
+			"aired_date": "2009-10-31"
+		},
+		{
+			"episode": 6,
+			"title": "Yaya's Enthusiastic Gardening!",
+			"type": "filler",
+			"aired_date": "2009-10-31"
+		},
+		{
+			"episode": 7,
+			"title": "Welcome Back, Nadeshiko!",
+			"type": "filler",
+			"aired_date": "2009-11-14"
+		},
+		{
+			"episode": 8,
+			"title": "The Miraculous Character Change!",
+			"type": "filler",
+			"aired_date": "2009-11-21"
+		},
+		{
+			"episode": 9,
+			"title": "But Why!? Rima-senpai!",
+			"type": "filler",
+			"aired_date": "2009-11-28"
+		},
+		{
+			"episode": 10,
+			"title": "Eh! Tadase-kun has a crush on someone!?",
+			"type": "filler",
+			"aired_date": "2009-12-05"
+		},
+		{
+			"episode": 11,
+			"title": "Sparkling Treasure!",
+			"type": "filler",
+			"aired_date": "2009-12-12"
+		},
+		{
+			"episode": 12,
+			"title": "Exhausted~ Amu-chan, Becomes a Mommy?",
+			"type": "filler",
+			"aired_date": "2009-12-19"
+		},
+		{
+			"episode": 13,
+			"title": "My Would-Be Self!",
+			"type": "filler",
+			"aired_date": "2009-12-26"
+		},
+		{
+			"episode": 14,
+			"title": "First Time Meeting this X Character!?",
+			"type": "filler",
+			"aired_date": "2010-01-09"
+		},
+		{
+			"episode": 15,
+			"title": "Stop Fighting!",
+			"type": "filler",
+			"aired_date": "2010-01-16"
+		},
+		{
+			"episode": 16,
+			"title": "Go, Rikka! Follow the Way of the Guardians",
+			"type": "filler",
+			"aired_date": "2010-01-23"
+		},
+		{
+			"episode": 17,
+			"title": "Turn, Turn! A Spinning World!",
+			"type": "filler",
+			"aired_date": "2010-01-30"
+		},
+		{
+			"episode": 18,
+			"title": "An Exciting Picnic!",
+			"type": "filler",
+			"aired_date": "2010-02-06"
+		},
+		{
+			"episode": 19,
+			"title": "Utau's Wavering Heart",
+			"type": "filler",
+			"aired_date": "2010-02-13"
+		},
+		{
+			"episode": 20,
+			"title": "Shock! My Egg got an X on it?",
+			"type": "filler",
+			"aired_date": "2010-02-20"
+		},
+		{
+			"episode": 21,
+			"title": "Nice to Meet You, My Name Is Hotaru",
+			"type": "filler",
+			"aired_date": "2010-02-27"
+		},
+		{
+			"episode": 22,
+			"title": "Hikaru and Fun Amusement Park!",
+			"type": "filler",
+			"aired_date": "2010-03-06"
+		},
+		{
+			"episode": 23,
+			"title": "Oh No! Rikka and X Eggs?",
+			"type": "filler",
+			"aired_date": "2010-03-13"
+		},
+		{
+			"episode": 24,
+			"title": "Believe! In my Pure Heart!",
+			"type": "filler",
+			"aired_date": "2010-03-20"
+		},
+		{
+			"episode": 25,
+			"title": "A Heart Racing Doki-Doki!",
+			"type": "filler",
+			"aired_date": "2010-03-27"
+		}
+	]
+}

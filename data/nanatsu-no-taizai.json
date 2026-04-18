@@ -1,0 +1,154 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "The Seven Deadly Sins",
+	"mappings": {
+		"anilist_id": 20789,
+		"mal_id": 23755
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Seven Deadly Sins",
+			"type": "manga-canon",
+			"aired_date": "2014-10-05"
+		},
+		{
+			"episode": 2,
+			"title": "The Sword of the Holy Knight",
+			"type": "manga-canon",
+			"aired_date": "2014-10-12"
+		},
+		{
+			"episode": 3,
+			"title": "The Sin in the Sleeping Forest",
+			"type": "manga-canon",
+			"aired_date": "2014-10-19"
+		},
+		{
+			"episode": 4,
+			"title": "A Little Girl's Dream",
+			"type": "manga-canon",
+			"aired_date": "2014-10-26"
+		},
+		{
+			"episode": 5,
+			"title": "Even If You Should Die",
+			"type": "manga-canon",
+			"aired_date": "2014-11-02"
+		},
+		{
+			"episode": 6,
+			"title": "The Poem of Beginnings",
+			"type": "manga-canon",
+			"aired_date": "2014-11-09"
+		},
+		{
+			"episode": 7,
+			"title": "A Touching Reunion",
+			"type": "manga-canon",
+			"aired_date": "2014-11-16"
+		},
+		{
+			"episode": 8,
+			"title": "The Fearsome Pursuer",
+			"type": "manga-canon",
+			"aired_date": "2014-11-23"
+		},
+		{
+			"episode": 9,
+			"title": "Dark Pulse",
+			"type": "manga-canon",
+			"aired_date": "2014-11-30"
+		},
+		{
+			"episode": 10,
+			"title": "Vaizel Fight Festival",
+			"type": "manga-canon",
+			"aired_date": "2014-12-07"
+		},
+		{
+			"episode": 11,
+			"title": "Pent-Up Feelings",
+			"type": "manga-canon",
+			"aired_date": "2014-12-14"
+		},
+		{
+			"episode": 12,
+			"title": "Bloodcurdling Cannon",
+			"type": "manga-canon",
+			"aired_date": "2014-12-21"
+		},
+		{
+			"episode": 13,
+			"title": "The Angel of Destruction",
+			"type": "manga-canon",
+			"aired_date": "2015-01-11"
+		},
+		{
+			"episode": 14,
+			"title": "A Reader of Books",
+			"type": "manga-canon",
+			"aired_date": "2015-01-18"
+		},
+		{
+			"episode": 15,
+			"title": "Unholy Knight",
+			"type": "manga-canon",
+			"aired_date": "2015-01-25"
+		},
+		{
+			"episode": 16,
+			"title": "The Legends, Provoked",
+			"type": "manga-canon",
+			"aired_date": "2015-02-01"
+		},
+		{
+			"episode": 17,
+			"title": "The First Sacrifice",
+			"type": "manga-canon",
+			"aired_date": "2015-02-08"
+		},
+		{
+			"episode": 18,
+			"title": "Even If It Costs Me My Life",
+			"type": "manga-canon",
+			"aired_date": "2015-02-15"
+		},
+		{
+			"episode": 19,
+			"title": "The Fairy King Waits in Vain",
+			"type": "manga-canon",
+			"aired_date": "2015-02-22"
+		},
+		{
+			"episode": 20,
+			"title": "The Courage Charm",
+			"type": "mixed-manga",
+			"aired_date": "2015-03-01"
+		},
+		{
+			"episode": 21,
+			"title": "The Looming Threat",
+			"type": "manga-canon",
+			"aired_date": "2015-03-08"
+		},
+		{
+			"episode": 22,
+			"title": "What I Can Do For You",
+			"type": "mixed-manga",
+			"aired_date": "2015-03-15"
+		},
+		{
+			"episode": 23,
+			"title": "Despair Descends",
+			"type": "manga-canon",
+			"aired_date": "2015-03-22"
+		},
+		{
+			"episode": 24,
+			"title": "The Heroes",
+			"type": "mixed-manga",
+			"aired_date": "2015-03-29"
+		}
+	]
+}

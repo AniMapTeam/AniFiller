@@ -1,0 +1,166 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Project ARMS",
+	"mappings": {
+		"anilist_id": 1492,
+		"mal_id": 1492
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Vibrations",
+			"type": "manga-canon",
+			"aired_date": "2001-04-08"
+		},
+		{
+			"episode": 2,
+			"title": "Trance",
+			"type": "manga-canon",
+			"aired_date": "2001-04-15"
+		},
+		{
+			"episode": 3,
+			"title": "Nightmare",
+			"type": "manga-canon",
+			"aired_date": "2001-04-22"
+		},
+		{
+			"episode": 4,
+			"title": "Intercept",
+			"type": "manga-canon",
+			"aired_date": "2001-04-29"
+		},
+		{
+			"episode": 5,
+			"title": "Counterattack",
+			"type": "manga-canon",
+			"aired_date": "2001-05-06"
+		},
+		{
+			"episode": 6,
+			"title": "Flash",
+			"type": "manga-canon",
+			"aired_date": "2001-05-13"
+		},
+		{
+			"episode": 7,
+			"title": "Trust",
+			"type": "manga-canon",
+			"aired_date": "2001-05-20"
+		},
+		{
+			"episode": 8,
+			"title": "Stranger",
+			"type": "manga-canon",
+			"aired_date": "2001-05-27"
+		},
+		{
+			"episode": 9,
+			"title": "Illusion",
+			"type": "manga-canon",
+			"aired_date": "2001-06-03"
+		},
+		{
+			"episode": 10,
+			"title": "Jabberwock",
+			"type": "mixed-manga",
+			"aired_date": "2001-06-10"
+		},
+		{
+			"episode": 11,
+			"title": "Evolution",
+			"type": "mixed-manga",
+			"aired_date": "2001-06-17"
+		},
+		{
+			"episode": 12,
+			"title": "Beat",
+			"type": "manga-canon",
+			"aired_date": "2001-06-24"
+		},
+		{
+			"episode": 13,
+			"title": "Blue Men",
+			"type": "manga-canon",
+			"aired_date": "2001-07-01"
+		},
+		{
+			"episode": 14,
+			"title": "Welcome Rain",
+			"type": "manga-canon",
+			"aired_date": "2001-07-08"
+		},
+		{
+			"episode": 15,
+			"title": "Showtime",
+			"type": "manga-canon",
+			"aired_date": "2001-07-15"
+		},
+		{
+			"episode": 16,
+			"title": "Satan",
+			"type": "manga-canon",
+			"aired_date": "2001-07-22"
+		},
+		{
+			"episode": 17,
+			"title": "Heaven",
+			"type": "mixed-manga",
+			"aired_date": "2001-07-29"
+		},
+		{
+			"episode": 18,
+			"title": "Gehenna",
+			"type": "manga-canon",
+			"aired_date": "2001-08-05"
+		},
+		{
+			"episode": 19,
+			"title": "Snark Hunt",
+			"type": "manga-canon",
+			"aired_date": "2001-08-12"
+		},
+		{
+			"episode": 20,
+			"title": "Crisis",
+			"type": "manga-canon",
+			"aired_date": "2001-08-19"
+		},
+		{
+			"episode": 21,
+			"title": "Wish",
+			"type": "manga-canon",
+			"aired_date": "2001-08-26"
+		},
+		{
+			"episode": 22,
+			"title": "Knight",
+			"type": "manga-canon",
+			"aired_date": "2001-09-02"
+		},
+		{
+			"episode": 23,
+			"title": "White Rabbit",
+			"type": "manga-canon",
+			"aired_date": "2001-09-09"
+		},
+		{
+			"episode": 24,
+			"title": "Venom",
+			"type": "manga-canon",
+			"aired_date": "2001-09-16"
+		},
+		{
+			"episode": 25,
+			"title": "Judgement",
+			"type": "manga-canon",
+			"aired_date": "2001-09-23"
+		},
+		{
+			"episode": 26,
+			"title": "Fly",
+			"type": "manga-canon",
+			"aired_date": "2001-09-30"
+		}
+	]
+}

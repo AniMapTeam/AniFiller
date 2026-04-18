@@ -1,0 +1,664 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Fist of the North Star",
+	"mappings": {
+		"anilist_id": 967,
+		"mal_id": 967
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "God or Devil?! The Mightiest Man Appears from Hell",
+			"type": "manga-canon",
+			"aired_date": "1984-10-11"
+		},
+		{
+			"episode": 2,
+			"title": "The Deadly Fist of Lingering Regret!! The Future is Sighted  in the Barren Wasteland!!",
+			"type": "mixed-manga",
+			"aired_date": "1984-10-18"
+		},
+		{
+			"episode": 3,
+			"title": "In the City Without Light, a Lone Fist Burns! The Furious Death by the Five Exploding Fingers",
+			"type": "manga-canon",
+			"aired_date": "1984-10-25"
+		},
+		{
+			"episode": 4,
+			"title": "Attack the Bloody Cross! The Secret Technique, Ju Hazan.",
+			"type": "mixed-manga",
+			"aired_date": "1984-11-01"
+		},
+		{
+			"episode": 5,
+			"title": "Can the Flames of Love Burn in Hell? You Are Already Dead!",
+			"type": "mixed-manga",
+			"aired_date": "1984-11-08"
+		},
+		{
+			"episode": 6,
+			"title": "Search Order from Satan. Find the Man with the Seven Scars!",
+			"type": "mixed-manga",
+			"aired_date": "1984-11-15"
+		},
+		{
+			"episode": 7,
+			"title": "Villains! Shall We Have a Countdown to Death",
+			"type": "mixed-manga",
+			"aired_date": "1984-11-22"
+		},
+		{
+			"episode": 8,
+			"title": "Strike the Hidden Power Point! There’s No Requiem for the Wicked.",
+			"type": "mixed-manga",
+			"aired_date": "1984-11-29"
+		},
+		{
+			"episode": 9,
+			"title": "Villains! Say Your Prayers Before You Die!",
+			"type": "filler",
+			"aired_date": "1984-12-06"
+		},
+		{
+			"episode": 10,
+			"title": "Rekka Gyakuryuken! There Are Too Many Who Must Die!!",
+			"type": "filler",
+			"aired_date": "1984-12-13"
+		},
+		{
+			"episode": 11,
+			"title": "Villains! Listen to the Blues of Hell!",
+			"type": "manga-canon",
+			"aired_date": "1984-12-20"
+		},
+		{
+			"episode": 12,
+			"title": "I Am Death Itself! I'll Chase You to the Depths of Hell!",
+			"type": "mixed-manga",
+			"aired_date": "1985-01-10"
+		},
+		{
+			"episode": 13,
+			"title": "Rakan Nioh Ken! Once Released There's No Stopping It!!",
+			"type": "manga-canon",
+			"aired_date": "1985-01-17"
+		},
+		{
+			"episode": 14,
+			"title": "A Miserable Era! The Good Die So Young!",
+			"type": "filler",
+			"aired_date": "1985-01-24"
+		},
+		{
+			"episode": 15,
+			"title": "Count to Three! You're the One to Die!",
+			"type": "filler",
+			"aired_date": "1985-01-31"
+		},
+		{
+			"episode": 16,
+			"title": "Try to Sing Villains! The Counting Rhyme of Hell!!",
+			"type": "filler",
+			"aired_date": "1985-02-07"
+		},
+		{
+			"episode": 17,
+			"title": "A Man Lives to Fight! The Door to the Showdown Finally Opens!",
+			"type": "filler",
+			"aired_date": "1985-02-14"
+		},
+		{
+			"episode": 18,
+			"title": "Life or Death?! Beyond the Wasteland Lies the First Circle of Hell!",
+			"type": "filler",
+			"aired_date": "1985-02-21"
+		},
+		{
+			"episode": 19,
+			"title": "Villains! Ready Your One-Way Tickets to Death!!",
+			"type": "filler",
+			"aired_date": "1985-02-28"
+		},
+		{
+			"episode": 20,
+			"title": "A Nightmarish All-Out Battle! My Fist Pack 100 Volts!",
+			"type": "filler",
+			"aired_date": "1985-03-07"
+		},
+		{
+			"episode": 21,
+			"title": "The Evil Palace in Flames! Shin! Only One More Step to You Now!!",
+			"type": "filler",
+			"aired_date": "1985-03-14"
+		},
+		{
+			"episode": 22,
+			"title": "Yuria, Forever... As Well As Shin!",
+			"type": "mixed-manga",
+			"aired_date": "1985-03-21"
+		},
+		{
+			"episode": 23,
+			"title": "The Tumultuous Dragon and Tiger! Are Battles All That Await Me!!",
+			"type": "mixed-manga",
+			"aired_date": "1985-03-28"
+		},
+		{
+			"episode": 24,
+			"title": "Nanto Suicho Ken! The Tragedy of the Mighty Begins!!",
+			"type": "mixed-manga",
+			"aired_date": "1985-04-04"
+		},
+		{
+			"episode": 25,
+			"title": "Sinners! Thy Name Is The Fang Clan!!",
+			"type": "mixed-manga",
+			"aired_date": "1985-04-11"
+		},
+		{
+			"episode": 26,
+			"title": "Tremble & Die! Villains Of Night Fog Valley!!",
+			"type": "mixed-manga",
+			"aired_date": "1985-04-18"
+		},
+		{
+			"episode": 27,
+			"title": "Only Villains Can Smile! How I Hate This Age!!",
+			"type": "mixed-manga",
+			"aired_date": "1985-04-25"
+		},
+		{
+			"episode": 28,
+			"title": "Rei! I’ll Stop Your Tears with My Fist!!",
+			"type": "manga-canon",
+			"aired_date": "1985-05-02"
+		},
+		{
+			"episode": 29,
+			"title": "It’s Too Late to Beg for Mercy! Go to Hell, King Fang!!",
+			"type": "mixed-manga",
+			"aired_date": "1985-05-16"
+		},
+		{
+			"episode": 30,
+			"title": "Destiny Draws Near! Jagi, Who are You!!",
+			"type": "manga-canon",
+			"aired_date": "1985-05-30"
+		},
+		{
+			"episode": 31,
+			"title": "The Hellish Iron Mask! - He Who Terrorizes in the Name of the North Star!!",
+			"type": "manga-canon",
+			"aired_date": "1985-06-06"
+		},
+		{
+			"episode": 32,
+			"title": "The Four Linked Fists of Rage! - Jagi! I'll Wait for You in Hell!!!",
+			"type": "manga-canon",
+			"aired_date": "1985-06-13"
+		},
+		{
+			"episode": 33,
+			"title": "This is the Village of Miracles! - A Fallen Angel Has Descended!!",
+			"type": "manga-canon",
+			"aired_date": "1985-06-27"
+		},
+		{
+			"episode": 34,
+			"title": "Toki! - Are You an Angel or a Devil?! / Toki! Are You Angel or Devil?!",
+			"type": "manga-canon",
+			"aired_date": "1985-07-04"
+		},
+		{
+			"episode": 35,
+			"title": "Fiend! - Toki, Your Heart is Rotten to the Core!!",
+			"type": "manga-canon",
+			"aired_date": "1985-07-11"
+		},
+		{
+			"episode": 36,
+			"title": "I Have no Past to Look Back on! - Just My Hatred for Evil That Will Destroy Toki!",
+			"type": "manga-canon",
+			"aired_date": "1985-07-18"
+		},
+		{
+			"episode": 37,
+			"title": "Instead, I Shall Reject Love! For I Bear the Cursed Star of Death!!",
+			"type": "manga-canon",
+			"aired_date": "1985-07-25"
+		},
+		{
+			"episode": 38,
+			"title": "Crimson Fist of Lotus Mountain! A Tragic Woman Born of the Times!!",
+			"type": "filler",
+			"aired_date": "1985-08-01"
+		},
+		{
+			"episode": 39,
+			"title": "A Wicked Legacy! The Gates to Cassandra Open Now!",
+			"type": "manga-canon",
+			"aired_date": "1985-08-08"
+		},
+		{
+			"episode": 40,
+			"title": "Villains Need No Graves! This Is the Hellish Cassandra!!",
+			"type": "manga-canon",
+			"aired_date": "1985-08-15"
+		},
+		{
+			"episode": 41,
+			"title": "The North Star’s 2,000-year Tragedy! I Can Hear the Fist King’s Footsteps!!",
+			"type": "filler",
+			"aired_date": "1985-08-22"
+		},
+		{
+			"episode": 42,
+			"title": "A Century’s End with No Tomorrow! I’ve Been Waiting For You, Ken!!",
+			"type": "manga-canon",
+			"aired_date": "1985-09-05"
+		},
+		{
+			"episode": 43,
+			"title": "Cassandra Collapses! The North Star’s Mythology Is Painted Anew!!",
+			"type": "manga-canon",
+			"aired_date": "1985-09-12"
+		},
+		{
+			"episode": 44,
+			"title": "The Death Omen Star Shines! Fist King, Do You Control Even Death?!",
+			"type": "manga-canon",
+			"aired_date": "1985-09-19"
+		},
+		{
+			"episode": 45,
+			"title": "Those Who Fear the Reaper! Listen to the Voice of Lin’s Fiery Heart!",
+			"type": "manga-canon",
+			"aired_date": "1985-09-26"
+		},
+		{
+			"episode": 46,
+			"title": "Voices from Hell! Rei, Did You See the Death Omen Star?",
+			"type": "manga-canon",
+			"aired_date": "1985-10-10"
+		},
+		{
+			"episode": 47,
+			"title": "The Nanto Dance of Death! I'll Give my Life for the Sake of Love!!",
+			"type": "manga-canon",
+			"aired_date": "1985-10-17"
+		},
+		{
+			"episode": 48,
+			"title": "An Explosion of Secret Techniques! BEYOND HATRED IS THE FATE FOR THE BROTHERS OF THE NORTH STAR.",
+			"type": "manga-canon",
+			"aired_date": "1985-10-24"
+		},
+		{
+			"episode": 49,
+			"title": "The Greatest Battle in History, Raoh vs. Ken! YOU’RE THE ONE TO DIE!!",
+			"type": "manga-canon",
+			"aired_date": "1985-10-31"
+		},
+		{
+			"episode": 50,
+			"title": "72 Hours to Live! The Death Omen Star Drags Rei In!!",
+			"type": "manga-canon",
+			"aired_date": "1985-11-07"
+		},
+		{
+			"episode": 51,
+			"title": "Fate Without Tomorrow! And Yet, A Woman Believes in Love!!",
+			"type": "manga-canon",
+			"aired_date": "1985-11-14"
+		},
+		{
+			"episode": 52,
+			"title": "Yuda Of The South Star Six Sacred Fists! I'm The Most Beautiful!!",
+			"type": "manga-canon",
+			"aired_date": "1985-11-21"
+		},
+		{
+			"episode": 53,
+			"title": "The Death Omen Star Looms! Rei! How Cruel Time Passes By!!",
+			"type": "manga-canon",
+			"aired_date": "1985-11-27"
+		},
+		{
+			"episode": 54,
+			"title": "Beloved Mamiya! The Death Omen Star Lurks Behind The Sparkle In Your Eyes!",
+			"type": "manga-canon",
+			"aired_date": "1985-12-05"
+		},
+		{
+			"episode": 55,
+			"title": "Rei, Are You On Your Way To Death? A Man Is Beautiful Than Ever!!",
+			"type": "manga-canon",
+			"aired_date": "1985-12-12"
+		},
+		{
+			"episode": 56,
+			"title": "Beautiful Warriors, Rei vs. Yuda! A Man's Passage Needs No Tears!",
+			"type": "manga-canon",
+			"aired_date": "1985-12-19"
+		},
+		{
+			"episode": 57,
+			"title": "End of Part Two: Farewell, Rei! Heroic Legend Will be Told Throughout The Ages!",
+			"type": "manga-canon",
+			"aired_date": "1985-12-26"
+		},
+		{
+			"episode": 58,
+			"title": "Beginning of Part Three: Supreme Rule in Turbulence! As The South Star Fades, The North Star Appears!!",
+			"type": "manga-canon",
+			"aired_date": "1986-01-09"
+		},
+		{
+			"episode": 59,
+			"title": "The Star of Darkness Engulfs The Heavens! Time Evolves Beyond The Deathmatch!",
+			"type": "manga-canon",
+			"aired_date": "1986-01-16"
+		},
+		{
+			"episode": 60,
+			"title": "Shu of The South Star White Heron Fist! What Will You Witness In The End Of This Century!?",
+			"type": "manga-canon",
+			"aired_date": "1986-01-19"
+		},
+		{
+			"episode": 61,
+			"title": "Love on the Battlefield! Must the Time Tear Love Apart!?",
+			"type": "manga-canon",
+			"aired_date": "1986-01-30"
+		},
+		{
+			"episode": 62,
+			"title": "I Am Souther, the Holy Emperor! I Disallow Love and Compassion!!",
+			"type": "manga-canon",
+			"aired_date": "1986-02-06"
+		},
+		{
+			"episode": 63,
+			"title": "A Young Hero Challenges His Fate! Scream From Your Soul Shall Move The Heavens!",
+			"type": "manga-canon",
+			"aired_date": "1986-02-13"
+		},
+		{
+			"episode": 64,
+			"title": "A Bloody Battle, Shu vs. Souther! Love, Drowned in the Tears of the Star of Benevolence!!",
+			"type": "manga-canon",
+			"aired_date": "1986-02-20"
+		},
+		{
+			"episode": 65,
+			"title": "The Bloody Cross Mausoleum! Shu! I’ll Catch Your Tears With My Heart!!",
+			"type": "manga-canon",
+			"aired_date": "1986-02-27"
+		},
+		{
+			"episode": 66,
+			"title": "Run Kenshiro! Another Comrade is About to Die!!",
+			"type": "manga-canon",
+			"aired_date": "1986-03-06"
+		},
+		{
+			"episode": 67,
+			"title": "Clash of the Polar Stars, Ken vs. Souther! My Star is the Only Protector of Heaven!!",
+			"type": "manga-canon",
+			"aired_date": "1986-03-13"
+		},
+		{
+			"episode": 68,
+			"title": "Souther, The Despondent Holy Emperor! You Are Weary From Love!!",
+			"type": "manga-canon",
+			"aired_date": "1986-03-20"
+		},
+		{
+			"episode": 69,
+			"title": "Critical Times of The North Star! The Three Brothers of Fate Are On The Move!!",
+			"type": "manga-canon",
+			"aired_date": "1986-03-27"
+		},
+		{
+			"episode": 70,
+			"title": "The Other Divine Fist of the North Star! Drive Raoh to Oblivion!!",
+			"type": "manga-canon",
+			"aired_date": "1986-04-03"
+		},
+		{
+			"episode": 71,
+			"title": "The Secret of Origin Revealed! The Heaven Prefers Tragedy!!",
+			"type": "manga-canon",
+			"aired_date": "1986-04-10"
+		},
+		{
+			"episode": 72,
+			"title": "Farewell, Toki! A Man Only Cries Once!!",
+			"type": "manga-canon",
+			"aired_date": "1986-04-17"
+		},
+		{
+			"episode": 73,
+			"title": "Ryuga of Sirius! I'll Seize the Rainbow in Tempest!!",
+			"type": "manga-canon",
+			"aired_date": "1986-05-08"
+		},
+		{
+			"episode": 74,
+			"title": "A Wolf Running In The Horizon! There Lies The End of Love And Hatred!",
+			"type": "manga-canon",
+			"aired_date": "1986-05-15"
+		},
+		{
+			"episode": 75,
+			"title": "Forgive Me, My Sister! I Am Destined to Clash With The North Star!!",
+			"type": "manga-canon",
+			"aired_date": "1986-05-29"
+		},
+		{
+			"episode": 76,
+			"title": "An Iron Fist for the Roaring Wolf! Toki is in Danger!!",
+			"type": "manga-canon",
+			"aired_date": "1986-06-05"
+		},
+		{
+			"episode": 77,
+			"title": "Conclusion of Part Three: Let the New Age Awaken! The Wolf's Howl Moves the Heaven!",
+			"type": "manga-canon",
+			"aired_date": "1986-06-12"
+		},
+		{
+			"episode": 78,
+			"title": "Shin of the South Star Sacred Fist! Risked Your Life For Love That Never Will!!",
+			"type": "manga-canon",
+			"aired_date": "1986-06-26"
+		},
+		{
+			"episode": 79,
+			"title": "Rei of the South Star Waterfowl Fist! A Man Who Died For His Friends!!",
+			"type": "filler",
+			"aired_date": "1986-07-10"
+		},
+		{
+			"episode": 80,
+			"title": "Yuda of the South Star Crimson Crane Fist! His Beautiful Smile Calls For Tragedy!!",
+			"type": "filler",
+			"aired_date": "1986-07-17"
+		},
+		{
+			"episode": 81,
+			"title": "Shu of the South Star White Heron Fist! The Heaven Only Bestows Cruel Destinies",
+			"type": "filler",
+			"aired_date": "1986-07-24"
+		},
+		{
+			"episode": 82,
+			"title": "Holy Emperor Souther!! Your Deep Affection Consumes You In Love!",
+			"type": "filler",
+			"aired_date": "1986-07-31"
+		},
+		{
+			"episode": 83,
+			"title": "Part Four, the Final Chapter: Raoh Must Die! The Legend Turns to Terror!!",
+			"type": "manga-canon",
+			"aired_date": "1986-08-07"
+		},
+		{
+			"episode": 84,
+			"title": "The South Star Strikes Back! The Wind Brigade Protects the Last General of the South Star!!",
+			"type": "manga-canon",
+			"aired_date": "1986-08-14"
+		},
+		{
+			"episode": 85,
+			"title": "Prelude to a Death Match! The Screams of Hyui of the Wind Echoes in the Heaven!!",
+			"type": "manga-canon",
+			"aired_date": "1986-08-21"
+		},
+		{
+			"episode": 86,
+			"title": "The Burning Crimson Brigade! Shuren is Drenched in Tears of Flame!!",
+			"type": "manga-canon",
+			"aired_date": "1986-08-28"
+		},
+		{
+			"episode": 87,
+			"title": "Five Chariot Stars in Danger! Raoh Has Finally Pierced Through the Flames!!",
+			"type": "manga-canon",
+			"aired_date": "1986-09-04"
+		},
+		{
+			"episode": 88,
+			"title": "The Five Chariot Stars Approach Kenshiro! Who Are You, Fudo?!",
+			"type": "manga-canon",
+			"aired_date": "1986-09-11"
+		},
+		{
+			"episode": 89,
+			"title": "The Crisis is Near! Ken, Destiny Awaits at the Capital of the South Star!",
+			"type": "manga-canon",
+			"aired_date": "1986-09-25"
+		},
+		{
+			"episode": 90,
+			"title": "I Am Juza of the Clouds! I Shall Move with the Flow of Time!!",
+			"type": "manga-canon",
+			"aired_date": "1986-10-19"
+		},
+		{
+			"episode": 91,
+			"title": "The Clouds Remain! The Masked General is Finally Revealed!!",
+			"type": "manga-canon",
+			"aired_date": "1986-10-23"
+		},
+		{
+			"episode": 92,
+			"title": "Juza of the Clouds Resurrects! I Have No Fear for Raoh!!",
+			"type": "manga-canon",
+			"aired_date": "1986-10-30"
+		},
+		{
+			"episode": 93,
+			"title": "Juza vs Raoh! An End of the Legend of the Invincible!!",
+			"type": "manga-canon",
+			"aired_date": "1986-11-06"
+		},
+		{
+			"episode": 94,
+			"title": "Fudo in Peril!! Hurry, Ken. A Man Must Not Abandon His Friends!!",
+			"type": "manga-canon",
+			"aired_date": "1986-11-13"
+		},
+		{
+			"episode": 95,
+			"title": "Treacherous Quicksand! Will the Hand of Salvation Reach Fudo?",
+			"type": "manga-canon",
+			"aired_date": "1986-11-20"
+		},
+		{
+			"episode": 96,
+			"title": "Juza Falls! I'll Give My Life to Protect the Woman I Love",
+			"type": "manga-canon",
+			"aired_date": "1986-11-27"
+		},
+		{
+			"episode": 97,
+			"title": "Farewell Yuria! A Strong Man Will Not Speak of Love, Even in Death!!",
+			"type": "manga-canon",
+			"aired_date": "1986-12-04"
+		},
+		{
+			"episode": 98,
+			"title": "The Capital of the South Star Trembles! The Two Brothers of the North Star Finally Arrive!!",
+			"type": "filler",
+			"aired_date": "1986-12-11"
+		},
+		{
+			"episode": 99,
+			"title": "Sadness of the Five Chariot Stars! Love and Destiny Looms Over the Woman!!",
+			"type": "manga-canon",
+			"aired_date": "1986-12-18"
+		},
+		{
+			"episode": 100,
+			"title": "The Ultimate Secret Technique, Unconscious Transmigration! Raoh, I've Got You Now!!",
+			"type": "manga-canon",
+			"aired_date": "1986-12-25"
+		},
+		{
+			"episode": 101,
+			"title": "Is It the End of Raoh and His Ambitions? The Heaven Hesitates Once Again!!",
+			"type": "manga-canon",
+			"aired_date": "1987-01-08"
+		},
+		{
+			"episode": 102,
+			"title": "Raoh, the Confused Giant! I Don't Believe in Love!!",
+			"type": "manga-canon",
+			"aired_date": "1987-01-15"
+		},
+		{
+			"episode": 103,
+			"title": "A Challenge From the Devil! Fudo, Be the Demon for Those You Love!!",
+			"type": "manga-canon",
+			"aired_date": "1987-01-22"
+		},
+		{
+			"episode": 104,
+			"title": "Fudo, the Gentle Warrior! His Tears Awaken a Fiery Soul!!",
+			"type": "manga-canon",
+			"aired_date": "1987-01-29"
+		},
+		{
+			"episode": 105,
+			"title": "Protect the Merciful Mother of the South Star! Even If It's the End of the Five Chariots!!",
+			"type": "filler",
+			"aired_date": "1987-02-05"
+		},
+		{
+			"episode": 106,
+			"title": "Raoh, Shaken by a Nightmare! Yuria, You Are the Only One!!",
+			"type": "manga-canon",
+			"aired_date": "1987-02-12"
+		},
+		{
+			"episode": 107,
+			"title": "Showdown at the North Star Mind and Body Training Ground! No One Can Stop Them Now!!",
+			"type": "manga-canon",
+			"aired_date": "1987-02-19"
+		},
+		{
+			"episode": 108,
+			"title": "Farewell, the Brothers of the North Star! They're Beyond Love and Sorrow!!",
+			"type": "manga-canon",
+			"aired_date": "1987-02-26"
+		},
+		{
+			"episode": 109,
+			"title": "Conclusion of the Final Chapter - Now Revealed!! The 2000 Year History of the North Star!!",
+			"type": "filler",
+			"aired_date": "1987-03-05"
+		}
+	]
+}

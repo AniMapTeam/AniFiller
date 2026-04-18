@@ -1,0 +1,268 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Great Teacher Onizuka",
+	"mappings": {
+		"anilist_id": 245,
+		"mal_id": 245
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "GTO - The Legend Begins",
+			"type": "manga-canon",
+			"aired_date": "1999-06-30"
+		},
+		{
+			"episode": 2,
+			"title": "Enter Uchiyamada!",
+			"type": "manga-canon",
+			"aired_date": "1999-07-07"
+		},
+		{
+			"episode": 3,
+			"title": "Late Night Roof Diving",
+			"type": "manga-canon",
+			"aired_date": "1999-07-21"
+		},
+		{
+			"episode": 4,
+			"title": "The Secret Life of Onizuka",
+			"type": "manga-canon",
+			"aired_date": "1999-08-11"
+		},
+		{
+			"episode": 5,
+			"title": "An Eye for an Eye, a Butt for a Butt",
+			"type": "manga-canon",
+			"aired_date": "1999-08-18"
+		},
+		{
+			"episode": 6,
+			"title": "Conspiracies All Around",
+			"type": "manga-canon",
+			"aired_date": "1999-08-25"
+		},
+		{
+			"episode": 7,
+			"title": "The Mother of all Crushes",
+			"type": "manga-canon",
+			"aired_date": "1999-09-01"
+		},
+		{
+			"episode": 8,
+			"title": "Bungee Jumping Made Easy",
+			"type": "manga-canon",
+			"aired_date": "1999-09-08"
+		},
+		{
+			"episode": 9,
+			"title": "Onizuka and the Art of War",
+			"type": "manga-canon",
+			"aired_date": "1999-09-22"
+		},
+		{
+			"episode": 10,
+			"title": "Outside Looking In",
+			"type": "manga-canon",
+			"aired_date": "1999-09-22"
+		},
+		{
+			"episode": 11,
+			"title": "To Be Idolized by a Nation",
+			"type": "manga-canon",
+			"aired_date": "1999-10-17"
+		},
+		{
+			"episode": 12,
+			"title": "The Formula for Treachery",
+			"type": "manga-canon",
+			"aired_date": "1999-10-31"
+		},
+		{
+			"episode": 13,
+			"title": "Only the Best Will Do",
+			"type": "manga-canon",
+			"aired_date": "1999-11-21"
+		},
+		{
+			"episode": 14,
+			"title": "Between a Rock and a Hard Place",
+			"type": "manga-canon",
+			"aired_date": "1999-12-05"
+		},
+		{
+			"episode": 15,
+			"title": "The Great Sacrifice",
+			"type": "manga-canon",
+			"aired_date": "1999-12-12"
+		},
+		{
+			"episode": 16,
+			"title": "Beauty + Brains = A Dangerous Mix",
+			"type": "manga-canon",
+			"aired_date": "1999-12-19"
+		},
+		{
+			"episode": 17,
+			"title": "Falling for The Great Onizuka",
+			"type": "manga-canon",
+			"aired_date": "2000-01-16"
+		},
+		{
+			"episode": 18,
+			"title": "How to Dine and Dash",
+			"type": "manga-canon",
+			"aired_date": "2000-01-23"
+		},
+		{
+			"episode": 19,
+			"title": "Private Investigations",
+			"type": "manga-canon",
+			"aired_date": "2000-01-30"
+		},
+		{
+			"episode": 20,
+			"title": "Love Letters",
+			"type": "manga-canon",
+			"aired_date": "2000-02-06"
+		},
+		{
+			"episode": 21,
+			"title": "Revolution Everywhere",
+			"type": "manga-canon",
+			"aired_date": "2000-02-13"
+		},
+		{
+			"episode": 22,
+			"title": "The Art of Demolition",
+			"type": "manga-canon",
+			"aired_date": "2000-02-20"
+		},
+		{
+			"episode": 23,
+			"title": "Superstition",
+			"type": "filler",
+			"aired_date": "2000-02-27"
+		},
+		{
+			"episode": 24,
+			"title": "Compromising Positions",
+			"type": "manga-canon",
+			"aired_date": "2000-03-05"
+		},
+		{
+			"episode": 25,
+			"title": "Playing Doctor - GTO Style",
+			"type": "filler",
+			"aired_date": "2000-03-12"
+		},
+		{
+			"episode": 26,
+			"title": "Onizuka Meets His Match",
+			"type": "filler",
+			"aired_date": "2000-03-19"
+		},
+		{
+			"episode": 27,
+			"title": "GTO - Agent to the Stars",
+			"type": "filler",
+			"aired_date": "2000-04-02"
+		},
+		{
+			"episode": 28,
+			"title": "Whatever Can Go Wrong, Will Go Wrong",
+			"type": "filler",
+			"aired_date": "2000-04-16"
+		},
+		{
+			"episode": 29,
+			"title": "Studies in High Finance",
+			"type": "manga-canon",
+			"aired_date": "2000-04-23"
+		},
+		{
+			"episode": 30,
+			"title": "Money Talks, GTO Walks",
+			"type": "manga-canon",
+			"aired_date": "2000-04-30"
+		},
+		{
+			"episode": 31,
+			"title": "Destination: Okinawa",
+			"type": "manga-canon",
+			"aired_date": "2000-05-07"
+		},
+		{
+			"episode": 32,
+			"title": "The Law of Probability",
+			"type": "manga-canon",
+			"aired_date": "2000-05-14"
+		},
+		{
+			"episode": 33,
+			"title": "Search and Rescue",
+			"type": "manga-canon",
+			"aired_date": "2000-05-28"
+		},
+		{
+			"episode": 34,
+			"title": "Good CopBad Cop",
+			"type": "filler",
+			"aired_date": "2000-06-04"
+		},
+		{
+			"episode": 35,
+			"title": "Wedding Bell Blues",
+			"type": "manga-canon",
+			"aired_date": "2000-06-11"
+		},
+		{
+			"episode": 36,
+			"title": "Self-Improvement",
+			"type": "manga-canon",
+			"aired_date": "2000-06-18"
+		},
+		{
+			"episode": 37,
+			"title": "Living Together",
+			"type": "manga-canon",
+			"aired_date": "2000-07-16"
+		},
+		{
+			"episode": 38,
+			"title": "Great Treasure Okinawa",
+			"type": "manga-canon",
+			"aired_date": "2000-07-30"
+		},
+		{
+			"episode": 39,
+			"title": "Alone in the Dark",
+			"type": "manga-canon",
+			"aired_date": "2000-08-13"
+		},
+		{
+			"episode": 40,
+			"title": "Matters of the Heart",
+			"type": "manga-canon",
+			"aired_date": "2000-08-20"
+		},
+		{
+			"episode": 41,
+			"title": "Confessions",
+			"type": "manga-canon",
+			"aired_date": "2000-08-27"
+		},
+		{
+			"episode": 42,
+			"title": "Old Wounds Revisited",
+			"type": "filler",
+			"aired_date": "2000-09-10"
+		},
+		{
+			"episode": 43,
+			"title": "Onizuka's Final Battle",
+			"type": "filler",
+			"aired_date": "2000-09-17"
+		}
+	]
+}

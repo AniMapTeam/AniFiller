@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "High School DxD BorN",
+	"mappings": {
+		"anilist_id": 20745,
+		"mal_id": 24703
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Summer Break! Off to the Underworld!",
+			"type": "manga-canon",
+			"aired_date": "2015-04-04"
+		},
+		{
+			"episode": 2,
+			"title": "Young Devils Gather!",
+			"type": "manga-canon",
+			"aired_date": "2015-04-11"
+		},
+		{
+			"episode": 3,
+			"title": "Cat and Dragon!",
+			"type": "manga-canon",
+			"aired_date": "2015-04-18"
+		},
+		{
+			"episode": 4,
+			"title": "Interception, Commence!",
+			"type": "manga-canon",
+			"aired_date": "2015-04-25"
+		},
+		{
+			"episode": 5,
+			"title": "The Last Day of Summer Break!",
+			"type": "mixed-manga",
+			"aired_date": "2015-05-02"
+		},
+		{
+			"episode": 6,
+			"title": "Second Trimester has Started!",
+			"type": "manga-canon",
+			"aired_date": "2015-05-09"
+		},
+		{
+			"episode": 7,
+			"title": "The Night Before Battle!",
+			"type": "manga-canon",
+			"aired_date": "2015-05-16"
+		},
+		{
+			"episode": 8,
+			"title": "We Will Save Asia!",
+			"type": "manga-canon",
+			"aired_date": "2015-05-23"
+		},
+		{
+			"episode": 9,
+			"title": "Dragon of Dragon",
+			"type": "mixed-manga",
+			"aired_date": "2015-05-30"
+		},
+		{
+			"episode": 10,
+			"title": "The Occult Club Disappears?!",
+			"type": "filler",
+			"aired_date": "2015-06-06"
+		},
+		{
+			"episode": 11,
+			"title": "I Will Fight!",
+			"type": "filler",
+			"aired_date": "2015-06-13"
+		},
+		{
+			"episode": 12,
+			"title": "Any Time, For All Time!",
+			"type": "filler",
+			"aired_date": "2015-06-20"
+		}
+	]
+}

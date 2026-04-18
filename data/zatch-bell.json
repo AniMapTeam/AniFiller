@@ -1,0 +1,910 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Zatch Bell! (Konjiki no Gash Bell!!)",
+	"mappings": {
+		"anilist_id": 250,
+		"mal_id": 250
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Lightning Boy from Another World!",
+			"type": "manga-canon",
+			"aired_date": "2003-04-06"
+		},
+		{
+			"episode": 2,
+			"title": "A Freezing Spell",
+			"type": "manga-canon",
+			"aired_date": "2003-04-13"
+		},
+		{
+			"episode": 3,
+			"title": "The Second Spell!",
+			"type": "manga-canon",
+			"aired_date": "2003-04-20"
+		},
+		{
+			"episode": 4,
+			"title": "The Great Mamodo Battle",
+			"type": "manga-canon",
+			"aired_date": "2003-04-27"
+		},
+		{
+			"episode": 5,
+			"title": "The Dark Mamodo",
+			"type": "manga-canon",
+			"aired_date": "2003-05-04"
+		},
+		{
+			"episode": 6,
+			"title": "The Mystery Of The Missing Red Book",
+			"type": "manga-canon",
+			"aired_date": "2003-05-11"
+		},
+		{
+			"episode": 7,
+			"title": "Botanical Madness",
+			"type": "manga-canon",
+			"aired_date": "2003-05-25"
+		},
+		{
+			"episode": 8,
+			"title": "A Kind Mamodo, Kolulu",
+			"type": "manga-canon",
+			"aired_date": "2003-05-25"
+		},
+		{
+			"episode": 9,
+			"title": "The Third Spell",
+			"type": "manga-canon",
+			"aired_date": "2003-06-01"
+		},
+		{
+			"episode": 10,
+			"title": "The Elite Mamodo",
+			"type": "manga-canon",
+			"aired_date": "2003-06-08"
+		},
+		{
+			"episode": 11,
+			"title": "The Invincible Folgore",
+			"type": "manga-canon",
+			"aired_date": "2003-06-15"
+		},
+		{
+			"episode": 12,
+			"title": "Sherry's Rhapsody Of Life",
+			"type": "manga-canon",
+			"aired_date": "2003-06-22"
+		},
+		{
+			"episode": 13,
+			"title": "The Rematch: Zatch and Hyde Meet Again",
+			"type": "manga-canon",
+			"aired_date": "2003-07-13"
+		},
+		{
+			"episode": 14,
+			"title": "The Tomboy and the Pop Star",
+			"type": "manga-canon",
+			"aired_date": "2003-07-13"
+		},
+		{
+			"episode": 15,
+			"title": "A New Pledge Between Zatch and Tia",
+			"type": "manga-canon",
+			"aired_date": "2003-07-20"
+		},
+		{
+			"episode": 16,
+			"title": "The Invulnerable Robnos",
+			"type": "manga-canon",
+			"aired_date": "2003-07-27"
+		},
+		{
+			"episode": 17,
+			"title": "Kiyo's Curry Camping Trip",
+			"type": "manga-canon",
+			"aired_date": "2003-08-03"
+		},
+		{
+			"episode": 18,
+			"title": "London Calling",
+			"type": "manga-canon",
+			"aired_date": "2003-08-10"
+		},
+		{
+			"episode": 19,
+			"title": "The Dark Lord of the Cursed Castle",
+			"type": "manga-canon",
+			"aired_date": "2003-08-17"
+		},
+		{
+			"episode": 20,
+			"title": "The Flowers of Evil",
+			"type": "manga-canon",
+			"aired_date": "2003-08-24"
+		},
+		{
+			"episode": 21,
+			"title": "Another Zatch",
+			"type": "manga-canon",
+			"aired_date": "2003-08-31"
+		},
+		{
+			"episode": 22,
+			"title": "The Dancing Mamodo",
+			"type": "manga-canon",
+			"aired_date": "2003-09-07"
+		},
+		{
+			"episode": 23,
+			"title": "Go For It, Ponygon!",
+			"type": "manga-canon",
+			"aired_date": "2003-09-14"
+		},
+		{
+			"episode": 24,
+			"title": "Apollo, the Free Traveler",
+			"type": "manga-canon",
+			"aired_date": "2003-09-21"
+		},
+		{
+			"episode": 25,
+			"title": "Apollo, the Free Traveler Part",
+			"type": "manga-canon",
+			"aired_date": "2003-09-28"
+		},
+		{
+			"episode": 26,
+			"title": "A Day With Zatch",
+			"type": "manga-canon",
+			"aired_date": "2003-10-05"
+		},
+		{
+			"episode": 27,
+			"title": "Danny Boy",
+			"type": "manga-canon",
+			"aired_date": "2003-10-12"
+		},
+		{
+			"episode": 28,
+			"title": "Tia and Megumi's Excellent Adventure",
+			"type": "manga-canon",
+			"aired_date": "2003-10-19"
+		},
+		{
+			"episode": 29,
+			"title": "Amusement Park Battle",
+			"type": "manga-canon",
+			"aired_date": "2003-10-26"
+		},
+		{
+			"episode": 30,
+			"title": "Zatch and Tia: A Fierce Combination",
+			"type": "manga-canon",
+			"aired_date": "2003-11-02"
+		},
+		{
+			"episode": 31,
+			"title": "The Cute Transfer Student",
+			"type": "filler",
+			"aired_date": "2003-11-09"
+		},
+		{
+			"episode": 32,
+			"title": "Shion's Secret",
+			"type": "filler",
+			"aired_date": "2003-11-16"
+		},
+		{
+			"episode": 33,
+			"title": "The Joining of the Three",
+			"type": "filler",
+			"aired_date": "2003-11-23"
+		},
+		{
+			"episode": 34,
+			"title": "Sunset Soaked in Tears",
+			"type": "filler",
+			"aired_date": "2003-11-30"
+		},
+		{
+			"episode": 35,
+			"title": "The Final Mirror Battle",
+			"type": "filler",
+			"aired_date": "2003-12-07"
+		},
+		{
+			"episode": 36,
+			"title": "Collision: Zatch vs. Naomi",
+			"type": "manga-canon",
+			"aired_date": "2003-12-14"
+		},
+		{
+			"episode": 37,
+			"title": "Battle in Hong Kong",
+			"type": "manga-canon",
+			"aired_date": "2003-12-21"
+		},
+		{
+			"episode": 38,
+			"title": "Battle in Hong Kong Part 2",
+			"type": "manga-canon",
+			"aired_date": "2003-12-28"
+		},
+		{
+			"episode": 39,
+			"title": "The Invisible Hunter",
+			"type": "manga-canon",
+			"aired_date": "2004-01-11"
+		},
+		{
+			"episode": 40,
+			"title": "Big Brother Kanchome",
+			"type": "manga-canon",
+			"aired_date": "2004-01-18"
+		},
+		{
+			"episode": 41,
+			"title": "Invincible Kanchome",
+			"type": "manga-canon",
+			"aired_date": "2004-01-25"
+		},
+		{
+			"episode": 42,
+			"title": "Coldhearted Foes",
+			"type": "manga-canon",
+			"aired_date": "2004-02-01"
+		},
+		{
+			"episode": 43,
+			"title": "Praying Mantis Joe: The Hero of Justice",
+			"type": "manga-canon",
+			"aired_date": "2004-02-08"
+		},
+		{
+			"episode": 44,
+			"title": "Invitation to a Duel",
+			"type": "manga-canon",
+			"aired_date": "2004-02-15"
+		},
+		{
+			"episode": 45,
+			"title": "Zatch vs. Bari",
+			"type": "manga-canon",
+			"aired_date": "2004-02-22"
+		},
+		{
+			"episode": 46,
+			"title": "Ponygon's Close Call",
+			"type": "manga-canon",
+			"aired_date": "2004-02-29"
+		},
+		{
+			"episode": 47,
+			"title": "Rumble in the Snow",
+			"type": "manga-canon",
+			"aired_date": "2004-03-07"
+		},
+		{
+			"episode": 48,
+			"title": "The Mystery of the Stone Tablets",
+			"type": "manga-canon",
+			"aired_date": "2004-03-14"
+		},
+		{
+			"episode": 49,
+			"title": "Dr. Riddles and the Majestic Twelve",
+			"type": "manga-canon",
+			"aired_date": "2004-03-21"
+		},
+		{
+			"episode": 50,
+			"title": "The Sixth Spell",
+			"type": "manga-canon",
+			"aired_date": "2004-03-28"
+		},
+		{
+			"episode": 51,
+			"title": "The Masked Mamodo",
+			"type": "manga-canon",
+			"aired_date": "2004-04-04"
+		},
+		{
+			"episode": 52,
+			"title": "My Beloved Zatch",
+			"type": "manga-canon",
+			"aired_date": "2004-04-11"
+		},
+		{
+			"episode": 53,
+			"title": "So Giaku, The Water Dragon of Rage!",
+			"type": "manga-canon",
+			"aired_date": "2004-04-18"
+		},
+		{
+			"episode": 54,
+			"title": "Battle at the Park! Zatch vs. Kiyo!?",
+			"type": "manga-canon",
+			"aired_date": "2004-04-25"
+		},
+		{
+			"episode": 55,
+			"title": "Penny's Revenge! Assassins on the Loose!",
+			"type": "manga-canon",
+			"aired_date": "2004-05-02"
+		},
+		{
+			"episode": 56,
+			"title": "The Light of Hope, Saifogeo!",
+			"type": "manga-canon",
+			"aired_date": "2004-05-09"
+		},
+		{
+			"episode": 57,
+			"title": "Battle on the Sands: Brago vs. The Silent Rulers!",
+			"type": "manga-canon",
+			"aired_date": "2004-05-16"
+		},
+		{
+			"episode": 58,
+			"title": "Defeat Milordo-Z! Each Person's Resolve!",
+			"type": "manga-canon",
+			"aired_date": "2004-05-23"
+		},
+		{
+			"episode": 59,
+			"title": "Charge into the Ruins! Kanchomé's Strategy!",
+			"type": "manga-canon",
+			"aired_date": "2004-05-30"
+		},
+		{
+			"episode": 60,
+			"title": "The Labyrinth's Angry Torrent",
+			"type": "manga-canon",
+			"aired_date": "2004-06-06"
+		},
+		{
+			"episode": 61,
+			"title": "Spell of Sorrow",
+			"type": "manga-canon",
+			"aired_date": "2004-06-13"
+		},
+		{
+			"episode": 62,
+			"title": "Impact of the V! Very Melon!",
+			"type": "manga-canon",
+			"aired_date": "2004-06-20"
+		},
+		{
+			"episode": 63,
+			"title": "Burrah! Victoream's Anger!",
+			"type": "manga-canon",
+			"aired_date": "2004-06-27"
+		},
+		{
+			"episode": 64,
+			"title": "The Fierce Attack of Dalmos! The Battle on Top of the Sand!",
+			"type": "manga-canon",
+			"aired_date": "2004-07-04"
+		},
+		{
+			"episode": 65,
+			"title": "Ponygon's Lightning Speed!",
+			"type": "manga-canon",
+			"aired_date": "2004-07-11"
+		},
+		{
+			"episode": 66,
+			"title": "The Red Spell Book of Promise!",
+			"type": "manga-canon",
+			"aired_date": "2004-07-18"
+		},
+		{
+			"episode": 67,
+			"title": "The Wonderful Majestic Twelve Return",
+			"type": "manga-canon",
+			"aired_date": "2004-08-01"
+		},
+		{
+			"episode": 68,
+			"title": "Tia's Plan to Confess!",
+			"type": "manga-canon",
+			"aired_date": "2004-08-08"
+		},
+		{
+			"episode": 69,
+			"title": "Zofis' Evil Desires",
+			"type": "manga-canon",
+			"aired_date": "2004-08-15"
+		},
+		{
+			"episode": 70,
+			"title": "The Four Supreme Mamodo!",
+			"type": "manga-canon",
+			"aired_date": "2004-08-22"
+		},
+		{
+			"episode": 71,
+			"title": "The Roar of Rao Diboren!",
+			"type": "manga-canon",
+			"aired_date": "2004-08-29"
+		},
+		{
+			"episode": 72,
+			"title": "Sing for Your Lives! The Terrible Belgim E.O.",
+			"type": "manga-canon",
+			"aired_date": "2004-09-05"
+		},
+		{
+			"episode": 73,
+			"title": "Dr. Riddles, You'll Always Be My King!",
+			"type": "manga-canon",
+			"aired_date": "2004-09-12"
+		},
+		{
+			"episode": 74,
+			"title": "Pamoon, the Celestial Warrior",
+			"type": "manga-canon",
+			"aired_date": "2004-09-19"
+		},
+		{
+			"episode": 75,
+			"title": "Free Yourself from a Thousand Years of Pain!",
+			"type": "manga-canon",
+			"aired_date": "2004-09-26"
+		},
+		{
+			"episode": 76,
+			"title": "No Escape! The Wicked Zofis Returns!",
+			"type": "manga-canon",
+			"aired_date": "2004-10-03"
+		},
+		{
+			"episode": 77,
+			"title": "The Return of Sherry and Brago!",
+			"type": "manga-canon",
+			"aired_date": "2004-10-17"
+		},
+		{
+			"episode": 78,
+			"title": "I Won't Go Back! Laila's Dark Solitude",
+			"type": "manga-canon",
+			"aired_date": "2004-10-24"
+		},
+		{
+			"episode": 79,
+			"title": "The Last of the Supreme Mamodo",
+			"type": "manga-canon",
+			"aired_date": "2004-10-24"
+		},
+		{
+			"episode": 80,
+			"title": "The Crazed Warrior: Berzerker!",
+			"type": "manga-canon",
+			"aired_date": "2004-10-31"
+		},
+		{
+			"episode": 81,
+			"title": "Victory At Any Cost!",
+			"type": "manga-canon",
+			"aired_date": "2004-11-07"
+		},
+		{
+			"episode": 82,
+			"title": "Selfish Penny's Goodbye",
+			"type": "manga-canon",
+			"aired_date": "2004-11-14"
+		},
+		{
+			"episode": 83,
+			"title": "Zagurzem, the 7th Spell!",
+			"type": "manga-canon",
+			"aired_date": "2004-11-21"
+		},
+		{
+			"episode": 84,
+			"title": "The Final Battle with Demolt!",
+			"type": "manga-canon",
+			"aired_date": "2004-11-28"
+		},
+		{
+			"episode": 85,
+			"title": "Sherry and Koko: The Bond that Can't Be Broken!",
+			"type": "manga-canon",
+			"aired_date": "2004-12-05"
+		},
+		{
+			"episode": 86,
+			"title": "Zofis Strikes Back: The Final Showdown of Friendship!",
+			"type": "manga-canon",
+			"aired_date": "2004-12-12"
+		},
+		{
+			"episode": 87,
+			"title": "Save Koko! Sherry's Dioga Gravidon!",
+			"type": "manga-canon",
+			"aired_date": "2004-12-19"
+		},
+		{
+			"episode": 88,
+			"title": "A New Departure!",
+			"type": "manga-canon",
+			"aired_date": "2004-12-26"
+		},
+		{
+			"episode": 89,
+			"title": "The Magnificent Victoream Returns!",
+			"type": "filler",
+			"aired_date": "2005-01-09"
+		},
+		{
+			"episode": 90,
+			"title": "The Hurricane Test Battle!",
+			"type": "filler",
+			"aired_date": "2005-01-16"
+		},
+		{
+			"episode": 91,
+			"title": "Naomi's Evil Plot",
+			"type": "filler",
+			"aired_date": "2005-01-23"
+		},
+		{
+			"episode": 92,
+			"title": "Dr. Riddles' Renewed Vow",
+			"type": "filler",
+			"aired_date": "2005-01-30"
+		},
+		{
+			"episode": 93,
+			"title": "A Voice From Another World!",
+			"type": "filler",
+			"aired_date": "2005-02-06"
+		},
+		{
+			"episode": 94,
+			"title": "The Door to a Different World! Brago vs. Zatch",
+			"type": "filler",
+			"aired_date": "2005-02-13"
+		},
+		{
+			"episode": 95,
+			"title": "Attack of the Iron Army!",
+			"type": "filler",
+			"aired_date": "2005-02-20"
+		},
+		{
+			"episode": 96,
+			"title": "The Battle With Brago - Without Sherry!",
+			"type": "filler",
+			"aired_date": "2005-02-27"
+		},
+		{
+			"episode": 97,
+			"title": "Maestro's Revenge on the Mamodo World!",
+			"type": "filler",
+			"aired_date": "2005-03-06"
+		},
+		{
+			"episode": 98,
+			"title": "The Decisive Battle in the In-Between World!",
+			"type": "filler",
+			"aired_date": "2005-03-18"
+		},
+		{
+			"episode": 99,
+			"title": "Miss Wriggle's Class is Now in Session",
+			"type": "filler",
+			"aired_date": "2005-03-20"
+		},
+		{
+			"episode": 100,
+			"title": "The Bagpipes of Sadness!",
+			"type": "filler",
+			"aired_date": "2005-03-27"
+		},
+		{
+			"episode": 101,
+			"title": "The Boy that Speaks to the Wind!",
+			"type": "manga-canon",
+			"aired_date": "2005-04-03"
+		},
+		{
+			"episode": 102,
+			"title": "The Beginning of a Friendship, and the End of a Spell?",
+			"type": "manga-canon",
+			"aired_date": "2005-04-10"
+		},
+		{
+			"episode": 103,
+			"title": "Ted's Blues: The Girl in the Wind",
+			"type": "manga-canon",
+			"aired_date": "2005-04-17"
+		},
+		{
+			"episode": 104,
+			"title": "The Idol vs. the Schoolgirl!",
+			"type": "manga-canon",
+			"aired_date": "2005-04-24"
+		},
+		{
+			"episode": 105,
+			"title": "Koral-Q's Attack Transformation",
+			"type": "manga-canon",
+			"aired_date": "2005-05-01"
+		},
+		{
+			"episode": 106,
+			"title": "Koral-Q's Counterattack on Every Spell!?",
+			"type": "manga-canon",
+			"aired_date": "2005-05-08"
+		},
+		{
+			"episode": 107,
+			"title": "The Chain Evolution to a new Bao",
+			"type": "manga-canon",
+			"aired_date": "2005-05-15"
+		},
+		{
+			"episode": 108,
+			"title": "Homesick!? Hana and Mother. Wanderlust Gash",
+			"type": "manga-canon",
+			"aired_date": "2005-05-22"
+		},
+		{
+			"episode": 109,
+			"title": "Duel in the Northern Country. Fated Rival. Umagon Frozen!!",
+			"type": "manga-canon",
+			"aired_date": "2005-05-29"
+		},
+		{
+			"episode": 110,
+			"title": "Karudio's Fierce Attack! Fighters Who Burn Up the Snow Field. Umagon's New Flame.",
+			"type": "manga-canon",
+			"aired_date": "2005-06-05"
+		},
+		{
+			"episode": 111,
+			"title": "Dance! Burst Open! Swing! Huge Airport.",
+			"type": "manga-canon",
+			"aired_date": "2005-06-12"
+		},
+		{
+			"episode": 112,
+			"title": "Spin! Spin! Fall! Fall! Explosive Ice Skating!!",
+			"type": "manga-canon",
+			"aired_date": "2005-06-19"
+		},
+		{
+			"episode": 113,
+			"title": "A Letter From a Friend. Burn the Book!! Rein's True Identity",
+			"type": "manga-canon",
+			"aired_date": "2005-06-26"
+		},
+		{
+			"episode": 114,
+			"title": "Weakling Kyle. Papipurio's Mustache. Rodeux's Trap",
+			"type": "manga-canon",
+			"aired_date": "2005-07-03"
+		},
+		{
+			"episode": 115,
+			"title": "Rodeux's Fierce Attack. Dying Rein. Awaken, Kyle",
+			"type": "manga-canon",
+			"aired_date": "2005-07-10"
+		},
+		{
+			"episode": 116,
+			"title": "Ultimate Spell Explosion! Garubadosu Aborodio. Rein's Dream",
+			"type": "manga-canon",
+			"aired_date": "2005-07-17"
+		},
+		{
+			"episode": 117,
+			"title": "Kung Fu of Passion. Wonrei's Tragedy. Last Chapter of a Love Song",
+			"type": "manga-canon",
+			"aired_date": "2005-07-24"
+		},
+		{
+			"episode": 118,
+			"title": "Kidnapped Gash! Trap Over the Sea. Sinking Dartagnan",
+			"type": "manga-canon",
+			"aired_date": "2005-08-07"
+		},
+		{
+			"episode": 119,
+			"title": "Tio's Spirit. The One And Only Partner. When Wounds Heal",
+			"type": "manga-canon",
+			"aired_date": "2005-08-14"
+		},
+		{
+			"episode": 120,
+			"title": "It was Seen? Oyoyo~ Prospering Momon. Tio's Gigantic Explosion!",
+			"type": "manga-canon",
+			"aired_date": "2005-08-21"
+		},
+		{
+			"episode": 121,
+			"title": "Awaken, Jealousy. The Angered Goddess. Chaajiru Saifodon",
+			"type": "manga-canon",
+			"aired_date": "2005-08-28"
+		},
+		{
+			"episode": 122,
+			"title": "Legend of Kaguya. Gash's Summer Festival. Girl Who Returned to the Moon",
+			"type": "manga-canon",
+			"aired_date": "2005-09-04"
+		},
+		{
+			"episode": 123,
+			"title": "Roar of Pride. Bari vs. Ted. Which Will Disappear?",
+			"type": "manga-canon",
+			"aired_date": "2005-09-11"
+		},
+		{
+			"episode": 124,
+			"title": "Premonition of Separation. Suzume's Confession. Hiking of Love and Youth",
+			"type": "manga-canon",
+			"aired_date": "2005-09-18"
+		},
+		{
+			"episode": 125,
+			"title": "Heartless Riou. The Cursed Demons. Now, to Faudo",
+			"type": "manga-canon",
+			"aired_date": "2005-09-25"
+		},
+		{
+			"episode": 126,
+			"title": "Journey From Which You Cannot Return. Wavering Determination. Faudo's True Form!",
+			"type": "manga-canon",
+			"aired_date": "2005-10-02"
+		},
+		{
+			"episode": 127,
+			"title": "Arrival at Faudo! Desperate Assault. Assassins That Awaited",
+			"type": "manga-canon",
+			"aired_date": "2005-10-09"
+		},
+		{
+			"episode": 128,
+			"title": "Keith, Buzarai. Symphony of Death. Goodbye, Kanchome",
+			"type": "manga-canon",
+			"aired_date": "2005-10-16"
+		},
+		{
+			"episode": 129,
+			"title": "Miraculous New Spell. Dima Buruku. I am not a Weakling!",
+			"type": "manga-canon",
+			"aired_date": "2005-10-23"
+		},
+		{
+			"episode": 130,
+			"title": "Buzarai's Fierce Attack. Dioga VS Baou. Reversal chain",
+			"type": "manga-canon",
+			"aired_date": "2005-10-30"
+		},
+		{
+			"episode": 131,
+			"title": "Determination of the King. Friends? The World? Gash's Decision",
+			"type": "manga-canon",
+			"aired_date": "2005-11-06"
+		},
+		{
+			"episode": 132,
+			"title": "Test Within the Stomach. Break Through Difficult Questions. Tintin Chance.",
+			"type": "manga-canon",
+			"aired_date": "2005-11-13"
+		},
+		{
+			"episode": 133,
+			"title": "Cool-Headed Zaruchim. The Truth of the Curse. Stand Up Alishie!",
+			"type": "manga-canon",
+			"aired_date": "2005-11-20"
+		},
+		{
+			"episode": 134,
+			"title": "Fighting For Whom? Wonrei and Alishie. Decision of Suffering",
+			"type": "manga-canon",
+			"aired_date": "2005-11-27"
+		},
+		{
+			"episode": 135,
+			"title": "Faudo: Deadly Zone. The Demon That Beats the Heart. Momon's Tears",
+			"type": "manga-canon",
+			"aired_date": "2005-12-04"
+		},
+		{
+			"episode": 136,
+			"title": "Faudo's Revival Draws Near. Return Device Activated. Rivals Stand in the Way",
+			"type": "manga-canon",
+			"aired_date": "2005-12-11"
+		},
+		{
+			"episode": 137,
+			"title": "The Curse's Time Limit. Crush the Seal! Reach, Gash's Feelings",
+			"type": "manga-canon",
+			"aired_date": "2005-12-18"
+		},
+		{
+			"episode": 138,
+			"title": "Demonic soldier Faudo. Light in the middle of despair. Kiyomaro's secret plan",
+			"type": "manga-canon",
+			"aired_date": "2005-12-25"
+		},
+		{
+			"episode": 139,
+			"title": "Aim for the brain! Roaring Faudo. Desperate re-entry",
+			"type": "filler",
+			"aired_date": "2006-01-08"
+		},
+		{
+			"episode": 140,
+			"title": "Those who won't become King. Do or die! Final fist.",
+			"type": "filler",
+			"aired_date": "2006-01-15"
+		},
+		{
+			"episode": 141,
+			"title": "Burning Umagon. Freezing Karudio. Run to Victory!!",
+			"type": "filler",
+			"aired_date": "2006-01-22"
+		},
+		{
+			"episode": 142,
+			"title": "Sealed room. Aleshie's fight. Destiny once more!",
+			"type": "filler",
+			"aired_date": "2006-01-29"
+		},
+		{
+			"episode": 143,
+			"title": "Burn Up Life. Warrior Alishie. The Conclusion!? Zaruchimu",
+			"type": "filler",
+			"aired_date": "2006-02-05"
+		},
+		{
+			"episode": 144,
+			"title": "We are Kings. Kanchomé and Momon. Defeat Keith!",
+			"type": "filler",
+			"aired_date": "2006-02-12"
+		},
+		{
+			"episode": 145,
+			"title": "Screams that won't reach. Ted vs. Cherish. Things more important than King",
+			"type": "filler",
+			"aired_date": "2006-02-19"
+		},
+		{
+			"episode": 146,
+			"title": "Faudo's safeguards. From Arth to Gash. Trusted future",
+			"type": "filler",
+			"aired_date": "2006-02-26"
+		},
+		{
+			"episode": 147,
+			"title": "Reversed future. Thunder emperor Zeon. Prelude to ruin",
+			"type": "filler",
+			"aired_date": "2006-03-05"
+		},
+		{
+			"episode": 148,
+			"title": "Raging Zeon! Two fates. Gash's secret",
+			"type": "filler",
+			"aired_date": "2006-03-12"
+		},
+		{
+			"episode": 149,
+			"title": "The inheritor of Baou. Gash vs. Zeon. Jigadirasu's thunder",
+			"type": "filler",
+			"aired_date": "2006-03-26"
+		},
+		{
+			"episode": 150,
+			"title": "Decisive battle against Faudo! The golden radiance. The kind king",
+			"type": "filler",
+			"aired_date": "2006-03-26"
+		}
+	]
+}

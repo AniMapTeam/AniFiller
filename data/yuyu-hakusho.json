@@ -1,0 +1,682 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Yu Yu Hakusho: Ghostfiles",
+	"mappings": {
+		"anilist_id": 392,
+		"mal_id": 392
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Surprised to be Dead",
+			"type": "manga-canon",
+			"aired_date": "1992-10-10"
+		},
+		{
+			"episode": 2,
+			"title": "Koenma Appears",
+			"type": "manga-canon",
+			"aired_date": "1992-10-17"
+		},
+		{
+			"episode": 3,
+			"title": "Kuwabara: A Promise Between Men",
+			"type": "manga-canon",
+			"aired_date": "1992-10-24"
+		},
+		{
+			"episode": 4,
+			"title": "Requirements for Lovers",
+			"type": "manga-canon",
+			"aired_date": "1992-10-31"
+		},
+		{
+			"episode": 5,
+			"title": "Yusuke's Back",
+			"type": "manga-canon",
+			"aired_date": "1992-11-07"
+		},
+		{
+			"episode": 6,
+			"title": "Three Monsters",
+			"type": "manga-canon",
+			"aired_date": "1992-11-14"
+		},
+		{
+			"episode": 7,
+			"title": "Gouki and Kurama",
+			"type": "manga-canon",
+			"aired_date": "1992-11-21"
+		},
+		{
+			"episode": 8,
+			"title": "The Three Eyes of Hiei",
+			"type": "manga-canon",
+			"aired_date": "1992-11-28"
+		},
+		{
+			"episode": 9,
+			"title": "The Search Begins",
+			"type": "manga-canon",
+			"aired_date": "1992-12-05"
+		},
+		{
+			"episode": 10,
+			"title": "Kuwabara's Spirit Sword",
+			"type": "manga-canon",
+			"aired_date": "1992-12-12"
+		},
+		{
+			"episode": 11,
+			"title": "Hard Fights for Yusuke",
+			"type": "mixed-manga",
+			"aired_date": "1992-12-19"
+		},
+		{
+			"episode": 12,
+			"title": "Rando Rises, Kuwabara Falls",
+			"type": "manga-canon",
+			"aired_date": "1992-12-26"
+		},
+		{
+			"episode": 13,
+			"title": "Yusuke vs. Rando: 99 Attacks",
+			"type": "mixed-manga",
+			"aired_date": "1993-01-09"
+		},
+		{
+			"episode": 14,
+			"title": "The Beasts of Maze Castle",
+			"type": "manga-canon",
+			"aired_date": "1993-01-16"
+		},
+		{
+			"episode": 15,
+			"title": "Genbu, the Stone Beast",
+			"type": "manga-canon",
+			"aired_date": "1993-01-23"
+		},
+		{
+			"episode": 16,
+			"title": "Byakko, the White Tiger",
+			"type": "manga-canon",
+			"aired_date": "1993-01-30"
+		},
+		{
+			"episode": 17,
+			"title": "Byakko's Lair",
+			"type": "manga-canon",
+			"aired_date": "1993-02-06"
+		},
+		{
+			"episode": 18,
+			"title": "Seiryu, the Blue Dragon",
+			"type": "manga-canon",
+			"aired_date": "1993-02-13"
+		},
+		{
+			"episode": 19,
+			"title": "Suzaku, Leader of the Beasts",
+			"type": "manga-canon",
+			"aired_date": "1993-02-20"
+		},
+		{
+			"episode": 20,
+			"title": "Seven Ways to Die",
+			"type": "manga-canon",
+			"aired_date": "1993-02-27"
+		},
+		{
+			"episode": 21,
+			"title": "Yusuke's Sacrifice",
+			"type": "manga-canon",
+			"aired_date": "1993-03-06"
+		},
+		{
+			"episode": 22,
+			"title": "Lamenting Beauty",
+			"type": "manga-canon",
+			"aired_date": "1993-03-13"
+		},
+		{
+			"episode": 23,
+			"title": "The Toguro Brothers Gang",
+			"type": "manga-canon",
+			"aired_date": "1993-03-20"
+		},
+		{
+			"episode": 24,
+			"title": "The Deadly Triad",
+			"type": "manga-canon",
+			"aired_date": "1993-03-27"
+		},
+		{
+			"episode": 25,
+			"title": "Kuwabara's Fight of Love",
+			"type": "manga-canon",
+			"aired_date": "1993-04-10"
+		},
+		{
+			"episode": 26,
+			"title": "Toguro Returns",
+			"type": "manga-canon",
+			"aired_date": "1993-04-17"
+		},
+		{
+			"episode": 27,
+			"title": "The Dark Tournament Begins",
+			"type": "manga-canon",
+			"aired_date": "1993-04-24"
+		},
+		{
+			"episode": 28,
+			"title": "First Fight",
+			"type": "manga-canon",
+			"aired_date": "1993-05-01"
+		},
+		{
+			"episode": 29,
+			"title": "Flowers of Blood",
+			"type": "manga-canon",
+			"aired_date": "1993-05-08"
+		},
+		{
+			"episode": 30,
+			"title": "Dragon of the Darkness Flame",
+			"type": "manga-canon",
+			"aired_date": "1993-05-15"
+		},
+		{
+			"episode": 31,
+			"title": "Stumbling Warrior",
+			"type": "manga-canon",
+			"aired_date": "1993-05-22"
+		},
+		{
+			"episode": 32,
+			"title": "Knife Edge Death-Match",
+			"type": "manga-canon",
+			"aired_date": "1993-05-29"
+		},
+		{
+			"episode": 33,
+			"title": "A Day in Waiting",
+			"type": "manga-canon",
+			"aired_date": "1993-06-05"
+		},
+		{
+			"episode": 34,
+			"title": "Percentage of Victory",
+			"type": "manga-canon",
+			"aired_date": "1993-06-12"
+		},
+		{
+			"episode": 35,
+			"title": "Glimpse Beneath the Mask",
+			"type": "manga-canon",
+			"aired_date": "1993-06-19"
+		},
+		{
+			"episode": 36,
+			"title": "Ambition Destroyed: A Trial of Light",
+			"type": "manga-canon",
+			"aired_date": "1993-06-26"
+		},
+		{
+			"episode": 37,
+			"title": "Master of Disguise",
+			"type": "manga-canon",
+			"aired_date": "1993-07-03"
+		},
+		{
+			"episode": 38,
+			"title": "Kurama's Stand",
+			"type": "manga-canon",
+			"aired_date": "1993-07-10"
+		},
+		{
+			"episode": 39,
+			"title": "Crushing Revenge",
+			"type": "manga-canon",
+			"aired_date": "1993-07-17"
+		},
+		{
+			"episode": 40,
+			"title": "Jin, the Wind Master",
+			"type": "manga-canon",
+			"aired_date": "1993-07-24"
+		},
+		{
+			"episode": 41,
+			"title": "Reverse Decisions",
+			"type": "manga-canon",
+			"aired_date": "1993-07-31"
+		},
+		{
+			"episode": 42,
+			"title": "A Master of Love and Death",
+			"type": "manga-canon",
+			"aired_date": "1993-08-07"
+		},
+		{
+			"episode": 43,
+			"title": "The Masked Fighter Revealed",
+			"type": "manga-canon",
+			"aired_date": "1993-08-14"
+		},
+		{
+			"episode": 44,
+			"title": "Yusuke's Final Test",
+			"type": "manga-canon",
+			"aired_date": "1993-08-21"
+		},
+		{
+			"episode": 45,
+			"title": "Hiei Battles On",
+			"type": "manga-canon",
+			"aired_date": "1993-08-28"
+		},
+		{
+			"episode": 46,
+			"title": "Many Faces, Many Forms",
+			"type": "manga-canon",
+			"aired_date": "1993-09-04"
+		},
+		{
+			"episode": 47,
+			"title": "Legendary Bandit: Yoko Kurama",
+			"type": "manga-canon",
+			"aired_date": "1993-09-11"
+		},
+		{
+			"episode": 48,
+			"title": "The Cape of No Return",
+			"type": "manga-canon",
+			"aired_date": "1993-09-18"
+		},
+		{
+			"episode": 49,
+			"title": "Genkai's Strength",
+			"type": "manga-canon",
+			"aired_date": "1993-09-25"
+		},
+		{
+			"episode": 50,
+			"title": "Suzuka's Challenge",
+			"type": "manga-canon",
+			"aired_date": "1993-10-02"
+		},
+		{
+			"episode": 51,
+			"title": "Arch-Rivals",
+			"type": "manga-canon",
+			"aired_date": "1993-10-09"
+		},
+		{
+			"episode": 52,
+			"title": "The Death of Genkai",
+			"type": "manga-canon",
+			"aired_date": "1993-10-16"
+		},
+		{
+			"episode": 53,
+			"title": "Overcoming Grief",
+			"type": "manga-canon",
+			"aired_date": "1993-10-23"
+		},
+		{
+			"episode": 54,
+			"title": "The Beginning of the End",
+			"type": "manga-canon",
+			"aired_date": "1993-10-30"
+		},
+		{
+			"episode": 55,
+			"title": "The Beast Within the Dark",
+			"type": "manga-canon",
+			"aired_date": "1993-11-06"
+		},
+		{
+			"episode": 56,
+			"title": "Yoko's Magic",
+			"type": "manga-canon",
+			"aired_date": "1993-11-13"
+		},
+		{
+			"episode": 57,
+			"title": "Beneath Bui's Armor",
+			"type": "manga-canon",
+			"aired_date": "1993-11-20"
+		},
+		{
+			"episode": 58,
+			"title": "Wielder of the Dragon",
+			"type": "manga-canon",
+			"aired_date": "1993-11-27"
+		},
+		{
+			"episode": 59,
+			"title": "The Shadow of Elder Toguro",
+			"type": "manga-canon",
+			"aired_date": "1993-12-04"
+		},
+		{
+			"episode": 60,
+			"title": "Sakyo's Proposal",
+			"type": "manga-canon",
+			"aired_date": "1993-12-11"
+		},
+		{
+			"episode": 61,
+			"title": "Yusuke vs. Toguro",
+			"type": "manga-canon",
+			"aired_date": "1993-12-18"
+		},
+		{
+			"episode": 62,
+			"title": "Toguro's Full Power",
+			"type": "manga-canon",
+			"aired_date": "1993-12-25"
+		},
+		{
+			"episode": 63,
+			"title": "Yusuke's Despair",
+			"type": "manga-canon",
+			"aired_date": "1994-01-08"
+		},
+		{
+			"episode": 64,
+			"title": "Toguro's Desire",
+			"type": "manga-canon",
+			"aired_date": "1994-01-15"
+		},
+		{
+			"episode": 65,
+			"title": "Out With a Bang",
+			"type": "manga-canon",
+			"aired_date": "1994-01-22"
+		},
+		{
+			"episode": 66,
+			"title": "Toguro's Wish",
+			"type": "manga-canon",
+			"aired_date": "1994-01-29"
+		},
+		{
+			"episode": 67,
+			"title": "Return to Living World",
+			"type": "manga-canon",
+			"aired_date": "1994-02-05"
+		},
+		{
+			"episode": 68,
+			"title": "Setting the Trap",
+			"type": "manga-canon",
+			"aired_date": "1994-02-12"
+		},
+		{
+			"episode": 69,
+			"title": "The Power of Taboo",
+			"type": "manga-canon",
+			"aired_date": "1994-02-19"
+		},
+		{
+			"episode": 70,
+			"title": "Genkai's Ruse",
+			"type": "manga-canon",
+			"aired_date": "1994-02-26"
+		},
+		{
+			"episode": 71,
+			"title": "The Tunnel",
+			"type": "manga-canon",
+			"aired_date": "1994-03-05"
+		},
+		{
+			"episode": 72,
+			"title": "The Reader",
+			"type": "manga-canon",
+			"aired_date": "1994-03-12"
+		},
+		{
+			"episode": 73,
+			"title": "The Doctor's Disease",
+			"type": "manga-canon",
+			"aired_date": "1994-03-19"
+		},
+		{
+			"episode": 74,
+			"title": "Sleep, Doctor, Sleep",
+			"type": "manga-canon",
+			"aired_date": "1994-03-26"
+		},
+		{
+			"episode": 75,
+			"title": "Caught in the Rain",
+			"type": "manga-canon",
+			"aired_date": "1994-04-02"
+		},
+		{
+			"episode": 76,
+			"title": "Kuwabara: Awakening",
+			"type": "manga-canon",
+			"aired_date": "1994-04-09"
+		},
+		{
+			"episode": 77,
+			"title": "Sensui's Fall",
+			"type": "manga-canon",
+			"aired_date": "1994-04-16"
+		},
+		{
+			"episode": 78,
+			"title": "Divide and Conquer",
+			"type": "manga-canon",
+			"aired_date": "1994-04-23"
+		},
+		{
+			"episode": 79,
+			"title": "The Human Race",
+			"type": "manga-canon",
+			"aired_date": "1994-04-30"
+		},
+		{
+			"episode": 80,
+			"title": "Moving Target",
+			"type": "manga-canon",
+			"aired_date": "1994-05-07"
+		},
+		{
+			"episode": 81,
+			"title": "Let the Games Begin",
+			"type": "manga-canon",
+			"aired_date": "1994-05-14"
+		},
+		{
+			"episode": 82,
+			"title": "If You Could Play Forever",
+			"type": "manga-canon",
+			"aired_date": "1994-05-21"
+		},
+		{
+			"episode": 83,
+			"title": "Game Over",
+			"type": "manga-canon",
+			"aired_date": "1994-05-28"
+		},
+		{
+			"episode": 84,
+			"title": "Kurama's Anger, Gourmet's Guest",
+			"type": "manga-canon",
+			"aired_date": "1994-06-04"
+		},
+		{
+			"episode": 85,
+			"title": "Spirit Detective Showdown",
+			"type": "manga-canon",
+			"aired_date": "1994-06-11"
+		},
+		{
+			"episode": 86,
+			"title": "The Difference Maker",
+			"type": "manga-canon",
+			"aired_date": "1994-06-18"
+		},
+		{
+			"episode": 87,
+			"title": "Power Between the Teeth",
+			"type": "manga-canon",
+			"aired_date": "1994-06-25"
+		},
+		{
+			"episode": 88,
+			"title": "The True Face of Sensui",
+			"type": "manga-canon",
+			"aired_date": "1994-07-02"
+		},
+		{
+			"episode": 89,
+			"title": "Death of a Spirit Detective",
+			"type": "manga-canon",
+			"aired_date": "1994-07-09"
+		},
+		{
+			"episode": 90,
+			"title": "Attempting Revenge",
+			"type": "manga-canon",
+			"aired_date": "1994-07-16"
+		},
+		{
+			"episode": 91,
+			"title": "Waking the Lost",
+			"type": "manga-canon",
+			"aired_date": "1994-07-23"
+		},
+		{
+			"episode": 92,
+			"title": "The Proof",
+			"type": "manga-canon",
+			"aired_date": "1994-07-30"
+		},
+		{
+			"episode": 93,
+			"title": "Sensui's End",
+			"type": "manga-canon",
+			"aired_date": "1994-08-06"
+		},
+		{
+			"episode": 94,
+			"title": "Topside",
+			"type": "manga-canon",
+			"aired_date": "1994-08-13"
+		},
+		{
+			"episode": 95,
+			"title": "Yusuke's Destiny",
+			"type": "manga-canon",
+			"aired_date": "1994-08-20"
+		},
+		{
+			"episode": 96,
+			"title": "Three Strangers, Three Kings",
+			"type": "manga-canon",
+			"aired_date": "1994-08-27"
+		},
+		{
+			"episode": 97,
+			"title": "Departing Living World",
+			"type": "manga-canon",
+			"aired_date": "1994-09-03"
+		},
+		{
+			"episode": 98,
+			"title": "Return to Demon World",
+			"type": "manga-canon",
+			"aired_date": "1994-09-10"
+		},
+		{
+			"episode": 99,
+			"title": "Haunted by the Past",
+			"type": "manga-canon",
+			"aired_date": "1994-09-17"
+		},
+		{
+			"episode": 100,
+			"title": "The Secret of the Jagan",
+			"type": "manga-canon",
+			"aired_date": "1994-09-24"
+		},
+		{
+			"episode": 101,
+			"title": "Reunion of the Bandits",
+			"type": "manga-canon",
+			"aired_date": "1994-10-01"
+		},
+		{
+			"episode": 102,
+			"title": "Torn Between Identities",
+			"type": "manga-canon",
+			"aired_date": "1994-10-08"
+		},
+		{
+			"episode": 103,
+			"title": "Inheritance",
+			"type": "manga-canon",
+			"aired_date": "1994-10-15"
+		},
+		{
+			"episode": 104,
+			"title": "Every Demon for Himself",
+			"type": "manga-canon",
+			"aired_date": "1994-10-22"
+		},
+		{
+			"episode": 105,
+			"title": "The Preliminaries",
+			"type": "manga-canon",
+			"aired_date": "1994-10-29"
+		},
+		{
+			"episode": 106,
+			"title": "The Battle of Father and Son",
+			"type": "manga-canon",
+			"aired_date": "1994-11-05"
+		},
+		{
+			"episode": 107,
+			"title": "The Demon World Tournament Begins",
+			"type": "anime-canon",
+			"aired_date": "1994-11-12"
+		},
+		{
+			"episode": 108,
+			"title": "Farewell, Kurama",
+			"type": "anime-canon",
+			"aired_date": "1994-11-19"
+		},
+		{
+			"episode": 109,
+			"title": "Love and War",
+			"type": "mixed-manga",
+			"aired_date": "1994-11-26"
+		},
+		{
+			"episode": 110,
+			"title": "A Reason to Fight",
+			"type": "manga-canon",
+			"aired_date": "1994-12-03"
+		},
+		{
+			"episode": 111,
+			"title": "Closure",
+			"type": "mixed-manga",
+			"aired_date": "1994-12-10"
+		},
+		{
+			"episode": 112,
+			"title": "To the Future",
+			"type": "manga-canon",
+			"aired_date": "1994-12-17"
+		}
+	]
+}

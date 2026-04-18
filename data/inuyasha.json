@@ -1,0 +1,1012 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Inuyasha",
+	"mappings": {
+		"anilist_id": 249,
+		"mal_id": 249
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Girl Who Overcame Time...and the Boy Who Was Just Overcome",
+			"type": "manga-canon",
+			"aired_date": "2000-10-16"
+		},
+		{
+			"episode": 2,
+			"title": "Seekers of the Sacred Jewel",
+			"type": "manga-canon",
+			"aired_date": "2000-10-23"
+		},
+		{
+			"episode": 3,
+			"title": "Down the Rabbit Hole and Back Again",
+			"type": "manga-canon",
+			"aired_date": "2000-10-30"
+		},
+		{
+			"episode": 4,
+			"title": "Yura of the Demon-Hair",
+			"type": "manga-canon",
+			"aired_date": "2000-11-06"
+		},
+		{
+			"episode": 5,
+			"title": "Aristocratic Assassin, Sesshomaru",
+			"type": "manga-canon",
+			"aired_date": "2000-11-13"
+		},
+		{
+			"episode": 6,
+			"title": "Tetsusaiga, the Phantom Sword",
+			"type": "manga-canon",
+			"aired_date": "2000-11-20"
+		},
+		{
+			"episode": 7,
+			"title": "Showdown! Inuyasha Vs. Sesshomaru",
+			"type": "manga-canon",
+			"aired_date": "2000-11-27"
+		},
+		{
+			"episode": 8,
+			"title": "The Toad Who Would Be Prince",
+			"type": "manga-canon",
+			"aired_date": "2000-12-04"
+		},
+		{
+			"episode": 9,
+			"title": "Shippo and the Thunder Brothers",
+			"type": "manga-canon",
+			"aired_date": "2000-12-11"
+		},
+		{
+			"episode": 10,
+			"title": "Phantom Showdown: The Thunder Brothers Vs. Tetsusaiga",
+			"type": "manga-canon",
+			"aired_date": "2000-12-18"
+		},
+		{
+			"episode": 11,
+			"title": "Terror of the Ancient Noh Mask",
+			"type": "manga-canon",
+			"aired_date": "2001-01-15"
+		},
+		{
+			"episode": 12,
+			"title": "The Soul Piper and the Mischievous Little Soul",
+			"type": "manga-canon",
+			"aired_date": "2001-01-22"
+		},
+		{
+			"episode": 13,
+			"title": "The Mystery of the New Moon and the Black-haired Inuyasha",
+			"type": "manga-canon",
+			"aired_date": "2001-01-29"
+		},
+		{
+			"episode": 14,
+			"title": "Kikyo's Stolen Ashes",
+			"type": "manga-canon",
+			"aired_date": "2001-02-05"
+		},
+		{
+			"episode": 15,
+			"title": "Return of the Tragic Priestess, Kikyo",
+			"type": "manga-canon",
+			"aired_date": "2001-02-12"
+		},
+		{
+			"episode": 16,
+			"title": "Mystical Hand of the Amorous Monk, Miroku",
+			"type": "manga-canon",
+			"aired_date": "2001-02-19"
+		},
+		{
+			"episode": 17,
+			"title": "The Cursed Ink of the Hell-Painter",
+			"type": "manga-canon",
+			"aired_date": "2001-02-26"
+		},
+		{
+			"episode": 18,
+			"title": "Naraku and Sesshomaru Join Forces",
+			"type": "manga-canon",
+			"aired_date": "2001-03-05"
+		},
+		{
+			"episode": 19,
+			"title": "Go Back to Your Own Time, Kagome!",
+			"type": "manga-canon",
+			"aired_date": "2001-03-12"
+		},
+		{
+			"episode": 20,
+			"title": "Despicable Villain! The Mystery of Onigumo!",
+			"type": "manga-canon",
+			"aired_date": "2001-03-19"
+		},
+		{
+			"episode": 21,
+			"title": "Naraku's True Identity Unveiled",
+			"type": "manga-canon",
+			"aired_date": "2001-04-09"
+		},
+		{
+			"episode": 22,
+			"title": "A Wicked Smile: Kikyo's Wandering Soul",
+			"type": "manga-canon",
+			"aired_date": "2001-04-09"
+		},
+		{
+			"episode": 23,
+			"title": "Kagome's Voice and Kikyo's Kiss",
+			"type": "manga-canon",
+			"aired_date": "2001-04-16"
+		},
+		{
+			"episode": 24,
+			"title": "Enter Sango, the Demon Slayer",
+			"type": "manga-canon",
+			"aired_date": "2001-04-23"
+		},
+		{
+			"episode": 25,
+			"title": "Naraku's Insidious Plot",
+			"type": "manga-canon",
+			"aired_date": "2001-05-07"
+		},
+		{
+			"episode": 26,
+			"title": "The Secret of the Sacred Jewel Revealed!",
+			"type": "mixed-manga",
+			"aired_date": "2001-05-14"
+		},
+		{
+			"episode": 27,
+			"title": "The Lake of the Evil Water God",
+			"type": "manga-canon",
+			"aired_date": "2001-05-21"
+		},
+		{
+			"episode": 28,
+			"title": "Miroku Falls Into a Dangerous Trap",
+			"type": "manga-canon",
+			"aired_date": "2001-05-28"
+		},
+		{
+			"episode": 29,
+			"title": "Sango's Suffering and Kohaku's Life",
+			"type": "manga-canon",
+			"aired_date": "2001-06-04"
+		},
+		{
+			"episode": 30,
+			"title": "Tetsusaiga is Stolen! Showdown At Naraku's Castle!",
+			"type": "manga-canon",
+			"aired_date": "2001-06-11"
+		},
+		{
+			"episode": 31,
+			"title": "Jinenji, Kind Yet Sad",
+			"type": "manga-canon",
+			"aired_date": "2001-06-18"
+		},
+		{
+			"episode": 32,
+			"title": "Kikyo and Inuyasha, Into the Miasma",
+			"type": "manga-canon",
+			"aired_date": "2001-06-25"
+		},
+		{
+			"episode": 33,
+			"title": "Kikyo, Captured by Naraku",
+			"type": "manga-canon",
+			"aired_date": "2001-07-02"
+		},
+		{
+			"episode": 34,
+			"title": "Tetsusaiga and Tenseiga",
+			"type": "manga-canon",
+			"aired_date": "2001-07-09"
+		},
+		{
+			"episode": 35,
+			"title": "The True Owner of the Great Sword!",
+			"type": "manga-canon",
+			"aired_date": "2001-07-16"
+		},
+		{
+			"episode": 36,
+			"title": "Kagome Kidnapped by Koga, the Wolf Demon!",
+			"type": "manga-canon",
+			"aired_date": "2001-07-23"
+		},
+		{
+			"episode": 37,
+			"title": "The Man Who Fell In Love With Kagome!",
+			"type": "manga-canon",
+			"aired_date": "2001-07-30"
+		},
+		{
+			"episode": 38,
+			"title": "Two Hearts, One Mind",
+			"type": "manga-canon",
+			"aired_date": "2001-08-06"
+		},
+		{
+			"episode": 39,
+			"title": "Trapped In A Duel To The Death!",
+			"type": "manga-canon",
+			"aired_date": "2001-08-13"
+		},
+		{
+			"episode": 40,
+			"title": "The Deadly Trap of Kagura the Wind Sorceress!",
+			"type": "manga-canon",
+			"aired_date": "2001-08-20"
+		},
+		{
+			"episode": 41,
+			"title": "Kagura's Dance and Kanna's Mirror",
+			"type": "manga-canon",
+			"aired_date": "2001-08-27"
+		},
+		{
+			"episode": 42,
+			"title": "The Wind Scar Fails",
+			"type": "manga-canon",
+			"aired_date": "2001-09-03"
+		},
+		{
+			"episode": 43,
+			"title": "Tetsusaiga Breaks",
+			"type": "manga-canon",
+			"aired_date": "2001-09-10"
+		},
+		{
+			"episode": 44,
+			"title": "Kaijinbo's Evil Sword",
+			"type": "manga-canon",
+			"aired_date": "2001-09-17"
+		},
+		{
+			"episode": 45,
+			"title": "Sesshomaru Wields Tokijin",
+			"type": "manga-canon",
+			"aired_date": "2001-10-08"
+		},
+		{
+			"episode": 46,
+			"title": "Juromaru and Kageromaru",
+			"type": "manga-canon",
+			"aired_date": "2001-10-15"
+		},
+		{
+			"episode": 47,
+			"title": "Onigumo's Heart Still Beats Within Naraku",
+			"type": "manga-canon",
+			"aired_date": "2001-10-22"
+		},
+		{
+			"episode": 48,
+			"title": "Return to the Place Where We First Met",
+			"type": "manga-canon",
+			"aired_date": "2001-10-29"
+		},
+		{
+			"episode": 49,
+			"title": "Kohaku's Lost Memory",
+			"type": "manga-canon",
+			"aired_date": "2001-11-05"
+		},
+		{
+			"episode": 50,
+			"title": "That Unforgettable Face!",
+			"type": "manga-canon",
+			"aired_date": "2001-11-12"
+		},
+		{
+			"episode": 51,
+			"title": "Inuyasha's Soul, Devoured",
+			"type": "manga-canon",
+			"aired_date": "2001-11-19"
+		},
+		{
+			"episode": 52,
+			"title": "The Demon's True Nature",
+			"type": "manga-canon",
+			"aired_date": "2001-11-26"
+		},
+		{
+			"episode": 53,
+			"title": "Father's Old Enemy: Ryukotsusei",
+			"type": "manga-canon",
+			"aired_date": "2001-12-03"
+		},
+		{
+			"episode": 54,
+			"title": "The Backlash Wave: Tetsusaiga's Ultimate Technique",
+			"type": "manga-canon",
+			"aired_date": "2001-12-10"
+		},
+		{
+			"episode": 55,
+			"title": "The Stone Flower and Shippo's First Love",
+			"type": "manga-canon",
+			"aired_date": "2001-12-17"
+		},
+		{
+			"episode": 56,
+			"title": "Temptress In The Mist",
+			"type": "manga-canon",
+			"aired_date": "2002-01-14"
+		},
+		{
+			"episode": 57,
+			"title": "Fateful Night in Togenkyo, Part 1",
+			"type": "mixed-manga",
+			"aired_date": "2002-01-21"
+		},
+		{
+			"episode": 58,
+			"title": "Fateful Night in Togenkyo, Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2002-01-28"
+		},
+		{
+			"episode": 59,
+			"title": "The Beautiful Sister Apprentices",
+			"type": "filler",
+			"aired_date": "2002-02-04"
+		},
+		{
+			"episode": 60,
+			"title": "The 50 Year-Old Curse Of The Dark Priestess",
+			"type": "manga-canon",
+			"aired_date": "2002-02-11"
+		},
+		{
+			"episode": 61,
+			"title": "Kikyo and the Dark Priestess",
+			"type": "manga-canon",
+			"aired_date": "2002-02-18"
+		},
+		{
+			"episode": 62,
+			"title": "Tsubaki's Unrelenting Evil Spell",
+			"type": "manga-canon",
+			"aired_date": "2002-03-04"
+		},
+		{
+			"episode": 63,
+			"title": "The Red and White Priestesses",
+			"type": "filler",
+			"aired_date": "2002-03-11"
+		},
+		{
+			"episode": 64,
+			"title": "Giant Ogre of the Forbidden Tower",
+			"type": "filler",
+			"aired_date": "2002-03-18"
+		},
+		{
+			"episode": 65,
+			"title": "Farewell Days of My Youth",
+			"type": "filler",
+			"aired_date": "2002-04-08"
+		},
+		{
+			"episode": 66,
+			"title": "Naraku's Barrier: Kagura's Decision",
+			"type": "manga-canon",
+			"aired_date": "2002-04-15"
+		},
+		{
+			"episode": 67,
+			"title": "The Howling Wind of Betrayal",
+			"type": "manga-canon",
+			"aired_date": "2002-04-22"
+		},
+		{
+			"episode": 68,
+			"title": "Shippo Gets an Angry Challenge",
+			"type": "filler",
+			"aired_date": "2002-05-06"
+		},
+		{
+			"episode": 69,
+			"title": "Terror of the Faceless Man",
+			"type": "mixed-manga",
+			"aired_date": "2002-05-13"
+		},
+		{
+			"episode": 70,
+			"title": "Onigumo's Memory Restored",
+			"type": "manga-canon",
+			"aired_date": "2002-05-20"
+		},
+		{
+			"episode": 71,
+			"title": "Three-Sided Battle to the Death",
+			"type": "manga-canon",
+			"aired_date": "2002-05-27"
+		},
+		{
+			"episode": 72,
+			"title": "Totosai's Rigid Training",
+			"type": "filler",
+			"aired_date": "2002-06-03"
+		},
+		{
+			"episode": 73,
+			"title": "Shiori's Family and Inuyasha's Feelings",
+			"type": "manga-canon",
+			"aired_date": "2002-06-10"
+		},
+		{
+			"episode": 74,
+			"title": "The Red Tetsusaiga Breaks the Barrier!",
+			"type": "manga-canon",
+			"aired_date": "2002-06-17"
+		},
+		{
+			"episode": 75,
+			"title": "The Plot of the Panther Devas",
+			"type": "filler",
+			"aired_date": "2002-06-24"
+		},
+		{
+			"episode": 76,
+			"title": "Target: Sesshomaru and Inuyasha",
+			"type": "filler",
+			"aired_date": "2002-07-01"
+		},
+		{
+			"episode": 77,
+			"title": "The Panther Tribe and the Two Swords of the Fang",
+			"type": "filler",
+			"aired_date": "2002-07-08"
+		},
+		{
+			"episode": 78,
+			"title": "Only You, Sango",
+			"type": "filler",
+			"aired_date": "2002-07-15"
+		},
+		{
+			"episode": 79,
+			"title": "Jaken's Plan to Steal Tetsusaiga",
+			"type": "filler",
+			"aired_date": "2002-07-22"
+		},
+		{
+			"episode": 80,
+			"title": "Sesshomaru and the Abducted Rin",
+			"type": "manga-canon",
+			"aired_date": "2002-07-29"
+		},
+		{
+			"episode": 81,
+			"title": "Vanishing Point: Naraku Disappears",
+			"type": "manga-canon",
+			"aired_date": "2002-08-05"
+		},
+		{
+			"episode": 82,
+			"title": "Gap Between the Ages",
+			"type": "manga-canon",
+			"aired_date": "2002-08-12"
+		},
+		{
+			"episode": 83,
+			"title": "The Female Wolf Demon and the Lunar Rainbow Promise",
+			"type": "mixed-manga",
+			"aired_date": "2002-08-19"
+		},
+		{
+			"episode": 84,
+			"title": "Koga's Bride-to-Be",
+			"type": "mixed-manga",
+			"aired_date": "2002-08-26"
+		},
+		{
+			"episode": 85,
+			"title": "The Evil Within Demon's Head Castle",
+			"type": "manga-canon",
+			"aired_date": "2002-09-02"
+		},
+		{
+			"episode": 86,
+			"title": "Secret of the Possessed Princess",
+			"type": "manga-canon",
+			"aired_date": "2002-09-09"
+		},
+		{
+			"episode": 87,
+			"title": "Kikyo's Lonely Journey",
+			"type": "mixed-manga",
+			"aired_date": "2002-09-16"
+		},
+		{
+			"episode": 88,
+			"title": "Three Sprites of the Monkey God",
+			"type": "manga-canon",
+			"aired_date": "2002-10-14"
+		},
+		{
+			"episode": 89,
+			"title": "Nursing Battle of the Rival Lovers",
+			"type": "filler",
+			"aired_date": "2002-10-21"
+		},
+		{
+			"episode": 90,
+			"title": "Sota's Brave Confession of Love",
+			"type": "filler",
+			"aired_date": "2002-10-28"
+		},
+		{
+			"episode": 91,
+			"title": "The Suspicious Faith Healer and the Black Kirara",
+			"type": "filler",
+			"aired_date": "2002-11-04"
+		},
+		{
+			"episode": 92,
+			"title": "Plot of the Walking Dead",
+			"type": "filler",
+			"aired_date": "2002-11-18"
+		},
+		{
+			"episode": 93,
+			"title": "The Mysterious, Lecherous Monk",
+			"type": "filler",
+			"aired_date": "2002-11-25"
+		},
+		{
+			"episode": 94,
+			"title": "The Sacred Jewel Maker Part I",
+			"type": "filler",
+			"aired_date": "2002-12-02"
+		},
+		{
+			"episode": 95,
+			"title": "The Sacred Jewel Maker Part II",
+			"type": "filler",
+			"aired_date": "2002-12-09"
+		},
+		{
+			"episode": 96,
+			"title": "Jaken Falls ill",
+			"type": "filler",
+			"aired_date": "2003-01-13"
+		},
+		{
+			"episode": 97,
+			"title": "Kirara, Come Home!",
+			"type": "filler",
+			"aired_date": "2003-01-20"
+		},
+		{
+			"episode": 98,
+			"title": "Kikyo and Kagome: Alone in a Cave",
+			"type": "filler",
+			"aired_date": "2003-01-27"
+		},
+		{
+			"episode": 99,
+			"title": "Koga and Sesshomaru, A Dangerous Encounter",
+			"type": "filler",
+			"aired_date": "2003-02-03"
+		},
+		{
+			"episode": 100,
+			"title": "Truth Behind the Nightmare: Battle in the Forest of Sorrow",
+			"type": "filler",
+			"aired_date": "2003-02-10"
+		},
+		{
+			"episode": 101,
+			"title": "The Snow from Seven Years Past",
+			"type": "filler",
+			"aired_date": "2003-02-17"
+		},
+		{
+			"episode": 102,
+			"title": "Assault on the Wolf-Demon Tribe",
+			"type": "mixed-manga",
+			"aired_date": "2003-02-24"
+		},
+		{
+			"episode": 103,
+			"title": "The Band of Seven, Resurrected",
+			"type": "manga-canon",
+			"aired_date": "2003-03-03"
+		},
+		{
+			"episode": 104,
+			"title": "The Stealthy Poison User, Mukotsu",
+			"type": "manga-canon",
+			"aired_date": "2003-03-10"
+		},
+		{
+			"episode": 105,
+			"title": "The Ghastly Steel Machine",
+			"type": "manga-canon",
+			"aired_date": "2003-03-17"
+		},
+		{
+			"episode": 106,
+			"title": "Kagome, Miroku, and Sango: A Desperate Situation",
+			"type": "manga-canon",
+			"aired_date": "2003-04-14"
+		},
+		{
+			"episode": 107,
+			"title": "InuYasha Shows His Tears For the First Time",
+			"type": "manga-canon",
+			"aired_date": "2003-04-21"
+		},
+		{
+			"episode": 108,
+			"title": "The Secret of the Pure Light",
+			"type": "manga-canon",
+			"aired_date": "2003-04-28"
+		},
+		{
+			"episode": 109,
+			"title": "Hidden in the Mist: Onward to Mt. Hakurei",
+			"type": "manga-canon",
+			"aired_date": "2003-05-05"
+		},
+		{
+			"episode": 110,
+			"title": "Enter Bankotsu, The Leader of the Band of Seven",
+			"type": "manga-canon",
+			"aired_date": "2003-05-12"
+		},
+		{
+			"episode": 111,
+			"title": "The Big Clash: Banryu vs Wind Scar!",
+			"type": "manga-canon",
+			"aired_date": "2003-05-19"
+		},
+		{
+			"episode": 112,
+			"title": "Afloat on the Lake Surface: The Barrier of Hijiri Island",
+			"type": "manga-canon",
+			"aired_date": "2003-05-26"
+		},
+		{
+			"episode": 113,
+			"title": "The Sacred Vajra and the Mystery of the Living Buddha",
+			"type": "manga-canon",
+			"aired_date": "2003-06-02"
+		},
+		{
+			"episode": 114,
+			"title": "Koga's Solitary Battle",
+			"type": "manga-canon",
+			"aired_date": "2003-06-09"
+		},
+		{
+			"episode": 115,
+			"title": "Lured by the Black Light",
+			"type": "manga-canon",
+			"aired_date": "2003-06-16"
+		},
+		{
+			"episode": 116,
+			"title": "The Exposed Face of Truth",
+			"type": "manga-canon",
+			"aired_date": "2003-06-23"
+		},
+		{
+			"episode": 117,
+			"title": "Vanished in a River of Flames",
+			"type": "manga-canon",
+			"aired_date": "2003-06-30"
+		},
+		{
+			"episode": 118,
+			"title": "Into the Depths of Mt. Hakurei",
+			"type": "manga-canon",
+			"aired_date": "2003-07-07"
+		},
+		{
+			"episode": 119,
+			"title": "Divine Malice of the Saint",
+			"type": "manga-canon",
+			"aired_date": "2003-07-14"
+		},
+		{
+			"episode": 120,
+			"title": "Fare Thee Well: Jakotsu's Requiem",
+			"type": "manga-canon",
+			"aired_date": "2003-07-28"
+		},
+		{
+			"episode": 121,
+			"title": "Final Battle: The Last and Strongest of the Band of Seven",
+			"type": "manga-canon",
+			"aired_date": "2003-08-04"
+		},
+		{
+			"episode": 122,
+			"title": "The Power of Banryu! Duel to the Death on Mt. Hakurei",
+			"type": "manga-canon",
+			"aired_date": "2003-08-11"
+		},
+		{
+			"episode": 123,
+			"title": "Behind the Darkness - Naraku Reborn",
+			"type": "manga-canon",
+			"aired_date": "2003-08-18"
+		},
+		{
+			"episode": 124,
+			"title": "Farewell Kikyo, My Beloved",
+			"type": "manga-canon",
+			"aired_date": "2003-08-25"
+		},
+		{
+			"episode": 125,
+			"title": "The Darkness in Kagome's Heart",
+			"type": "manga-canon",
+			"aired_date": "2003-09-01"
+		},
+		{
+			"episode": 126,
+			"title": "Transform Heartache into Courage",
+			"type": "manga-canon",
+			"aired_date": "2003-09-08"
+		},
+		{
+			"episode": 127,
+			"title": "Don't Boil It! The Terrifying Dried-Up Demon",
+			"type": "mixed-manga",
+			"aired_date": "2003-09-15"
+		},
+		{
+			"episode": 128,
+			"title": "Battle Against the Dried-Up Demons at the Cultural Festival",
+			"type": "mixed-manga",
+			"aired_date": "2003-10-13"
+		},
+		{
+			"episode": 129,
+			"title": "Chokyukai and the Abducted Bride",
+			"type": "filler",
+			"aired_date": "2003-10-20"
+		},
+		{
+			"episode": 130,
+			"title": "Shippo's New Technique, The Heart Scar!",
+			"type": "filler",
+			"aired_date": "2003-10-27"
+		},
+		{
+			"episode": 131,
+			"title": "Trap of The Cursed Wall Hanging",
+			"type": "manga-canon",
+			"aired_date": "2003-11-03"
+		},
+		{
+			"episode": 132,
+			"title": "Miroku's Most Dangerous Confession",
+			"type": "manga-canon",
+			"aired_date": "2003-11-10"
+		},
+		{
+			"episode": 133,
+			"title": "The Woman Who Loved Sesshomaru (Part 1)",
+			"type": "filler",
+			"aired_date": "2003-11-24"
+		},
+		{
+			"episode": 134,
+			"title": "The Woman Who Loved Sesshomaru (Part 2)",
+			"type": "filler",
+			"aired_date": "2003-11-24"
+		},
+		{
+			"episode": 135,
+			"title": "The Last Banquet of Miroku's Master",
+			"type": "mixed-manga",
+			"aired_date": "2003-12-01"
+		},
+		{
+			"episode": 136,
+			"title": "A Strange Invisible Demon Appears!",
+			"type": "filler",
+			"aired_date": "2003-12-08"
+		},
+		{
+			"episode": 137,
+			"title": "An Ancestor Named Kagome",
+			"type": "filler",
+			"aired_date": "2004-01-12"
+		},
+		{
+			"episode": 138,
+			"title": "Mountain of Demons: Survival of the Duo",
+			"type": "filler",
+			"aired_date": "2004-01-19"
+		},
+		{
+			"episode": 139,
+			"title": "The Great Duel at Shoun Falls",
+			"type": "filler",
+			"aired_date": "2004-01-26"
+		},
+		{
+			"episode": 140,
+			"title": "Eternal Love, The Naginata of Kenkon",
+			"type": "filler",
+			"aired_date": "2004-02-02"
+		},
+		{
+			"episode": 141,
+			"title": "Entei, The Demon Horse Unleashed",
+			"type": "mixed-manga",
+			"aired_date": "2004-02-09"
+		},
+		{
+			"episode": 142,
+			"title": "Untamed Entei and Horrible Hakudoshi",
+			"type": "mixed-manga",
+			"aired_date": "2004-02-16"
+		},
+		{
+			"episode": 143,
+			"title": "3000 Leagues in Search of Father",
+			"type": "manga-canon",
+			"aired_date": "2004-02-23"
+		},
+		{
+			"episode": 144,
+			"title": "Hosenki and the Last Shard",
+			"type": "mixed-manga",
+			"aired_date": "2004-03-01"
+		},
+		{
+			"episode": 145,
+			"title": "Bizarre Guards at the Border of the Afterlife",
+			"type": "manga-canon",
+			"aired_date": "2004-03-08"
+		},
+		{
+			"episode": 146,
+			"title": "The Fiery Bird Master, Princess Abi",
+			"type": "manga-canon",
+			"aired_date": "2004-03-15"
+		},
+		{
+			"episode": 147,
+			"title": "The Tragic Love Song of Destiny (Part 1)",
+			"type": "mixed-manga",
+			"aired_date": "2004-04-19"
+		},
+		{
+			"episode": 148,
+			"title": "The Tragic Love Song of Destiny (Part 2)",
+			"type": "mixed-manga",
+			"aired_date": "2004-04-19"
+		},
+		{
+			"episode": 149,
+			"title": "The Single Arrow of Chaos",
+			"type": "manga-canon",
+			"aired_date": "2004-04-26"
+		},
+		{
+			"episode": 150,
+			"title": "The Mysterious Light that Guides the Saint",
+			"type": "manga-canon",
+			"aired_date": "2004-05-03"
+		},
+		{
+			"episode": 151,
+			"title": "Kagome's Instinctive Choice",
+			"type": "manga-canon",
+			"aired_date": "2004-05-10"
+		},
+		{
+			"episode": 152,
+			"title": "Protect and Plunder!",
+			"type": "manga-canon",
+			"aired_date": "2004-05-17"
+		},
+		{
+			"episode": 153,
+			"title": "The Cruel Reunion of Fate",
+			"type": "manga-canon",
+			"aired_date": "2004-05-24"
+		},
+		{
+			"episode": 154,
+			"title": "The Demon Linked with the Netherworld",
+			"type": "manga-canon",
+			"aired_date": "2004-05-31"
+		},
+		{
+			"episode": 155,
+			"title": "The Demon Protector of the Sacred Jewel Shard",
+			"type": "manga-canon",
+			"aired_date": "2004-06-07"
+		},
+		{
+			"episode": 156,
+			"title": "Final Battle at the Graveside! Sesshomaru vs. Inuyasha",
+			"type": "manga-canon",
+			"aired_date": "2004-06-14"
+		},
+		{
+			"episode": 157,
+			"title": "Destroy Naraku with the Adamant Barrage",
+			"type": "manga-canon",
+			"aired_date": "2004-06-21"
+		},
+		{
+			"episode": 158,
+			"title": "Stampede of the Countless Demon Rats",
+			"type": "manga-canon",
+			"aired_date": "2004-07-05"
+		},
+		{
+			"episode": 159,
+			"title": "Kohaku's Decision and Sango's Heart",
+			"type": "manga-canon",
+			"aired_date": "2004-07-12"
+		},
+		{
+			"episode": 160,
+			"title": "The Lucky but Two-Timing Scoundrel",
+			"type": "mixed-manga",
+			"aired_date": "2004-07-26"
+		},
+		{
+			"episode": 161,
+			"title": "Miroku's Past Mistake",
+			"type": "manga-canon",
+			"aired_date": "2004-08-02"
+		},
+		{
+			"episode": 162,
+			"title": "Forever with Lord Sesshomaru",
+			"type": "filler",
+			"aired_date": "2004-08-09"
+		},
+		{
+			"episode": 163,
+			"title": "Kohaku, Sango and Kirara: The Secret Flower Garden",
+			"type": "filler",
+			"aired_date": "2004-08-23"
+		},
+		{
+			"episode": 164,
+			"title": "Possessed by a Parasite: Shippo, Our Worst Enemy!",
+			"type": "manga-canon",
+			"aired_date": "2004-08-30"
+		},
+		{
+			"episode": 165,
+			"title": "The Ultimate Key to Defeating Naraku",
+			"type": "manga-canon",
+			"aired_date": "2004-09-06"
+		},
+		{
+			"episode": 166,
+			"title": "The Bond Between Them, Use the Sacred Jewel Shard! Part 1",
+			"type": "manga-canon",
+			"aired_date": "2004-09-13"
+		},
+		{
+			"episode": 167,
+			"title": "The Bond Between Them, Use the Sacred Jewel Shard! Part 2",
+			"type": "manga-canon",
+			"aired_date": "2004-09-13"
+		}
+	]
+}

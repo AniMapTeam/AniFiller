@@ -1,0 +1,1012 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Urusei Yatsura",
+	"mappings": {
+		"anilist_id": 1293,
+		"mal_id": 1293
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "I'm Lum-Chan the Notorious! / It's Raining Oil All Over Town",
+			"type": "manga-canon",
+			"aired_date": "1981-10-14"
+		},
+		{
+			"episode": 2,
+			"title": "Mail from Space - Ten Arrives! / Mrs. Swallow and Mrs. Penguin",
+			"type": "manga-canon",
+			"aired_date": "1981-10-21"
+		},
+		{
+			"episode": 3,
+			"title": "The Coming of Rei, the Handsome Shapechanger! / Die, Ladykiller!",
+			"type": "manga-canon",
+			"aired_date": "1981-10-28"
+		},
+		{
+			"episode": 4,
+			"title": "Kintaro of the Autumn Sky! / Live Vigorously!",
+			"type": "manga-canon",
+			"aired_date": "1981-11-04"
+		},
+		{
+			"episode": 5,
+			"title": "The Mysterious Seductive Beauty Sakura / Virus in Distress",
+			"type": "manga-canon",
+			"aired_date": "1981-11-18"
+		},
+		{
+			"episode": 6,
+			"title": "Love Triangle Black Hole / Hey, Hey It's a Little Demon",
+			"type": "manga-canon",
+			"aired_date": "1981-11-25"
+		},
+		{
+			"episode": 7,
+			"title": "Electric Shocks Scare Me! / Voodoo Dolls of Vengeance",
+			"type": "manga-canon",
+			"aired_date": "1981-12-02"
+		},
+		{
+			"episode": 8,
+			"title": "Neptune is Beyond the Closet / The Confusing Dinosaur Age",
+			"type": "manga-canon",
+			"aired_date": "1981-12-09"
+		},
+		{
+			"episode": 9,
+			"title": "Sleeping Beauty Princess Kurama / Athletics in Women's Hell!",
+			"type": "manga-canon",
+			"aired_date": "1981-12-16"
+		},
+		{
+			"episode": 10,
+			"title": "Pitter-Patter Christmas Eve",
+			"type": "manga-canon",
+			"aired_date": "1981-12-23"
+		},
+		{
+			"episode": 11,
+			"title": "Ataru Genji Goes to the Heian Capital",
+			"type": "mixed-manga",
+			"aired_date": "1982-01-06"
+		},
+		{
+			"episode": 12,
+			"title": "Love Battle Royale / Father, You Were Strong",
+			"type": "manga-canon",
+			"aired_date": "1982-01-13"
+		},
+		{
+			"episode": 13,
+			"title": "Hawaiian Swimsuit Thief / Full Course From Hell",
+			"type": "manga-canon",
+			"aired_date": "1982-01-20"
+		},
+		{
+			"episode": 14,
+			"title": "Mendō Arrives With Trouble! / Constellation-Go-Round",
+			"type": "manga-canon",
+			"aired_date": "1982-01-27"
+		},
+		{
+			"episode": 15,
+			"title": "The Great Spring War / The Benten Gang's Return Match",
+			"type": "manga-canon",
+			"aired_date": "1982-02-03"
+		},
+		{
+			"episode": 16,
+			"title": "Oh Lonely Teacher! / Terrible Visiting Day",
+			"type": "mixed-manga",
+			"aired_date": "1982-02-10"
+		},
+		{
+			"episode": 17,
+			"title": "The Fourth Dimension Camera / Demonic Running",
+			"type": "manga-canon",
+			"aired_date": "1982-02-24"
+		},
+		{
+			"episode": 18,
+			"title": "Girl's Day! Introducing Ran-chan / Ran-chan's Invitation",
+			"type": "manga-canon",
+			"aired_date": "1982-03-03"
+		},
+		{
+			"episode": 19,
+			"title": "Diary of Sorrowful Tomorrows / Whose Kid is This?",
+			"type": "manga-canon",
+			"aired_date": "1982-03-10"
+		},
+		{
+			"episode": 20,
+			"title": "Sleeping in Class on a Wonderful Spring Day / Peach Blossom Poetry Contest",
+			"type": "manga-canon",
+			"aired_date": "1982-03-17"
+		},
+		{
+			"episode": 21,
+			"title": "Duel! Ataru vs Ataru / Wake up to a Nightmare",
+			"type": "manga-canon",
+			"aired_date": "1982-03-24"
+		},
+		{
+			"episode": 22,
+			"title": "The Great Space Marriage Plan",
+			"type": "manga-canon",
+			"aired_date": "1982-04-07"
+		},
+		{
+			"episode": 23,
+			"title": "The Spring Blossom Picnic",
+			"type": "manga-canon",
+			"aired_date": "1982-04-14"
+		},
+		{
+			"episode": 24,
+			"title": "Beware the Earmuffs!",
+			"type": "manga-canon",
+			"aired_date": "1982-04-21"
+		},
+		{
+			"episode": 25,
+			"title": "Fly, Imo-Chan!",
+			"type": "manga-canon",
+			"aired_date": "1982-04-28"
+		},
+		{
+			"episode": 26,
+			"title": "Ten-chan's Love",
+			"type": "manga-canon",
+			"aired_date": "1982-05-05"
+		},
+		{
+			"episode": 27,
+			"title": "What a Dracula!",
+			"type": "manga-canon",
+			"aired_date": "1982-05-12"
+		},
+		{
+			"episode": 28,
+			"title": "Lum's Educational Therapy for Little Boys",
+			"type": "manga-canon",
+			"aired_date": "1982-05-19"
+		},
+		{
+			"episode": 29,
+			"title": "From Speechless With Love",
+			"type": "manga-canon",
+			"aired_date": "1982-05-26"
+		},
+		{
+			"episode": 30,
+			"title": "The Beautiful Maiden Comes With the Rain",
+			"type": "manga-canon",
+			"aired_date": "1982-06-02"
+		},
+		{
+			"episode": 31,
+			"title": "Give Me Back My Horn!",
+			"type": "manga-canon",
+			"aired_date": "1982-06-09"
+		},
+		{
+			"episode": 32,
+			"title": "All Quiet at the Library!",
+			"type": "manga-canon",
+			"aired_date": "1982-06-16"
+		},
+		{
+			"episode": 33,
+			"title": "Teacher Hanawa's Arrival! Such is Youth!",
+			"type": "manga-canon",
+			"aired_date": "1982-06-23"
+		},
+		{
+			"episode": 34,
+			"title": "Goblin in Distress - Yearning for People",
+			"type": "manga-canon",
+			"aired_date": "1982-06-30"
+		},
+		{
+			"episode": 35,
+			"title": "Darling's Had It This Time!",
+			"type": "manga-canon",
+			"aired_date": "1982-07-14"
+		},
+		{
+			"episode": 36,
+			"title": "Rei's Return! Crisis in the Classroom!",
+			"type": "manga-canon",
+			"aired_date": "1982-07-21"
+		},
+		{
+			"episode": 37,
+			"title": "Appearance of the Red Phantom!",
+			"type": "manga-canon",
+			"aired_date": "1982-07-28"
+		},
+		{
+			"episode": 38,
+			"title": "Steal Darling! The Copy Operation!!",
+			"type": "manga-canon",
+			"aired_date": "1982-08-04"
+		},
+		{
+			"episode": 39,
+			"title": "Pitter-Patter, Summer Date",
+			"type": "manga-canon",
+			"aired_date": "1982-08-11"
+		},
+		{
+			"episode": 40,
+			"title": "So Long, Bye Bye, Summer Days",
+			"type": "manga-canon",
+			"aired_date": "1982-08-18"
+		},
+		{
+			"episode": 41,
+			"title": "Panic in a Typhoon!",
+			"type": "manga-canon",
+			"aired_date": "1982-09-01"
+		},
+		{
+			"episode": 42,
+			"title": "Drunken Boogie",
+			"type": "manga-canon",
+			"aired_date": "1982-09-08"
+		},
+		{
+			"episode": 43,
+			"title": "The Terror of Meow",
+			"type": "manga-canon",
+			"aired_date": "1982-09-22"
+		},
+		{
+			"episode": 44,
+			"title": "After You've Gone",
+			"type": "manga-canon",
+			"aired_date": "1982-10-13"
+		},
+		{
+			"episode": 45,
+			"title": "Lum-chan's Class Party",
+			"type": "manga-canon",
+			"aired_date": "1982-10-20"
+		},
+		{
+			"episode": 46,
+			"title": "Lunch is a Battlefield!",
+			"type": "manga-canon",
+			"aired_date": "1982-10-27"
+		},
+		{
+			"episode": 47,
+			"title": "Shiver! Mystery in the Odd of Fossil Land",
+			"type": "manga-canon",
+			"aired_date": "1982-11-03"
+		},
+		{
+			"episode": 48,
+			"title": "Princess Kurama - A New Challenge!",
+			"type": "manga-canon",
+			"aired_date": "1982-11-10"
+		},
+		{
+			"episode": 49,
+			"title": "The Terrifying Cavity WARS!",
+			"type": "manga-canon",
+			"aired_date": "1982-11-17"
+		},
+		{
+			"episode": 50,
+			"title": "The Mendō Siblings!",
+			"type": "manga-canon",
+			"aired_date": "1982-11-24"
+		},
+		{
+			"episode": 51,
+			"title": "A Cat with a Grudge on the Stairs",
+			"type": "manga-canon",
+			"aired_date": "1982-12-01"
+		},
+		{
+			"episode": 52,
+			"title": "Can the Racoon Return the Favor!?",
+			"type": "manga-canon",
+			"aired_date": "1982-12-08"
+		},
+		{
+			"episode": 53,
+			"title": "Desperate Sub-Space Part Time Job",
+			"type": "mixed-manga",
+			"aired_date": "1982-12-15"
+		},
+		{
+			"episode": 54,
+			"title": "Lum-chan's Great Year End Celebration!",
+			"type": "manga-canon",
+			"aired_date": "1982-12-22"
+		},
+		{
+			"episode": 55,
+			"title": "Badboy Musashi - A Success Story",
+			"type": "manga-canon",
+			"aired_date": "1983-01-05"
+		},
+		{
+			"episode": 56,
+			"title": "We'll Risk Our Lives During Classtime!",
+			"type": "manga-canon",
+			"aired_date": "1983-01-12"
+		},
+		{
+			"episode": 57,
+			"title": "Domestic Quarrel – To Eat or Be Eaten!?",
+			"type": "manga-canon",
+			"aired_date": "1983-01-26"
+		},
+		{
+			"episode": 58,
+			"title": "Steal the Kiss of Miss Snow Queen!",
+			"type": "manga-canon",
+			"aired_date": "1983-02-02"
+		},
+		{
+			"episode": 59,
+			"title": "St Valentine's Day Horror",
+			"type": "manga-canon",
+			"aired_date": "1983-02-16"
+		},
+		{
+			"episode": 60,
+			"title": "Love Love Catchball!",
+			"type": "manga-canon",
+			"aired_date": "1983-02-23"
+		},
+		{
+			"episode": 61,
+			"title": "The Mendō Family... Masquerade War",
+			"type": "manga-canon",
+			"aired_date": "1983-03-02"
+		},
+		{
+			"episode": 62,
+			"title": "Space Cold Panic!",
+			"type": "manga-canon",
+			"aired_date": "1983-03-09"
+		},
+		{
+			"episode": 63,
+			"title": "Ryūnosuke Arrives! I Love the Sea!",
+			"type": "manga-canon",
+			"aired_date": "1983-03-16"
+		},
+		{
+			"episode": 64,
+			"title": "Goodbye Season",
+			"type": "manga-canon",
+			"aired_date": "1983-03-23"
+		},
+		{
+			"episode": 65,
+			"title": "Ran-chan's Great Date Plan!",
+			"type": "manga-canon",
+			"aired_date": "1983-04-13"
+		},
+		{
+			"episode": 66,
+			"title": "Happy Birthday My Darling",
+			"type": "manga-canon",
+			"aired_date": "1983-04-20"
+		},
+		{
+			"episode": 67,
+			"title": "Seeing Togenkyo in a Hell Camp!",
+			"type": "manga-canon",
+			"aired_date": "1983-04-27"
+		},
+		{
+			"episode": 68,
+			"title": "The Groom's Name is Ryūnosuke",
+			"type": "manga-canon",
+			"aired_date": "1983-05-11"
+		},
+		{
+			"episode": 69,
+			"title": "Bottled Letter Seashore Mystery!",
+			"type": "manga-canon",
+			"aired_date": "1983-05-18"
+		},
+		{
+			"episode": 70,
+			"title": "Dramatic Appearance! Mizunokōji Ton-chan!!",
+			"type": "manga-canon",
+			"aired_date": "1983-06-01"
+		},
+		{
+			"episode": 71,
+			"title": "Shinobu's Cinderella Story",
+			"type": "filler",
+			"aired_date": "1983-06-08"
+		},
+		{
+			"episode": 72,
+			"title": "Lum-chan the Rebel Without a Cause",
+			"type": "manga-canon",
+			"aired_date": "1983-06-15"
+		},
+		{
+			"episode": 73,
+			"title": "Big Showdown! Sakura vs. Sakuranbō!!",
+			"type": "manga-canon",
+			"aired_date": "1983-06-22"
+		},
+		{
+			"episode": 74,
+			"title": "Ghost Story! Old Man Willow!!",
+			"type": "manga-canon",
+			"aired_date": "1983-06-29"
+		},
+		{
+			"episode": 75,
+			"title": "And Then They Were None!?",
+			"type": "filler",
+			"aired_date": "1983-07-06"
+		},
+		{
+			"episode": 76,
+			"title": "Firefighter Mama Visits!",
+			"type": "manga-canon",
+			"aired_date": "1983-07-13"
+		},
+		{
+			"episode": 77,
+			"title": "Darling's Dying!?",
+			"type": "manga-canon",
+			"aired_date": "1983-07-20"
+		},
+		{
+			"episode": 78,
+			"title": "Pitiful! Mother of Love and Banishment!?",
+			"type": "filler",
+			"aired_date": "1983-07-27"
+		},
+		{
+			"episode": 79,
+			"title": "Mendō Family - Summer Christmas",
+			"type": "manga-canon",
+			"aired_date": "1983-08-03"
+		},
+		{
+			"episode": 80,
+			"title": "Panic in the Haunted Inn",
+			"type": "manga-canon",
+			"aired_date": "1983-08-10"
+		},
+		{
+			"episode": 81,
+			"title": "Ah The Eyelid of Mother",
+			"type": "manga-canon",
+			"aired_date": "1983-08-17"
+		},
+		{
+			"episode": 82,
+			"title": "Full of Sunshine - Full of Amours",
+			"type": "manga-canon",
+			"aired_date": "1983-08-24"
+		},
+		{
+			"episode": 83,
+			"title": "Big Clash! Ten VS Ataru",
+			"type": "manga-canon",
+			"aired_date": "1983-09-07"
+		},
+		{
+			"episode": 84,
+			"title": "Terror! Attack of the Slimy Potatoes!!",
+			"type": "filler",
+			"aired_date": "1983-09-14"
+		},
+		{
+			"episode": 85,
+			"title": "Revenge of the Planetary Instructor CAO-2",
+			"type": "mixed-manga",
+			"aired_date": "1983-09-21"
+		},
+		{
+			"episode": 86,
+			"title": "Outraged! Piteous Kid Shūtarō!!",
+			"type": "manga-canon",
+			"aired_date": "1983-10-12"
+		},
+		{
+			"episode": 87,
+			"title": "Grand! The Mysterious Matsutake Pot!!",
+			"type": "manga-canon",
+			"aired_date": "1983-10-26"
+		},
+		{
+			"episode": 88,
+			"title": "Enraged Lum-chan!",
+			"type": "manga-canon",
+			"aired_date": "1983-11-02"
+		},
+		{
+			"episode": 89,
+			"title": "Lum and Ataru - A Night only for Two",
+			"type": "manga-canon",
+			"aired_date": "1983-11-09"
+		},
+		{
+			"episode": 90,
+			"title": "Lady Ryūnosuke!",
+			"type": "manga-canon",
+			"aired_date": "1983-11-23"
+		},
+		{
+			"episode": 91,
+			"title": "Document - Who Will Be Miss Tomobiki!?",
+			"type": "mixed-manga",
+			"aired_date": "1983-11-30"
+		},
+		{
+			"episode": 92,
+			"title": "Bizarre! The Medicine of Selflessness!!",
+			"type": "manga-canon",
+			"aired_date": "1983-12-07"
+		},
+		{
+			"episode": 93,
+			"title": "Shūtarō - Jinxed Morning",
+			"type": "filler",
+			"aired_date": "1983-12-14"
+		},
+		{
+			"episode": 94,
+			"title": "Tales of Wandering Snowman",
+			"type": "manga-canon",
+			"aired_date": "1983-12-21"
+		},
+		{
+			"episode": 95,
+			"title": "Lum-chan's Ancient Japanese Fairy Tales",
+			"type": "filler",
+			"aired_date": "1984-01-11"
+		},
+		{
+			"episode": 96,
+			"title": "Shine! The Blessed Bra!!",
+			"type": "manga-canon",
+			"aired_date": "1984-01-18"
+		},
+		{
+			"episode": 97,
+			"title": "Duel! Benten VS the Three Daughters!!",
+			"type": "manga-canon",
+			"aired_date": "1984-01-25"
+		},
+		{
+			"episode": 98,
+			"title": "Plenty of Lum-chans!",
+			"type": "filler",
+			"aired_date": "1984-02-01"
+		},
+		{
+			"episode": 99,
+			"title": "Deadly! Standup Eating Wars!!",
+			"type": "filler",
+			"aired_date": "1984-02-08"
+		},
+		{
+			"episode": 100,
+			"title": "Great Vault! Desperate Survival!!",
+			"type": "filler",
+			"aired_date": "1984-02-15"
+		},
+		{
+			"episode": 101,
+			"title": "Operation: Peek in the Woman's Bath!",
+			"type": "filler",
+			"aired_date": "1984-02-22"
+		},
+		{
+			"episode": 102,
+			"title": "Sakura - Melancholy of a Youth Time",
+			"type": "manga-canon",
+			"aired_date": "1984-02-29"
+		},
+		{
+			"episode": 103,
+			"title": "Burning Ran's Emotional Video Mail",
+			"type": "filler",
+			"aired_date": "1984-03-07"
+		},
+		{
+			"episode": 104,
+			"title": "Sakura-san is My Youth!",
+			"type": "filler",
+			"aired_date": "1984-03-14"
+		},
+		{
+			"episode": 105,
+			"title": "Scramble! Retrieve Lum!!",
+			"type": "filler",
+			"aired_date": "1984-03-21"
+		},
+		{
+			"episode": 106,
+			"title": "Deathmatch! Ataru vs. the Mendō Brigade!!",
+			"type": "filler",
+			"aired_date": "1984-03-28"
+		},
+		{
+			"episode": 107,
+			"title": "Dimensional Switch, Where's Darling!?",
+			"type": "filler",
+			"aired_date": "1984-04-11"
+		},
+		{
+			"episode": 108,
+			"title": "Clash!! Her Ladyship and the Football of Love",
+			"type": "manga-canon",
+			"aired_date": "1984-04-18"
+		},
+		{
+			"episode": 109,
+			"title": "Ran-chan, Tasting the Tearful Love of a First Kiss",
+			"type": "manga-canon",
+			"aired_date": "1984-05-02"
+		},
+		{
+			"episode": 110,
+			"title": "Un-re-mov-ab-le Rouge Magic",
+			"type": "manga-canon",
+			"aired_date": "1984-05-09"
+		},
+		{
+			"episode": 111,
+			"title": "Deadly Combat!! The Mendō Family Flower Display Death Match",
+			"type": "manga-canon",
+			"aired_date": "1984-05-16"
+		},
+		{
+			"episode": 112,
+			"title": "Benten & Ryūnosuke - Run Toward Tomorrow!",
+			"type": "filler",
+			"aired_date": "1984-05-23"
+		},
+		{
+			"episode": 113,
+			"title": "Great Horrors! Oyuki is Finally Angered!",
+			"type": "manga-canon",
+			"aired_date": "1984-05-30"
+		},
+		{
+			"episode": 114,
+			"title": "Ten-chan's Strange Love Story",
+			"type": "manga-canon",
+			"aired_date": "1984-06-06"
+		},
+		{
+			"episode": 115,
+			"title": "Haunted Special! Search for Mendō Mansion's Treasure!",
+			"type": "manga-canon",
+			"aired_date": "1984-06-13"
+		},
+		{
+			"episode": 116,
+			"title": "Love and War! Battle of Glove VS Pants!!",
+			"type": "mixed-manga",
+			"aired_date": "1984-06-20"
+		},
+		{
+			"episode": 117,
+			"title": "Lum-chan's Becoming a Cow?",
+			"type": "manga-canon",
+			"aired_date": "1984-06-27"
+		},
+		{
+			"episode": 118,
+			"title": "Great Achievement! This is Lum-chan's Youth Film",
+			"type": "filler",
+			"aired_date": "1984-07-11"
+		},
+		{
+			"episode": 119,
+			"title": "Scaring Ghosts! The Beautiful Sakura's Exorcism!!",
+			"type": "manga-canon",
+			"aired_date": "1984-07-18"
+		},
+		{
+			"episode": 120,
+			"title": "Counterattack of the Protozoa! Panic at the Poolside",
+			"type": "mixed-manga",
+			"aired_date": "1984-07-25"
+		},
+		{
+			"episode": 121,
+			"title": "Here Again! Hunter of Love Princess Kurama",
+			"type": "manga-canon",
+			"aired_date": "1984-08-01"
+		},
+		{
+			"episode": 122,
+			"title": "The Fox's Hard Feelings of Painful Love",
+			"type": "manga-canon",
+			"aired_date": "1984-08-15"
+		},
+		{
+			"episode": 123,
+			"title": "Ryūnosuke Stunned! Solid Rock Mother Cherishes Her Young Pebble!!",
+			"type": "manga-canon",
+			"aired_date": "1984-08-22"
+		},
+		{
+			"episode": 124,
+			"title": "Ghost Story! Footsteps of the Girl’s Dormitory!!",
+			"type": "manga-canon",
+			"aired_date": "1984-08-29"
+		},
+		{
+			"episode": 125,
+			"title": "Pool Spooks! Burning into Forbidden Love!!",
+			"type": "manga-canon",
+			"aired_date": "1984-09-12"
+		},
+		{
+			"episode": 126,
+			"title": "Ran-chan's Panic: There is No Tomorrow for Tomobiki Town",
+			"type": "filler",
+			"aired_date": "1984-09-19"
+		},
+		{
+			"episode": 127,
+			"title": "Where is Love's Room? Kuriko and Chojuro",
+			"type": "manga-canon",
+			"aired_date": "1984-09-26"
+		},
+		{
+			"episode": 128,
+			"title": "Man or Bird? Luxurious Ally of Justice!",
+			"type": "manga-canon",
+			"aired_date": "1984-10-17"
+		},
+		{
+			"episode": 129,
+			"title": "Attack Your Seniors! Revenge of the Infamous Three Daughters",
+			"type": "manga-canon",
+			"aired_date": "1984-10-24"
+		},
+		{
+			"episode": 130,
+			"title": "Blazing Hidden Trick! This Straight Line Road",
+			"type": "manga-canon",
+			"aired_date": "1984-10-31"
+		},
+		{
+			"episode": 131,
+			"title": "Don't Die! Ryōko's Special Straw Doll!!",
+			"type": "manga-canon",
+			"aired_date": "1984-11-07"
+		},
+		{
+			"episode": 132,
+			"title": "Matchmaking Hell! Is the Armored Daughter a Beauty? Beast?",
+			"type": "manga-canon",
+			"aired_date": "1984-11-14"
+		},
+		{
+			"episode": 133,
+			"title": "Love of the Armored Daughter! Maiden Heart is Shaky Wobbling",
+			"type": "manga-canon",
+			"aired_date": "1984-11-21"
+		},
+		{
+			"episode": 134,
+			"title": "I Dearly Want to Meet You! Return of the Pure Fox!!",
+			"type": "manga-canon",
+			"aired_date": "1984-11-28"
+		},
+		{
+			"episode": 135,
+			"title": "How I Hate Talking Flowers!",
+			"type": "manga-canon",
+			"aired_date": "1984-12-05"
+		},
+		{
+			"episode": 136,
+			"title": "The Birth of Ten-chan's Son? I Know Nothing!",
+			"type": "manga-canon",
+			"aired_date": "1984-12-12"
+		},
+		{
+			"episode": 137,
+			"title": "Lum's Courageous Duel! Victory by Cheap Means",
+			"type": "manga-canon",
+			"aired_date": "1984-12-19"
+		},
+		{
+			"episode": 138,
+			"title": "Big Aspiration for an Employment! Return of Fugitive Ninja Kaede!!",
+			"type": "filler",
+			"aired_date": "1985-01-09"
+		},
+		{
+			"episode": 139,
+			"title": "Tomobiki High School Survival! Who Are the Survivors!!",
+			"type": "mixed-manga",
+			"aired_date": "1985-01-16"
+		},
+		{
+			"episode": 140,
+			"title": "The Mysterious Giant Cake! Love Escape Panic!!",
+			"type": "manga-canon",
+			"aired_date": "1985-01-23"
+		},
+		{
+			"episode": 141,
+			"title": "Reincarnation of Hell! What's Darling Thinking!?",
+			"type": "mixed-manga",
+			"aired_date": "1985-01-30"
+		},
+		{
+			"episode": 142,
+			"title": "Theatrical Panic! The Mendō Family Flower Viewing Banquet!!",
+			"type": "manga-canon",
+			"aired_date": "1985-02-06"
+		},
+		{
+			"episode": 143,
+			"title": "Far Spring! The Tale of the Lonely Fairy!!",
+			"type": "filler",
+			"aired_date": "1985-02-13"
+		},
+		{
+			"episode": 144,
+			"title": "To Dreamland! Darling Battle Royale Abduction",
+			"type": "manga-canon",
+			"aired_date": "1985-02-20"
+		},
+		{
+			"episode": 145,
+			"title": "Three Daughters Again! The Great Darling Seduction Scheme!!",
+			"type": "manga-canon",
+			"aired_date": "1985-02-27"
+		},
+		{
+			"episode": 146,
+			"title": "The Scampering Kotatsu-Neko! Anything to Get Warm",
+			"type": "mixed-manga",
+			"aired_date": "1985-03-06"
+		},
+		{
+			"episode": 147,
+			"title": "Ryūnosuke's Father's Comes Clean! My Wife is in Vestiges!!",
+			"type": "manga-canon",
+			"aired_date": "1985-03-13"
+		},
+		{
+			"episode": 148,
+			"title": "Spring in Full Bloom!? Frozen by Oyuki's Cold!!",
+			"type": "manga-canon",
+			"aired_date": "1985-03-20"
+		},
+		{
+			"episode": 149,
+			"title": "Friendship Panic! I Love Blowfish",
+			"type": "manga-canon",
+			"aired_date": "1985-03-27"
+		},
+		{
+			"episode": 150,
+			"title": "The Armored Girl Returns! Plenty of Older Brothers",
+			"type": "manga-canon",
+			"aired_date": "1985-04-03"
+		},
+		{
+			"episode": 151,
+			"title": "Boredom Syndrome! Is Tomobiki Town Wasting Away!?",
+			"type": "mixed-manga",
+			"aired_date": "1985-04-10"
+		},
+		{
+			"episode": 152,
+			"title": "Ran in Peril! Kotatsu Neko's First Love Oden!?",
+			"type": "manga-canon",
+			"aired_date": "1985-04-17"
+		},
+		{
+			"episode": 153,
+			"title": "The Armored Girl Appears Again! A Storm Raising Date",
+			"type": "manga-canon",
+			"aired_date": "1985-04-24"
+		},
+		{
+			"episode": 154,
+			"title": "A Mysterious Priest Appears! Bell Bashing Battle Royal",
+			"type": "manga-canon",
+			"aired_date": "1985-05-01"
+		},
+		{
+			"episode": 155,
+			"title": "First Love Again!? A Return to the Past for Lum and Rei!!",
+			"type": "manga-canon",
+			"aired_date": "1985-05-08"
+		},
+		{
+			"episode": 156,
+			"title": "Youthful Old Man Appears! Shine, Great Coffee House of Dreams!!",
+			"type": "manga-canon",
+			"aired_date": "1985-05-15"
+		},
+		{
+			"episode": 157,
+			"title": "I Love Darling's Kindness...",
+			"type": "manga-canon",
+			"aired_date": "1985-05-22"
+		},
+		{
+			"episode": 158,
+			"title": "The Pure Fox Again! I Love Shinobu",
+			"type": "manga-canon",
+			"aired_date": "1985-05-29"
+		},
+		{
+			"episode": 159,
+			"title": "I Love the Sea~! The Longed-Cherished Hamachaya's Prosperity Record!?",
+			"type": "mixed-manga",
+			"aired_date": "1985-06-05"
+		},
+		{
+			"episode": 160,
+			"title": "Ryūnosuke VS Benten! The Fruitless Charm Duel",
+			"type": "manga-canon",
+			"aired_date": "1985-06-12"
+		},
+		{
+			"episode": 161,
+			"title": "Small Magic Bottle! What's to Become of Me?",
+			"type": "manga-canon",
+			"aired_date": "1985-06-19"
+		},
+		{
+			"episode": 162,
+			"title": "Daimajin Appears! Lum's Dangerous Purchase!?",
+			"type": "mixed-manga",
+			"aired_date": "1985-06-26"
+		},
+		{
+			"episode": 163,
+			"title": "Goodness! Words Aren't Getting to Darling",
+			"type": "manga-canon",
+			"aired_date": "1985-07-03"
+		},
+		{
+			"episode": 164,
+			"title": "Devil's Summer! Ten-chan's Great Unaju Operation!!",
+			"type": "manga-canon",
+			"aired_date": "1985-07-10"
+		},
+		{
+			"episode": 165,
+			"title": "Visitation Panic!? I Didn't Mean Any Harm",
+			"type": "manga-canon",
+			"aired_date": "1985-07-17"
+		},
+		{
+			"episode": 166,
+			"title": "Scary!! There is an Octopus on Shūtarō's Head!?",
+			"type": "manga-canon",
+			"aired_date": "1985-07-24"
+		},
+		{
+			"episode": 167,
+			"title": "Invader From Space! Lum's Lips in Peril!!",
+			"type": "manga-canon",
+			"aired_date": "1985-07-31"
+		}
+	]
+}

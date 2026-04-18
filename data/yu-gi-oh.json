@@ -1,0 +1,172 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Yu-Gi-Oh!",
+	"mappings": {
+		"anilist_id": 550,
+		"mal_id": 550
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Violent Battle - A Game of Darkness",
+			"type": "mixed-manga",
+			"aired_date": "1998-04-04"
+		},
+		{
+			"episode": 2,
+			"title": "The Evil Gamer - The Trap of Hell",
+			"type": "mixed-manga",
+			"aired_date": "1998-04-11"
+		},
+		{
+			"episode": 3,
+			"title": "Clash! The Strongest Monster",
+			"type": "mixed-manga",
+			"aired_date": "1998-04-18"
+		},
+		{
+			"episode": 4,
+			"title": "Theft! Rare Watch Battle",
+			"type": "filler",
+			"aired_date": "1998-04-25"
+		},
+		{
+			"episode": 5,
+			"title": "Now Revealed!! Yugi's Secret",
+			"type": "mixed-manga",
+			"aired_date": "1998-05-02"
+		},
+		{
+			"episode": 6,
+			"title": "Desperate Situation!! Burning Friendship Battle",
+			"type": "mixed-manga",
+			"aired_date": "1998-05-09"
+		},
+		{
+			"episode": 7,
+			"title": "The Underhanded Digital Pet Rebellion",
+			"type": "mixed-manga",
+			"aired_date": "1998-05-16"
+		},
+		{
+			"episode": 8,
+			"title": "The Four Game Masters Finally Stir",
+			"type": "filler",
+			"aired_date": "1998-05-23"
+		},
+		{
+			"episode": 9,
+			"title": "Explosion - Ultimate Yo-Yo Technique",
+			"type": "mixed-manga",
+			"aired_date": "1998-05-30"
+		},
+		{
+			"episode": 10,
+			"title": "The Pressing Beautiful Teacher - A Secret Mask",
+			"type": "mixed-manga",
+			"aired_date": "1998-06-06"
+		},
+		{
+			"episode": 11,
+			"title": "The Rumored Capmon's New Appearance",
+			"type": "mixed-manga",
+			"aired_date": "1998-06-13"
+		},
+		{
+			"episode": 12,
+			"title": "A Lucky Foe Calls Out - The Invincible Legend",
+			"type": "filler",
+			"aired_date": "1998-06-20"
+		},
+		{
+			"episode": 13,
+			"title": "Targeting a Schoolgirl - The Fang of a Great Prediction",
+			"type": "mixed-manga",
+			"aired_date": "1998-06-27"
+		},
+		{
+			"episode": 14,
+			"title": "In a Bomb Game - The Worst Date",
+			"type": "mixed-manga",
+			"aired_date": "1998-07-04"
+		},
+		{
+			"episode": 15,
+			"title": "Eerie Woman!! Unable to Transform",
+			"type": "filler",
+			"aired_date": "1998-07-11"
+		},
+		{
+			"episode": 16,
+			"title": "Breadth's Change - Crisis of the White Robe",
+			"type": "filler",
+			"aired_date": "1998-07-18"
+		},
+		{
+			"episode": 17,
+			"title": "A Last Minute Match - The Invited Model",
+			"type": "filler",
+			"aired_date": "1998-07-25"
+		},
+		{
+			"episode": 18,
+			"title": "In a Forbidden Game - Show Your Hand",
+			"type": "mixed-manga",
+			"aired_date": "1998-08-01"
+		},
+		{
+			"episode": 19,
+			"title": "The Grand Melee!! Popularity Contest",
+			"type": "filler",
+			"aired_date": "1998-08-08"
+		},
+		{
+			"episode": 20,
+			"title": "Come Out!! The Strongest and Final Trump Card",
+			"type": "filler",
+			"aired_date": "1998-08-15"
+		},
+		{
+			"episode": 21,
+			"title": "Completed!! The Ultimate Game Land",
+			"type": "mixed-manga",
+			"aired_date": "1998-08-22"
+		},
+		{
+			"episode": 22,
+			"title": "Tearing - Boarderline Shooting",
+			"type": "mixed-manga",
+			"aired_date": "1998-08-29"
+		},
+		{
+			"episode": 23,
+			"title": "Capmon King! The Decisive Battle",
+			"type": "mixed-manga",
+			"aired_date": "1998-09-05"
+		},
+		{
+			"episode": 24,
+			"title": "Now! The Time of Decision - The Miracle of Friendship",
+			"type": "mixed-manga",
+			"aired_date": "1998-09-12"
+		},
+		{
+			"episode": 25,
+			"title": "A New Development - Attack of the Handsome Boy",
+			"type": "mixed-manga",
+			"aired_date": "1998-09-26"
+		},
+		{
+			"episode": 26,
+			"title": "Rival Clash - The Greatest Crisis",
+			"type": "mixed-manga",
+			"aired_date": "1998-10-03"
+		},
+		{
+			"episode": 27,
+			"title": "Friendship - From Legend to Myth",
+			"type": "mixed-manga",
+			"aired_date": "1998-10-10"
+		}
+	]
+}

@@ -1,0 +1,244 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Sailor Moon SuperS",
+	"mappings": {
+		"anilist_id": 1239,
+		"mal_id": 1239
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Meeting of Fate: The Night Where a Pegasus Flies",
+			"type": "manga-canon",
+			"aired_date": "1995-03-04"
+		},
+		{
+			"episode": 2,
+			"title": "Super Transformations Again! Pegasus's Power",
+			"type": "filler",
+			"aired_date": "1995-03-11"
+		},
+		{
+			"episode": 3,
+			"title": "Protect a Mother's Dream! The New Attack for Double Moon",
+			"type": "manga-canon",
+			"aired_date": "1995-03-18"
+		},
+		{
+			"episode": 4,
+			"title": "Capture the Pegasus: The Amazons' Trap",
+			"type": "filler",
+			"aired_date": "1995-03-25"
+		},
+		{
+			"episode": 5,
+			"title": "A Couple Made for Each Other: Usagi and Mamoru's Love",
+			"type": "filler",
+			"aired_date": "1995-04-15"
+		},
+		{
+			"episode": 6,
+			"title": "Artemis's Affair?! A Mysterious Kitten Appears",
+			"type": "manga-canon",
+			"aired_date": "1995-04-29"
+		},
+		{
+			"episode": 7,
+			"title": "Makoto's Friendship: A Girl Who Adores a Pegasus",
+			"type": "filler",
+			"aired_date": "1995-05-13"
+		},
+		{
+			"episode": 8,
+			"title": "Hearts that Communicate: Chibiusa and Pegasus",
+			"type": "manga-canon",
+			"aired_date": "1995-05-20"
+		},
+		{
+			"episode": 9,
+			"title": "Protect Mamoru: Jealousy of Usagi the Ninja",
+			"type": "filler",
+			"aired_date": "1995-05-27"
+		},
+		{
+			"episode": 10,
+			"title": "Forest of Illusion: Invitation of a Beautiful Fairy",
+			"type": "filler",
+			"aired_date": "1995-06-03"
+		},
+		{
+			"episode": 11,
+			"title": "Drive to Heaven: Love Riding on the Car of Dreams",
+			"type": "filler",
+			"aired_date": "1995-06-10"
+		},
+		{
+			"episode": 12,
+			"title": "Try for the Best of Japan: The Worries of a Beautiful Girl Swordsman",
+			"type": "filler",
+			"aired_date": "1995-06-17"
+		},
+		{
+			"episode": 13,
+			"title": "Love Those Minis: The Fashionable Guardians",
+			"type": "filler",
+			"aired_date": "1995-07-01"
+		},
+		{
+			"episode": 14,
+			"title": "Storm of Love: Minako's Grand Two-Timing Plan",
+			"type": "filler",
+			"aired_date": "1995-07-08"
+		},
+		{
+			"episode": 15,
+			"title": "Mansion of Secrets: The Menu of Love to You",
+			"type": "filler",
+			"aired_date": "1995-07-15"
+		},
+		{
+			"episode": 16,
+			"title": "Time to Believe in Pegasus: The Super Transformations of the Four Guardians",
+			"type": "manga-canon",
+			"aired_date": "1995-07-22"
+		},
+		{
+			"episode": 17,
+			"title": "Sparkling Summer Days: Ami, the Girl in the Ocean Breeze",
+			"type": "filler",
+			"aired_date": "1995-08-12"
+		},
+		{
+			"episode": 18,
+			"title": "Aim for the Prima: Usagi's Ballet",
+			"type": "filler",
+			"aired_date": "1995-08-19"
+		},
+		{
+			"episode": 19,
+			"title": "Holiday in Juban City: A Carefree Princess",
+			"type": "filler",
+			"aired_date": "1995-08-26"
+		},
+		{
+			"episode": 20,
+			"title": "The Fated Partner? Makoto's Innocence",
+			"type": "filler",
+			"aired_date": "1995-09-02"
+		},
+		{
+			"episode": 21,
+			"title": "Shadows of the Great Evil: The Trio is Cornered",
+			"type": "manga-canon",
+			"aired_date": "1995-09-23"
+		},
+		{
+			"episode": 22,
+			"title": "Mirror of Dreams: Amazons' Final Stage",
+			"type": "manga-canon",
+			"aired_date": "1995-10-21"
+		},
+		{
+			"episode": 23,
+			"title": "Amazoness! Nightmare from Behind the Mirror",
+			"type": "manga-canon",
+			"aired_date": "1995-10-28"
+		},
+		{
+			"episode": 24,
+			"title": "True Power Explodes: Ami's Song of the Heart",
+			"type": "filler",
+			"aired_date": "1995-11-04"
+		},
+		{
+			"episode": 25,
+			"title": "Burning Passion: Mars's Furious Deadly Attack",
+			"type": "filler",
+			"aired_date": "1995-11-11"
+		},
+		{
+			"episode": 26,
+			"title": "A Dentist of Terror? PallaPalla's House",
+			"type": "filler",
+			"aired_date": "1995-11-18"
+		},
+		{
+			"episode": 27,
+			"title": "Confrontation in Dreams: Minako and Makoto's Broken Friendship",
+			"type": "filler",
+			"aired_date": "1995-11-25"
+		},
+		{
+			"episode": 28,
+			"title": "Over the Fear: Jump to Freedom",
+			"type": "filler",
+			"aired_date": "1995-12-02"
+		},
+		{
+			"episode": 29,
+			"title": "Don't Lose Your Dreams: The Truth-Reflecting Mirror",
+			"type": "filler",
+			"aired_date": "1995-12-09"
+		},
+		{
+			"episode": 30,
+			"title": "Pegasus is Gone?! Swinging Friendships",
+			"type": "filler",
+			"aired_date": "1995-12-16"
+		},
+		{
+			"episode": 31,
+			"title": "The Secret of Pegasus: The Handsome Guardian of the Dream World",
+			"type": "manga-canon",
+			"aired_date": "1995-12-23"
+		},
+		{
+			"episode": 32,
+			"title": "Chibiusa's Little Rhapsody of Love",
+			"type": "filler",
+			"aired_date": "1996-01-13"
+		},
+		{
+			"episode": 33,
+			"title": "Dream to be an Adult: The Amazoness' Bewilderment",
+			"type": "manga-canon",
+			"aired_date": "1996-01-20"
+		},
+		{
+			"episode": 34,
+			"title": "Coming Terror: The Dark Queen's Evil Approach",
+			"type": "manga-canon",
+			"aired_date": "1996-01-27"
+		},
+		{
+			"episode": 35,
+			"title": "The Center of the Darkness: Dead Moon Circus",
+			"type": "manga-canon",
+			"aired_date": "1996-02-03"
+		},
+		{
+			"episode": 36,
+			"title": "Labyrinth of Mirrors: Chibi Moon Captured",
+			"type": "manga-canon",
+			"aired_date": "1996-02-10"
+		},
+		{
+			"episode": 37,
+			"title": "The Golden Crystal Appears: Nehellenia's Spell",
+			"type": "manga-canon",
+			"aired_date": "1996-02-17"
+		},
+		{
+			"episode": 38,
+			"title": "Time for the Crystal to Shine: Beautiful Power of Dreams",
+			"type": "manga-canon",
+			"aired_date": "1996-02-24"
+		},
+		{
+			"episode": 39,
+			"title": "Dreams Forever: Light Throughout the Sky",
+			"type": "manga-canon",
+			"aired_date": "1996-03-02"
+		}
+	]
+}

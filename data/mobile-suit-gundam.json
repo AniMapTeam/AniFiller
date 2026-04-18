@@ -1,0 +1,268 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Mobile Suit Gundam (Kidou Senshi Gundam)",
+	"mappings": {
+		"anilist_id": 80,
+		"mal_id": 80
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Gundam Rising!!",
+			"type": "manga-canon",
+			"aired_date": "1979-04-07"
+		},
+		{
+			"episode": 2,
+			"title": "Destroy Gundam!",
+			"type": "manga-canon",
+			"aired_date": "1979-04-14"
+		},
+		{
+			"episode": 3,
+			"title": "Vote to Attack",
+			"type": "manga-canon",
+			"aired_date": "1979-04-21"
+		},
+		{
+			"episode": 4,
+			"title": "Escape from Luna II",
+			"type": "manga-canon",
+			"aired_date": "1979-04-28"
+		},
+		{
+			"episode": 5,
+			"title": "Re-Entry to Earth",
+			"type": "manga-canon",
+			"aired_date": "1979-05-05"
+		},
+		{
+			"episode": 6,
+			"title": "Garma Strikes",
+			"type": "manga-canon",
+			"aired_date": "1979-05-12"
+		},
+		{
+			"episode": 7,
+			"title": "The Core Fighter's Escape",
+			"type": "manga-canon",
+			"aired_date": "1979-05-18"
+		},
+		{
+			"episode": 8,
+			"title": "Winds of War",
+			"type": "manga-canon",
+			"aired_date": "1979-05-26"
+		},
+		{
+			"episode": 9,
+			"title": "Fly, Gundam!",
+			"type": "manga-canon",
+			"aired_date": "1979-06-02"
+		},
+		{
+			"episode": 10,
+			"title": "Garma's Fate",
+			"type": "manga-canon",
+			"aired_date": "1979-06-09"
+		},
+		{
+			"episode": 11,
+			"title": "Icelina- Love's Remains",
+			"type": "manga-canon",
+			"aired_date": "1979-06-16"
+		},
+		{
+			"episode": 12,
+			"title": "The Threat of Zeon",
+			"type": "manga-canon",
+			"aired_date": "1979-06-23"
+		},
+		{
+			"episode": 13,
+			"title": "Coming Home",
+			"type": "manga-canon",
+			"aired_date": "1979-06-30"
+		},
+		{
+			"episode": 14,
+			"title": "Time, Be Still",
+			"type": "manga-canon",
+			"aired_date": "1979-07-06"
+		},
+		{
+			"episode": 15,
+			"title": "Cucuruz Doan's Island",
+			"type": "filler",
+			"aired_date": "1979-07-14"
+		},
+		{
+			"episode": 16,
+			"title": "Sayla's Agony",
+			"type": "manga-canon",
+			"aired_date": "1979-07-21"
+		},
+		{
+			"episode": 17,
+			"title": "Amuro Deserts",
+			"type": "manga-canon",
+			"aired_date": "1979-07-28"
+		},
+		{
+			"episode": 18,
+			"title": "Zeon's Secret Mine",
+			"type": "manga-canon",
+			"aired_date": "1979-08-04"
+		},
+		{
+			"episode": 19,
+			"title": "Ramba Ral's Attack",
+			"type": "manga-canon",
+			"aired_date": "1979-08-11"
+		},
+		{
+			"episode": 20,
+			"title": "Hand-to-Hand Combat",
+			"type": "manga-canon",
+			"aired_date": "1979-08-18"
+		},
+		{
+			"episode": 21,
+			"title": "Sorrow and Hatred",
+			"type": "manga-canon",
+			"aired_date": "1979-08-25"
+		},
+		{
+			"episode": 22,
+			"title": "The Trap of M'Quve",
+			"type": "manga-canon",
+			"aired_date": "1979-09-01"
+		},
+		{
+			"episode": 23,
+			"title": "Matilda's Rescue",
+			"type": "manga-canon",
+			"aired_date": "1979-09-08"
+		},
+		{
+			"episode": 24,
+			"title": "Black Tri-Star",
+			"type": "manga-canon",
+			"aired_date": "1979-09-15"
+		},
+		{
+			"episode": 25,
+			"title": "The Battle of Odessa",
+			"type": "manga-canon",
+			"aired_date": "1979-09-22"
+		},
+		{
+			"episode": 26,
+			"title": "Char Returns",
+			"type": "manga-canon",
+			"aired_date": "1979-09-29"
+		},
+		{
+			"episode": 27,
+			"title": "A Spy on Board",
+			"type": "manga-canon",
+			"aired_date": "1979-10-06"
+		},
+		{
+			"episode": 28,
+			"title": "Across the Atlantic Ocean",
+			"type": "manga-canon",
+			"aired_date": "1979-10-13"
+		},
+		{
+			"episode": 29,
+			"title": "Tragedy in Jaburo",
+			"type": "manga-canon",
+			"aired_date": "1979-10-20"
+		},
+		{
+			"episode": 30,
+			"title": "A Wish of War Orphans",
+			"type": "manga-canon",
+			"aired_date": "1979-10-27"
+		},
+		{
+			"episode": 31,
+			"title": "A Decoy in Space",
+			"type": "manga-canon",
+			"aired_date": "1979-11-03"
+		},
+		{
+			"episode": 32,
+			"title": "Breakthrough",
+			"type": "manga-canon",
+			"aired_date": "1979-11-10"
+		},
+		{
+			"episode": 33,
+			"title": "Farewell in Side 6",
+			"type": "manga-canon",
+			"aired_date": "1979-11-17"
+		},
+		{
+			"episode": 34,
+			"title": "A Fateful Encounter",
+			"type": "manga-canon",
+			"aired_date": "1979-11-24"
+		},
+		{
+			"episode": 35,
+			"title": "The Glory of Solomon",
+			"type": "manga-canon",
+			"aired_date": "1979-12-01"
+		},
+		{
+			"episode": 36,
+			"title": "Big Zam's Last Stand",
+			"type": "manga-canon",
+			"aired_date": "1979-12-08"
+		},
+		{
+			"episode": 37,
+			"title": "The Duel in Texas",
+			"type": "manga-canon",
+			"aired_date": "1979-12-15"
+		},
+		{
+			"episode": 38,
+			"title": "Char and Sayla",
+			"type": "manga-canon",
+			"aired_date": "1979-12-22"
+		},
+		{
+			"episode": 39,
+			"title": "The Newtype: Challia Bull",
+			"type": "manga-canon",
+			"aired_date": "1979-12-29"
+		},
+		{
+			"episode": 40,
+			"title": "Lalah's Dilemma",
+			"type": "manga-canon",
+			"aired_date": "1980-01-05"
+		},
+		{
+			"episode": 41,
+			"title": "A Cosmic Glow",
+			"type": "manga-canon",
+			"aired_date": "1980-01-12"
+		},
+		{
+			"episode": 42,
+			"title": "Space Fortress A Baoa Qu",
+			"type": "manga-canon",
+			"aired_date": "1980-01-19"
+		},
+		{
+			"episode": 43,
+			"title": "Escape",
+			"type": "manga-canon",
+			"aired_date": "1980-01-26"
+		}
+	]
+}

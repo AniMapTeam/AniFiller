@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Kaiju No. 8",
+	"mappings": {
+		"anilist_id": 153288,
+		"mal_id": 52588
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Man Who Became a Kaiju",
+			"type": "manga-canon",
+			"aired_date": "2024-04-13"
+		},
+		{
+			"episode": 2,
+			"title": "The Kaiju Who Defeats Kaiju",
+			"type": "manga-canon",
+			"aired_date": "2024-04-20"
+		},
+		{
+			"episode": 3,
+			"title": "Revenge Match",
+			"type": "manga-canon",
+			"aired_date": "2024-04-27"
+		},
+		{
+			"episode": 4,
+			"title": "Fortitude 9.8",
+			"type": "manga-canon",
+			"aired_date": "2024-05-04"
+		},
+		{
+			"episode": 5,
+			"title": "Joining Up!",
+			"type": "manga-canon",
+			"aired_date": "2024-05-11"
+		},
+		{
+			"episode": 6,
+			"title": "Sagamihara Neutralization Operation at Daybreak",
+			"type": "manga-canon",
+			"aired_date": "2024-05-18"
+		},
+		{
+			"episode": 7,
+			"title": "Kaiju No. 9",
+			"type": "manga-canon",
+			"aired_date": "2024-05-25"
+		},
+		{
+			"episode": 8,
+			"title": "Welcome to the Defense Force",
+			"type": "manga-canon",
+			"aired_date": "2024-06-01"
+		},
+		{
+			"episode": 9,
+			"title": "Raid on Tachikawa Base",
+			"type": "manga-canon",
+			"aired_date": "2024-06-08"
+		},
+		{
+			"episode": 10,
+			"title": "Secret Revealed",
+			"type": "manga-canon",
+			"aired_date": "2024-06-15"
+		},
+		{
+			"episode": 11,
+			"title": "Kaiju No. 8 Captured",
+			"type": "manga-canon",
+			"aired_date": "2024-06-22"
+		},
+		{
+			"episode": 12,
+			"title": "Kafka Hibino",
+			"type": "mixed-manga",
+			"aired_date": "2024-06-29"
+		}
+	]
+}

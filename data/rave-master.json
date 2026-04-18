@@ -1,0 +1,316 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Rave Master",
+	"mappings": {
+		"anilist_id": 246,
+		"mal_id": 246
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Rave Master, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-10-13"
+		},
+		{
+			"episode": 2,
+			"title": "The Rave Master, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-10-20"
+		},
+		{
+			"episode": 3,
+			"title": "Release the Beasts, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-10-27"
+		},
+		{
+			"episode": 4,
+			"title": "Release the Beasts, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-11-03"
+		},
+		{
+			"episode": 5,
+			"title": "Release the Beasts, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2001-11-10"
+		},
+		{
+			"episode": 6,
+			"title": "Release the Beasts, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2001-11-17"
+		},
+		{
+			"episode": 7,
+			"title": "Release the Beasts, Part 5",
+			"type": "manga-canon",
+			"aired_date": "2001-11-24"
+		},
+		{
+			"episode": 8,
+			"title": "Breaking Out",
+			"type": "mixed-manga",
+			"aired_date": "2001-12-01"
+		},
+		{
+			"episode": 9,
+			"title": "A Bite to Eat",
+			"type": "manga-canon",
+			"aired_date": "2001-12-08"
+		},
+		{
+			"episode": 10,
+			"title": "Sound of Thunder, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2001-12-15"
+		},
+		{
+			"episode": 11,
+			"title": "Sound of Thunder, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2001-12-22"
+		},
+		{
+			"episode": 12,
+			"title": "Sound of Thunder, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2001-12-29"
+		},
+		{
+			"episode": 13,
+			"title": "Under Tremolo Mountain, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-01-05"
+		},
+		{
+			"episode": 14,
+			"title": "Under Tremolo Mountain, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-01-12"
+		},
+		{
+			"episode": 15,
+			"title": "Under Tremolo Mountain, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-01-19"
+		},
+		{
+			"episode": 16,
+			"title": "Fortress in Flight, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-01-26"
+		},
+		{
+			"episode": 17,
+			"title": "Fortress in Flight, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-02-02"
+		},
+		{
+			"episode": 18,
+			"title": "Fortress in Flight, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-02-09"
+		},
+		{
+			"episode": 19,
+			"title": "Out of Time, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-02-16"
+		},
+		{
+			"episode": 20,
+			"title": "Out of Time, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-02-23"
+		},
+		{
+			"episode": 21,
+			"title": "Out of Time, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-03-02"
+		},
+		{
+			"episode": 22,
+			"title": "Out of Time, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2002-03-09"
+		},
+		{
+			"episode": 23,
+			"title": "Out of Time, Part 5",
+			"type": "manga-canon",
+			"aired_date": "2002-03-16"
+		},
+		{
+			"episode": 24,
+			"title": "Out of Time, Part 6",
+			"type": "manga-canon",
+			"aired_date": "2002-03-23"
+		},
+		{
+			"episode": 25,
+			"title": "Singing the Blues",
+			"type": "manga-canon",
+			"aired_date": "2002-03-30"
+		},
+		{
+			"episode": 26,
+			"title": "Bandits Behind",
+			"type": "manga-canon",
+			"aired_date": "2002-04-06"
+		},
+		{
+			"episode": 27,
+			"title": "Under Desert Sands, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-04-13"
+		},
+		{
+			"episode": 28,
+			"title": "Under Desert Sands, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-04-20"
+		},
+		{
+			"episode": 29,
+			"title": "Under Desert Sands, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-04-27"
+		},
+		{
+			"episode": 30,
+			"title": "In the Tower of Din, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-05-04"
+		},
+		{
+			"episode": 31,
+			"title": "In the Tower of Din, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-05-11"
+		},
+		{
+			"episode": 32,
+			"title": "In the Tower of Din, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-05-18"
+		},
+		{
+			"episode": 33,
+			"title": "In the Tower of Din, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2002-05-25"
+		},
+		{
+			"episode": 34,
+			"title": "The Enclaim, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-06-01"
+		},
+		{
+			"episode": 35,
+			"title": "The Enclaim, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-06-08"
+		},
+		{
+			"episode": 36,
+			"title": "The Enclaim, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-06-15"
+		},
+		{
+			"episode": 37,
+			"title": "The Enclaim, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2002-06-22"
+		},
+		{
+			"episode": 38,
+			"title": "The Enclaim, Part 5",
+			"type": "manga-canon",
+			"aired_date": "2002-06-29"
+		},
+		{
+			"episode": 39,
+			"title": "Origins: Shiba",
+			"type": "manga-canon",
+			"aired_date": "2002-07-06"
+		},
+		{
+			"episode": 40,
+			"title": "Origins: Sir Plue",
+			"type": "manga-canon",
+			"aired_date": "2002-07-13"
+		},
+		{
+			"episode": 41,
+			"title": "Sideshow",
+			"type": "filler",
+			"aired_date": "2002-07-20"
+		},
+		{
+			"episode": 42,
+			"title": "All Aboard, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-07-27"
+		},
+		{
+			"episode": 43,
+			"title": "All Aboard, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-08-03"
+		},
+		{
+			"episode": 44,
+			"title": "All Aboard, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-08-10"
+		},
+		{
+			"episode": 45,
+			"title": "The Shadow Master",
+			"type": "manga-canon",
+			"aired_date": "2002-08-17"
+		},
+		{
+			"episode": 46,
+			"title": "Return of the Oracion Six, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-08-23"
+		},
+		{
+			"episode": 47,
+			"title": "Return of the Oracion Six, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-08-31"
+		},
+		{
+			"episode": 48,
+			"title": "Return of the Oracion Six, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2002-09-07"
+		},
+		{
+			"episode": 49,
+			"title": "Return of the Oracion Six, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2002-09-14"
+		},
+		{
+			"episode": 50,
+			"title": "Further Mysteries, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2002-09-21"
+		},
+		{
+			"episode": 51,
+			"title": "Further Mysteries, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2002-09-28"
+		}
+	]
+}

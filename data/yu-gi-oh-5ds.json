@@ -1,0 +1,934 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Yu-Gi-Oh! 5D's",
+	"mappings": {
+		"anilist_id": 3972,
+		"mal_id": 3972
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "On Your Mark, Get Set, Duel!",
+			"type": "manga-canon",
+			"aired_date": "2008-04-02"
+		},
+		{
+			"episode": 2,
+			"title": "Creepy Crawlies",
+			"type": "manga-canon",
+			"aired_date": "2008-04-09"
+		},
+		{
+			"episode": 3,
+			"title": "Pipe Dreams",
+			"type": "manga-canon",
+			"aired_date": "2008-04-16"
+		},
+		{
+			"episode": 4,
+			"title": "A Blast from the Past, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-04-23"
+		},
+		{
+			"episode": 5,
+			"title": "A Blast from the Past, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-04-30"
+		},
+		{
+			"episode": 6,
+			"title": "The Facility, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-05-05"
+		},
+		{
+			"episode": 7,
+			"title": "The Facility, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-05-14"
+		},
+		{
+			"episode": 8,
+			"title": "Fire It Up!",
+			"type": "manga-canon",
+			"aired_date": "2008-05-21"
+		},
+		{
+			"episode": 9,
+			"title": "The Lockdown Duel, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-05-28"
+		},
+		{
+			"episode": 10,
+			"title": "The Lockdown Duel, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-06-04"
+		},
+		{
+			"episode": 11,
+			"title": "The Take Back, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-06-11"
+		},
+		{
+			"episode": 12,
+			"title": "The Take Back, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-06-18"
+		},
+		{
+			"episode": 13,
+			"title": "A Duel to Remember",
+			"type": "manga-canon",
+			"aired_date": "2008-06-25"
+		},
+		{
+			"episode": 14,
+			"title": "Bloom of the Black Rose",
+			"type": "manga-canon",
+			"aired_date": "2008-07-02"
+		},
+		{
+			"episode": 15,
+			"title": "Welcome to the Fortune Cup",
+			"type": "manga-canon",
+			"aired_date": "2008-07-09"
+		},
+		{
+			"episode": 16,
+			"title": "Battle with The Black Rose",
+			"type": "manga-canon",
+			"aired_date": "2008-07-16"
+		},
+		{
+			"episode": 17,
+			"title": "Surprise, Surprise",
+			"type": "manga-canon",
+			"aired_date": "2008-07-23"
+		},
+		{
+			"episode": 18,
+			"title": "Return to the Spirit World, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-07-30"
+		},
+		{
+			"episode": 19,
+			"title": "Return to the Spirit World, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-08-06"
+		},
+		{
+			"episode": 20,
+			"title": "Second Round Showdown, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-08-13"
+		},
+		{
+			"episode": 21,
+			"title": "Second Round Showdown, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-08-20"
+		},
+		{
+			"episode": 22,
+			"title": "The Profiler",
+			"type": "manga-canon",
+			"aired_date": "2008-08-27"
+		},
+		{
+			"episode": 23,
+			"title": "Duel of the Dragons, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-09-03"
+		},
+		{
+			"episode": 24,
+			"title": "Duel of the Dragons, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-09-10"
+		},
+		{
+			"episode": 25,
+			"title": "The Fortune Cup Finale, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-09-17"
+		},
+		{
+			"episode": 26,
+			"title": "The Fortune Cup Finale, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-09-24"
+		},
+		{
+			"episode": 27,
+			"title": "A Web of Deceit, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-10-01"
+		},
+		{
+			"episode": 28,
+			"title": "A Web of Deceit, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-10-08"
+		},
+		{
+			"episode": 29,
+			"title": "A Web of Deceit, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2008-10-15"
+		},
+		{
+			"episode": 30,
+			"title": "Fight or Flight",
+			"type": "manga-canon",
+			"aired_date": "2008-10-22"
+		},
+		{
+			"episode": 31,
+			"title": "The Reunion Duel",
+			"type": "manga-canon",
+			"aired_date": "2008-10-29"
+		},
+		{
+			"episode": 32,
+			"title": "Dark Signs, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-11-05"
+		},
+		{
+			"episode": 33,
+			"title": "Dark Signs, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-11-12"
+		},
+		{
+			"episode": 34,
+			"title": "Dark Signs, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2008-11-19"
+		},
+		{
+			"episode": 35,
+			"title": "Dark Signs, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2008-11-26"
+		},
+		{
+			"episode": 36,
+			"title": "Supersensory Shakedown",
+			"type": "manga-canon",
+			"aired_date": "2008-12-03"
+		},
+		{
+			"episode": 37,
+			"title": "Digging Deeper, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2008-12-10"
+		},
+		{
+			"episode": 38,
+			"title": "Digging Deeper, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2008-12-17"
+		},
+		{
+			"episode": 39,
+			"title": "Digging Deeper, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2008-12-24"
+		},
+		{
+			"episode": 40,
+			"title": "Clash of the Dragons, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-01-07"
+		},
+		{
+			"episode": 41,
+			"title": "Clash of the Dragons, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-01-14"
+		},
+		{
+			"episode": 42,
+			"title": "The Signs of Time",
+			"type": "manga-canon",
+			"aired_date": "2009-01-21"
+		},
+		{
+			"episode": 43,
+			"title": "Surely, You Jest, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-01-28"
+		},
+		{
+			"episode": 44,
+			"title": "Surely, You Jest, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-02-04"
+		},
+		{
+			"episode": 45,
+			"title": "Mark of the Spider, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-02-11"
+		},
+		{
+			"episode": 46,
+			"title": "Mark of the Spider, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-02-18"
+		},
+		{
+			"episode": 47,
+			"title": "Mark of the Monkey, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-02-25"
+		},
+		{
+			"episode": 48,
+			"title": "Mark of the Monkey, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-03-04"
+		},
+		{
+			"episode": 49,
+			"title": "Mark of the Monkey, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2009-03-11"
+		},
+		{
+			"episode": 50,
+			"title": "Mark of the Monkey, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2009-03-18"
+		},
+		{
+			"episode": 51,
+			"title": "A Whale of a Ride, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-03-25"
+		},
+		{
+			"episode": 52,
+			"title": "A Whale of a Ride, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-04-01"
+		},
+		{
+			"episode": 53,
+			"title": "A Whale of a Ride, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2009-04-08"
+		},
+		{
+			"episode": 54,
+			"title": "A Score to Settle, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-04-15"
+		},
+		{
+			"episode": 55,
+			"title": "A Score to Settle, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-04-22"
+		},
+		{
+			"episode": 56,
+			"title": "Destiny's Will, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-04-29"
+		},
+		{
+			"episode": 57,
+			"title": "Destiny's Will, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-05-06"
+		},
+		{
+			"episode": 58,
+			"title": "Shadows of Doubt, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-05-13"
+		},
+		{
+			"episode": 59,
+			"title": "Shadows of Doubt, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-05-20"
+		},
+		{
+			"episode": 60,
+			"title": "Truth and Consequences, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-05-27"
+		},
+		{
+			"episode": 61,
+			"title": "Truth and Consequences, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-06-03"
+		},
+		{
+			"episode": 62,
+			"title": "Signs of Doom, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-06-10"
+		},
+		{
+			"episode": 63,
+			"title": "Signs of Doom, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-06-17"
+		},
+		{
+			"episode": 64,
+			"title": "Signs of Doom, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2009-06-24"
+		},
+		{
+			"episode": 65,
+			"title": "A New Threat, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-07-01"
+		},
+		{
+			"episode": 66,
+			"title": "A New Threat, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-07-08"
+		},
+		{
+			"episode": 67,
+			"title": "Lessons Learned",
+			"type": "filler",
+			"aired_date": "2009-07-15"
+		},
+		{
+			"episode": 68,
+			"title": "Trash Talk",
+			"type": "filler",
+			"aired_date": "2009-07-22"
+		},
+		{
+			"episode": 69,
+			"title": "A Duel With Interest",
+			"type": "filler",
+			"aired_date": "2009-07-29"
+		},
+		{
+			"episode": 70,
+			"title": "The Wicked Spirit",
+			"type": "filler",
+			"aired_date": "2009-08-05"
+		},
+		{
+			"episode": 71,
+			"title": "French Twist, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-08-12"
+		},
+		{
+			"episode": 72,
+			"title": "French Twist, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-08-19"
+		},
+		{
+			"episode": 73,
+			"title": "Synchro Straits",
+			"type": "mixed-manga",
+			"aired_date": "2009-08-26"
+		},
+		{
+			"episode": 74,
+			"title": "Synchro Solution",
+			"type": "filler",
+			"aired_date": "2009-09-02"
+		},
+		{
+			"episode": 75,
+			"title": "Acceleration",
+			"type": "filler",
+			"aired_date": "2009-09-09"
+		},
+		{
+			"episode": 76,
+			"title": "Syd Is Vicious",
+			"type": "filler",
+			"aired_date": "2009-09-09"
+		},
+		{
+			"episode": 77,
+			"title": "Dawn of the Duel Board, Part 1",
+			"type": "filler",
+			"aired_date": "2009-09-23"
+		},
+		{
+			"episode": 78,
+			"title": "Dawn of the Duel Board, Part 2",
+			"type": "filler",
+			"aired_date": "2009-09-30"
+		},
+		{
+			"episode": 79,
+			"title": "Putting It All Together",
+			"type": "filler",
+			"aired_date": "2009-10-07"
+		},
+		{
+			"episode": 80,
+			"title": "The Super Genius",
+			"type": "manga-canon",
+			"aired_date": "2009-10-14"
+		},
+		{
+			"episode": 81,
+			"title": "Get With the Program, Part 1",
+			"type": "mixed-manga",
+			"aired_date": "2009-10-21"
+		},
+		{
+			"episode": 82,
+			"title": "Get With the Program, Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2009-10-28"
+		},
+		{
+			"episode": 83,
+			"title": "Will the Real Jack Atlas, Please Stand Up, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2009-11-04"
+		},
+		{
+			"episode": 84,
+			"title": "Will the Real Jack Atlas, Please Stand Up, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2009-11-11"
+		},
+		{
+			"episode": 85,
+			"title": "Mother Knows Best",
+			"type": "filler",
+			"aired_date": "2009-11-18"
+		},
+		{
+			"episode": 86,
+			"title": "Duelist for Hire",
+			"type": "mixed-manga",
+			"aired_date": "2009-11-25"
+		},
+		{
+			"episode": 87,
+			"title": "Showdown at Sundown, Part 1",
+			"type": "mixed-manga",
+			"aired_date": "2009-12-02"
+		},
+		{
+			"episode": 88,
+			"title": "Showdown at Sundown, Part 2",
+			"type": "mixed-manga",
+			"aired_date": "2009-12-09"
+		},
+		{
+			"episode": 89,
+			"title": "The Race to Escape, Part 1",
+			"type": "filler",
+			"aired_date": "2009-12-16"
+		},
+		{
+			"episode": 90,
+			"title": "The Race to Escape, Part 2",
+			"type": "filler",
+			"aired_date": "2009-12-23"
+		},
+		{
+			"episode": 91,
+			"title": "Clash at Crash Town, Part 1",
+			"type": "filler",
+			"aired_date": "2010-01-06"
+		},
+		{
+			"episode": 92,
+			"title": "Clash at Crash Town, Part 2",
+			"type": "filler",
+			"aired_date": "2010-01-13"
+		},
+		{
+			"episode": 93,
+			"title": "The Question of the Card",
+			"type": "manga-canon",
+			"aired_date": "2010-01-20"
+		},
+		{
+			"episode": 94,
+			"title": "Keeping a Promise, Part 1",
+			"type": "filler",
+			"aired_date": "2010-01-27"
+		},
+		{
+			"episode": 95,
+			"title": "Keeping a Promise, Part 2",
+			"type": "filler",
+			"aired_date": "2010-02-03"
+		},
+		{
+			"episode": 96,
+			"title": "Natural Instincts, Part 1",
+			"type": "filler",
+			"aired_date": "2010-02-10"
+		},
+		{
+			"episode": 97,
+			"title": "Natural Instincts, Part 2",
+			"type": "filler",
+			"aired_date": "2010-02-17"
+		},
+		{
+			"episode": 98,
+			"title": "Power Plays",
+			"type": "filler",
+			"aired_date": "2010-02-24"
+		},
+		{
+			"episode": 99,
+			"title": "Trouble For Team 5D's",
+			"type": "filler",
+			"aired_date": "2010-03-03"
+		},
+		{
+			"episode": 100,
+			"title": "The Edge of Elimination, Part 1",
+			"type": "filler",
+			"aired_date": "2010-03-10"
+		},
+		{
+			"episode": 101,
+			"title": "The Edge of Elimination, Part 2",
+			"type": "filler",
+			"aired_date": "2010-03-17"
+		},
+		{
+			"episode": 102,
+			"title": "The Edge of Elimination, Part 3",
+			"type": "filler",
+			"aired_date": "2010-03-24"
+		},
+		{
+			"episode": 103,
+			"title": "Party Crashers",
+			"type": "filler",
+			"aired_date": "2010-03-31"
+		},
+		{
+			"episode": 104,
+			"title": "Knight Takes Pawn",
+			"type": "filler",
+			"aired_date": "2010-04-07"
+		},
+		{
+			"episode": 105,
+			"title": "Rook Takes Knight",
+			"type": "filler",
+			"aired_date": "2010-04-14"
+		},
+		{
+			"episode": 106,
+			"title": "Primo's Plan, Part 1",
+			"type": "manga-canon",
+			"aired_date": "2010-04-21"
+		},
+		{
+			"episode": 107,
+			"title": "Primo's Plan, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2010-04-28"
+		},
+		{
+			"episode": 108,
+			"title": "Primo's Plan, Part 3",
+			"type": "manga-canon",
+			"aired_date": "2010-05-05"
+		},
+		{
+			"episode": 109,
+			"title": "Primo's Plan, Part 4",
+			"type": "manga-canon",
+			"aired_date": "2010-05-12"
+		},
+		{
+			"episode": 110,
+			"title": "Primo's Plan, Part 5",
+			"type": "manga-canon",
+			"aired_date": "2010-05-19"
+		},
+		{
+			"episode": 111,
+			"title": "The Ancient Land - To Nazca!",
+			"type": "manga-canon",
+			"aired_date": "2010-05-26"
+		},
+		{
+			"episode": 112,
+			"title": "The Crimson Devil",
+			"type": "manga-canon",
+			"aired_date": "2010-06-02"
+		},
+		{
+			"episode": 113,
+			"title": "Blazing Soul! Scar-Red Nova Dragon",
+			"type": "manga-canon",
+			"aired_date": "2010-06-09"
+		},
+		{
+			"episode": 114,
+			"title": "Operation Capture Lazar II",
+			"type": "filler",
+			"aired_date": "2010-06-16"
+		},
+		{
+			"episode": 115,
+			"title": "Press Him About The Mystery!! The Endgame Turbo Duel!",
+			"type": "filler",
+			"aired_date": "2010-06-23"
+		},
+		{
+			"episode": 116,
+			"title": "The Ener-D Express Development Agency",
+			"type": "manga-canon",
+			"aired_date": "2010-06-30"
+		},
+		{
+			"episode": 117,
+			"title": "The Distorted Past",
+			"type": "manga-canon",
+			"aired_date": "2010-07-07"
+		},
+		{
+			"episode": 118,
+			"title": "The New Rivals",
+			"type": "mixed-manga",
+			"aired_date": "2010-07-14"
+		},
+		{
+			"episode": 119,
+			"title": "The Invincible Scrum! Smash The Unbreakable Defense!",
+			"type": "mixed-manga",
+			"aired_date": "2010-07-21"
+		},
+		{
+			"episode": 120,
+			"title": "Tie Those Feelings! The Hand Tied to the Majin!",
+			"type": "mixed-manga",
+			"aired_date": "2010-07-28"
+		},
+		{
+			"episode": 121,
+			"title": "The Miraculous Trump Card - Zushin the Sleeping Giant!",
+			"type": "filler",
+			"aired_date": "2010-08-04"
+		},
+		{
+			"episode": 122,
+			"title": "Believe in the Power! The Strongest Giant Zushin VS Shooting Star Dragon",
+			"type": "mixed-manga",
+			"aired_date": "2010-08-11"
+		},
+		{
+			"episode": 123,
+			"title": "Eyes on the Prize",
+			"type": "filler",
+			"aired_date": "2010-08-18"
+		},
+		{
+			"episode": 124,
+			"title": "Duel for Redemption",
+			"type": "mixed-manga",
+			"aired_date": "2010-08-25"
+		},
+		{
+			"episode": 125,
+			"title": "Soul Solutions",
+			"type": "mixed-manga",
+			"aired_date": "2010-09-01"
+		},
+		{
+			"episode": 126,
+			"title": "When Nordic Gods Attack",
+			"type": "mixed-manga",
+			"aired_date": "2010-09-08"
+		},
+		{
+			"episode": 127,
+			"title": "Tricking the Trickster",
+			"type": "mixed-manga",
+			"aired_date": "2010-09-15"
+		},
+		{
+			"episode": 128,
+			"title": "Yusei's Last Stand",
+			"type": "mixed-manga",
+			"aired_date": "2010-09-22"
+		},
+		{
+			"episode": 129,
+			"title": "Fight to the Finish Line",
+			"type": "mixed-manga",
+			"aired_date": "2010-09-29"
+		},
+		{
+			"episode": 130,
+			"title": "Bound To The Future, Bonds To Our Companions",
+			"type": "filler",
+			"aired_date": "2010-10-06"
+		},
+		{
+			"episode": 131,
+			"title": "The Beginning of the End",
+			"type": "manga-canon",
+			"aired_date": "2010-10-13"
+		},
+		{
+			"episode": 132,
+			"title": "Dawn of the Machines",
+			"type": "manga-canon",
+			"aired_date": "2010-10-20"
+		},
+		{
+			"episode": 133,
+			"title": "Against All Odds",
+			"type": "manga-canon",
+			"aired_date": "2010-10-27"
+		},
+		{
+			"episode": 134,
+			"title": "For Synchro's Sake",
+			"type": "manga-canon",
+			"aired_date": "2010-11-10"
+		},
+		{
+			"episode": 135,
+			"title": "Fight for the Future",
+			"type": "manga-canon",
+			"aired_date": "2010-11-17"
+		},
+		{
+			"episode": 136,
+			"title": "Victory or Doom",
+			"type": "manga-canon",
+			"aired_date": "2010-11-24"
+		},
+		{
+			"episode": 137,
+			"title": "An Approaching Terror - The Citadel of God, \"The Ark Cradle\"",
+			"type": "manga-canon",
+			"aired_date": "2010-12-01"
+		},
+		{
+			"episode": 138,
+			"title": "The Suspension Bridge Towards the Future - The Rainbow Bridge Bitfrost!",
+			"type": "mixed-manga",
+			"aired_date": "2010-12-08"
+		},
+		{
+			"episode": 139,
+			"title": "The Enchanting Field - École de Zone!",
+			"type": "filler",
+			"aired_date": "2010-12-15"
+		},
+		{
+			"episode": 140,
+			"title": "The Soul-Binding Gate! The Sealed Future!",
+			"type": "filler",
+			"aired_date": "2010-12-22"
+		},
+		{
+			"episode": 141,
+			"title": "Duel of Despair! Fortissimo the Mobile Fortress!",
+			"type": "manga-canon",
+			"aired_date": "2010-12-28"
+		},
+		{
+			"episode": 142,
+			"title": "A Life-or-Death Battle! Machine Imperial God Dragon Asterisk",
+			"type": "manga-canon",
+			"aired_date": "2011-01-05"
+		},
+		{
+			"episode": 143,
+			"title": "The Miracle of Life, Life Stream Dragon!!",
+			"type": "manga-canon",
+			"aired_date": "2011-01-12"
+		},
+		{
+			"episode": 144,
+			"title": "Beginning of the End, Struggle to the Death for the Future!",
+			"type": "manga-canon",
+			"aired_date": "2011-01-19"
+		},
+		{
+			"episode": 145,
+			"title": "Faster Than Light!!",
+			"type": "manga-canon",
+			"aired_date": "2011-01-26"
+		},
+		{
+			"episode": 146,
+			"title": "The Last Human, Z-ONE",
+			"type": "manga-canon",
+			"aired_date": "2011-02-02"
+		},
+		{
+			"episode": 147,
+			"title": "A Hope Bound for the Future!",
+			"type": "manga-canon",
+			"aired_date": "2011-02-09"
+		},
+		{
+			"episode": 148,
+			"title": "Just One Chance To Turn It All Around",
+			"type": "manga-canon",
+			"aired_date": "2011-02-16"
+		},
+		{
+			"episode": 149,
+			"title": "The Revived Hero",
+			"type": "manga-canon",
+			"aired_date": "2011-02-23"
+		},
+		{
+			"episode": 150,
+			"title": "Entrusted Feelings of My Father",
+			"type": "manga-canon",
+			"aired_date": "2011-03-02"
+		},
+		{
+			"episode": 151,
+			"title": "Converging Wishes",
+			"type": "manga-canon",
+			"aired_date": "2011-03-09"
+		},
+		{
+			"episode": 152,
+			"title": "An Advancing Future",
+			"type": "manga-canon",
+			"aired_date": "2011-03-23"
+		},
+		{
+			"episode": 153,
+			"title": "Clashing Souls!",
+			"type": "manga-canon",
+			"aired_date": "2011-03-30"
+		},
+		{
+			"episode": 154,
+			"title": "Shining Forth To The Future",
+			"type": "manga-canon",
+			"aired_date": "2011-03-30"
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "The Melancholy of Haruhi Suzumiya",
+	"mappings": {
+		"anilist_id": 4382,
+		"mal_id": 4382
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Bamboo Leaf Rhapsody",
+			"type": "manga-canon",
+			"aired_date": "2009-05-22"
+		},
+		{
+			"episode": 2,
+			"title": "Endless Eight I",
+			"type": "filler",
+			"aired_date": "2009-06-19"
+		},
+		{
+			"episode": 3,
+			"title": "Endless Eight II",
+			"type": "filler",
+			"aired_date": "2009-06-26"
+		},
+		{
+			"episode": 4,
+			"title": "Endless Eight III",
+			"type": "filler",
+			"aired_date": "2009-07-03"
+		},
+		{
+			"episode": 5,
+			"title": "Endless Eight IV",
+			"type": "filler",
+			"aired_date": "2009-07-10"
+		},
+		{
+			"episode": 6,
+			"title": "Endless Eight V",
+			"type": "filler",
+			"aired_date": "2009-07-17"
+		},
+		{
+			"episode": 7,
+			"title": "Endless Eight VI",
+			"type": "filler",
+			"aired_date": "2009-07-24"
+		},
+		{
+			"episode": 8,
+			"title": "Endless Eight VII",
+			"type": "filler",
+			"aired_date": "2009-07-31"
+		},
+		{
+			"episode": 9,
+			"title": "Endless Eight VIII",
+			"type": "filler",
+			"aired_date": "2009-08-07"
+		},
+		{
+			"episode": 10,
+			"title": "The Sigh of Haruhi Suzumiya I",
+			"type": "mixed-manga",
+			"aired_date": "2009-08-14"
+		},
+		{
+			"episode": 11,
+			"title": "The Sigh of Haruhi Suzumiya II",
+			"type": "mixed-manga",
+			"aired_date": "2009-08-21"
+		},
+		{
+			"episode": 12,
+			"title": "The Sigh of Haruhi Suzumiya III",
+			"type": "mixed-manga",
+			"aired_date": "2009-08-28"
+		},
+		{
+			"episode": 13,
+			"title": "The Sigh of Haruhi Suzumiya IV",
+			"type": "mixed-manga",
+			"aired_date": "2009-09-04"
+		},
+		{
+			"episode": 14,
+			"title": "The Sigh of Haruhi Suzumiya V",
+			"type": "mixed-manga",
+			"aired_date": "2009-09-11"
+		}
+	]
+}

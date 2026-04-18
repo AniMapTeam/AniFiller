@@ -1,0 +1,94 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Gintama.: Silver Soul Arc - Second Half War",
+	"mappings": {
+		"anilist_id": 101925,
+		"mal_id": 37491
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Evildoers Who Do Good",
+			"type": "manga-canon",
+			"aired_date": "2018-07-09"
+		},
+		{
+			"episode": 2,
+			"title": "Rabbits Leap Higher on Moonlit Nights",
+			"type": "manga-canon",
+			"aired_date": "2018-07-16"
+		},
+		{
+			"episode": 3,
+			"title": "Making a Dull World Interesting",
+			"type": "manga-canon",
+			"aired_date": "2018-07-23"
+		},
+		{
+			"episode": 4,
+			"title": "Do Something Uncharacteristic, and Something Uncharacteristic Will Happen",
+			"type": "manga-canon",
+			"aired_date": "2018-07-30"
+		},
+		{
+			"episode": 5,
+			"title": "Countless Kings",
+			"type": "manga-canon",
+			"aired_date": "2018-08-06"
+		},
+		{
+			"episode": 6,
+			"title": "The Unemployed Cannot Be Stained By Anything",
+			"type": "manga-canon",
+			"aired_date": "2018-08-13"
+		},
+		{
+			"episode": 7,
+			"title": "Always Hold On to Your Trump Cards",
+			"type": "manga-canon",
+			"aired_date": "2018-08-20"
+		},
+		{
+			"episode": 8,
+			"title": "The Creatures Known as Humanity",
+			"type": "manga-canon",
+			"aired_date": "2018-08-27"
+		},
+		{
+			"episode": 9,
+			"title": "Sign",
+			"type": "manga-canon",
+			"aired_date": "2018-09-03"
+		},
+		{
+			"episode": 10,
+			"title": "Specter",
+			"type": "manga-canon",
+			"aired_date": "2018-09-10"
+		},
+		{
+			"episode": 11,
+			"title": "Two in Girl Years Is Equal to Ten in Man Years",
+			"type": "manga-canon",
+			"aired_date": "2018-09-17"
+		},
+		{
+			"episode": 12,
+			"title": "Salvation",
+			"type": "manga-canon",
+			"aired_date": "2018-09-24"
+		},
+		{
+			"episode": 13,
+			"title": "Dun Dun",
+			"type": "manga-canon",
+			"aired_date": "2018-10-01"
+		},
+		{
+			"episode": 14,
+			"title": "There Are Lines Even Villains Can't Cross",
+			"type": "mixed-manga",
+			"aired_date": "2018-10-08"
+		}
+	]
+}

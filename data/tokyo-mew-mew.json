@@ -1,0 +1,322 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Tokyo Mew Mew",
+	"mappings": {
+		"anilist_id": 687,
+		"mal_id": 687
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Turning into a Cat – Justice Lies in a Girl in Love, ~Nya!",
+			"type": "manga-canon",
+			"aired_date": "2002-04-06"
+		},
+		{
+			"episode": 2,
+			"title": "A New Comrade – Justice Lies in a Real Lady, ~Nya!",
+			"type": "manga-canon",
+			"aired_date": "2002-04-13"
+		},
+		{
+			"episode": 3,
+			"title": "Ghost Story from School: Finding the Ghost's True Identity, ~Nya!",
+			"type": "manga-canon",
+			"aired_date": "2002-04-20"
+		},
+		{
+			"episode": 4,
+			"title": "A Tearful Date – the secret I can't tell Aoyama-kun ~Nya!",
+			"type": "mixed-manga",
+			"aired_date": "2002-04-27"
+		},
+		{
+			"episode": 5,
+			"title": "Stormy Rhythmic Gymnastics – becoming a Star with a Cat's Dance! ~Nya!",
+			"type": "filler",
+			"aired_date": "2002-05-04"
+		},
+		{
+			"episode": 6,
+			"title": "The Piano of the Heart – It's a heart-pounding dance party! ~Nya!",
+			"type": "filler",
+			"aired_date": "2002-05-11"
+		},
+		{
+			"episode": 7,
+			"title": "Enter Pudding – The Ears and Tail are Part of the Act!",
+			"type": "manga-canon",
+			"aired_date": "2002-05-18"
+		},
+		{
+			"episode": 8,
+			"title": "To the Hot Spring! The Mysterious Mountain's Miracle of Love",
+			"type": "filler",
+			"aired_date": "2002-05-25"
+		},
+		{
+			"episode": 9,
+			"title": "Dearly Beloved Brother – The Memories lie in the Picture",
+			"type": "filler",
+			"aired_date": "2002-06-01"
+		},
+		{
+			"episode": 10,
+			"title": "The Last Member – The Legendary Lonely Wolf",
+			"type": "manga-canon",
+			"aired_date": "2002-06-08"
+		},
+		{
+			"episode": 11,
+			"title": "The Heart to Believe – All Five Makes Tokyo Mew Mew!",
+			"type": "manga-canon",
+			"aired_date": "2002-06-15"
+		},
+		{
+			"episode": 12,
+			"title": "Identity Revealed – An Out of Season Cherry Tree Falls Away",
+			"type": "manga-canon",
+			"aired_date": "2002-06-22"
+		},
+		{
+			"episode": 13,
+			"title": "Intersecting Hearts – Aoyama-kun is Targeted",
+			"type": "manga-canon",
+			"aired_date": "2002-06-29"
+		},
+		{
+			"episode": 14,
+			"title": "Akasaka's Secret – A Tale of Sad Love",
+			"type": "filler",
+			"aired_date": "2002-07-06"
+		},
+		{
+			"episode": 15,
+			"title": "A Little Hero Masha – Friendship at the Risk of His Life",
+			"type": "filler",
+			"aired_date": "2002-07-13"
+		},
+		{
+			"episode": 16,
+			"title": "Lettuce's Love – Longing in the Library",
+			"type": "filler",
+			"aired_date": "2002-07-20"
+		},
+		{
+			"episode": 17,
+			"title": "The Knight in Blue – I will protect you!",
+			"type": "manga-canon",
+			"aired_date": "2002-07-27"
+		},
+		{
+			"episode": 18,
+			"title": "Mid-Summer's Love – Ichigo's Swaying Heart",
+			"type": "manga-canon",
+			"aired_date": "2002-08-03"
+		},
+		{
+			"episode": 19,
+			"title": "The power of kindness – O Wish, Come true in the Sea",
+			"type": "mixed-manga",
+			"aired_date": "2002-08-10"
+		},
+		{
+			"episode": 20,
+			"title": "Memories of mother – Onee-chan is in trouble",
+			"type": "filler",
+			"aired_date": "2002-08-17"
+		},
+		{
+			"episode": 21,
+			"title": "Sparks of the Heart – Ichigo and Mint At Odds",
+			"type": "mixed-manga",
+			"aired_date": "2002-08-24"
+		},
+		{
+			"episode": 22,
+			"title": "Farewell Summer – Ichigo's Longest Day",
+			"type": "filler",
+			"aired_date": "2002-08-31"
+		},
+		{
+			"episode": 23,
+			"title": "Sudden Love – Accept Girls' Hearts!",
+			"type": "filler",
+			"aired_date": "2002-09-07"
+		},
+		{
+			"episode": 24,
+			"title": "A Mysterious Gem – Brilliance is within you!",
+			"type": "filler",
+			"aired_date": "2002-09-14"
+		},
+		{
+			"episode": 25,
+			"title": "Love's Hurdle – Many Obstacles to Ichigo's Love",
+			"type": "manga-canon",
+			"aired_date": "2002-09-21"
+		},
+		{
+			"episode": 26,
+			"title": "Stop, Time! Overwhelmed with Sentimental Feeling",
+			"type": "manga-canon",
+			"aired_date": "2002-09-28"
+		},
+		{
+			"episode": 27,
+			"title": "I Love You – Aoyama-kun's Shocking Declaration",
+			"type": "manga-canon",
+			"aired_date": "2002-10-05"
+		},
+		{
+			"episode": 28,
+			"title": "Kitty Panic! The Key to the Mystery is Her Kiss",
+			"type": "manga-canon",
+			"aired_date": "2002-10-12"
+		},
+		{
+			"episode": 29,
+			"title": "A Forbidden Love? I Can Understand Cats! ~Nya",
+			"type": "filler",
+			"aired_date": "2002-10-19"
+		},
+		{
+			"episode": 30,
+			"title": "Be Honest! Unspoken Love in the Crystal Ball!",
+			"type": "filler",
+			"aired_date": "2002-10-26"
+		},
+		{
+			"episode": 31,
+			"title": "Father's Back – One-game Match for Ichigo!",
+			"type": "filler",
+			"aired_date": "2002-11-02"
+		},
+		{
+			"episode": 32,
+			"title": "Princess Fight – The Hero Can't be Bought For Money",
+			"type": "filler",
+			"aired_date": "2002-11-09"
+		},
+		{
+			"episode": 33,
+			"title": "A Fiancé Appears – Pudding's Fated Marriage?!",
+			"type": "filler",
+			"aired_date": "2002-11-16"
+		},
+		{
+			"episode": 34,
+			"title": "The Most Important Matter – The Ability to Trust in Someone",
+			"type": "filler",
+			"aired_date": "2002-11-23"
+		},
+		{
+			"episode": 35,
+			"title": "Don't Cry, Lonely Little Zakuro",
+			"type": "filler",
+			"aired_date": "2002-11-30"
+		},
+		{
+			"episode": 36,
+			"title": "Shirogane's Past: the Secret of the Mew Mews' Birth!",
+			"type": "manga-canon",
+			"aired_date": "2002-12-07"
+		},
+		{
+			"episode": 37,
+			"title": "The Shining Tear: Celebrating Christmas with just the Two of Us",
+			"type": "mixed-manga",
+			"aired_date": "2002-12-14"
+		},
+		{
+			"episode": 38,
+			"title": "Miracle of the Holy Night – No Secrets Anymore",
+			"type": "manga-canon",
+			"aired_date": "2002-12-21"
+		},
+		{
+			"episode": 39,
+			"title": "The Stolen Dream – Sweet Trap of the Lavender",
+			"type": "filler",
+			"aired_date": "2002-12-28"
+		},
+		{
+			"episode": 40,
+			"title": "Two Becoming Friends? Pudding in Imminent Danger!",
+			"type": "manga-canon",
+			"aired_date": "2003-01-04"
+		},
+		{
+			"episode": 41,
+			"title": "The Winds Brings Happiness – A Heartfelt Prayer",
+			"type": "manga-canon",
+			"aired_date": "2003-01-11"
+		},
+		{
+			"episode": 42,
+			"title": "Zakuro's Dilemma: Only Four Mew Mews Now?",
+			"type": "filler",
+			"aired_date": "2003-01-18"
+		},
+		{
+			"episode": 43,
+			"title": "Friend or Foe? Fight, Oneesama!",
+			"type": "filler",
+			"aired_date": "2003-01-25"
+		},
+		{
+			"episode": 44,
+			"title": "The City Turns into a Forest! What Protects Ichigo's Smile",
+			"type": "manga-canon",
+			"aired_date": "2003-02-01"
+		},
+		{
+			"episode": 45,
+			"title": "The Riddle Dissolves! The Truth about the Blue Knight",
+			"type": "manga-canon",
+			"aired_date": "2003-02-08"
+		},
+		{
+			"episode": 46,
+			"title": "New Reinforcement! Protect the Earth Together",
+			"type": "manga-canon",
+			"aired_date": "2003-02-15"
+		},
+		{
+			"episode": 47,
+			"title": "The Power of Love! I will protect Aoyama-kun!!",
+			"type": "manga-canon",
+			"aired_date": "2003-02-22"
+		},
+		{
+			"episode": 48,
+			"title": "The Labyrinth of the Alternate Dimension! Kish's Gamble!!",
+			"type": "manga-canon",
+			"aired_date": "2003-03-01"
+		},
+		{
+			"episode": 49,
+			"title": "The Awakening of Blue – Another Appearance!",
+			"type": "manga-canon",
+			"aired_date": "2003-03-08"
+		},
+		{
+			"episode": 50,
+			"title": "Ichigo's Trial! I am a Mew Mew",
+			"type": "manga-canon",
+			"aired_date": "2003-03-15"
+		},
+		{
+			"episode": 51,
+			"title": "The Final Battle! I Believe in Your Smile",
+			"type": "manga-canon",
+			"aired_date": "2003-03-22"
+		},
+		{
+			"episode": 52,
+			"title": "For the Earth's Future, We'll Serve You ~Nyan!",
+			"type": "manga-canon",
+			"aired_date": "2003-03-29"
+		}
+	]
+}

@@ -1,0 +1,160 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "My Hero Academia Season 6",
+	"mappings": {
+		"anilist_id": 139630,
+		"mal_id": 49918
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "A Quiet Beginning",
+			"type": "manga-canon",
+			"aired_date": "2022-10-01"
+		},
+		{
+			"episode": 2,
+			"title": "Mirko, the No. 5 Hero",
+			"type": "manga-canon",
+			"aired_date": "2022-10-08"
+		},
+		{
+			"episode": 3,
+			"title": "One's Justice",
+			"type": "manga-canon",
+			"aired_date": "2022-10-15"
+		},
+		{
+			"episode": 4,
+			"title": "Inheritance",
+			"type": "manga-canon",
+			"aired_date": "2022-10-22"
+		},
+		{
+			"episode": 5,
+			"title": "The Thrill of Destruction",
+			"type": "manga-canon",
+			"aired_date": "2022-10-29"
+		},
+		{
+			"episode": 6,
+			"title": "Encounter, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2022-11-05"
+		},
+		{
+			"episode": 7,
+			"title": "Disaster Walker",
+			"type": "manga-canon",
+			"aired_date": "2022-11-12"
+		},
+		{
+			"episode": 8,
+			"title": "League of Villains vs. U.A. Students",
+			"type": "manga-canon",
+			"aired_date": "2022-11-19"
+		},
+		{
+			"episode": 9,
+			"title": "Katsuki Bakugo: Rising",
+			"type": "manga-canon",
+			"aired_date": "2022-11-26"
+		},
+		{
+			"episode": 10,
+			"title": "The Ones Within Us",
+			"type": "manga-canon",
+			"aired_date": "2022-12-03"
+		},
+		{
+			"episode": 11,
+			"title": "Dabi's Dance",
+			"type": "manga-canon",
+			"aired_date": "2022-12-10"
+		},
+		{
+			"episode": 12,
+			"title": "Threads of Hope",
+			"type": "manga-canon",
+			"aired_date": "2022-12-17"
+		},
+		{
+			"episode": 13,
+			"title": "Final Performance",
+			"type": "manga-canon",
+			"aired_date": "2022-12-24"
+		},
+		{
+			"episode": 14,
+			"title": "Hellish Hell",
+			"type": "mixed-manga",
+			"aired_date": "2023-01-07"
+		},
+		{
+			"episode": 15,
+			"title": "Tartarus",
+			"type": "manga-canon",
+			"aired_date": "2023-01-14"
+		},
+		{
+			"episode": 16,
+			"title": "The Hellish Todoroki Family, Part 2",
+			"type": "manga-canon",
+			"aired_date": "2023-01-21"
+		},
+		{
+			"episode": 17,
+			"title": "The Wrong Way To Put Out a Fire",
+			"type": "manga-canon",
+			"aired_date": "2023-01-28"
+		},
+		{
+			"episode": 18,
+			"title": "Izuku Midoriya and Tomura Shigaraki",
+			"type": "manga-canon",
+			"aired_date": "2023-02-04"
+		},
+		{
+			"episode": 19,
+			"title": "Full Power!!",
+			"type": "manga-canon",
+			"aired_date": "2023-02-11"
+		},
+		{
+			"episode": 20,
+			"title": "Hired Gun",
+			"type": "manga-canon",
+			"aired_date": "2023-02-18"
+		},
+		{
+			"episode": 21,
+			"title": "The Lovely Lady Nagant",
+			"type": "manga-canon",
+			"aired_date": "2023-02-25"
+		},
+		{
+			"episode": 22,
+			"title": "Friend",
+			"type": "manga-canon",
+			"aired_date": "2023-03-04"
+		},
+		{
+			"episode": 23,
+			"title": "Deku vs. Class A",
+			"type": "manga-canon",
+			"aired_date": "2023-03-11"
+		},
+		{
+			"episode": 24,
+			"title": "A Young Woman's Declaration",
+			"type": "manga-canon",
+			"aired_date": "2023-03-18"
+		},
+		{
+			"episode": 25,
+			"title": "No Man Is an Island",
+			"type": "manga-canon",
+			"aired_date": "2023-03-25"
+		}
+	]
+}

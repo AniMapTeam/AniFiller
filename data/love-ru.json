@@ -1,0 +1,166 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "To Love Ru",
+	"mappings": {
+		"anilist_id": 3455,
+		"mal_id": 3455
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Girl Who Fell From the Sky",
+			"type": "mixed-manga",
+			"aired_date": "2008-04-03"
+		},
+		{
+			"episode": 2,
+			"title": "A Broken Engagement!?",
+			"type": "filler",
+			"aired_date": "2008-04-10"
+		},
+		{
+			"episode": 3,
+			"title": "Love Triangle",
+			"type": "mixed-manga",
+			"aired_date": "2008-04-17"
+		},
+		{
+			"episode": 4,
+			"title": "A Love Apron From Outer Space",
+			"type": "filler",
+			"aired_date": "2008-04-24"
+		},
+		{
+			"episode": 5,
+			"title": "The Queen's Challenge",
+			"type": "filler",
+			"aired_date": "2008-05-01"
+		},
+		{
+			"episode": 6,
+			"title": "The Alien Assassin",
+			"type": "mixed-manga",
+			"aired_date": "2008-05-08"
+		},
+		{
+			"episode": 7,
+			"title": "All Men Should Be Like This!",
+			"type": "filler",
+			"aired_date": "2008-05-15"
+		},
+		{
+			"episode": 8,
+			"title": "The Prefect of Spotless Integrity",
+			"type": "filler",
+			"aired_date": "2008-05-22"
+		},
+		{
+			"episode": 9,
+			"title": "A Space Entertainer",
+			"type": "filler",
+			"aired_date": "2008-05-30"
+		},
+		{
+			"episode": 10,
+			"title": "From a Shining Star, With Love",
+			"type": "filler",
+			"aired_date": "2008-06-06"
+		},
+		{
+			"episode": 11,
+			"title": "Golden Darkness",
+			"type": "mixed-manga",
+			"aired_date": "2008-06-12"
+		},
+		{
+			"episode": 12,
+			"title": "A Frightening Field Day!",
+			"type": "filler",
+			"aired_date": "2008-06-19"
+		},
+		{
+			"episode": 13,
+			"title": "The Greatest Man in the Universe",
+			"type": "filler",
+			"aired_date": "2008-06-26"
+		},
+		{
+			"episode": 14,
+			"title": "A Secret Between the Two of Us",
+			"type": "filler",
+			"aired_date": "2008-07-03"
+		},
+		{
+			"episode": 15,
+			"title": "Princess of the Jungle",
+			"type": "filler",
+			"aired_date": "2008-07-10"
+		},
+		{
+			"episode": 16,
+			"title": "Run's Surprise Confession",
+			"type": "filler",
+			"aired_date": "2008-07-18"
+		},
+		{
+			"episode": 17,
+			"title": "The Ghost in the Old School Building",
+			"type": "mixed-manga",
+			"aired_date": "2008-07-24"
+		},
+		{
+			"episode": 18,
+			"title": "Saruyama, the Gift",
+			"type": "filler",
+			"aired_date": "2008-07-31"
+		},
+		{
+			"episode": 19,
+			"title": "Hell's Hot Springs: Alien Girls and Colorful Exposed Bodies",
+			"type": "filler",
+			"aired_date": "2008-08-07"
+		},
+		{
+			"episode": 20,
+			"title": "Explosive Heat Magical Girl Kyouko Flame",
+			"type": "filler",
+			"aired_date": "2008-08-14"
+		},
+		{
+			"episode": 21,
+			"title": "A Chronicle of Bloodshed at the Yuuki Inn",
+			"type": "filler",
+			"aired_date": "2008-08-21"
+		},
+		{
+			"episode": 22,
+			"title": "A Frightening School Festival!",
+			"type": "filler",
+			"aired_date": "2008-08-21"
+		},
+		{
+			"episode": 23,
+			"title": "Saruyama’s Tales of the Inner Chambers",
+			"type": "filler",
+			"aired_date": "2008-09-04"
+		},
+		{
+			"episode": 24,
+			"title": "With Shyness",
+			"type": "filler",
+			"aired_date": "2008-09-11"
+		},
+		{
+			"episode": 25,
+			"title": "The Earth's Final Night",
+			"type": "filler",
+			"aired_date": "2008-09-18"
+		},
+		{
+			"episode": 26,
+			"title": "Lala",
+			"type": "filler",
+			"aired_date": "2008-09-25"
+		}
+	]
+}

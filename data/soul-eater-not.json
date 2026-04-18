@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Soul Eater Not!",
+	"mappings": {
+		"anilist_id": 20547,
+		"mal_id": 21507
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Enrolling at DWMA!",
+			"type": "manga-canon",
+			"aired_date": "2014-04-08"
+		},
+		{
+			"episode": 2,
+			"title": "Girls' Dorms à la Carte!",
+			"type": "mixed-manga",
+			"aired_date": "2014-04-15"
+		},
+		{
+			"episode": 3,
+			"title": "The Witch of the Girls' Dorm!",
+			"type": "mixed-manga",
+			"aired_date": "2014-04-22"
+		},
+		{
+			"episode": 4,
+			"title": "Waver, Run!",
+			"type": "manga-canon",
+			"aired_date": "2014-04-29"
+		},
+		{
+			"episode": 5,
+			"title": "Invitation Fighting!",
+			"type": "manga-canon",
+			"aired_date": "2014-05-06"
+		},
+		{
+			"episode": 6,
+			"title": "This Is a Real Fight!",
+			"type": "mixed-manga",
+			"aired_date": "2014-05-13"
+		},
+		{
+			"episode": 7,
+			"title": "Nice Day for a Death Bazaar!",
+			"type": "mixed-manga",
+			"aired_date": "2014-05-20"
+		},
+		{
+			"episode": 8,
+			"title": "Tsugumi Spiral!",
+			"type": "mixed-manga",
+			"aired_date": "2014-05-27"
+		},
+		{
+			"episode": 9,
+			"title": "Pumpkin Growing!",
+			"type": "mixed-manga",
+			"aired_date": "2014-06-03"
+		},
+		{
+			"episode": 10,
+			"title": "The Beginning of the Nightmare!",
+			"type": "mixed-manga",
+			"aired_date": "2014-06-10"
+		},
+		{
+			"episode": 11,
+			"title": "Their Various Resolves!",
+			"type": "mixed-manga",
+			"aired_date": "2014-06-17"
+		},
+		{
+			"episode": 12,
+			"title": "Soul Resonance!",
+			"type": "manga-canon",
+			"aired_date": "2014-06-24"
+		}
+	]
+}

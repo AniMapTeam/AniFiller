@@ -1,0 +1,82 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Mob Psycho 100",
+	"mappings": {
+		"anilist_id": 21507,
+		"mal_id": 32182
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Self-Proclaimed Psychic: Reigen Arataka ~And Mob~",
+			"type": "mixed-manga",
+			"aired_date": "2016-07-12"
+		},
+		{
+			"episode": 2,
+			"title": "Doubts About Youth ~The Telepathy Club Appears~",
+			"type": "manga-canon",
+			"aired_date": "2016-07-19"
+		},
+		{
+			"episode": 3,
+			"title": "An Invite to a Meeting ~Simply Put, I Just Want to Be Popular~",
+			"type": "manga-canon",
+			"aired_date": "2016-07-26"
+		},
+		{
+			"episode": 4,
+			"title": "Idiots Only Event ~Kin~",
+			"type": "manga-canon",
+			"aired_date": "2016-08-02"
+		},
+		{
+			"episode": 5,
+			"title": "OCHIMUSHA ~Psychic Powers and Me~",
+			"type": "manga-canon",
+			"aired_date": "2016-08-09"
+		},
+		{
+			"episode": 6,
+			"title": "Discord ~To Become One~",
+			"type": "manga-canon",
+			"aired_date": "2016-08-16"
+		},
+		{
+			"episode": 7,
+			"title": "Exaltation ~I've Obtained Loss~",
+			"type": "manga-canon",
+			"aired_date": "2016-08-23"
+		},
+		{
+			"episode": 8,
+			"title": "The Older Brother Bows ~Destructive Intent~",
+			"type": "manga-canon",
+			"aired_date": "2016-08-30"
+		},
+		{
+			"episode": 9,
+			"title": "\"Claw\" ~7th Division~",
+			"type": "manga-canon",
+			"aired_date": "2016-09-06"
+		},
+		{
+			"episode": 10,
+			"title": "The Heinous Aura ~Mastermind~",
+			"type": "manga-canon",
+			"aired_date": "2016-09-13"
+		},
+		{
+			"episode": 11,
+			"title": "Master ~Leader~",
+			"type": "manga-canon",
+			"aired_date": "2016-09-20"
+		},
+		{
+			"episode": 12,
+			"title": "Mob and Reigen ~A Giant Tsuchinoko Appears~",
+			"type": "manga-canon",
+			"aired_date": "2016-09-27"
+		}
+	]
+}

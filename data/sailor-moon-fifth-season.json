@@ -1,0 +1,214 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Sailor Moon Sailor Stars",
+	"mappings": {
+		"anilist_id": 996,
+		"mal_id": 996
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Resurrection of the Queen of Darkness: When Scattered Flowers Create Nightmares",
+			"type": "manga-canon",
+			"aired_date": "1996-03-09"
+		},
+		{
+			"episode": 2,
+			"title": "Saturn Awakens! The 10 Guardians Gather",
+			"type": "manga-canon",
+			"aired_date": "1996-03-23"
+		},
+		{
+			"episode": 3,
+			"title": "Mirror's Magic Curse: Mamoru Caught in a Nightmare",
+			"type": "manga-canon",
+			"aired_date": "1996-04-13"
+		},
+		{
+			"episode": 4,
+			"title": "Hardships of a Warrior: Sailor Guardians' Night of Destiny",
+			"type": "manga-canon",
+			"aired_date": "1996-04-20"
+		},
+		{
+			"episode": 5,
+			"title": "Hell Demon Battle: Love Will Prevail",
+			"type": "manga-canon",
+			"aired_date": "1996-04-27"
+		},
+		{
+			"episode": 6,
+			"title": "Love and Moon Power: The End of the Nightmare",
+			"type": "manga-canon",
+			"aired_date": "1996-05-04"
+		},
+		{
+			"episode": 7,
+			"title": "Meetings and Farewells: The Stars of Destiny Turnover",
+			"type": "manga-canon",
+			"aired_date": "1996-05-11"
+		},
+		{
+			"episode": 8,
+			"title": "New Transfer Students: Storm's Begin",
+			"type": "manga-canon",
+			"aired_date": "1996-05-18"
+		},
+		{
+			"episode": 9,
+			"title": "Aim to be an Idol: Minako's Ambition",
+			"type": "filler",
+			"aired_date": "1996-05-25"
+		},
+		{
+			"episode": 10,
+			"title": "Fighter's True Form: A Super Shocking Transformation",
+			"type": "filler",
+			"aired_date": "1996-06-08"
+		},
+		{
+			"episode": 11,
+			"title": "Entrusting Dreams and Romance to the Stars: Taiki's Transformation",
+			"type": "filler",
+			"aired_date": "1996-06-15"
+		},
+		{
+			"episode": 12,
+			"title": "Luna Saw It?! Idol Yaten's True Face",
+			"type": "filler",
+			"aired_date": "1996-06-22"
+		},
+		{
+			"episode": 13,
+			"title": "Enemies? Allies? Starlights and the Sailor Guardians",
+			"type": "manga-canon",
+			"aired_date": "1996-06-29"
+		},
+		{
+			"episode": 14,
+			"title": "The Brightness of the Calling Stars: Haruka and Company into the War",
+			"type": "manga-canon",
+			"aired_date": "1996-07-13"
+		},
+		{
+			"episode": 15,
+			"title": "Seiya and Usagi's Heart-Pounding Date",
+			"type": "manga-canon",
+			"aired_date": "1996-07-20"
+		},
+		{
+			"episode": 16,
+			"title": "Invasion from Space: Seiren Comes Flying In",
+			"type": "manga-canon",
+			"aired_date": "1996-08-03"
+		},
+		{
+			"episode": 17,
+			"title": "The Scream of Dead Souls: The Mystery of Terror Camp",
+			"type": "filler",
+			"aired_date": "1996-08-10"
+		},
+		{
+			"episode": 18,
+			"title": "A Night Just for Us: Usagi's Pinch",
+			"type": "filler",
+			"aired_date": "1996-08-17"
+		},
+		{
+			"episode": 19,
+			"title": "Taiki Sings with Excellence: A Believing Heart Carried by a Song",
+			"type": "filler",
+			"aired_date": "1996-08-31"
+		},
+		{
+			"episode": 20,
+			"title": "The Mystery of Chibi Chibi? The Big Noisy Chase",
+			"type": "filler",
+			"aired_date": "1996-09-07"
+		},
+		{
+			"episode": 21,
+			"title": "The Power of a Shining Star: Chibi Chibi's Transformation",
+			"type": "manga-canon",
+			"aired_date": "1996-09-14"
+		},
+		{
+			"episode": 22,
+			"title": "An Invitation to Terror: Usagi's Night Flight",
+			"type": "manga-canon",
+			"aired_date": "1996-10-12"
+		},
+		{
+			"episode": 23,
+			"title": "Torn Between Duty and Friendship: Confrontation Among the Sailor Guardians",
+			"type": "manga-canon",
+			"aired_date": "1996-10-19"
+		},
+		{
+			"episode": 24,
+			"title": "Truth Revealed: Seiya and Company's Past",
+			"type": "manga-canon",
+			"aired_date": "1996-10-26"
+		},
+		{
+			"episode": 25,
+			"title": "When a Light Butterfly Dances in the Air: Premonition of a New Wave",
+			"type": "manga-canon",
+			"aired_date": "1996-11-09"
+		},
+		{
+			"episode": 26,
+			"title": "Straight to Your Dream: Idol Minako is Born?",
+			"type": "filler",
+			"aired_date": "1996-11-16"
+		},
+		{
+			"episode": 27,
+			"title": "The Silver Crystal is Stolen! The Fireball Princess Appears",
+			"type": "manga-canon",
+			"aired_date": "1996-11-30"
+		},
+		{
+			"episode": 28,
+			"title": "Holy War in the Galaxy: Sailor Wars Legend",
+			"type": "manga-canon",
+			"aired_date": "1996-12-07"
+		},
+		{
+			"episode": 29,
+			"title": "The Fireball Princess Dies Out! Galaxia Descends",
+			"type": "manga-canon",
+			"aired_date": "1996-12-14"
+		},
+		{
+			"episode": 30,
+			"title": "When the Galaxy Perishes: The Sailor Guardians' Final Battle",
+			"type": "manga-canon",
+			"aired_date": "1997-01-11"
+		},
+		{
+			"episode": 31,
+			"title": "Ruler of the Galaxy! Galaxia's Threat",
+			"type": "manga-canon",
+			"aired_date": "1997-01-18"
+		},
+		{
+			"episode": 32,
+			"title": "Disappearing Stars! The End of Uranus and Neptune",
+			"type": "manga-canon",
+			"aired_date": "1997-01-25"
+		},
+		{
+			"episode": 33,
+			"title": "The Light of Hope! Final Battle for the Galaxy",
+			"type": "manga-canon",
+			"aired_date": "1997-02-01"
+		},
+		{
+			"episode": 34,
+			"title": "Usagi's Love! Moonlight Lights Up the Galaxy",
+			"type": "manga-canon",
+			"aired_date": "1997-02-08"
+		}
+	]
+}

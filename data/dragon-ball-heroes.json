@@ -1,0 +1,250 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Super Dragon Ball Heroes",
+	"mappings": {
+		"anilist_id": 102352,
+		"mal_id": 37885
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Goku vs. Goku! A Transcendent Battle Begins on the Prison Planet!",
+			"type": "anime-canon",
+			"aired_date": "2018-07-01"
+		},
+		{
+			"episode": 2,
+			"title": "Goku Goes Berserk! The Evil Saiyan's Rampage!!",
+			"type": "anime-canon",
+			"aired_date": "2018-07-16"
+		},
+		{
+			"episode": 3,
+			"title": "The Mightiest Radiance! Vegito Blue Kaio-Ken Explodes!",
+			"type": "anime-canon",
+			"aired_date": "2018-09-06"
+		},
+		{
+			"episode": 4,
+			"title": "Rage! Super Fu Appears!",
+			"type": "anime-canon",
+			"aired_date": "2018-09-27"
+		},
+		{
+			"episode": 5,
+			"title": "The Mightiest Warrior! Super Saiyan 4 Vegito!!",
+			"type": "anime-canon",
+			"aired_date": "2018-10-28"
+		},
+		{
+			"episode": 6,
+			"title": "I'll Settle This!! Activation! Ultra Instinct!",
+			"type": "anime-canon",
+			"aired_date": "2018-12-22"
+		},
+		{
+			"episode": 7,
+			"title": "Zamasu Revived?! The Curtain Rises on the Universal Conflict Arc!",
+			"type": "anime-canon",
+			"aired_date": "2019-01-10"
+		},
+		{
+			"episode": 8,
+			"title": "The Ultimate Worst Warriors Invade! Universe 6 Demolished!",
+			"type": "anime-canon",
+			"aired_date": "2019-02-24"
+		},
+		{
+			"episode": 9,
+			"title": "Goku Revived!! Strongest vs. Strongest Collide!",
+			"type": "anime-canon",
+			"aired_date": "2019-03-07"
+		},
+		{
+			"episode": 10,
+			"title": "Counterattack! Fierce Attack! Goku and Vegeta!",
+			"type": "anime-canon",
+			"aired_date": "2019-04-18"
+		},
+		{
+			"episode": 11,
+			"title": "Fierce Fight! Universe 11's Climactic Battle!",
+			"type": "anime-canon",
+			"aired_date": "2019-05-09"
+		},
+		{
+			"episode": 12,
+			"title": "Super Warriors Gather! Universe 7's Decisive Battle!",
+			"type": "anime-canon",
+			"aired_date": "2019-06-22"
+		},
+		{
+			"episode": 13,
+			"title": "Super Hearts Joins the Fight! An All-Out Earth-Shaking Battle!",
+			"type": "anime-canon",
+			"aired_date": "2019-07-11"
+		},
+		{
+			"episode": 14,
+			"title": "The Menacing Universe Seed! Kamioren's Rampage!!",
+			"type": "anime-canon",
+			"aired_date": "2019-07-28"
+		},
+		{
+			"episode": 15,
+			"title": "Send Kamioren Flying! Overwhelming! Ultra Instinct!",
+			"type": "anime-canon",
+			"aired_date": "2019-09-05"
+		},
+		{
+			"episode": 16,
+			"title": "Zamasu vs. Universe 7! Ambition's End!",
+			"type": "anime-canon",
+			"aired_date": "2019-10-10"
+		},
+		{
+			"episode": 17,
+			"title": "The Ultimate Godslayer! Hearts Is Born!",
+			"type": "anime-canon",
+			"aired_date": "2019-10-27"
+		},
+		{
+			"episode": 18,
+			"title": "Super Decisive Battle! Gogeta vs. Hearts!",
+			"type": "anime-canon",
+			"aired_date": "2019-12-21"
+		},
+		{
+			"episode": 19,
+			"title": "Ultimate Conclusion! The Universal Conflict Ends!",
+			"type": "anime-canon",
+			"aired_date": "2020-01-09"
+		},
+		{
+			"episode": 20,
+			"title": "Decisive Battle! Time Patrol vs. the Dark King",
+			"type": "anime-canon",
+			"aired_date": "2020-02-23"
+		},
+		{
+			"episode": 21,
+			"title": "The Gods of Destruction Invade! The Beginning of a New Battle!",
+			"type": "anime-canon",
+			"aired_date": "2020-03-05"
+		},
+		{
+			"episode": 22,
+			"title": "Fu's Plan! The Threat of the Dreadful Universal Tree!",
+			"type": "anime-canon",
+			"aired_date": "2020-04-09"
+		},
+		{
+			"episode": 23,
+			"title": "Rematch With Formidable Foes! Turles and Bojack!",
+			"type": "anime-canon",
+			"aired_date": "2020-05-22"
+		},
+		{
+			"episode": 24,
+			"title": "Creeping Shadow! The Mysterious Man Dr. W!",
+			"type": "anime-canon",
+			"aired_date": "2020-06-30"
+		},
+		{
+			"episode": 25,
+			"title": "Big Decisive Battle in Hell! A New Janemba!",
+			"type": "anime-canon",
+			"aired_date": "2020-07-30"
+		},
+		{
+			"episode": 26,
+			"title": "Dragon Fist Explosion! Super Full Power Saiyan 4: Limit Break!",
+			"type": "anime-canon",
+			"aired_date": "2020-08-27"
+		},
+		{
+			"episode": 27,
+			"title": "Rampaging Terror! The Return of Evil Aura!",
+			"type": "anime-canon",
+			"aired_date": "2020-09-30"
+		},
+		{
+			"episode": 28,
+			"title": "Fierce Battle in the Space of Time! Vegito vs. Super Fu",
+			"type": "anime-canon",
+			"aired_date": "2020-10-25"
+		},
+		{
+			"episode": 29,
+			"title": "Push Forward to the Battlefield! Dragon Ball Heroes",
+			"type": "filler",
+			"aired_date": "2020-11-15"
+		},
+		{
+			"episode": 30,
+			"title": "Reborn Evil! Birth of Dark King Fu!",
+			"type": "anime-canon",
+			"aired_date": "2020-12-20"
+		},
+		{
+			"episode": 31,
+			"title": "The Worst Limit Break! Broly Revived!",
+			"type": "anime-canon",
+			"aired_date": "2021-01-20"
+		},
+		{
+			"episode": 32,
+			"title": "The Universe Creation Ends! The Birth of a New World!",
+			"type": "anime-canon",
+			"aired_date": "2021-02-25"
+		},
+		{
+			"episode": 33,
+			"title": "New Space-Time War! The Ultimate Fierce Battle Begins!",
+			"type": "anime-canon",
+			"aired_date": "2021-03-17"
+		},
+		{
+			"episode": 34,
+			"title": "The Warrior in Black Appears! A New Adventure Starts!",
+			"type": "anime-canon",
+			"aired_date": "2021-04-15"
+		},
+		{
+			"episode": 35,
+			"title": "The Pride of the Warrior Race! Vegeta, Awakening!!",
+			"type": "anime-canon",
+			"aired_date": "2021-05-09"
+		},
+		{
+			"episode": 36,
+			"title": "Super Saiyan Rosé vs. Ultra Instinct! A Great Planet-Shaking Duel!",
+			"type": "anime-canon",
+			"aired_date": "2021-06-20"
+		},
+		{
+			"episode": 37,
+			"title": "Warrior in Black vs. Goku Black! The Dark Plot Becomes Clear!",
+			"type": "anime-canon",
+			"aired_date": "2021-07-11"
+		},
+		{
+			"episode": 38,
+			"title": "The Final Battle in Fake Universe! Clash of Blue and Scarlet",
+			"type": "anime-canon",
+			"aired_date": "2021-09-15"
+		},
+		{
+			"episode": 39,
+			"title": "The Obstructing Threat of Fu! Birth of the Miraculous Strongest Combination!",
+			"type": "anime-canon",
+			"aired_date": "2021-10-24"
+		},
+		{
+			"episode": 40,
+			"title": "The Last Full Power! Fierce Battle for the Future, Finally Settled!",
+			"type": "anime-canon",
+			"aired_date": "2021-12-18"
+		}
+	]
+}

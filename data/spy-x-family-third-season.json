@@ -1,0 +1,70 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "SPY x FAMILY Season 3",
+	"mappings": {
+		"anilist_id": 177937,
+		"mal_id": 59027
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Berlint Panic | The Informant and Nightfall",
+			"type": "mixed-manga",
+			"aired_date": "2025-10-04"
+		},
+		{
+			"episode": 2,
+			"title": "Avoid Getting Tonitrus Bolts | ■■■■'s Memories I",
+			"type": "manga-canon",
+			"aired_date": "2025-10-11"
+		},
+		{
+			"episode": 3,
+			"title": "■■■■'s Memories II",
+			"type": "manga-canon",
+			"aired_date": "2025-10-18"
+		},
+		{
+			"episode": 4,
+			"title": "Behind the Scandal | The Path to an Imperial Scholar",
+			"type": "manga-canon",
+			"aired_date": "2025-10-25"
+		},
+		{
+			"episode": 5,
+			"title": "The Mommy-Friends Scheme",
+			"type": "manga-canon",
+			"aired_date": "2025-11-01"
+		},
+		{
+			"episode": 6,
+			"title": "White Jealousy | The Eden College Busjacking Incident",
+			"type": "manga-canon",
+			"aired_date": "2025-11-08"
+		},
+		{
+			"episode": 7,
+			"title": "The Red Circus",
+			"type": "manga-canon",
+			"aired_date": "2025-11-15"
+		},
+		{
+			"episode": 8,
+			"title": "Take Down the Busjacker",
+			"type": "manga-canon",
+			"aired_date": "2025-11-22"
+		},
+		{
+			"episode": 9,
+			"title": "Anya's Era Has Come",
+			"type": "manga-canon",
+			"aired_date": "2025-11-29"
+		},
+		{
+			"episode": 10,
+			"title": "Austin's Troubles | A Normal Mixer | Moon Landing",
+			"type": "manga-canon",
+			"aired_date": "2025-12-07"
+		}
+	]
+}

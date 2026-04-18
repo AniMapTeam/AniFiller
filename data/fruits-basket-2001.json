@@ -1,0 +1,166 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Fruits Basket (Furuba)",
+	"mappings": {
+		"anilist_id": 120,
+		"mal_id": 120
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Strangest Day",
+			"type": "manga-canon",
+			"aired_date": "2001-07-05"
+		},
+		{
+			"episode": 2,
+			"title": "The Sohma Curse",
+			"type": "manga-canon",
+			"aired_date": "2001-07-12"
+		},
+		{
+			"episode": 3,
+			"title": "All Shapes and Sizes",
+			"type": "manga-canon",
+			"aired_date": "2001-07-19"
+		},
+		{
+			"episode": 4,
+			"title": "Here Comes Kagura!",
+			"type": "manga-canon",
+			"aired_date": "2001-07-26"
+		},
+		{
+			"episode": 5,
+			"title": "A Rice Ball in a Fruits Basket",
+			"type": "manga-canon",
+			"aired_date": "2001-08-02"
+		},
+		{
+			"episode": 6,
+			"title": "Invincible Friendship",
+			"type": "manga-canon",
+			"aired_date": "2001-08-09"
+		},
+		{
+			"episode": 7,
+			"title": "A Plum on the Back",
+			"type": "manga-canon",
+			"aired_date": "2001-08-16"
+		},
+		{
+			"episode": 8,
+			"title": "Don't Cry, For the Snow will Surely Melt",
+			"type": "manga-canon",
+			"aired_date": "2001-08-23"
+		},
+		{
+			"episode": 9,
+			"title": "A Solitary New Year",
+			"type": "manga-canon",
+			"aired_date": "2001-08-30"
+		},
+		{
+			"episode": 10,
+			"title": "Make It Clear If It's Black or White",
+			"type": "manga-canon",
+			"aired_date": "2001-09-06"
+		},
+		{
+			"episode": 11,
+			"title": "Everybody Loves Chocolate",
+			"type": "manga-canon",
+			"aired_date": "2001-09-13"
+		},
+		{
+			"episode": 12,
+			"title": "White Day",
+			"type": "manga-canon",
+			"aired_date": "2001-09-20"
+		},
+		{
+			"episode": 13,
+			"title": "A New School Term Starts!",
+			"type": "manga-canon",
+			"aired_date": "2001-09-27"
+		},
+		{
+			"episode": 14,
+			"title": "The Adult's Episode - Ayame's a Messed Up Snake!",
+			"type": "manga-canon",
+			"aired_date": "2001-10-04"
+		},
+		{
+			"episode": 15,
+			"title": "There Are No Memories It's OK to Forget",
+			"type": "manga-canon",
+			"aired_date": "2001-10-11"
+		},
+		{
+			"episode": 16,
+			"title": "If We've Three Then We Don't Need To Fear Jason",
+			"type": "manga-canon",
+			"aired_date": "2001-10-18"
+		},
+		{
+			"episode": 17,
+			"title": "It's Because I've Been Loved That I've Become Stronger",
+			"type": "manga-canon",
+			"aired_date": "2001-10-25"
+		},
+		{
+			"episode": 18,
+			"title": "The Strongest Tag - The Cursed Electric Wave Brother and Sister",
+			"type": "manga-canon",
+			"aired_date": "2001-11-01"
+		},
+		{
+			"episode": 19,
+			"title": "The Source of Cheer Can Be Affected By Colds Too",
+			"type": "manga-canon",
+			"aired_date": "2001-11-08"
+		},
+		{
+			"episode": 20,
+			"title": "Ayame's Secret Life",
+			"type": "manga-canon",
+			"aired_date": "2001-11-15"
+		},
+		{
+			"episode": 21,
+			"title": "Sophist Boy Has Captured The Prince",
+			"type": "manga-canon",
+			"aired_date": "2001-11-22"
+		},
+		{
+			"episode": 22,
+			"title": "Prince Yuki Fan Club",
+			"type": "manga-canon",
+			"aired_date": "2001-11-29"
+		},
+		{
+			"episode": 23,
+			"title": "Is The Rumored Ri That Mother's Daughter?",
+			"type": "manga-canon",
+			"aired_date": "2001-12-06"
+		},
+		{
+			"episode": 24,
+			"title": "The Curse of the Cat",
+			"type": "manga-canon",
+			"aired_date": "2001-12-13"
+		},
+		{
+			"episode": 25,
+			"title": "True Form",
+			"type": "mixed-manga",
+			"aired_date": "2001-12-20"
+		},
+		{
+			"episode": 26,
+			"title": "Let's Go Home",
+			"type": "mixed-manga",
+			"aired_date": "2001-12-27"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "JoJo's Bizarre Adventure (2000)",
+	"mappings": {
+		"anilist_id": 665,
+		"mal_id": 665
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "The Evil Spirit",
+			"type": "mixed-manga",
+			"aired_date": "2000-05-05"
+		},
+		{
+			"episode": 2,
+			"title": "Hierophant Green",
+			"type": "mixed-manga",
+			"aired_date": "2000-08-25"
+		},
+		{
+			"episode": 3,
+			"title": "Silver Chariot and Strength",
+			"type": "mixed-manga",
+			"aired_date": "2000-10-27"
+		},
+		{
+			"episode": 4,
+			"title": "The Emperor and the Hanged Man",
+			"type": "mixed-manga",
+			"aired_date": "2001-04-27"
+		},
+		{
+			"episode": 5,
+			"title": "The Judgment",
+			"type": "mixed-manga",
+			"aired_date": "2001-07-21"
+		},
+		{
+			"episode": 6,
+			"title": "The Mist of Vengeance",
+			"type": "mixed-manga",
+			"aired_date": "2001-09-28"
+		},
+		{
+			"episode": 7,
+			"title": "Justice",
+			"type": "mixed-manga",
+			"aired_date": "2002-01-25"
+		}
+	]
+}

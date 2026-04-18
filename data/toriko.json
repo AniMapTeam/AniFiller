@@ -1,0 +1,892 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Toriko",
+	"mappings": {
+		"anilist_id": 10033,
+		"mal_id": 10033
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Arrival on Gourmet Island! The Gourmet Hunter Toriko Appears!",
+			"type": "filler",
+			"aired_date": "2011-04-03"
+		},
+		{
+			"episode": 2,
+			"title": "The Undiscovered Giant Beast! Toriko, Capture a Gararagator!",
+			"type": "manga-canon",
+			"aired_date": "2011-04-10"
+		},
+		{
+			"episode": 3,
+			"title": "The Well Mellowed 7-Colored Fruit Juice! Pick the Rainbow Fruit!",
+			"type": "manga-canon",
+			"aired_date": "2011-04-17"
+		},
+		{
+			"episode": 4,
+			"title": "Prepare It! The Poisonous Puffer Whale! The Heavenly King Coco Appears!!",
+			"type": "manga-canon",
+			"aired_date": "2011-04-24"
+		},
+		{
+			"episode": 5,
+			"title": "The Deadly Cave Battle! Fire, Five-Fold Spiked Punch!",
+			"type": "manga-canon",
+			"aired_date": "2011-05-01"
+		},
+		{
+			"episode": 6,
+			"title": "The Knocking Master! Time to Taste the Puffer Whale!",
+			"type": "manga-canon",
+			"aired_date": "2011-05-08"
+		},
+		{
+			"episode": 7,
+			"title": "The Strongest Wolf That Ever Lived! The Battle Wolf is Reborn!",
+			"type": "manga-canon",
+			"aired_date": "2011-05-15"
+		},
+		{
+			"episode": 8,
+			"title": "The Threat Appears! Rumble at the Gourmet Colosseum!",
+			"type": "manga-canon",
+			"aired_date": "2011-05-22"
+		},
+		{
+			"episode": 9,
+			"title": "That Which Is Passed Down! Activate, Gourmet Cells!",
+			"type": "manga-canon",
+			"aired_date": "2011-05-29"
+		},
+		{
+			"episode": 10,
+			"title": "The Man Who Has an Invincible Domain! His Name Is Sunny!",
+			"type": "manga-canon",
+			"aired_date": "2011-06-05"
+		},
+		{
+			"episode": 11,
+			"title": "Regal Isle Dash! Search for the Jewel Meat!",
+			"type": "manga-canon",
+			"aired_date": "2011-06-12"
+		},
+		{
+			"episode": 12,
+			"title": "The Devil's Game! Clear the Devil's Playground!",
+			"type": "manga-canon",
+			"aired_date": "2011-06-19"
+		},
+		{
+			"episode": 13,
+			"title": "The Ultimate Backup! Clash, Coco Vs. GT Robot!",
+			"type": "manga-canon",
+			"aired_date": "2011-06-26"
+		},
+		{
+			"episode": 14,
+			"title": "The Threat Of Deadly Poison! Coco's Formula For Victory!",
+			"type": "manga-canon",
+			"aired_date": "2011-07-03"
+		},
+		{
+			"episode": 15,
+			"title": "The Unyielding aesthetic! Sunny's Manly Battle!",
+			"type": "manga-canon",
+			"aired_date": "2011-07-10"
+		},
+		{
+			"episode": 16,
+			"title": "Rin's Final Wish! Awaken, Super Toriko!",
+			"type": "manga-canon",
+			"aired_date": "2011-07-17"
+		},
+		{
+			"episode": 17,
+			"title": "Super Toriko, the Fist of Anger! This is the Strongest Spike Punch!",
+			"type": "manga-canon",
+			"aired_date": "2011-07-31"
+		},
+		{
+			"episode": 18,
+			"title": "The Taste Written In His DNA! Toriko, Search For The Blue Blood Corn!",
+			"type": "manga-canon",
+			"aired_date": "2011-08-07"
+		},
+		{
+			"episode": 19,
+			"title": "The Talent of Battle! Show Me, Terry, King in the Making!",
+			"type": "manga-canon",
+			"aired_date": "2011-08-14"
+		},
+		{
+			"episode": 20,
+			"title": "For Terry's Sake! Burst By Broiling Heat, BB Corn!",
+			"type": "manga-canon",
+			"aired_date": "2011-08-21"
+		},
+		{
+			"episode": 21,
+			"title": "The Gourmet Corps' Assassin! Toriko's Attack Instantaneously Evolves!",
+			"type": "manga-canon",
+			"aired_date": "2011-08-28"
+		},
+		{
+			"episode": 22,
+			"title": "Pressure of Madness! Grinpatch vs. Toriko!",
+			"type": "manga-canon",
+			"aired_date": "2011-09-04"
+		},
+		{
+			"episode": 23,
+			"title": "The Amusement Park of Eating! The Bellyfull City, Gourmet Town!",
+			"type": "manga-canon",
+			"aired_date": "2011-09-11"
+		},
+		{
+			"episode": 24,
+			"title": "The Moment of Truth! Setsuno's Century Soup!",
+			"type": "manga-canon",
+			"aired_date": "2011-09-18"
+		},
+		{
+			"episode": 25,
+			"title": "Meeting at the Saloon! The Powerful and Numerous Gourmet Hunters!",
+			"type": "manga-canon",
+			"aired_date": "2011-09-25"
+		},
+		{
+			"episode": 26,
+			"title": "The Gourtmet Hunter Troops' Challenge! Arrival in the Frigid Hell!",
+			"type": "manga-canon",
+			"aired_date": "2011-10-02"
+		},
+		{
+			"episode": 27,
+			"title": "Hurry While It's Hot! A Survival Race on Ice!",
+			"type": "manga-canon",
+			"aired_date": "2011-10-09"
+		},
+		{
+			"episode": 28,
+			"title": "The Fiery Explosion Shakes the Iceberg!! The Masked Man's True Form!!",
+			"type": "manga-canon",
+			"aired_date": "2011-10-16"
+		},
+		{
+			"episode": 29,
+			"title": "Glorious Bug Tamer! Tommyrod vs. Toriko",
+			"type": "manga-canon",
+			"aired_date": "2011-10-23"
+		},
+		{
+			"episode": 30,
+			"title": "Gratitude and Pride! Takimaru's Full-Out Corkscrew Shot!",
+			"type": "manga-canon",
+			"aired_date": "2011-10-30"
+		},
+		{
+			"episode": 31,
+			"title": "Settled! Match and Takimaru's Desperate Attacks!",
+			"type": "manga-canon",
+			"aired_date": "2011-11-06"
+		},
+		{
+			"episode": 32,
+			"title": "The Gourmet Reviver and the Legendary Soup's Location!",
+			"type": "manga-canon",
+			"aired_date": "2011-11-13"
+		},
+		{
+			"episode": 33,
+			"title": "Head-on Fight! Fierce Battle! Toriko vs. Tommyrod!",
+			"type": "manga-canon",
+			"aired_date": "2011-11-20"
+		},
+		{
+			"episode": 34,
+			"title": "Ultimate Desperation! Tommyrod's Full-Power Mode Explodes!",
+			"type": "manga-canon",
+			"aired_date": "2011-11-27"
+		},
+		{
+			"episode": 35,
+			"title": "Wondrous Power! Gourmet Reviver Teppei Joins the Battle!",
+			"type": "manga-canon",
+			"aired_date": "2011-12-04"
+		},
+		{
+			"episode": 36,
+			"title": "The Last Drop! Who Will Get the Century Soup?!",
+			"type": "manga-canon",
+			"aired_date": "2011-12-11"
+		},
+		{
+			"episode": 37,
+			"title": "Farewell, Ice Hell! Granny Setsu's Hidden Power!",
+			"type": "manga-canon",
+			"aired_date": "2011-12-18"
+		},
+		{
+			"episode": 38,
+			"title": "Splendid Healing! Here Comes the Gourmet Reviver, Yosaku!",
+			"type": "manga-canon",
+			"aired_date": "2011-12-25"
+		},
+		{
+			"episode": 39,
+			"title": "Race to Finish! Will It Be Toriko's Recovery, or Komatsu's Soup?!",
+			"type": "manga-canon",
+			"aired_date": "2012-01-08"
+		},
+		{
+			"episode": 40,
+			"title": "To the World of Ultimate Bliss! Taste the Century Soup!",
+			"type": "manga-canon",
+			"aired_date": "2012-01-15"
+		},
+		{
+			"episode": 41,
+			"title": "Housewarming Party! Everyone Gather at the Sweets House!",
+			"type": "manga-canon",
+			"aired_date": "2012-01-22"
+		},
+		{
+			"episode": 42,
+			"title": "The Gourmet King Championship! Search for the Ultimate Sweets!",
+			"type": "filler",
+			"aired_date": "2012-01-29"
+		},
+		{
+			"episode": 43,
+			"title": "Bonding Dish! Partners Are Forever!",
+			"type": "filler",
+			"aired_date": "2012-02-05"
+		},
+		{
+			"episode": 44,
+			"title": "White Hot! Toriko vs. the IGO President!",
+			"type": "manga-canon",
+			"aired_date": "2012-02-12"
+		},
+		{
+			"episode": 45,
+			"title": "Vegetable Garden in the Heavens! Vegetable Sky!",
+			"type": "manga-canon",
+			"aired_date": "2012-02-19"
+		},
+		{
+			"episode": 46,
+			"title": "Discovery! The King of Vegetables, Ozone Grass!",
+			"type": "manga-canon",
+			"aired_date": "2012-02-26"
+		},
+		{
+			"episode": 47,
+			"title": "Confession in the Heavens! The Formation of the Invincible Duo!",
+			"type": "manga-canon",
+			"aired_date": "2012-03-04"
+		},
+		{
+			"episode": 48,
+			"title": "Shocking Encounter! A Mysterious Life Form Appears!",
+			"type": "manga-canon",
+			"aired_date": "2012-03-18"
+		},
+		{
+			"episode": 49,
+			"title": "Toriko Rushes in! The Truth of the Gourmet World!",
+			"type": "manga-canon",
+			"aired_date": "2012-03-25"
+		},
+		{
+			"episode": 50,
+			"title": "Enter the Astounding Ringer! The True Meaning of a Partner!",
+			"type": "manga-canon",
+			"aired_date": "2012-04-01"
+		},
+		{
+			"episode": 51,
+			"title": "Toriko and Luffy Meet Again! Find the Seafood Fruit!",
+			"type": "filler",
+			"aired_date": "2012-04-08"
+		},
+		{
+			"episode": 52,
+			"title": "Shock! The Broken Kitchen Knife and Cutler Melk!",
+			"type": "manga-canon",
+			"aired_date": "2012-04-15"
+		},
+		{
+			"episode": 53,
+			"title": "Tension! Toriko's Knife vs. Melk's Kitchen Knife!",
+			"type": "manga-canon",
+			"aired_date": "2012-04-22"
+		},
+		{
+			"episode": 54,
+			"title": "Supergravity! Conquer Heavy Hole!",
+			"type": "manga-canon",
+			"aired_date": "2012-04-29"
+		},
+		{
+			"episode": 55,
+			"title": "Hidden Truth! The First Melk Appears!",
+			"type": "manga-canon",
+			"aired_date": "2012-05-06"
+		},
+		{
+			"episode": 56,
+			"title": "Debut! The Second Generation's Succession and Melk Stardust!",
+			"type": "manga-canon",
+			"aired_date": "2012-05-13"
+		},
+		{
+			"episode": 57,
+			"title": "A Work Made with All Her Might! The Completed Melk Knife!",
+			"type": "manga-canon",
+			"aired_date": "2012-05-20"
+		},
+		{
+			"episode": 58,
+			"title": "Super Celeb! Once in a Lifetime Gourmet Carriage Journey!",
+			"type": "manga-canon",
+			"aired_date": "2012-05-27"
+		},
+		{
+			"episode": 59,
+			"title": "Finally, He Appears! The Last of the Four Kings, Zebra!",
+			"type": "manga-canon",
+			"aired_date": "2012-06-03"
+		},
+		{
+			"episode": 60,
+			"title": "Unleash the Roar! The Release of the Condemned Criminal, Zebra!",
+			"type": "manga-canon",
+			"aired_date": "2012-06-10"
+		},
+		{
+			"episode": 61,
+			"title": "Warning Issued! Zebra Lands on Sand Garden!",
+			"type": "manga-canon",
+			"aired_date": "2012-06-17"
+		},
+		{
+			"episode": 62,
+			"title": "Komatsu's Disappearance! The Desert Labyrinth of Evil!",
+			"type": "manga-canon",
+			"aired_date": "2012-06-24"
+		},
+		{
+			"episode": 63,
+			"title": "The Sealed Voice! The Other-Dimensional Gourmet Pyramid!",
+			"type": "manga-canon",
+			"aired_date": "2012-07-01"
+		},
+		{
+			"episode": 64,
+			"title": "Astounding! The Mysterious Ancient Manuscript and the Creature Inside the Coffin!",
+			"type": "manga-canon",
+			"aired_date": "2012-07-08"
+		},
+		{
+			"episode": 65,
+			"title": "Shocking Showdown! Salamander Sphinx!",
+			"type": "manga-canon",
+			"aired_date": "2012-07-15"
+		},
+		{
+			"episode": 66,
+			"title": "Cooperative Cooking! Komatsu Steers Toriko and Zebra!",
+			"type": "manga-canon",
+			"aired_date": "2012-07-29"
+		},
+		{
+			"episode": 67,
+			"title": "Explosion of Combination Techniques! Taking the World's Best Cola!",
+			"type": "manga-canon",
+			"aired_date": "2012-08-05"
+		},
+		{
+			"episode": 68,
+			"title": "The Truth Revealed! Komatsuâs Will and the Identity of the Mysterious Creature!",
+			"type": "manga-canon",
+			"aired_date": "2012-08-12"
+		},
+		{
+			"episode": 69,
+			"title": "Surpass Dad! Midsummer Gobbling Katsu Curry!",
+			"type": "filler",
+			"aired_date": "2012-08-19"
+		},
+		{
+			"episode": 70,
+			"title": "Connecting Bonds! The Superb Gatsugatsu Curry!",
+			"type": "filler",
+			"aired_date": "2012-08-26"
+		},
+		{
+			"episode": 71,
+			"title": "A New Stage! Toriko's Determination and the Return of",
+			"type": "manga-canon",
+			"aired_date": "2012-09-02"
+		},
+		{
+			"episode": 72,
+			"title": "A Flowing Food Luck! The Pilgrimage Gourmet Shrine!",
+			"type": "manga-canon",
+			"aired_date": "2012-09-09"
+		},
+		{
+			"episode": 73,
+			"title": "Uwaaa! The Astonishing Surprise Apple!",
+			"type": "manga-canon",
+			"aired_date": "2012-09-16"
+		},
+		{
+			"episode": 74,
+			"title": "Chicken Beast's Egg! The Memories of Old Man Yocchi and His Wife!",
+			"type": "manga-canon",
+			"aired_date": "2012-09-23"
+		},
+		{
+			"episode": 75,
+			"title": "Glittering Crystal! Shining Gourami!",
+			"type": "manga-canon",
+			"aired_date": "2012-09-30"
+		},
+		{
+			"episode": 76,
+			"title": "Shocking Rapids! Giant Waterfall, Death Falls!",
+			"type": "manga-canon",
+			"aired_date": "2012-10-07"
+		},
+		{
+			"episode": 77,
+			"title": "Sunny`s New Attack! The Result of Gorgeous Training!",
+			"type": "manga-canon",
+			"aired_date": "2012-10-14"
+		},
+		{
+			"episode": 78,
+			"title": "Thirty Times Combo! Thirty-Six-Fold Twin Spiked Punch!",
+			"type": "manga-canon",
+			"aired_date": "2012-10-21"
+		},
+		{
+			"episode": 79,
+			"title": "Cooking by Intuition! Komatsu and the Shining Gourami!",
+			"type": "manga-canon",
+			"aired_date": "2012-10-28"
+		},
+		{
+			"episode": 80,
+			"title": "Flashy Presentation! Supreme Service With a Meal!",
+			"type": "filler",
+			"aired_date": "2012-11-04"
+		},
+		{
+			"episode": 81,
+			"title": "Supreme Chitose Ame! Komatsu and Yun's Tale!",
+			"type": "filler",
+			"aired_date": "2012-11-11"
+		},
+		{
+			"episode": 82,
+			"title": "Assemble on Autumn Mountain! Terry, Yun, Kiss, Queen!",
+			"type": "filler",
+			"aired_date": "2012-11-18"
+		},
+		{
+			"episode": 83,
+			"title": "Reunion! Take-chan of Fairytale Castle!",
+			"type": "manga-canon",
+			"aired_date": "2012-11-25"
+		},
+		{
+			"episode": 84,
+			"title": "Crossroads! A Chef's Destination!",
+			"type": "manga-canon",
+			"aired_date": "2012-12-02"
+		},
+		{
+			"episode": 85,
+			"title": "Dramatic Transformation! Hair Salon Barber Gourmet!",
+			"type": "manga-canon",
+			"aired_date": "2012-12-09"
+		},
+		{
+			"episode": 86,
+			"title": "Gathering of the Four Kings! A Midwinter Night's Miracle!",
+			"type": "filler",
+			"aired_date": "2012-12-16"
+		},
+		{
+			"episode": 87,
+			"title": "Merry Feastmas! Gourmet Santa's Present!",
+			"type": "manga-canon",
+			"aired_date": "2012-12-23"
+		},
+		{
+			"episode": 88,
+			"title": "Heaven or Hell!? Storming Into the Gourmet Casino!",
+			"type": "manga-canon",
+			"aired_date": "2013-01-06"
+		},
+		{
+			"episode": 89,
+			"title": "Appearance! The Boss of the Underground Cooking World, Livebearer!",
+			"type": "manga-canon",
+			"aired_date": "2013-01-13"
+		},
+		{
+			"episode": 90,
+			"title": "A Card Game With Your Life on the Line! Gourmet Tasting!",
+			"type": "manga-canon",
+			"aired_date": "2013-01-20"
+		},
+		{
+			"episode": 91,
+			"title": "Dead Heat! Coco vs. Livebearer",
+			"type": "manga-canon",
+			"aired_date": "2013-01-27"
+		},
+		{
+			"episode": 92,
+			"title": "Coco's Strategy! The Big-Miss Cards That Determine the Outcome!",
+			"type": "manga-canon",
+			"aired_date": "2013-02-03"
+		},
+		{
+			"episode": 93,
+			"title": "Eat or be Eaten! Toriko vs. the Hannya Panda!",
+			"type": "manga-canon",
+			"aired_date": "2013-02-10"
+		},
+		{
+			"episode": 94,
+			"title": "Climax! The Remaining Worst Ingredients!",
+			"type": "manga-canon",
+			"aired_date": "2013-02-17"
+		},
+		{
+			"episode": 95,
+			"title": "The Decisive Moment! Coco's Grand Scenario!",
+			"type": "manga-canon",
+			"aired_date": "2013-03-03"
+		},
+		{
+			"episode": 96,
+			"title": "A Taste that's Out of this World! The Actual Eating of the Meteor Garlic!",
+			"type": "manga-canon",
+			"aired_date": "2013-03-17"
+		},
+		{
+			"episode": 97,
+			"title": "Pinnacle Showdown! Ichiryuu vs. the Bishokukai's Midora!",
+			"type": "manga-canon",
+			"aired_date": "2013-03-24"
+		},
+		{
+			"episode": 98,
+			"title": "The Hidden Training Ingredient! Emergency Instructions from Ichiryuu!",
+			"type": "manga-canon",
+			"aired_date": "2013-03-31"
+		},
+		{
+			"episode": 99,
+			"title": "Run, Strongest Army! Toriko, Luffy, Goku!",
+			"type": "filler",
+			"aired_date": "2013-04-07"
+		},
+		{
+			"episode": 100,
+			"title": "Commemorating the Hundredth Episode, All Four Heavenly Kings Assemble!",
+			"type": "manga-canon",
+			"aired_date": "2013-04-14"
+		},
+		{
+			"episode": 101,
+			"title": "Toriko Fainting in Agony?! Capture the World's Smelliest Ingredient!",
+			"type": "manga-canon",
+			"aired_date": "2013-04-21"
+		},
+		{
+			"episode": 102,
+			"title": "Too Huge! With Pro Wrestling Moves, the Completion of the Ehou Maki",
+			"type": "manga-canon",
+			"aired_date": "2013-04-28"
+		},
+		{
+			"episode": 103,
+			"title": "Hands Together and Bow! Gourmet Human National Treasure Chin Chinchin Appears!",
+			"type": "manga-canon",
+			"aired_date": "2013-05-05"
+		},
+		{
+			"episode": 104,
+			"title": "Those Without Gratitude Should Not Enter! The Fearsome Shokurin Temple!",
+			"type": "manga-canon",
+			"aired_date": "2013-05-12"
+		},
+		{
+			"episode": 105,
+			"title": "Toriko, Completely Defeated?! The Delicate and Uninhibited Power of Food Honor!",
+			"type": "manga-canon",
+			"aired_date": "2013-05-19"
+		},
+		{
+			"episode": 106,
+			"title": "It's All About Appreciation! The Essentials of Food Honor!",
+			"type": "manga-canon",
+			"aired_date": "2013-05-26"
+		},
+		{
+			"episode": 107,
+			"title": "An Approaching Threat! Hurry, Toriko! The Road to the Bubble Fruits!",
+			"type": "manga-canon",
+			"aired_date": "2013-06-02"
+		},
+		{
+			"episode": 108,
+			"title": "Tradgedy! The Demise of Shokurin Temple... Farewell Komatsu!",
+			"type": "manga-canon",
+			"aired_date": "2013-06-09"
+		},
+		{
+			"episode": 109,
+			"title": "Mighty and Unrivaled! One Who Has Mastered Food Honor!",
+			"type": "manga-canon",
+			"aired_date": "2013-06-16"
+		},
+		{
+			"episode": 110,
+			"title": "National Treasure Class One-Swing 100 Million Yen Techniques! Toriko VS Granny Chiyo",
+			"type": "manga-canon",
+			"aired_date": "2013-06-23"
+		},
+		{
+			"episode": 111,
+			"title": "Phantom Ingredient",
+			"type": "manga-canon",
+			"aired_date": "2013-06-30"
+		},
+		{
+			"episode": 112,
+			"title": "The Legendary Bee",
+			"type": "filler",
+			"aired_date": "2013-07-07"
+		},
+		{
+			"episode": 113,
+			"title": "Showing his True Strength! Komatsu's Food Honor The Actual Food! The Phantasmal Noodles,",
+			"type": "filler",
+			"aired_date": "2013-07-14"
+		},
+		{
+			"episode": 114,
+			"title": "The Four Heavenly Kings Gather! The Gourmet World Beasts the",
+			"type": "manga-canon",
+			"aired_date": "2013-07-21"
+		},
+		{
+			"episode": 115,
+			"title": "The Battle to Determine the Fate of Mankind! The Four Beasts VS The Four Heavenly Kings!",
+			"type": "manga-canon",
+			"aired_date": "2013-07-28"
+		},
+		{
+			"episode": 116,
+			"title": "Toriko, Coco, Sunny, Zebra The Four Heavenly Kings' Storm of Attacks!!",
+			"type": "manga-canon",
+			"aired_date": "2013-08-11"
+		},
+		{
+			"episode": 117,
+			"title": "Toriko's New Crisis The Creeping Four Beast's Main Body!!",
+			"type": "manga-canon",
+			"aired_date": "2013-08-18"
+		},
+		{
+			"episode": 118,
+			"title": "The Four Beast's Shockng Union and the Green Rain!!",
+			"type": "manga-canon",
+			"aired_date": "2013-08-25"
+		},
+		{
+			"episode": 119,
+			"title": "The Four Heavenly Kings' Worst Dilemma! Komatsu's Determination!",
+			"type": "manga-canon",
+			"aired_date": "2013-09-01"
+		},
+		{
+			"episode": 120,
+			"title": "Save Mankind With Your Miraculous Food Luck!!",
+			"type": "manga-canon",
+			"aired_date": "2013-09-08"
+		},
+		{
+			"episode": 121,
+			"title": "Explode! Curiosity for Taste! The Four Heavenly Kings' Combination Technique!!",
+			"type": "manga-canon",
+			"aired_date": "2013-09-15"
+		},
+		{
+			"episode": 122,
+			"title": "Ultimate Technique",
+			"type": "manga-canon",
+			"aired_date": "2013-09-22"
+		},
+		{
+			"episode": 123,
+			"title": "The Forthcoming Festival The Wriggling",
+			"type": "manga-canon",
+			"aired_date": "2013-09-29"
+		},
+		{
+			"episode": 124,
+			"title": "Toriko VS Gurume-kai no Kaibutsu \"Monpuran",
+			"type": "filler",
+			"aired_date": "2013-10-06"
+		},
+		{
+			"episode": 125,
+			"title": "Toriko's New Technique",
+			"type": "filler",
+			"aired_date": "2013-10-13"
+		},
+		{
+			"episode": 126,
+			"title": "Great Imminent Troubles!? Cooking Fest Opens!!",
+			"type": "manga-canon",
+			"aired_date": "2013-10-20"
+		},
+		{
+			"episode": 127,
+			"title": "Komatsu in Trouble!? Triathlon Cooking!",
+			"type": "manga-canon",
+			"aired_date": "2013-10-27"
+		},
+		{
+			"episode": 128,
+			"title": "Cooking Legend, Meet Tengu Buranchi!!",
+			"type": "manga-canon",
+			"aired_date": "2013-11-03"
+		},
+		{
+			"episode": 129,
+			"title": "Sneaky! Stormy! Buranchi, Pulling Ahead!!",
+			"type": "manga-canon",
+			"aired_date": "2013-11-10"
+		},
+		{
+			"episode": 130,
+			"title": "Life or Death, Scale Death Cooking!!",
+			"type": "filler",
+			"aired_date": "2013-11-17"
+		},
+		{
+			"episode": 131,
+			"title": "Who is the Strongest Combo? Entire Island Cooking!!",
+			"type": "filler",
+			"aired_date": "2013-11-24"
+		},
+		{
+			"episode": 132,
+			"title": "Outbreak of War! Bishokukai's Furious All-out Attack!!",
+			"type": "manga-canon",
+			"aired_date": "2013-12-01"
+		},
+		{
+			"episode": 133,
+			"title": "Protect Komatsu! Toriko vs. Starjun!!",
+			"type": "manga-canon",
+			"aired_date": "2013-12-08"
+		},
+		{
+			"episode": 134,
+			"title": "Wild Battle! Toriko's Strongest Attack!!",
+			"type": "manga-canon",
+			"aired_date": "2013-12-15"
+		},
+		{
+			"episode": 135,
+			"title": "Top Showdown! IGO vs. Bishokukai",
+			"type": "manga-canon",
+			"aired_date": "2013-12-22"
+		},
+		{
+			"episode": 136,
+			"title": "A Catastrophic Joker Card! Gourmet World Monster Nitro",
+			"type": "manga-canon",
+			"aired_date": "2014-01-05"
+		},
+		{
+			"episode": 137,
+			"title": "Struggle to the Death! Coco vs. Grinpatch",
+			"type": "manga-canon",
+			"aired_date": "2014-01-12"
+		},
+		{
+			"episode": 138,
+			"title": "Duel! Sunny vs. Tommyrod",
+			"type": "manga-canon",
+			"aired_date": "2014-01-19"
+		},
+		{
+			"episode": 139,
+			"title": "The Moment of Truth! Sunny's Final Ability!!",
+			"type": "manga-canon",
+			"aired_date": "2014-01-26"
+		},
+		{
+			"episode": 140,
+			"title": "Counterattack! Zebra Gets Moving!!",
+			"type": "manga-canon",
+			"aired_date": "2014-02-02"
+		},
+		{
+			"episode": 141,
+			"title": "Toriko, Counterattack! Ultimate Routine!!",
+			"type": "manga-canon",
+			"aired_date": "2014-02-09"
+		},
+		{
+			"episode": 142,
+			"title": "History's Greatest Enemy!",
+			"type": "manga-canon",
+			"aired_date": "2014-02-16"
+		},
+		{
+			"episode": 143,
+			"title": "The Secret of the Mastermind",
+			"type": "manga-canon",
+			"aired_date": "2014-02-23"
+		},
+		{
+			"episode": 144,
+			"title": "The Beginning of the End! Toriko vs. Joa!!",
+			"type": "manga-canon",
+			"aired_date": "2014-03-02"
+		},
+		{
+			"episode": 145,
+			"title": "An Attack to Come Back from Hopelessness! The Four Heavenly Kings, the Ultimate Technique!!",
+			"type": "manga-canon",
+			"aired_date": "2014-03-16"
+		},
+		{
+			"episode": 146,
+			"title": "Reach him, Komatsu's Yells! Toriko Awakens!!",
+			"type": "mixed-manga",
+			"aired_date": "2014-03-23"
+		},
+		{
+			"episode": 147,
+			"title": "Toriko and Komatsu, Setting Out on a New Journey!!",
+			"type": "filler",
+			"aired_date": "2014-03-30"
+		}
+	]
+}

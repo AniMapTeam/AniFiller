@@ -3,7 +3,7 @@
 Structured anime canon and filler data.
 
 ```
-Total Shows: 46
+Total Shows: 182
 ```
 
 ## The Lists

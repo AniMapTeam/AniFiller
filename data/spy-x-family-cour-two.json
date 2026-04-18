@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "SPY x FAMILY Cour 2",
+	"mappings": {
+		"anilist_id": 142838,
+		"mal_id": 50602
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "Project Apple",
+			"type": "manga-canon",
+			"aired_date": "2022-10-01"
+		},
+		{
+			"episode": 2,
+			"title": "Disarm the Time Bomb",
+			"type": "manga-canon",
+			"aired_date": "2022-10-08"
+		},
+		{
+			"episode": 3,
+			"title": "A New Family Member",
+			"type": "manga-canon",
+			"aired_date": "2022-10-15"
+		},
+		{
+			"episode": 4,
+			"title": "Yor’s Kitchen / The Informant’s Great Romance Plan",
+			"type": "manga-canon",
+			"aired_date": "2022-10-22"
+		},
+		{
+			"episode": 5,
+			"title": "Carry Out the Griffin Plan / Fullmetal Lady / Omelet Rice ♡",
+			"type": "manga-canon",
+			"aired_date": "2022-10-29"
+		},
+		{
+			"episode": 6,
+			"title": "Uncle the Private Tutor / Daybreak",
+			"type": "manga-canon",
+			"aired_date": "2022-11-05"
+		},
+		{
+			"episode": 7,
+			"title": "A Revenge Plot Against Desmond / Mama Becomes the Wind",
+			"type": "mixed-manga",
+			"aired_date": "2022-11-12"
+		},
+		{
+			"episode": 8,
+			"title": "Investigate the General Hospital / Decipher the Perplexing Code",
+			"type": "manga-canon",
+			"aired_date": "2022-11-19"
+		},
+		{
+			"episode": 9,
+			"title": "Nightfall / First Fit of Jealousy",
+			"type": "manga-canon",
+			"aired_date": "2022-11-26"
+		},
+		{
+			"episode": 10,
+			"title": "The Undergrounds Tennis Tournament: The Campbelldon",
+			"type": "manga-canon",
+			"aired_date": "2022-12-03"
+		},
+		{
+			"episode": 11,
+			"title": "The Unwavering Path",
+			"type": "manga-canon",
+			"aired_date": "2022-12-10"
+		},
+		{
+			"episode": 12,
+			"title": "The Role Of A Mother And Wife / Shopping With Friends",
+			"type": "manga-canon",
+			"aired_date": "2022-12-17"
+		},
+		{
+			"episode": 13,
+			"title": "First Contact",
+			"type": "manga-canon",
+			"aired_date": "2022-12-24"
+		}
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"$schema": "../.github/anifiller.schema.json",
+	"title": "Rosario + Vampire",
+	"mappings": {
+		"anilist_id": 2993,
+		"mal_id": 2993
+	},
+	"episodes": [
+		{
+			"episode": 1,
+			"title": "New Life and a Vampire",
+			"type": "mixed-manga",
+			"aired_date": "2008-01-03"
+		},
+		{
+			"episode": 2,
+			"title": "Succubus and a Vampire",
+			"type": "manga-canon",
+			"aired_date": "2008-01-10"
+		},
+		{
+			"episode": 3,
+			"title": "Witchling and Vampire",
+			"type": "manga-canon",
+			"aired_date": "2008-01-17"
+		},
+		{
+			"episode": 4,
+			"title": "Farewell and a Vampire",
+			"type": "filler",
+			"aired_date": "2008-01-24"
+		},
+		{
+			"episode": 5,
+			"title": "School Swimsuits and a Vampire",
+			"type": "manga-canon",
+			"aired_date": "2008-01-31"
+		},
+		{
+			"episode": 6,
+			"title": "Newspaper Club and a Vampire",
+			"type": "manga-canon",
+			"aired_date": "2008-02-07"
+		},
+		{
+			"episode": 7,
+			"title": "Snow Girl and a Vampire",
+			"type": "mixed-manga",
+			"aired_date": "2008-02-14"
+		},
+		{
+			"episode": 8,
+			"title": "Math and a Vampire",
+			"type": "manga-canon",
+			"aired_date": "2008-02-21"
+		},
+		{
+			"episode": 9,
+			"title": "Summer Break and a Vampire",
+			"type": "manga-canon",
+			"aired_date": "2008-02-28"
+		},
+		{
+			"episode": 10,
+			"title": "Sunflowers and a Vampire",
+			"type": "manga-canon",
+			"aired_date": "2008-03-06"
+		},
+		{
+			"episode": 11,
+			"title": "New Term and a Vampire",
+			"type": "mixed-manga",
+			"aired_date": "2008-03-13"
+		},
+		{
+			"episode": 12,
+			"title": "Security Committee and a Vampire",
+			"type": "mixed-manga",
+			"aired_date": "2008-03-20"
+		},
+		{
+			"episode": 13,
+			"title": "Tsukune and a Vampire",
+			"type": "mixed-manga",
+			"aired_date": "2008-03-27"
+		}
+	]
+}
