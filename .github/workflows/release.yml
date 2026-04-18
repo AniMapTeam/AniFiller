@@ -1,48 +1,61 @@
 name: Compile And Release
 
 on:
-  push:
-    branches:
-      - main
+    push:
+        branches:
+            - main
 
 permissions:
-  contents: write
+    contents: write
 
 jobs:
-  compile:
-    runs-on: ubuntu-latest
+    release:
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v4
+              with:
+                  ref: ${{ github.ref_name }}
 
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v2
+            - name: Setup Bun
+              uses: oven-sh/setup-bun@v2
 
-      - name: Install dependencies
-        run: bun install --frozen-lockfile
+            - name: Install dependencies
+              run: bun install --frozen-lockfile
 
-      - name: Compile
-        run: bun compile
+            - name: Compile
+              run: bun compile
 
-      - name: Set short SHA
-        id: vars
-        shell: bash
-        run: echo "short_sha=${GITHUB_SHA::7}" >> "$GITHUB_OUTPUT"
+            - name: Set release vars
+              id: vars
+              shell: bash
+              run: |
+                  echo "short_sha=${GITHUB_SHA::7}" >> "$GITHUB_OUTPUT"
+                  echo "shows=$(bun -e '
+                    const fs = require(\"fs\");
+                    const data = JSON.parse(fs.readFileSync(\"dist/anifiller.json\", \"utf8\"));
+                    if (!Array.isArray(data)) throw new Error(\"dist/anifiller.json is not an array\");
+                    console.log(data.length);
+                  ')" >> "$GITHUB_OUTPUT"
 
-      - name: Count bundled shows
-        id: count
-        shell: bash
-        run: echo "shows=$(jq 'length' dist/anifiller.json)" >> "$GITHUB_OUTPUT"
+            - name: Commit README changes
+              shell: bash
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git add README.md
+                  git diff --cached --quiet || git commit -m "Update README"
+                  git push origin HEAD:${{ github.ref_name }}
 
-      - name: Create release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ steps.vars.outputs.short_sha }}
-          name: ${{ steps.vars.outputs.short_sha }}
-          generate_release_notes: true
-          body: |
-            ${{ steps.count.outputs.shows }} shows bundled.
-          files: |
-            dist/anifiller.min.json
-            dist/anifiller.json
+            - name: Create release
+              uses: softprops/action-gh-release@v2
+              with:
+                  tag_name: ${{ steps.vars.outputs.short_sha }}
+                  name: ${{ steps.vars.outputs.short_sha }}
+                  generate_release_notes: true
+                  body: |
+                      ${{ steps.vars.outputs.shows }} shows bundled.
+                  files: |
+                      dist/anifiller.min.json
+                      dist/anifiller.json

@@ -8,8 +8,17 @@ Total Shows: {show_count}
 
 ## The Lists
 
-- [anifiller.json](./dist/anifiller.json): A JSON file containing structured data about anime canon and filler episodes.
-- [anifiller.min.json](./dist/anifiller.min.json): A minified version of the JSON file for easier use in applications.
+- [anifiller.json](https://github.com/itss0n1c/anifiller/releases/latest/download/anifiller.json): A JSON file containing structured data about anime canon and filler episodes.
+- [anifiller.min.json](https://github.com/itss0n1c/anifiller/releases/latest/download/anifiller.min.json): A minified version of the JSON file for easier use in applications.
+
+## Shows
+
+<details>
+<summary>Bundled Shows</summary>
+
+{shows_table}
+
+</details>
 
 ## Structure
 
