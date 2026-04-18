@@ -30,12 +30,19 @@ jobs:
         shell: bash
         run: echo "short_sha=${GITHUB_SHA::7}" >> "$GITHUB_OUTPUT"
 
+      - name: Count bundled shows
+        id: count
+        shell: bash
+        run: echo "shows=$(jq 'length' dist/anifiller.json)" >> "$GITHUB_OUTPUT"
+
       - name: Create release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.vars.outputs.short_sha }}
           name: ${{ steps.vars.outputs.short_sha }}
           generate_release_notes: true
+          body: |
+            ${{ steps.count.outputs.shows }} shows bundled.
           files: |
             dist/anifiller.min.json
             dist/anifiller.json
