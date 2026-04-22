@@ -8,8 +8,8 @@ Total Shows count: {show_count}
 
 ## The Lists
 
-- [anifiller.json](https://github.com/AniMapTeam/AniFiller/releases/latest/download/anifiller.json): A JSON file containing structured data about anime canon and filler episodes.
-- [anifiller.min.json](https://github.com/AniMapTeam/AniFiller/releases/latest/download/anifiller.min.json): A minified version of the JSON file for easier use in applications.
+- [anifiller.json](https://github.com/AniraTeam/AniFiller/releases/latest/download/anifiller.json): A JSON file containing structured data about anime canon and filler episodes.
+- [anifiller.min.json](https://github.com/AniraTeam/AniFiller/releases/latest/download/anifiller.min.json): A minified version of the JSON file for easier use in applications.
 
 ## Shows
 
@@ -41,18 +41,18 @@ interface Show {
 
 ## Contributing
 
-Contribution is welcome! Either by [Opening an Issue](https://github.com/AniMapTeam/AniFiller/issues) or by [Submitting a Pull Request](https://github.com/AniMapTeam/AniFiller/pulls).
+Contribution is welcome! Either by [Opening an Issue](https://github.com/AniraTeam/AniFiller/issues) or by [Submitting a Pull Request](https://github.com/AniraTeam/AniFiller/pulls).
 
 Opening an issue is the best way to suggest a new show or report an error in the data. If you have a specific change in mind.
 
 However, if you have already made the change and want to submit it directly, you can:
 
-1. [Fork the repository](https://github.com/AniMapTeam/AniFiller/fork)
+1. [Fork the repository](https://github.com/AniraTeam/AniFiller/fork)
 2. Create a new branch (`git checkout -b new_branch`)
 3. Create or edit within the [`data`](./data) directory
 4. Commit your changes (`git commit -am 'commit message here'`)
 5. Push to the branch (`git push origin new_branch`)
-6. [Open a Pull Request](https://github.com/AniMapTeam/AniFiller/compare)
+6. [Open a Pull Request](https://github.com/AniraTeam/AniFiller/compare)
 
 For most contributions, you should only need to edit files in the [`data`](./data) directory.
 
